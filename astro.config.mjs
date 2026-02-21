@@ -13,6 +13,6 @@ export default defineConfig({
       },
     }
   ), sitemap()],
-
+  output: "server",
   adapter: cloudflare()
 });

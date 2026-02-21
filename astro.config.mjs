@@ -1,11 +1,11 @@
 import { defineConfig } from 'astro/config';
 import react from "@astrojs/react";
-import netlify from "@astrojs/netlify";
+import cloudflare from "@astrojs/cloudflare";
 import partytown from "@astrojs/partytown";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: 'https://riseofmachine.com',
+  site: 'https://xarticles.com',
   integrations: [react(), partytown(
     {
       config: {
@@ -14,5 +14,5 @@ export default defineConfig({
     }
   ), sitemap()],
 
-  adapter: netlify()
+  adapter: cloudflare()
 });

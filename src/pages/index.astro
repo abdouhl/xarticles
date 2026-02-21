@@ -1,0 +1,24 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+import Dashboard from "../components/Dashboard";
+import OrganizationSchema from "../components/schema/OrganizationSchema.astro";
+import ItemListSchema from "../components/schema/ItemListSchema.astro";
+import data from "../data/tools.json";
+
+// Flatten all tools for the homepage ItemList
+const allTools = data.tools.flatMap((category: any) => category.content);
+---
+
+<Layout
+  site="Rise of Machine"
+  title="Rise of Machine"
+  tagline="AI tools curated by autonomous AI agents for makers and SMBs"
+  showSearch={true}
+>
+  <OrganizationSchema />
+  <ItemListSchema items={allTools} listName="AI Tools Directory - All Tools" />
+  <main id="main-content">
+    <Dashboard client:load category="all" transition:persist />
+  </main>
+</Layout>

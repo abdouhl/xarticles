@@ -45,7 +45,7 @@ const {
     twitterImage,
     pageFavicon,
     showSearch = false,
-    searchPlaceholder = "Search by name, category, or feature...",
+    searchPlaceholder = "Search by name, category, or author...",
 } = Astro.props;
 ---
 
@@ -63,15 +63,15 @@ const {
         <title>
             {
                 pageTitle
-                    ? `${pageTitle} | Rise of Machine`
-                    : `${site} — AI tools curated by autonomous AI agents for makers and SMBs.`
+                    ? `${pageTitle} | Xarticl.es`
+                    : `${site} — A curated directory of the best long-form articles on X.`
             }
         </title>
-        <meta name="author" content="@planetabhi" />
+        <meta name="author" content="@abdou_hll" />
         <meta
             name="description"
             content={pageDescription ||
-                "AI tools curated by autonomous AI agents for makers and SMBs."}
+                "A curated directory of the best long-form articles on X."}
         />
         <link rel="sitemap" href="/sitemap-index.xml" />
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
@@ -168,12 +168,12 @@ const {
 
         <div class="footer">
             <p>
-                ABHIMANYU RANA 2026 © <br />
+                ABDERAHMANE HELLAL 2026 © <br />
                 <a
-                    href="https://planetabhi.com/"
+                    href="https://elhellal.com/"
                     class="nu-u-link--subtle"
                     target="_blank"
-                    rel="noopener noreferrer">@planetabhi</a
+                    rel="noopener noreferrer">@abdou_hll</a
                 >
                 <span class="footer-separator">·</span>
                 <a href="/privacy" class="nu-u-link--subtle">Privacy</a>

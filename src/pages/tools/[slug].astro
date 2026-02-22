@@ -24,7 +24,7 @@ const categoryList = (slugMap as Record<string, string[]>)[slug as string];
 const categoryName = categoryList?.[0];
 
 if (!categoryName) {
-  throw new Error(`Tool not found: ${slug}`);
+  throw new Error(`Article not found: ${slug}`);
 }
 
 // Dynamically import only the needed category file
@@ -32,7 +32,7 @@ const categoryTools = await import(`../../data/tools/${categoryName}.json`);
 const found = categoryTools.default.find((x: any) => x.slug === slug) || null;
 
 if (!found) {
-  throw new Error(`Tool not found: ${slug}`);
+  throw new Error(`Article not found: ${slug}`);
 }
 
 const tool = found;
@@ -59,7 +59,7 @@ const formatDate = (dateStr: string) => {
 
 const domain = extractDomain(tool.url || "");
 const formattedDate = formatDate(tool["date-added"]);
-const canonicalUrl = `https://riseofmachine.com/tools/${tool.slug}`;
+const canonicalUrl = `https://xarticl.es/tools/${tool.slug}`;
 const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
 
@@ -73,7 +73,7 @@ const seoTitle = meta.title || tool.title;
 const seoDescription = meta.description || tool.body;
 const seoOgImage = faviconUrl;
 const seoOgType = "website";
-const seoOgSiteName = "Rise of Machine";
+const seoOgSiteName = "Xarticl.es";
 
 const encodedShareText = encodeURIComponent(
   `Check out ${tool.title} - ${tool.body}`,
@@ -89,14 +89,14 @@ const relatedTools = otherTools.sort(() => Math.random() - 0.5).slice(0, 4);
 
 const categoryTitle = category.charAt(0).toUpperCase() + category.slice(1);
 const breadcrumbs = [
-  { name: "Home", url: "https://riseofmachine.com" },
-  { name: categoryTitle, url: `https://riseofmachine.com/${category}` },
+  { name: "Home", url: "https://xarticl.es" },
+  { name: categoryTitle, url: `https://xarticl.es/${category}` },
   { name: tool.title },
 ];
 ---
 
 <Layout
-  site={`Rise of Machine - ${tool.title}`}
+  site={`Xarticl.es - ${tool.title}`}
   title={tool.title}
   tagline={tool.body}
   pageTitle={seoTitle}

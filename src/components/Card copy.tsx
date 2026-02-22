@@ -10,7 +10,6 @@ interface CardProps {
     dateAdded?: string | undefined;
     slug?: string | undefined;
     category?: string | undefined;
-    image?: string | undefined;
 }
 
 export default function Card({
@@ -20,16 +19,20 @@ export default function Card({
     tag,
     dateAdded,
     slug,
-    image,
 }: CardProps) {
     const linkUrl = slug ? `/tools/${slug}` : href;
     const isNew = isRecentlyAdded(dateAdded, 30);
-    const coverImage = image || 'https://pbs.twimg.com/media/HBYKYqjbcAI9_Jp.jpg';
 
     return (
         <li className="link-card">
-            <div className="card-cover">
-                <img style={{ objectFit: 'cover' }} src={coverImage} alt={title} />
+            <a
+                href={linkUrl}
+                onClick={() => {
+                    window.dispatchEvent(new CustomEvent('tools:save-state'));
+                }}
+            >
+                <strong className="nu-c-fs-normal nu-u-mt-1 nu-u-mb-1">{title}</strong>
+                <p className="nu-c-helper-text nu-u-mt-1 nu-u-mb-1">{body}</p>
                 <p className="distribution">
                     {isNew && (
                         <span
@@ -37,20 +40,11 @@ export default function Card({
                             title="Recently added"
                             aria-label="New item"
                         >
-                            🔥
+                            🔥f
                         </span>
                     )}
                     <span className="tag">{tag}</span>
                 </p>
-            </div>
-            <a
-                href={linkUrl}
-                onClick={() => {
-                    window.dispatchEvent(new CustomEvent('tools:save-state'));
-                }}
-            >
-                {/*<strong className="nu-c-fs-normal nu-u-mt-1 nu-u-mb-1">{title}</strong>*/}
-                <strong className="nu-c-helper-text nu-u-mt-1 nu-u-mb-1">{body}</strong>
             </a>
             {slug && (
                 <div className="card-bookmark">

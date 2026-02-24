@@ -22,7 +22,7 @@ export default function Card({
     slug,
     image,
 }: CardProps) {
-    const linkUrl = slug ? `/tools/${slug}` : href;
+    const linkUrl = slug ? `/articles/${slug}` : href;
     const isNew = isRecentlyAdded(dateAdded, 30);
     const coverImage = image || 'https://pbs.twimg.com/media/HBYKYqjbcAI9_Jp.jpg';
 
@@ -46,7 +46,7 @@ export default function Card({
             <a
                 href={linkUrl}
                 onClick={() => {
-                    window.dispatchEvent(new CustomEvent('tools:save-state'));
+                    window.dispatchEvent(new CustomEvent('articles:save-state'));
                 }}
             >
                 {/*<strong className="nu-c-fs-normal nu-u-mt-1 nu-u-mb-1">{title}</strong>*/}

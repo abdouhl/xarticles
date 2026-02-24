@@ -33,7 +33,7 @@ const breadcrumbs = [
   showSearch={true}
   searchPlaceholder={`Search in ${categoryTitle}...`}
 >
-  <ItemListSchema items={categoryTools} listName={`${categoryTitle} Tools`} />
+  <ItemListSchema items={categoryTools} listName={`${categoryTitle} Articles`} />
   <BreadcrumbSchema items={breadcrumbs} />
   <main id="main-content">
     <Dashboard client:load category={category} transition:persist />

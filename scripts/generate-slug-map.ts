@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import type { ToolsConfig, Category, Tool, SlugMap } from '../src/types/index.ts';
+import type { ArticlesConfig, Category, Article, SlugMap } from '../src/types/index.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -9,12 +9,12 @@ const __dirname = path.dirname(__filename);
 console.log('🗺️  Generating slug-to-category mapping...\n');
 
 // Read the tools.json file
-const toolsPath = path.join(__dirname, '../src/data/tools.json');
-let data: ToolsConfig;
+const toolsPath = path.join(__dirname, '../src/data/articles.json');
+let data: ArticlesConfig;
 
 try {
     if (!fs.existsSync(toolsPath)) {
-        console.error(`❌ Error: tools.json not found at ${toolsPath}`);
+        console.error(`❌ Error: articles.json not found at ${toolsPath}`);
         process.exit(1);
     }
     const rawData = fs.readFileSync(toolsPath, 'utf-8');
@@ -29,10 +29,10 @@ let totalSlugs = 0;
 const duplicates: { slug: string; categories: string[] }[] = [];
 
 // Build slug-to-category mapping
-data.tools.forEach((category: Category) => {
-    category.content.forEach((tool: Tool) => {
-        if (tool.slug) {
-            const slug = tool.slug;
+data.articles.forEach((category: Category) => {
+    category.content.forEach((article: Article) => {
+        if (article.slug) {
+            const slug = article.slug;
             const categoryName = category.category;
 
             if (!slugMap[slug]) {

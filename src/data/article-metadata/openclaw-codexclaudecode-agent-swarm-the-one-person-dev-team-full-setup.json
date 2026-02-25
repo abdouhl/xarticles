@@ -1,0 +1,8 @@
+{
+  "title": "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]",
+  "description": "I don't use Codex or Claude Code directly anymore.\nI use OpenClaw as my orchestration layer. My orchestrator, Zoe, spawns the agents, writes their prompts, picks the right model for each task,",
+  "category": "software",
+  "url": "https://x.com/elvissun/status/2025920521871716562",
+  "screen_name": "elvissun",
+  "slug": "openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup"
+}

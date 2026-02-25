@@ -28,7 +28,7 @@ if (!categoryName) {
 }
 
 // Dynamically import only the needed category file
-const categoryTools = await import(`../../data/tools/${categoryName}.json`);
+const categoryTools = await import(`../../data/articles/${categoryName}.json`);
 const found = categoryTools.default.find((x: any) => x.slug === slug) || null;
 
 if (!found) {

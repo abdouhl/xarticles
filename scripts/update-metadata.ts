@@ -2,12 +2,12 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { parse } from 'node-html-parser';
-import type { ToolsConfig, Tool, MetadataEntry, MetadataMap } from '../src/types/index.ts';
+import type { ArticlesConfig, Article, MetadataEntry, MetadataMap } from '../src/types/index.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const toolsPath = path.join(__dirname, '../src/data/tools.json');
+const toolsPath = path.join(__dirname, '../src/data/articles.json');
 const metadataPath = path.join(__dirname, '../src/data/metadata.json');
 const faviconsDir = path.join(__dirname, '../public/favicons');
 
@@ -29,10 +29,10 @@ function extractDomain(url: string): string | null {
     }
 }
 
-async function fetchFavicon(tool: Tool): Promise<boolean> {
-    if (!tool.url || !tool.slug) return false;
+async function fetchFavicon(tool: Article): Promise<boolean> {
+    if (!tool.original_img_url || !tool.slug) return false;
 
-    const domain = extractDomain(tool.url);
+    const domain = extractDomain(tool.original_img_url);
     if (!domain) return false;
 
     const faviconPath = path.join(faviconsDir, `${tool.slug}.png`);
@@ -66,8 +66,8 @@ async function fetchFavicon(tool: Tool): Promise<boolean> {
     }
 }
 
-async function fetchMetadata(tool: Tool): Promise<MetadataEntry | null> {
-    const url = tool.url;
+async function fetchMetadata(tool: Article): Promise<MetadataEntry | null> {
+    const url = tool.original_img_url;
     if (!url) return null;
 
     const controller = new AbortController();
@@ -117,10 +117,10 @@ async function fetchMetadata(tool: Tool): Promise<MetadataEntry | null> {
 
 async function main() {
     console.log("🚀 Starting metadata and favicon update...\n");
-    console.log("Reading tools.json...");
-    const data: ToolsConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
+    console.log("Reading articles.json...");
+    const data: ArticlesConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
 
-    const allTools = data.tools.flatMap(cat => cat.content).filter(t => t.slug && t.url);
+    const allTools = data.articles.flatMap(cat => cat.content).filter(t => t.slug && t.original_img_url);
     console.log(`Found ${allTools.length} tools. Starting fetch (Concurrency: ${CONCURRENCY_LIMIT})...\n`);
 
     let completed = 0;

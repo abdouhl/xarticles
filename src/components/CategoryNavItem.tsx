@@ -1,6 +1,6 @@
 import { navigate } from 'astro:transitions/client';
 import { useState, useEffect, useRef, useMemo } from 'react';
-import data from '../data/tools.json';
+import data from '../data/articles.json';
 import './CategoryNavItem.css';
 import type { Category } from '../types';
 
@@ -29,9 +29,9 @@ export default function CategoryNavItem({
 
     const categoryCount = useMemo(() => {
         if (category === 'all') {
-            return (data.tools as Category[]).reduce((acc, item) => acc + item.content.length, 0);
+            return (data.articles as Category[]).reduce((acc, item) => acc + item.content.length, 0);
         }
-        return (data.tools as Category[]).find((item) => item.category === category)?.content.length || 0;
+        return (data.articles as Category[]).find((item) => item.category === category)?.content.length || 0;
     }, [category]);
 
     useEffect(() => {

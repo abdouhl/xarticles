@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import type { ToolsConfig, Category, Tool } from '../src/types/index.ts';
+import type { ArticlesConfig, Category, Article } from '../src/types/index.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -27,23 +27,23 @@ const issues: ValidationIssues = {
 let totalTools = 0;
 let totalSplitTools = 0;
 
-const toolsPath = path.join(__dirname, '../src/data/tools.json');
-const splitDataDir = path.join(__dirname, '../src/data/tools');
+const toolsPath = path.join(__dirname, '../src/data/articles.json');
+const splitDataDir = path.join(__dirname, '../src/data/articles');
 
-function validateTool(tool: Tool, source: string) {
+function validateTool(tool: Article, source: string) {
     const identifier = `${tool.title} (${source})`;
 
-    if (!tool.url) {
+    if (!tool.original_img_url) {
         issues.missing_url.push(identifier);
     } else {
-        if (!tool.url.startsWith('http://') && !tool.url.startsWith('https://')) {
+        if (!tool.original_img_url.startsWith('http://') && !tool.original_img_url.startsWith('https://')) {
             issues.missing_protocol.push(identifier);
         }
         try {
-            const url = new URL(tool.url);
-            if (url.searchParams.get('ref') !== 'riseofmachine.com') {
+            const url = new URL(tool.original_img_url);
+            {/*if (url.searchParams.get('ref') !== 'pbs.twimg.com') {
                 issues.missing_ref.push(identifier);
-            }
+            }*/}
         } catch (e) {
             // If URL is invalid, it will already be caught by protocol check or be flagged here
             issues.missing_ref.push(`${identifier} (Invalid URL)`);
@@ -57,13 +57,13 @@ function validateTool(tool: Tool, source: string) {
 
 try {
     // 1. Check monolithic tools.json
-    console.log("Checking tools.json...");
-    const data: ToolsConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
-    data.tools.forEach((category: Category) => {
-        let lastTool: Tool | null = null;
-        category.content.forEach((tool: Tool) => {
+    console.log("Checking articles.json...");
+    const data: ArticlesConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
+    data.articles.forEach((category: Category) => {
+        let lastTool: Article | null = null;
+        category.content.forEach((tool: Article) => {
             totalTools++;
-            validateTool(tool, "tools.json");
+            validateTool(tool, "articles.json");
 
             if (lastTool && tool.title.localeCompare(lastTool.title) < 0) {
                 issues.out_of_order.push(`${tool.title} (should be before ${lastTool.title}) in category ${category.category}`);
@@ -86,8 +86,8 @@ try {
                 return;
             }
 
-            const tools: Tool[] = content;
-            let lastTool: Tool | null = null;
+            const tools: Article[] = content;
+            let lastTool: Article | null = null;
             tools.forEach(tool => {
                 totalSplitTools++;
                 validateTool(tool, file);

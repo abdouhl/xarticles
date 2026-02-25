@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import './CategoryNav.css';
-import data from '../data/tools.json';
+import data from '../data/articles.json';
 import CategoryNavItem from './CategoryNavItem';
 import type { Category } from '../types';
 
@@ -16,7 +16,7 @@ interface NavItem {
 export default function CategoryNav({ filter }: CategoryNavProps) {
     const navItems: NavItem[] = [
         { title: 'All Articles', category: 'all' },
-        ...(data.tools as Category[]).map(cat => ({
+        ...(data.articles as Category[]).map(cat => ({
             title: cat.title,
             category: cat.category,
         })),

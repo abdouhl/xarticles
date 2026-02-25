@@ -1,0 +1,74 @@
+[
+  {
+    "id_str": "2026002315371745671",
+    "title": "Building a 16-Bit CPU from Scratch in C (Step-by-Step)",
+    "preview_text": "Building a 16-Bit CPU from Scratch in C might sound intimidating, but it's one of the most rewarding projects you can undertake as a programmer. In this article, I'll walk you through every step of",
+    "original_img_url": "https://pbs.twimg.com/media/HB2wGBgawAAxEqT.jpg",
+    "screen_name": "TheVixhal",
+    "slug": "building-a-16-bit-cpu-from-scratch-in-c-step-by-step"
+  },
+  {
+    "id_str": "2025988271776383275",
+    "title": "How Peter Steinberger does agentic engineering, plus my take",
+    "preview_text": "@steipete's attitude towards agentic development goes against a lot of the hype-driven wisdom I've seen. The conventional playbook says you need Ralph Wiggum loops, Git worktrees, subagents, planning",
+    "original_img_url": "https://pbs.twimg.com/media/HB3A_KSXcAEx2Rj.jpg",
+    "screen_name": "BHolmesDev",
+    "slug": "how-peter-steinberger-does-agentic-engineering-plus-my-take"
+  },
+  {
+    "id_str": "2025833621299351613",
+    "title": "My Claude Code Skills Setup",
+    "preview_text": "I've been writing a lot about Claude Code and a lot of people have asked about my Claude Code setup so let's talk about it.\nI'll show you mine and you show me yours. Deal?\nBefore we start, let me just",
+    "original_img_url": "https://pbs.twimg.com/media/HB0z3YZXMAAIliB.jpg",
+    "screen_name": "froessell",
+    "slug": "my-claude-code-skills-setup"
+  },
+  {
+    "id_str": "2026181731720868162",
+    "title": "NanoClaw: A lightweight alternative to OpenClaw",
+    "preview_text": "OpenClaw just got a lighter and more secure alternative: NanoClaw.\nIt was built by @Gavriel_Cohen, who created the minimal framework after learning about OpenClaw's unnecessary bloat and security",
+    "original_img_url": "https://pbs.twimg.com/media/HBzazbRacAAtNF9.jpg",
+    "screen_name": "AlphaSignalAI",
+    "slug": "nanoclaw-a-lightweight-alternative-to-openclaw"
+  },
+  {
+    "id_str": "2025920521871716562",
+    "title": "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]",
+    "preview_text": "I don't use Codex or Claude Code directly anymore.\nI use OpenClaw as my orchestration layer. My orchestrator, Zoe, spawns the agents, writes their prompts, picks the right model for each task,",
+    "original_img_url": "https://pbs.twimg.com/media/HB0Qm-HWMAAoBAz.jpg",
+    "screen_name": "elvissun",
+    "slug": "openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup"
+  },
+  {
+    "id_str": "2026308695399784913",
+    "title": "The Complete Guide: Claude for Excel",
+    "preview_text": "I've helped hundreds of companies through their AI transformation. The single most common question I get—from CFOs, ops leads, analysts, founders—is some version of the same thing:\n\"How do I automate",
+    "original_img_url": "https://pbs.twimg.com/media/HB7gEmnWEAAV-xV.jpg",
+    "screen_name": "ArmanHezarkhani",
+    "slug": "the-complete-guide-claude-for-excel"
+  },
+  {
+    "id_str": "2026116841706582072",
+    "title": "The Services Layer",
+    "preview_text": "In case you haven't heard, agentic disruption is coming for the software ecosystem. But what if it's not in the way we expect?\nBetween every major software platform and its end users sits a services",
+    "original_img_url": "https://pbs.twimg.com/media/HB4wiXAaMAAA-zB.jpg",
+    "screen_name": "undrvalue",
+    "slug": "the-services-layer"
+  },
+  {
+    "id_str": "2026198305362083910",
+    "title": "Vibe Coding 2.0 : 18 Rules to be the Top 1% builder",
+    "preview_text": "Most people waste months building things that should have taken weeks.\nNot because they're bad developers. Not because they picked the wrong idea.\nBecause they made decisions that felt right in the",
+    "original_img_url": "https://pbs.twimg.com/media/HB02tJ4bwAAXhe3.jpg",
+    "screen_name": "Hartdrawss",
+    "slug": "vibe-coding-20-18-rules-to-be-the-top-1-builder"
+  },
+  {
+    "id_str": "2026014755438182782",
+    "title": "What personal software actually is",
+    "preview_text": "Personal software is not vibe-coded SaaS. Building software is a skill. Most people don't have it and don't want it, even if a computer does the coding for them.\nPersonal software is an agent you have",
+    "original_img_url": "https://pbs.twimg.com/media/HB3ZmdCXUAAmlO1.jpg",
+    "screen_name": "danshipper",
+    "slug": "what-personal-software-actually-is"
+  }
+]

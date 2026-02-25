@@ -1,14 +1,15 @@
 ---
-interface Tool {
+interface Article {
     title: string;
-    body: string;
-    url: string;
-    slug: string;
-    tag?: string;
+    preview_text: string;
+    original_img_url?: string;
+    id_str: string;
+    screen_name: string;
+    slug?: string;
 }
 
 interface Props {
-    items: Tool[];
+    items: Article[];
     listName: string;
 }
 
@@ -21,7 +22,7 @@ const itemListElements = items.slice(0, 100).map((tool, index) => ({
         "@type": "SoftwareApplication",
         name: tool.title,
         url: `https://riseofmachine.com/tools/${tool.slug}`,
-        description: tool.body,
+        description: tool.preview_text,
         applicationCategory: "MultimediaApplication",
     },
 }));

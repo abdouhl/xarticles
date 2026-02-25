@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import type { ToolsConfig, Category, Tool } from '../src/types/index.ts';
+import type { ArticlesConfig, Category, Article } from '../src/types/index.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -18,26 +18,26 @@ function slugify(text: string): string {
         .replace(/-+$/, '');        // Trim - from end of text
 }
 
-const toolsPath = path.join(__dirname, '../src/data/tools.json');
+const toolsPath = path.join(__dirname, '../src/data/articles.json');
 
 try {
     // Process monolithic tools.json
-    const data: ToolsConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
+    const data: ArticlesConfig = JSON.parse(fs.readFileSync(toolsPath, 'utf-8'));
     let modified = false;
 
     // 1. Build a set of all existing slugs to detect collisions
     const existingSlugs = new Set<string>();
-    data.tools.forEach((category: Category) => {
-        category.content.forEach((tool: Tool) => {
+    data.articles.forEach((category: Category) => {
+        category.content.forEach((tool: Article) => {
             if (tool.slug) {
                 existingSlugs.add(tool.slug);
             }
         });
     });
 
-    data.tools.forEach((category: Category) => {
+    data.articles.forEach((category: Category) => {
         // 2. Generate missing slugs with collision detection
-        category.content.forEach((tool: Tool) => {
+        category.content.forEach((tool: Article) => {
             if (!tool.slug) {
                 let baseSlug = slugify(tool.title);
                 let uniqueSlug = baseSlug;

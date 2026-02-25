@@ -3,14 +3,14 @@ import Fuse from 'fuse.js';
 import Card from './Card';
 import EmptyState, { SearchIcon } from './EmptyState';
 import './CardsContainer.css';
-import data from '../data/tools.json';
-import type { Tool, Category } from '../types';
+import data from '../data/articles.json';
+import type { Article, Category } from '../types';
 import { toolComparators, seededShuffle, type SortKey } from '../utils/sorting';
 import { isRecentlyAdded } from '../utils/dates';
 
 const ITEMS_PER_PAGE = 32;
 
-interface ToolWithCategory extends Tool {
+interface ArticleWithCategory extends Article {
     category: string;
 }
 
@@ -66,8 +66,8 @@ export default function CardsContainer({
         } catch (err) { }
     }, []);
 
-    const allFlatTools = useMemo((): ToolWithCategory[] => {
-        return (data.tools as Category[]).flatMap((item) =>
+    const allFlatTools = useMemo((): ArticleWithCategory[] => {
+        return (data.articles as Category[]).flatMap((item) =>
             item.content.map((tool) => ({
                 ...tool,
                 category: item.category,
@@ -79,8 +79,8 @@ export default function CardsContainer({
         return new Fuse(allFlatTools, fuseOptions);
     }, [allFlatTools]);
 
-    const filteredCards = useMemo((): ToolWithCategory[] => {
-        let base: ToolWithCategory[];
+    const filteredCards = useMemo((): ArticleWithCategory[] => {
+        let base: ArticleWithCategory[];
 
         if (searchQuery && searchQuery.length >= 2) {
             const results = fuse.search(searchQuery);
@@ -89,7 +89,7 @@ export default function CardsContainer({
                 base = base.filter(tool => tool.category === filter);
             }
         } else {
-            base = (data.tools as Category[])
+            base = (data.articles as Category[])
                 .filter((item) => filter === 'all' || filter === item.category)
                 .flatMap((item) =>
                     item.content.map((tool) => ({
@@ -206,16 +206,17 @@ export default function CardsContainer({
     return (
         <section>
             <ul role="list" className="link-card-grid">
-                {displayedCards.map(({ url, title, body, tag, 'date-added': dateAdded, slug, category }, i) => (
+                {displayedCards.map(({ id_str, title, preview_text, screen_name, 'date-added': dateAdded, slug, category, original_img_url }, i) => (
                     <Card
                         key={`${title}-${i}`}
-                        href={url}
+                        href={`https://x.com/${screen_name}/status/${id_str}`}
                         title={title}
-                        body={body}
-                        tag={tag}
+                        body={preview_text}
+                        screen_name={screen_name}
                         dateAdded={dateAdded}
                         slug={slug}
                         category={category}
+                        image={original_img_url}
                     />
                 ))}
             </ul>

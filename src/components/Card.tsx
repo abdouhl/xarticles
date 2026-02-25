@@ -6,7 +6,7 @@ interface CardProps {
     href: string;
     title: string;
     body: string;
-    tag?: string | undefined;
+    screen_name?: string | undefined;
     dateAdded?: string | undefined;
     slug?: string | undefined;
     category?: string | undefined;
@@ -17,7 +17,7 @@ export default function Card({
     href,
     title,
     body,
-    tag,
+    screen_name,
     dateAdded,
     slug,
     image,
@@ -40,7 +40,7 @@ export default function Card({
                             🔥
                         </span>
                     )}
-                    <span className="tag">{tag}</span>
+                    <span className="tag">@{screen_name}</span>
                 </p>
             </div>
             <a
@@ -50,7 +50,7 @@ export default function Card({
                 }}
             >
                 {/*<strong className="nu-c-fs-normal nu-u-mt-1 nu-u-mb-1">{title}</strong>*/}
-                <strong className="nu-c-helper-text nu-u-mt-1 nu-u-mb-1">{body}</strong>
+                <strong className="nu-c-helper-text nu-u-mt-1 nu-u-mb-1">{title}</strong>
             </a>
             {slug && (
                 <div className="card-bookmark">

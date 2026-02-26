@@ -57,9 +57,9 @@ const formatDate = (dateStr: string) => {
   }
 };
 
-const domain = extractDomain(tool.url || "");
+const domain = extractDomain(`https://x.com/${tool.screen_name}/status/${tool.id_str}` || "");
 const formattedDate = formatDate(tool["date-added"]);
-const canonicalUrl = `https://xarticl.es/tools/${tool.slug}`;
+const canonicalUrl = `https://xarticl.es/articles/${tool.slug}`;
 const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
 
@@ -85,7 +85,7 @@ const redditShareUrl = `https://www.reddit.com/submit?url=${encodedCanonicalUrl}
 
 const allCategoryTools = categoryTools.default || [];
 const otherTools = allCategoryTools.filter((t: any) => t.slug !== slug);
-const relatedTools = otherTools.sort(() => Math.random() - 0.5).slice(0, 4);
+const relatedTools = otherTools.sort(() => Math.random() - 0.5).slice(0, 2);
 
 const categoryTitle = category.charAt(0).toUpperCase() + category.slice(1);
 const breadcrumbs = [
@@ -176,30 +176,36 @@ const breadcrumbs = [
           <section class="tool-summary">
             <article>
               <p class="snapshot-label">About</p>
-              <p class="tool-description">{tool.body}</p>
+              <p class="tool-description">{tool.preview_text}</p>
               {
                 meta.description && meta.description !== tool.body && (
                   <p class="tool-description-full">{meta.description}</p>
                 )
               }
+              <img  src={tool.original_img_url} alt={tool.title} />
             </article>
 
             <div class="snapshot-grid">
               <article class="snapshot-card">
-                <p class="snapshot-label">Pricing</p>
-                <p class="snapshot-value">{tool.tag}</p>
+                <p class="snapshot-label">Author</p>
+                <a
+                    href={`https://x.com/${tool.screen_name}`}
+                    class="nu-u-link--subtle"
+                    target="_blank"
+                    rel="noopener noreferrer">@{tool.screen_name}</a
+                >
               </article>
               <article class="snapshot-card">
                 <p class="snapshot-label">Official site</p>
                 {
                   tool.url ? (
                     <a
-                      href={tool.url}
+                      href={tool.id_str ? `https://x.com/${tool.screen_name}/status/${tool.id_str}` : tool.url}
                       target="_blank"
                       rel="noopener noreferrer"
                       class="snapshot-value link-muted"
                     >
-                      {domain || tool.url}
+                      {domain || tool.id_str ? `@${tool.screen_name}` : tool.url}
                     </a>
                   ) : (
                     <p class="snapshot-value snapshot-value--muted">
@@ -212,14 +218,14 @@ const breadcrumbs = [
 
             <div class="tool-detail-actions">
               {
-                tool.url ? (
+                tool.id_str ? (
                   <a
-                    href={tool.url}
+                    href={`https://x.com/${tool.screen_name}/status/${tool.id_str}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     class="btn-primary"
                   >
-                    Visit {tool.title}
+                    read the Article
                   </a>
                 ) : (
                   <span class="btn-primary btn-disabled" aria-disabled="true">
@@ -313,11 +319,11 @@ const breadcrumbs = [
           {
             relatedTools.length > 0 && (
               <div class="tool-related">
-                <h3 class="related-title">Similar Tools</h3>
+                <h3 class="related-title">Similar Articles</h3>
                 <div class="related-grid">
                   {relatedTools.map((t: any) => (
                     <a
-                      href={`/tools/${t.slug}`}
+                      href={`/articles/${t.slug}`}
                       class="related-card"
                       data-astro-history="replace"
                     >
@@ -864,8 +870,8 @@ const breadcrumbs = [
     }
 
     .related-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      /*display: grid;
+      grid-template-columns: repeat(2, 1fr);*/
       gap: var(--spacing-03);
     }
 
@@ -874,6 +880,7 @@ const breadcrumbs = [
       align-items: center;
       gap: var(--spacing-03);
       padding: var(--spacing-03);
+      margin: var(--spacing-03) 0;
       background-color: var(--background-secondary);
       text-decoration: none;
       border-radius: var(--spacing-00);

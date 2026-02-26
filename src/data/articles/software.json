@@ -1,11 +1,27 @@
 [
   {
+    "id_str": "2026907452277719230",
+    "title": "1 spec isn't cool. You know what's cool? 10 specs. ",
+    "preview_text": "We optimized software development for speed for twenty years. Now AI agents can prototype faster than any team ever could, and the bottleneck has flipped. The constraint used to be \"can we build it.\"",
+    "original_img_url": "https://pbs.twimg.com/media/HCEExOkasAAYgFv.jpg",
+    "screen_name": "augmentcode",
+    "slug": "1-spec-isnt-cool-you-know-whats-cool-10-specs"
+  },
+  {
     "id_str": "2026002315371745671",
     "title": "Building a 16-Bit CPU from Scratch in C (Step-by-Step)",
     "preview_text": "Building a 16-Bit CPU from Scratch in C might sound intimidating, but it's one of the most rewarding projects you can undertake as a programmer. In this article, I'll walk you through every step of",
     "original_img_url": "https://pbs.twimg.com/media/HB2wGBgawAAxEqT.jpg",
     "screen_name": "TheVixhal",
     "slug": "building-a-16-bit-cpu-from-scratch-in-c-step-by-step"
+  },
+  {
+    "id_str": "2026846215644787196",
+    "title": "Here's an easy way to turn your code base into an interactive knowledge graph",
+    "preview_text": "Popular vibe coding tools like Cursor, Claude Code, or Windsurf are powerful — but they don't fully know your codebase structure. When you edit a file, the AI often ignores 47 functions that depend on",
+    "original_img_url": "https://pbs.twimg.com/media/HB-ukOQaMAI4XR3.jpg",
+    "screen_name": "AlphaSignalAI",
+    "slug": "heres-an-easy-way-to-turn-your-code-base-into-an-interactive-knowledge-graph"
   },
   {
     "id_str": "2025988271776383275",
@@ -40,6 +56,30 @@
     "slug": "openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup"
   },
   {
+    "id_str": "2026762513094758497",
+    "title": "Test-Driven Development Will Make You a 100x Engineer",
+    "preview_text": "First be sure to avoid bugs, than add the feature.\nWith tools like Cursor, Claude Code, Grok, and a rapidly evolving ecosystem of LLM-powered assistants, it’s now possible to generate entire functions",
+    "original_img_url": "https://pbs.twimg.com/media/HCB_onLXMAA6sZh.jpg",
+    "screen_name": "mfranz_on",
+    "slug": "test-driven-development-will-make-you-a-100x-engineer"
+  },
+  {
+    "id_str": "2026708881972535724",
+    "title": "The 7 Sins of Agentic Software",
+    "preview_text": "\"Demos are easy. Production is hard\" is the most recycled line in AI.\nAfter three years building agent infrastructure, here's the truth:\nProduction is not the problem.\nDistributed systems have always",
+    "original_img_url": "https://pbs.twimg.com/media/HCBFPJea0AAfyA4.png",
+    "screen_name": "ashpreetbedi",
+    "slug": "the-7-sins-of-agentic-software"
+  },
+  {
+    "id_str": "2026711011869233397",
+    "title": "The coding agent that never compacts",
+    "preview_text": "If you’ve used a coding agent, you know the pain. You’re hours into a complex feature. The agent understands your codebase. It remembers every decision. It knows exactly where you are. Then it hits",
+    "original_img_url": "https://pbs.twimg.com/media/HCBQ93PXQAABk3T.jpg",
+    "screen_name": "mastra",
+    "slug": "the-coding-agent-that-never-compacts"
+  },
+  {
     "id_str": "2026308695399784913",
     "title": "The Complete Guide: Claude for Excel",
     "preview_text": "I've helped hundreds of companies through their AI transformation. The single most common question I get—from CFOs, ops leads, analysts, founders—is some version of the same thing:\n\"How do I automate",
@@ -62,6 +102,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HB02tJ4bwAAXhe3.jpg",
     "screen_name": "Hartdrawss",
     "slug": "vibe-coding-20-18-rules-to-be-the-top-1-builder"
+  },
+  {
+    "id_str": "2026796695065878643",
+    "title": "What Happens to Software Engineering When Anyone Can Build?",
+    "preview_text": "the great split\nLast week, a few tremendously interesting blogs and articles landed on my screen. They were written in totally different contexts, by people who are not coordinating, and in some cases",
+    "original_img_url": "https://pbs.twimg.com/media/HCCSNMJWIAABpEm.jpg",
+    "screen_name": "TheTuringPost",
+    "slug": "what-happens-to-software-engineering-when-anyone-can-build"
   },
   {
     "id_str": "2026014755438182782",

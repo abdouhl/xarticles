@@ -29,7 +29,7 @@ export default function Card({
     return (
         <li className="link-card">
             <div className="card-cover">
-                <img style={{ objectFit: 'cover' }} src={coverImage} alt={title} />
+                <img  src={coverImage} alt={title} />
                 <p className="distribution">
                     {isNew && (
                         <span

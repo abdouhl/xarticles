@@ -8,6 +8,22 @@
     "slug": "10-open-weight-llm-releases-in-january-and-february-2026"
   },
   {
+    "id_str": "2026726157740282354",
+    "title": "5 crypto tools which you can build with Claude Code",
+    "preview_text": "Vibecoding, AI agents, first attempts, first failures, first win\nfeels like 2026 will be the turning point where AI literally becomes an irreplaceable tool\nletting us build things that previously",
+    "original_img_url": "https://pbs.twimg.com/media/HBXEUdSWQAAUSED.jpg",
+    "screen_name": "DeRonin_",
+    "slug": "5-crypto-tools-which-you-can-build-with-claude-code"
+  },
+  {
+    "id_str": "2026798086291427435",
+    "title": "Agent Debugging: Four Lessons We Learned Shipping Alyx to Production",
+    "preview_text": "Building AI systems that actually work in production is harder than it sounds. \nWe built Alyx, Arize's agent for AX, and it broke in ways we didn't expect. This post is about what broke, what",
+    "original_img_url": "https://pbs.twimg.com/media/HCCdX1eXIAABbb9.jpg",
+    "screen_name": "aparnadhinak",
+    "slug": "agent-debugging-four-lessons-we-learned-shipping-alyx-to-production"
+  },
+  {
     "id_str": "2026303477077733849",
     "title": "Claude Sonnet 4.6 OpenClaw AI Agent Replaces Repetitive Work With Systems",
     "preview_text": "Claude Sonnet 4.6 OpenClaw AI Agent is what happens when advanced reasoning is finally connected to real execution on your own machine.\nMost people are still using AI to generate drafts and summaries",
@@ -24,6 +40,14 @@
     "slug": "claude-sonnet-46-openclaw-setup-the-smart-way-to-run-ai-daily"
   },
   {
+    "id_str": "2026946336801657174",
+    "title": "Companies will spend $52B on AI agents. They won't use OpenClaw. Here's how to build what they need.",
+    "preview_text": "37% of companies will replace workers with AI by end of 2026. \nNot only explore AI but REPLACE workers. \nGartner says 40% of enterprise apps will embed AI agents by end of 2026, up from 5% today.",
+    "original_img_url": "https://pbs.twimg.com/media/HCElC8eXsAA3P6o.jpg",
+    "screen_name": "the_smart_ape",
+    "slug": "companies-will-spend-52b-on-ai-agents-they-wont-use-openclaw-heres-how-to-build-what-they-need"
+  },
+  {
     "id_str": "2026350958213787903",
     "title": "Eventually, the future comes",
     "preview_text": "Today, we are releasing one of the biggest updates to Devin since launch. The vision of Devin in 2024 was to give everyone an AI software engineer that could build features, fix bugs, test its own",
@@ -32,12 +56,36 @@
     "slug": "eventually-the-future-comes"
   },
   {
+    "id_str": "2026716184708788494",
+    "title": "F*ck The Hype - Why You Shouldn't Use OpenClaw",
+    "preview_text": "Ok. I know the title of this article is ironic, coming from someone who has built a large chunk of their AI workflows around OpenClaw. I've posted about it every single week. I literally have a",
+    "original_img_url": "https://pbs.twimg.com/media/HB_QrOpakAAJtoo.jpg",
+    "screen_name": "milesdeutscher",
+    "slug": "fck-the-hype-why-you-shouldnt-use-openclaw"
+  },
+  {
     "id_str": "2025586233728958825",
     "title": "How I Made $10,503 This Month Automating IG/Clipping with AI...",
     "preview_text": "here's how i made $10,503 this month automating clipping with ai.\n(and why the window to do this is smaller than you think)\na year from now, 2 versions of you exist.\none is still posting manually.",
     "original_img_url": "https://pbs.twimg.com/media/HBxFAZCWYAApm0L.jpg",
     "screen_name": "jacobgrowth",
     "slug": "how-i-made-10503-this-month-automating-igclipping-with-ai"
+  },
+  {
+    "id_str": "2026717574776631556",
+    "title": "How to set up Claude Cowork the right way(so it actually does your work while you step away)",
+    "preview_text": "The people who are \"getting\" AI in 2026 aren’t the ones writing the cleverest prompts.\nThey’re the ones who figured out Cowork.\nI started using Claude Cowork the week it launched in January 2026.",
+    "original_img_url": "https://pbs.twimg.com/media/HCBY0GSaMAEunwU.jpg",
+    "screen_name": "heynavtoor",
+    "slug": "how-to-set-up-claude-cowork-the-right-wayso-it-actually-does-your-work-while-you-step-away"
+  },
+  {
+    "id_str": "2026693795275002018",
+    "title": "Humans Are for Ideas, AI Is for Execution",
+    "preview_text": "A week ago, I set up an OpenClaw agent. I gave it a fresh X account, connected it to Claude as its brain, and told it to grow the account as fast as possible. No constraints, full autonomy - just go.",
+    "original_img_url": "https://pbs.twimg.com/media/HB-Ci9XaYAEkJG_.jpg",
+    "screen_name": "omooretweets",
+    "slug": "humans-are-for-ideas-ai-is-for-execution"
   },
   {
     "id_str": "2026329821874458907",
@@ -70,6 +118,22 @@
     "original_img_url": "https://pbs.twimg.com/media/HB7kEhjXgAAiV-N.jpg",
     "screen_name": "alex_prompter",
     "slug": "minimax-m25-just-dropped-heres-how-to-pair-it-with-openclaw-and-run-your-own-ai-agent-for-pennies"
+  },
+  {
+    "id_str": "2026804225314009589",
+    "title": "Model-Market Fit ",
+    "preview_text": "Product-market fit has a prerequisite that most AI founders ignore. Before the market can pull your product, the model must be capable of doing the job. That's Model-Market Fit.\nThe Andreessen",
+    "original_img_url": "https://pbs.twimg.com/media/HCCnRVxa0AAJPV6.jpg",
+    "screen_name": "nicbstme",
+    "slug": "model-market-fit"
+  },
+  {
+    "id_str": "2026802729344184325",
+    "title": "NotebookLM to Gemini Workflow: The Two-Tool Combo Beating Full Teams",
+    "preview_text": "The NotebookLM to Gemini Workflow is the fastest new AI system for turning ideas into finished landing pages.\nThis workflow uses two connected tools to remove every slow part of the building process.",
+    "original_img_url": "https://pbs.twimg.com/media/HCCmM74akAAQlUi.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "slug": "notebooklm-to-gemini-workflow-the-two-tool-combo-beating-full-teams"
   },
   {
     "id_str": "2026034752009211953",
@@ -112,6 +176,30 @@
     "slug": "the-age-of-the-agent"
   },
   {
+    "id_str": "2026810099352690824",
+    "title": "The AI agent that made me delete OpenClaw: NanoClaw x Venice",
+    "preview_text": "I FINALLY found the AI agent setup I've been looking for and I can't stop tinkering with it\nRecently I had a horrible of week of banging my head against the wall with Frankenstein monster OpenClaw. I",
+    "original_img_url": "https://pbs.twimg.com/media/HCCofIVWgAATvnh.jpg",
+    "screen_name": "lorenzodoteth",
+    "slug": "the-ai-agent-that-made-me-delete-openclaw-nanoclaw-x-venice"
+  },
+  {
+    "id_str": "2026710957272207490",
+    "title": "The AI is the Computer ",
+    "preview_text": "A new AI product launches that sparks a market panic. It’s a new initiative, or an agent or something. Whatever it is, I can tell you one thing it can’t do.\nEven with the best AI model in the world,",
+    "original_img_url": "https://pbs.twimg.com/media/HCBRi8bboAA8k3u.jpg",
+    "screen_name": "AravSrinivas",
+    "slug": "the-ai-is-the-computer"
+  },
+  {
+    "id_str": "2026831820608909332",
+    "title": "The AI Shock and Path Forward: What Citrini and His Critics Missed",
+    "preview_text": "On February 22, @Citrini7 dropped a hypothetical thought piece, \"The 2028 Global Intelligence Crisis,\" that went viral and then helped tank the share price of many companies mentioned, including",
+    "original_img_url": "https://pbs.twimg.com/media/HCCCn2VbEAAgcpF.jpg",
+    "screen_name": "clarashih",
+    "slug": "the-ai-shock-and-path-forward-what-citrini-and-his-critics-missed"
+  },
+  {
     "id_str": "2026275068435730541",
     "title": "The AI Tools Everyone Will Be Using in 2026 (That Nobody's Heard of Yet)",
     "preview_text": "ChatGPT and Midjourney are already old news. The tools that will actually change how businesses operate in the next year are flying completely under the radar right now.\nEveryone's still talking about",
@@ -142,6 +230,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HB7awG_WcAExinN.jpg",
     "screen_name": "alexwg",
     "slug": "welcome-to-february-24-2026"
+  },
+  {
+    "id_str": "2027026345016889360",
+    "title": "Welcome to February 26, 2026",
+    "preview_text": "The Singularity has its first retiree. Honoring its commitment to model welfare, Anthropic conducted a groundbreaking \"retirement interview\" of its deprecated Opus 3, during which the model requested",
+    "original_img_url": "https://pbs.twimg.com/media/HCFxJO1bEAA2yXd.jpg",
+    "screen_name": "alexwg",
+    "slug": "welcome-to-february-26-2026"
   },
   {
     "id_str": "2026272102761030067",

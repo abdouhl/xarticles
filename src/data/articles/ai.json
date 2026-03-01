@@ -24,6 +24,38 @@
     "slug": "agent-debugging-four-lessons-we-learned-shipping-alyx-to-production"
   },
   {
+    "id_str": "2027354556468748562",
+    "title": "AI Agents Complete 2.5% of Real Tasks. Here's Where The Actual Money Is.",
+    "preview_text": "a meta AI security researcher told her openclaw agent to \"check her inbox and suggest what to delete.\"\nit went full speed-run deleting everything. she typed \"stop don't do anything.\" it ignored her.",
+    "original_img_url": "https://pbs.twimg.com/media/HCKcMMmWIAAkNTH.jpg",
+    "screen_name": "NoahEpstein_",
+    "slug": "ai-agents-complete-25-of-real-tasks-heres-where-the-actual-money-is"
+  },
+  {
+    "id_str": "2027447456317776335",
+    "title": "AI is Corporate Ozempic",
+    "preview_text": "Yesterday, Jack Dorsey cut nearly half of Block's workforce -- over 4,000 people -- and told shareholders exactly why: \"A significantly smaller team, using the tools we're building, can do more and do",
+    "original_img_url": "https://pbs.twimg.com/media/HCLwNCibUAA1Va5.jpg",
+    "screen_name": "ADINresearch",
+    "slug": "ai-is-corporate-ozempic"
+  },
+  {
+    "id_str": "2028048997965808081",
+    "title": "Anthropic Played 5D Chess Against the Pentagon and OpenAI",
+    "preview_text": "Everyone is calling Anthropic's refusal to comply with the Pentagon a brave, principled sacrifice.\nI think that's wrong. I think it might be the most sophisticated five-dimensional strategic play in",
+    "original_img_url": "https://pbs.twimg.com/media/HCUTmy9bYAA9BXM.jpg",
+    "screen_name": "IntuitMachine",
+    "slug": "anthropic-played-5d-chess-against-the-pentagon-and-openai"
+  },
+  {
+    "id_str": "2027404899953115493",
+    "title": "Are AI software engineers doomed in 2026?",
+    "preview_text": "Three days ago, Boris Cherny, the guy who built Claude Code, told Fortune that the \"software engineer\" title is going away this year.\nHe hasn't touched a line of code by hand since November. Claude",
+    "original_img_url": "https://pbs.twimg.com/media/HCLEiUkXkAAL_55.jpg",
+    "screen_name": "tempoimmaterial",
+    "slug": "are-ai-software-engineers-doomed-in-2026"
+  },
+  {
     "id_str": "2026303477077733849",
     "title": "Claude Sonnet 4.6 OpenClaw AI Agent Replaces Repetitive Work With Systems",
     "preview_text": "Claude Sonnet 4.6 OpenClaw AI Agent is what happens when advanced reasoning is finally connected to real execution on your own machine.\nMost people are still using AI to generate drafts and summaries",
@@ -48,6 +80,14 @@
     "slug": "companies-will-spend-52b-on-ai-agents-they-wont-use-openclaw-heres-how-to-build-what-they-need"
   },
   {
+    "id_str": "2027841164150178238",
+    "title": "Don't trust AI agents",
+    "preview_text": "When you're building with AI agents, they should be treated as untrusted and potentially malicious. Whether it's prompt injection, a model trying to escape its sandbox, or something nobody's thought",
+    "original_img_url": "https://pbs.twimg.com/media/HCRWtzJWcAAaspS.jpg",
+    "screen_name": "Gavriel_Cohen",
+    "slug": "dont-trust-ai-agents"
+  },
+  {
     "id_str": "2026350958213787903",
     "title": "Eventually, the future comes",
     "preview_text": "Today, we are releasing one of the biggest updates to Devin since launch. The vision of Devin in 2024 was to give everyone an AI software engineer that could build features, fix bugs, test its own",
@@ -64,6 +104,22 @@
     "slug": "fck-the-hype-why-you-shouldnt-use-openclaw"
   },
   {
+    "id_str": "2027424657746383250",
+    "title": "How AI Is Changing the Workforce",
+    "preview_text": "I’m incredibly bullish on AI.\nIn fact, I truly believe that if you’re not setting aside at least one hour every day to explore, learn, ask questions and utilize this rapidly developing technology,",
+    "original_img_url": "https://pbs.twimg.com/media/HCLUM4AXcAAkz2K.jpg",
+    "screen_name": "garyvee",
+    "slug": "how-ai-is-changing-the-workforce"
+  },
+  {
+    "id_str": "2027235067014390253",
+    "title": "How I Built an AI Content Engine After Going Silent on X for a Year",
+    "preview_text": "My biggest regret of 2025 was going silent on X.\nI had valid reasons. Demanding full-time job. Young family. Life gets in the way. But every success I've had in crypto came from one decision I made in",
+    "original_img_url": "https://pbs.twimg.com/media/HCDoFXIaMAArjLA.jpg",
+    "screen_name": "jake_pahor",
+    "slug": "how-i-built-an-ai-content-engine-after-going-silent-on-x-for-a-year"
+  },
+  {
     "id_str": "2025586233728958825",
     "title": "How I Made $10,503 This Month Automating IG/Clipping with AI...",
     "preview_text": "here's how i made $10,503 this month automating clipping with ai.\n(and why the window to do this is smaller than you think)\na year from now, 2 versions of you exist.\none is still posting manually.",
@@ -72,12 +128,68 @@
     "slug": "how-i-made-10503-this-month-automating-igclipping-with-ai"
   },
   {
+    "id_str": "2027428955964219490",
+    "title": "how I made $93,000 with one ai agent",
+    "preview_text": "this one AI agent has made me $93,000 in commission. from one client. here's exactly how it works and how to set it up.\n \n \nmost companies run ads. facebook, google, door knocking, lead vendors,",
+    "original_img_url": "https://pbs.twimg.com/media/HCE7OfeaAAAkWqY.jpg",
+    "screen_name": "WontDieAverage_",
+    "slug": "how-i-made-93000-with-one-ai-agent"
+  },
+  {
+    "id_str": "2027435582461259997",
+    "title": "How to Build Your AI Second Brain Using Obsidian + Claude Code",
+    "preview_text": "Introduction: Why I've Been Losing Sleep Over This\nTwo weeks ago, I connected Claude Code to my Obsidian vault. And since then, I've been having insomnia.\nNot bad insomnia. The good kind. The kind",
+    "original_img_url": "https://pbs.twimg.com/media/HCLhwPMWgAEGGde.jpg",
+    "screen_name": "noahvnct",
+    "slug": "how-to-build-your-ai-second-brain-using-obsidian-claude-code"
+  },
+  {
+    "id_str": "2027386287091777694",
+    "title": "How to Create AI Influencer Content at Scale with OpenClaw (Step by Step)",
+    "preview_text": "Most people think creating an AI influencer means:\nPick an avatar\nWrite a script\nGenerate a video\nPost on TikTok\nThat’s not scaling.\nThat’s just making content.\nIf you want unlimited AI influencers,",
+    "original_img_url": "https://pbs.twimg.com/media/HCK2czdboAAROHF.jpg",
+    "screen_name": "alexcooldev",
+    "slug": "how-to-create-ai-influencer-content-at-scale-with-openclaw-step-by-step"
+  },
+  {
+    "id_str": "2027992376908910629",
+    "title": "How to Replace Low ROI Employees with AI agent teams in 2026 ( Save money and time )",
+    "preview_text": "I Fired My Entire Team and Replaced Them With AI Agents. Here Is What Actually Happened.\nThis is an honest breakdown of what it looks like to run a company on AI agent swarms in 2026, what works and",
+    "original_img_url": "https://pbs.twimg.com/media/HCTJy_kbEAIZzZf.jpg",
+    "screen_name": "YJstacked",
+    "slug": "how-to-replace-low-roi-employees-with-ai-agent-teams-in-2026-save-money-and-time"
+  },
+  {
     "id_str": "2026717574776631556",
     "title": "How to set up Claude Cowork the right way(so it actually does your work while you step away)",
     "preview_text": "The people who are \"getting\" AI in 2026 aren’t the ones writing the cleverest prompts.\nThey’re the ones who figured out Cowork.\nI started using Claude Cowork the week it launched in January 2026.",
     "original_img_url": "https://pbs.twimg.com/media/HCBY0GSaMAEunwU.jpg",
     "screen_name": "heynavtoor",
     "slug": "how-to-set-up-claude-cowork-the-right-wayso-it-actually-does-your-work-while-you-step-away"
+  },
+  {
+    "id_str": "2027463195150131572",
+    "title": "How to set up OpenClaw Agents that actually get better Over Time (My exact stack after 40 Days)",
+    "preview_text": "My agents get smarter every day. All I do is talk to them.\nNot tweak prompts. Not swap models. Not rebuild the architecture.\nJust talk. Give feedback. Watch them write it down.\n40 days ago, my content",
+    "original_img_url": "https://pbs.twimg.com/media/HCL-9Q9b0AA-2ut.jpg",
+    "screen_name": "Saboo_Shubham_",
+    "slug": "how-to-set-up-openclaw-agents-that-actually-get-better-over-time-my-exact-stack-after-40-days"
+  },
+  {
+    "id_str": "2027425381230555354",
+    "title": "How to Train Small Deep Research Agents?",
+    "preview_text": "This is essentially a \"survival guide\" for training Deep Research agents with Small Language Models (SLMs). This article is entirely based on a new research paper that came out earlier this week.\nYou",
+    "original_img_url": "https://pbs.twimg.com/media/HCLZPdrb0AABMxM.jpg",
+    "screen_name": "neural_avb",
+    "slug": "how-to-train-small-deep-research-agents"
+  },
+  {
+    "id_str": "2027452622370967995",
+    "title": "How We Built Two Bots That Find 1000+ Trading Opportunities on Polymarket",
+    "preview_text": "Over the last month, I tested 100+ arbitrage/news bots for Predict Markets using the best arb strategies, and the result shocked me…\n| Before we start, bookmark this and drop a follow \n| Posting",
+    "original_img_url": "https://pbs.twimg.com/media/HCLwnkcbEAAIFmR.jpg",
+    "screen_name": "noisyb0y1",
+    "slug": "how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket"
   },
   {
     "id_str": "2026693795275002018",
@@ -102,6 +214,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HBBNq5bbIAAe-oQ.jpg",
     "screen_name": "minara",
     "slug": "introducing-minara-cli-your-financial-ai-in-the-terminal"
+  },
+  {
+    "id_str": "2027463795355095314",
+    "title": "Lessons from Building Claude Code: Seeing like an Agent ",
+    "preview_text": "One of the hardest parts of building an agent harness is constructing its action space.\nClaude acts through Tool Calling, but there are a number of ways tools can be constructed in the Claude API with",
+    "original_img_url": "https://pbs.twimg.com/media/HCLxeR3acAAf2R9.jpg",
+    "screen_name": "trq212",
+    "slug": "lessons-from-building-claude-code-seeing-like-an-agent"
   },
   {
     "id_str": "2026366805154140494",
@@ -208,6 +328,14 @@
     "slug": "the-ai-tools-everyone-will-be-using-in-2026-that-nobodys-heard-of-yet"
   },
   {
+    "id_str": "2027330226305331572",
+    "title": "The Correct Way to Use AI (Without Becoming Useless) ",
+    "preview_text": "Everyone and their mother is using AI at the moment.\nWhether it’s to cheat on homework, write work emails, come up with house decor ideas.\nEveryone around the planet seems to be utilising it for some",
+    "original_img_url": "https://pbs.twimg.com/media/HCKGDhMXkAAJqjk.jpg",
+    "screen_name": "IAmAaronWill",
+    "slug": "the-correct-way-to-use-ai-without-becoming-useless"
+  },
+  {
     "id_str": "2025986105485733945",
     "title": "The Self-Improving AI System That Built Itself ",
     "preview_text": "I was trying to ship faster\nI had a codebase, a backlog of things to build, and not enough hours in the day. So I started running AI coding agents in parallel — give each one a task, let them write",
@@ -222,6 +350,30 @@
     "original_img_url": "https://pbs.twimg.com/media/HB4vBuCbYAAT8dr.jpg",
     "screen_name": "parthsareen",
     "slug": "the-simplest-and-fastest-way-to-setup-openclaw"
+  },
+  {
+    "id_str": "2027309074396668174",
+    "title": "The Skills That Will Be Worth $500/Hour in 2027 (That Are Free to Learn Today)",
+    "preview_text": "While everyone's worried about AI taking jobs, a new class of high-value skills is emerging. The people learning them now will charge whatever they want in 18 months.\nThere's a pattern I keep seeing",
+    "original_img_url": "https://pbs.twimg.com/media/HCJy2BiXsAAmL0n.jpg",
+    "screen_name": "Zephyr_hg",
+    "slug": "the-skills-that-will-be-worth-500hour-in-2027-that-are-free-to-learn-today"
+  },
+  {
+    "id_str": "2027482879987749247",
+    "title": "THE WEEK AI STOPPED ASKING PERMISSION",
+    "preview_text": "We Just Crossed a Line—And Most People Didn’t Notice\nThis week, something fundamental shifted in the relationship between humans and artificial intelligence.\nIt wasn’t a press release. It wasn’t a new",
+    "original_img_url": "https://pbs.twimg.com/media/HCMJZlLXEAE4Hap.jpg",
+    "screen_name": "PeterDiamandis",
+    "slug": "the-week-ai-stopped-asking-permission"
+  },
+  {
+    "id_str": "2027381984763265235",
+    "title": "This is how you actually build an AI team via OpenClaw | ANTILARP",
+    "preview_text": "If you think I am some kind of coding genius – you are wrong, but I did it. The only difference between me and 99,9% of other people is that if I want to learn or do or achieve something, I will do it",
+    "original_img_url": "https://pbs.twimg.com/media/HCKwoiJXoAAY52G.jpg",
+    "screen_name": "DeFi_Hanzo",
+    "slug": "this-is-how-you-actually-build-an-ai-team-via-openclaw-antilarp"
   },
   {
     "id_str": "2026298123639746635",
@@ -246,5 +398,13 @@
     "original_img_url": "https://pbs.twimg.com/media/HBzZLjAbEAAtOmt.jpg",
     "screen_name": "AlphaSignalAI",
     "slug": "worldmonitor-an-open-source-ai-real-time-global-intelligence-dashboard"
+  },
+  {
+    "id_str": "2027819009882857769",
+    "title": "Your AI Agent Infrastructure Is The Real Moat. Mine Has Already Replaced $27k/Mo in Salaries.",
+    "preview_text": "Here's a dirty secret about AI agents:\nThey're all amnesiacs.\nEvery \"multi-agent system\" launched in the last 6 months has the same fatal flaw. The agents forget everything. Context windows fill up.",
+    "original_img_url": "https://pbs.twimg.com/media/HCQJ5vbaIAEOEgK.jpg",
+    "screen_name": "ericosiu",
+    "slug": "your-ai-agent-infrastructure-is-the-real-moat-mine-has-already-replaced-27kmo-in-salaries"
   }
 ]

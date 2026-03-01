@@ -16,12 +16,28 @@
     "slug": "ai-made-999-of-devs-slower-only-001-stopped-coding"
   },
   {
+    "id_str": "2027509711722188976",
+    "title": "Best Practices for Claude Code (Use these to make Claude Code 100x Powerful):",
+    "preview_text": "welcome back guys\nlast time i wrote a full breakdown of \"Transformer Architecture\" and the response was honestly insane\nso many of you bookmarked it, shared it and messaged me saying it was the",
+    "original_img_url": "https://pbs.twimg.com/media/HCMpLvQbEAElFdK.jpg",
+    "screen_name": "Meer_AIIT",
+    "slug": "best-practices-for-claude-code-use-these-to-make-claude-code-100x-powerful"
+  },
+  {
     "id_str": "2026832978056458383",
     "title": "Codex, in Plain English ",
     "preview_text": "This is for people who don’t code.\nIf you’ve never opened a terminal, don’t know what Python is, and “programming” still sounds like someone typing furiously on a black screen — you’re in the right",
     "original_img_url": "https://pbs.twimg.com/media/HCArAikbcAA3Syk.jpg",
     "screen_name": "gabrielchua",
     "slug": "codex-in-plain-english"
+  },
+  {
+    "id_str": "2027812237390512631",
+    "title": "Everything is Agent: A Review of OpenClaw Alternatives (Part 1)",
+    "preview_text": "TLDR; this is part 1 of a series that reviews alternatives to OpenClaw. In this article I explore 8 alternatives within the consumer/power user category - the closest alternatives to OpenClaw. The",
+    "original_img_url": "https://pbs.twimg.com/media/HCQ8ad-bkAAvw8E.jpg",
+    "screen_name": "KSimback",
+    "slug": "everything-is-agent-a-review-of-openclaw-alternatives-part-1"
   },
   {
     "id_str": "2025741929997361371",
@@ -56,6 +72,14 @@
     "slug": "how-to-reverse-engineer-scrape-solscan-premium-api-mini-masterclass"
   },
   {
+    "id_str": "2027225210412470668",
+    "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure",
+    "preview_text": "From AWS Lambda to Unikraft micro-VMs with a control plane architecture.\nHow we got here\nWe run millions of web agents at Browser Use. We started with browser-only agents on AWS Lambda, where each",
+    "original_img_url": "https://pbs.twimg.com/media/HCIkOtcasAAWoxa.jpg",
+    "screen_name": "larsencc",
+    "slug": "how-we-built-secure-scalable-agent-sandbox-infrastructure"
+  },
+  {
     "id_str": "2026273801332560196",
     "title": "I Made a Full AI Film in 2:25 Minutes Using invideo: Here's Exactly How (2026 Step-by-Step)",
     "preview_text": "This 2 minute 30 second cinematic short film did not begin as a technical experiment. It took me 30 hours to complete this.  It began as a story.\n \nA lone hunter rides through a mist-covered",
@@ -78,6 +102,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HB8hQlVaMAAlHsC.jpg",
     "screen_name": "chamath",
     "slug": "making-a-machine-that-builds-machines"
+  },
+  {
+    "id_str": "2028014798546378938",
+    "title": "Malware Reverse Engineering is no longer a human problem!",
+    "preview_text": "I recently presented a keynote on the state of malware reverse engineering and analysis in the AI era. But instead of starting with slides, I started with silence.\nI shared my screen, I launched my",
+    "original_img_url": "https://pbs.twimg.com/media/HCPEWKKbQAADfdy.jpg",
+    "screen_name": "fr0gger_",
+    "slug": "malware-reverse-engineering-is-no-longer-a-human-problem"
   },
   {
     "id_str": "2025257558806499829",
@@ -104,6 +136,22 @@
     "slug": "openclaw-reality-check-a-full-review-of-use-cases"
   },
   {
+    "id_str": "2027886491368890878",
+    "title": "Part 1: The Age of Inference — Why GPUs Aren't Enough",
+    "preview_text": "$650,000,000,000\nThe first week of February 2026, Big Tech's earnings season wrapped up.\nAmazon $200B. Google $175–185B. Meta $115–135B. Microsoft ~$120B (estimated). Capital expenditure earmarked for",
+    "original_img_url": "https://pbs.twimg.com/media/HCR8gkxbEAAk9R3.jpg",
+    "screen_name": "NuttyCLD",
+    "slug": "part-1-the-age-of-inference-why-gpus-arent-enough"
+  },
+  {
+    "id_str": "2027272936353370368",
+    "title": "perplexity computer is here (and everyone's using it wrong)",
+    "preview_text": "Perplexity launched something yesterday that most people likely won't understand for months. They've called it Computer. And it's not some lame chatbot or a simple search upgrade. It's a multi agent",
+    "original_img_url": "https://pbs.twimg.com/media/HCJAnqjaoAA1R-n.jpg",
+    "screen_name": "kloss_xyz",
+    "slug": "perplexity-computer-is-here-and-everyones-using-it-wrong"
+  },
+  {
     "id_str": "2025992205354119566",
     "title": "The Age of Personalisation is here - Why OpenClaw is the death of all apps.",
     "preview_text": "\"Humans are designed to create - that's why you're depressed when all you do is consume.\"\nThat quote has been sitting with me all week. \n\nBecause right now, something massive is shifting - and most",
@@ -118,5 +166,29 @@
     "original_img_url": "https://pbs.twimg.com/media/HB3UAOla8AAXLS5.jpg",
     "screen_name": "charlierguo",
     "slug": "the-emerging-harness-engineering-playbook"
+  },
+  {
+    "id_str": "2027418328000504099",
+    "title": "Vibe Coding Killed Dashboards",
+    "preview_text": "The dashboarding market is worth $35 billion a year.\nI think it's dead.\nI'd give it 18 months.\nTableau: $15.7B\nLooker: $2.6B\nQlik: $3B\nThoughtSpot: $4.2B (down 80% on secondaries)\nDomo: $200M and",
+    "original_img_url": "https://pbs.twimg.com/media/HCLWEdSXUAAyd6e.jpg",
+    "screen_name": "ArmanHezarkhani",
+    "slug": "vibe-coding-killed-dashboards"
+  },
+  {
+    "id_str": "2027480476730925116",
+    "title": "We will all be digital gods: the death of apps and the rise of the meta-app",
+    "preview_text": "Everyone has been talking about how easy Claude Code, Codex and Warp make it to build apps. That’s true, but it’s missing the more profound implication of these tools: soon we won’t need to build apps",
+    "original_img_url": "https://pbs.twimg.com/media/HCMOGY5WcAEk4eY.jpg",
+    "screen_name": "zachlloydtweets",
+    "slug": "we-will-all-be-digital-gods-the-death-of-apps-and-the-rise-of-the-meta-app"
+  },
+  {
+    "id_str": "2027459906543226921",
+    "title": "Where Data Companies are heading in 2026",
+    "preview_text": "Part #1, focusing on the fact that: subjective self serve post training infra is a thing.  Shorter reads given focus on particular topics, excerpted from upcoming State of Data March 2026.\nRLaaS takes",
+    "original_img_url": "https://pbs.twimg.com/media/HCL7224aIAA8KuD.jpg",
+    "screen_name": "SeanZCai",
+    "slug": "where-data-companies-are-heading-in-2026"
   }
 ]

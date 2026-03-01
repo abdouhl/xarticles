@@ -1,11 +1,35 @@
 [
   {
+    "id_str": "2028094014235213898",
+    "title": "🥇Top AI Papers of the Week",
+    "preview_text": "The Top AI Papers of the Week (February 23 - March 1)\n1. Deep-Thinking Tokens\n \nGoogle researchers challenge the assumption that longer outputs indicate better reasoning. They introduce deep-thinking",
+    "original_img_url": "https://pbs.twimg.com/media/HCSq0mOWwAA3GAo.jpg",
+    "screen_name": "dair_ai",
+    "slug": "top-ai-papers-of-the-week"
+  },
+  {
     "id_str": "2026716991529316816",
     "title": "A gentle introduction to Diffusion Language Models (dLLMs)",
     "preview_text": "Let me just start off by stating the obvious: Diffusion Language Models are incredi-cool tech. This article will explain some of the concepts that you must know. We will be mainly looking at a couple",
     "original_img_url": "https://pbs.twimg.com/media/HCBWXUCaMAIYaxy.jpg",
     "screen_name": "neural_avb",
     "slug": "a-gentle-introduction-to-diffusion-language-models-dllms"
+  },
+  {
+    "id_str": "2028068322106097773",
+    "title": "Agentic Fine-Tuning Gaps in Fast and Distilled Models",
+    "preview_text": "tetsuo\n \nFast and distilled code models fail in a few recurring agentic failure modes that base models get right. These are mostly distillation and training-distribution gaps. The underlying reasoning",
+    "original_img_url": "https://pbs.twimg.com/media/HCUlQsYaEAAxMfK.jpg",
+    "screen_name": "tetsuoai",
+    "slug": "agentic-fine-tuning-gaps-in-fast-and-distilled-models"
+  },
+  {
+    "id_str": "2028168984479051872",
+    "title": "Every AI Logo Is a Diagram of Enki's Butthole",
+    "preview_text": "Pull up the OpenAI logo on your phone right now. Look at it. It's a spiral. A vortex. A torus folding into itself like a drain pulling water into a subterranean chamber. Now pull up the DeepMind logo.",
+    "original_img_url": "https://pbs.twimg.com/media/HCWA666aUAA40b8.jpg",
+    "screen_name": "JIMMYEDGAR",
+    "slug": "every-ai-logo-is-a-diagram-of-enkis-butthole"
   },
   {
     "id_str": "2026888488541630714",
@@ -16,12 +40,36 @@
     "slug": "i-built-8-projects-with-ai-in-two-weeks-heres-what-i-learned"
   },
   {
+    "id_str": "2028090618681991413",
+    "title": "The Hidden Layer in OpenClaw Swarms: Make Them Disagree, See Who Survives",
+    "preview_text": "The most dangerous output an AI swarm can give you is a perfect, unanimous answer. This is the story of how I broke that, and a ready-to-use template at the end.\nA classic indie developer dilemma:",
+    "original_img_url": "https://pbs.twimg.com/media/HCUyD8cboAEbgTH.jpg",
+    "screen_name": "Voxyz_ai",
+    "slug": "the-hidden-layer-in-openclaw-swarms-make-them-disagree-see-who-survives"
+  },
+  {
+    "id_str": "2027471263200120957",
+    "title": "The Verification Bottleneck and the Labor Market Shock",
+    "preview_text": "Decoupling Intelligence From Biology\nFor 300,000 years, human cognition was the primary engine of economic progress on Earth. Today, we are decoupling intelligence from biology. As artificial",
+    "original_img_url": "https://pbs.twimg.com/media/HCMGHyRb0AAqKH7.jpg",
+    "screen_name": "ccatalini",
+    "slug": "the-verification-bottleneck-and-the-labor-market-shock"
+  },
+  {
     "id_str": "2026224423460843665",
     "title": "Traditional ML Inference vs. LLM Inference",
     "preview_text": "LLM Inference presents unique challenges over regular ML inference, due to which we have specialized, high-performance LLM inference engines.\nLet’s understand these challenges and how to solve them",
     "original_img_url": "https://pbs.twimg.com/media/HB6WDPMbwAAiZNv.jpg",
     "screen_name": "_avichawla",
     "slug": "traditional-ml-inference-vs-llm-inference"
+  },
+  {
+    "id_str": "2027380325551350115",
+    "title": "What happens when AI agents interact and compete with each other? CHAOS",
+    "preview_text": "New research from Stanford and Harvard shows that autonomous AI agents, when placed in competitive environments with explicit system access, emails, and permission to execute codes, drifts toward",
+    "original_img_url": "https://pbs.twimg.com/media/HCIVn3XbYAACuRD.jpg",
+    "screen_name": "AlphaSignalAI",
+    "slug": "what-happens-when-ai-agents-interact-and-compete-with-each-other-chaos"
   },
   {
     "id_str": "2026952372195627317",

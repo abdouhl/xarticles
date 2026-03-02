@@ -1,21 +1,21 @@
 import { useState, useEffect } from 'react';
-import { getBookmarkedTools, type BookmarkedTool } from '../utils/bookmarks';
+import { getBookmarkedArticles, type BookmarkedArticle } from '../utils/bookmarks';
 import { toolComparators, type SortKey } from '../utils/sorting';
 import Card from './Card';
 import EmptyState, { BookmarkIcon } from './EmptyState';
 import './CardsContainer.css';
-import data from '../data/tools.json';
+import data from '../data/articles.json';
 import type { Category } from '../types';
 
 type FavoritesSortKey = Exclude<SortKey, 'random'>;
 
 export default function FavoritesView() {
-    const [bookmarkedTools, setBookmarkedTools] = useState<BookmarkedTool[]>([]);
+    const [bookmarkedArticles, setBookmarkedArticles] = useState<BookmarkedArticle[]>([]);
     const [sortBy, setSortBy] = useState<FavoritesSortKey>('nameAsc');
 
     const loadBookmarks = () => {
-        const tools = getBookmarkedTools(data.tools as Category[]);
-        setBookmarkedTools(tools);
+        const tools = getBookmarkedArticles(data.articles as Category[]);
+        setBookmarkedArticles(tools);
     };
 
     useEffect(() => {
@@ -33,9 +33,9 @@ export default function FavoritesView() {
         };
     }, []);
 
-    const sortedTools = [...bookmarkedTools].sort(toolComparators[sortBy]);
+    const sortedTools = [...bookmarkedArticles].sort(toolComparators[sortBy]);
 
-    if (bookmarkedTools.length === 0) {
+    if (bookmarkedArticles.length === 0) {
         return (
             <section>
                 <EmptyState
@@ -53,7 +53,7 @@ export default function FavoritesView() {
             <div className="favorites-header">
                 <div className="favorites-info">
                     <p className="nu-c-fs-small nu-u-text--secondary">
-                        {bookmarkedTools.length} {bookmarkedTools.length === 1 ? 'tool' : 'tools'} saved
+                        {bookmarkedArticles.length} {bookmarkedArticles.length === 1 ? 'tool' : 'tools'} saved
                     </p>
                 </div>
 
@@ -72,16 +72,17 @@ export default function FavoritesView() {
             </div>
 
             <ul role="list" className="link-card-grid">
-                {sortedTools.map(({ url, title, body, tag, 'date-added': dateAdded, slug, category }, i) => (
+                {sortedTools.map(({ id_str, title, preview_text, screen_name, 'date-added': dateAdded, slug, category, original_img_url }, i) => (
                     <Card
                         key={`${slug}-${i}`}
-                        href={url}
+                        href={`https://x.com/${screen_name}/status/${id_str}`}
                         title={title}
-                        body={body}
-                        tag={tag}
+                        body={preview_text}
+                        screen_name={screen_name}
                         dateAdded={dateAdded}
                         slug={slug}
                         category={category}
+                        image={original_img_url}
                     />
                 ))}
             </ul>

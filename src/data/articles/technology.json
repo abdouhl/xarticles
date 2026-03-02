@@ -24,6 +24,14 @@
     "slug": "best-practices-for-claude-code-use-these-to-make-claude-code-100x-powerful"
   },
   {
+    "id_str": "2028470330247803361",
+    "title": "Claude Cowork Masterclass for Beginners (full tutorial)",
+    "preview_text": "Most people are still using Claude like a chatbot. Ask a question, get an answer, repeat.\nThat's leaving 90% of the value on the table.\nClaude Cowork turns Claude into an autonomous coworker who can",
+    "original_img_url": "https://pbs.twimg.com/media/HCaS8paXcAAjrN0.jpg",
+    "screen_name": "coreyganim",
+    "slug": "claude-cowork-masterclass-for-beginners-full-tutorial"
+  },
+  {
     "id_str": "2026832978056458383",
     "title": "Codex, in Plain English ",
     "preview_text": "This is for people who don’t code.\nIf you’ve never opened a terminal, don’t know what Python is, and “programming” still sounds like someone typing furiously on a black screen — you’re in the right",
@@ -72,6 +80,14 @@
     "slug": "how-to-reverse-engineer-scrape-solscan-premium-api-mini-masterclass"
   },
   {
+    "id_str": "2028466511191392362",
+    "title": "How to set up the new Nano Banana 2 from Gemini: ",
+    "preview_text": "Google released a new version of their AI Nano Banana (2) to make images.\nWe call it SOTA = State-Of-The-Art = “The best AI at doing [X].”\nIt just received massive upgrades:\nBest-in-class",
+    "original_img_url": "https://pbs.twimg.com/media/HCZq9BkbkAAL8R5.jpg",
+    "screen_name": "rubenhassid",
+    "slug": "how-to-set-up-the-new-nano-banana-2-from-gemini"
+  },
+  {
     "id_str": "2027225210412470668",
     "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure",
     "preview_text": "From AWS Lambda to Unikraft micro-VMs with a control plane architecture.\nHow we got here\nWe run millions of web agents at Browser Use. We started with browser-only agents on AWS Lambda, where each",
@@ -86,6 +102,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HBLT-lQbUAAFXM0.jpg",
     "screen_name": "beginnersblog1",
     "slug": "i-made-a-full-ai-film-in-225-minutes-using-invideo-heres-exactly-how-2026-step-by-step"
+  },
+  {
+    "id_str": "2028471138452746350",
+    "title": "I Set Up OpenClaw The Way Tutorials Told Me To. It Was The Wrong Way.",
+    "preview_text": "Most installations don't break, they just start doing things you never asked for, with full access to everything you own. Here's why that happens. \n \nI made a full video covering everything in this",
+    "original_img_url": "https://pbs.twimg.com/media/HCJJIjyboAA0IeX.jpg",
+    "screen_name": "tomcrawshaw01",
+    "slug": "i-set-up-openclaw-the-way-tutorials-told-me-to-it-was-the-wrong-way"
   },
   {
     "id_str": "2026125293149163694",
@@ -182,6 +206,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HCMOGY5WcAEk4eY.jpg",
     "screen_name": "zachlloydtweets",
     "slug": "we-will-all-be-digital-gods-the-death-of-apps-and-the-rise-of-the-meta-app"
+  },
+  {
+    "id_str": "2028483240793670101",
+    "title": "Welcome to March 2, 2026",
+    "preview_text": "The Singularity has a dark sense of irony. Within hours of the White House declaring it would end federal use of Anthropic's Claude, USCENTCOM deployed those very tools in a major air attack on Iran,",
+    "original_img_url": "https://pbs.twimg.com/media/HCaXq-8W0AAjlXu.jpg",
+    "screen_name": "alexwg",
+    "slug": "welcome-to-march-2-2026"
   },
   {
     "id_str": "2027459906543226921",

@@ -8,6 +8,14 @@
     "slug": "1-spec-isnt-cool-you-know-whats-cool-10-specs"
   },
   {
+    "id_str": "2028176285575594465",
+    "title": "Agentic Software Engineering",
+    "preview_text": "Note: this post is about building your own agents (agentic software engineering), not about using coding agents.\nBy now you've probably used a few agents, or at least heard of Claude Code, Codex, or",
+    "original_img_url": "https://pbs.twimg.com/media/HCRGY4kbQAEGAWV.png",
+    "screen_name": "ashpreetbedi",
+    "slug": "agentic-software-engineering"
+  },
+  {
     "id_str": "2026002315371745671",
     "title": "Building a 16-Bit CPU from Scratch in C (Step-by-Step)",
     "preview_text": "Building a 16-Bit CPU from Scratch in C might sound intimidating, but it's one of the most rewarding projects you can undertake as a programmer. In this article, I'll walk you through every step of",
@@ -102,6 +110,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HB4wiXAaMAAA-zB.jpg",
     "screen_name": "undrvalue",
     "slug": "the-services-layer"
+  },
+  {
+    "id_str": "2028482570199998654",
+    "title": "The Software Assembly Line",
+    "preview_text": "As coding agents improve and outperform software engineers, it's clear we need to shift how software is being made. Having a human directly in the loop makes less sense every month. If anything, it's",
+    "original_img_url": "https://pbs.twimg.com/media/HCaeF3VW4AAqZnx.jpg",
+    "screen_name": "_colemurray",
+    "slug": "the-software-assembly-line"
   },
   {
     "id_str": "2027323057757704567",

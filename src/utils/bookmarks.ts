@@ -1,4 +1,4 @@
-import type { Category, Tool } from '../types';
+import type { Article, Category } from '../types';
 
 const STORAGE_KEY = 'rom_bookmarks';
 
@@ -94,7 +94,7 @@ export function toggleBookmark(slug: string): boolean {
 /**
  * Tool with category information
  */
-export interface BookmarkedTool extends Tool {
+export interface BookmarkedArticle extends Article {
     category: string;
 }
 
@@ -103,14 +103,14 @@ export interface BookmarkedTool extends Tool {
  * @param allCategories - Array of all categories from tools.json
  * @returns Array of bookmarked tool objects with category
  */
-export function getBookmarkedTools(allCategories: Category[]): BookmarkedTool[] {
+export function getBookmarkedArticles(allCategories: Category[]): BookmarkedArticle[] {
     const bookmarks = getBookmarks();
-    const bookmarkedTools: BookmarkedTool[] = [];
+    const bookmarkedArticles: BookmarkedArticle[] = [];
 
     allCategories.forEach(category => {
         category.content.forEach(tool => {
             if (tool.slug && bookmarks.includes(tool.slug)) {
-                bookmarkedTools.push({
+                bookmarkedArticles.push({
                     ...tool,
                     category: category.category
                 });
@@ -118,7 +118,7 @@ export function getBookmarkedTools(allCategories: Category[]): BookmarkedTool[] 
         });
     });
 
-    return bookmarkedTools;
+    return bookmarkedArticles;
 }
 
 /**

@@ -6,5 +6,13 @@
     "original_img_url": "https://pbs.twimg.com/media/HB9BRjFWYAEMm3m.jpg",
     "screen_name": "seelffff",
     "slug": "copytrading-on-polymarket"
+  },
+  {
+    "id_str": "2028776118707257480",
+    "title": "The New Polymarket Bot Meta (After the Rule Changes)",
+    "preview_text": "Polymarket quietly removed the 500ms delay.\nHere’s how to build a bot that actually performs under the updated rules.\nPolymarket eliminated the 500ms taker price delay on crypto markets. No",
+    "original_img_url": "https://pbs.twimg.com/media/HCenXe-XYAAPxCD.jpg",
+    "screen_name": "0x_Discover",
+    "slug": "the-new-polymarket-bot-meta-after-the-rule-changes"
   }
 ]

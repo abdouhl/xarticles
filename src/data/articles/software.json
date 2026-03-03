@@ -8,6 +8,14 @@
     "slug": "1-spec-isnt-cool-you-know-whats-cool-10-specs"
   },
   {
+    "id_str": "2028564120338063859",
+    "title": "Agent Frameworks Are Getting Squeezed",
+    "preview_text": "When you look at what most agent frameworks actually do, it's workflow orchestration. You define tasks, chain them together, route data between steps, add conditional logic, call external APIs. The",
+    "original_img_url": "https://pbs.twimg.com/media/HCbnvecaMAAMoJV.jpg",
+    "screen_name": "tonykipkemboi",
+    "slug": "agent-frameworks-are-getting-squeezed"
+  },
+  {
     "id_str": "2028176285575594465",
     "title": "Agentic Software Engineering",
     "preview_text": "Note: this post is about building your own agents (agentic software engineering), not about using coding agents.\nBy now you've probably used a few agents, or at least heard of Claude Code, Codex, or",
@@ -22,6 +30,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HB2wGBgawAAxEqT.jpg",
     "screen_name": "TheVixhal",
     "slug": "building-a-16-bit-cpu-from-scratch-in-c-step-by-step"
+  },
+  {
+    "id_str": "2028873598170178016",
+    "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
+    "preview_text": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s purpose-built for large-scale tasks where speed and cost-efficiency are the main priorities, making it the",
+    "original_img_url": "https://pbs.twimg.com/media/HCfkWZxaoAEl1Vh.jpg",
+    "screen_name": "GoogleAIStudio",
+    "slug": "gemini-31-flash-lite-developer-guide-and-use-cases"
   },
   {
     "id_str": "2026846215644787196",
@@ -72,12 +88,29 @@
     "slug": "openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup"
   },
   {
+    "id_str": "2028902129536999818",
+    "title": "PM Skills Marketplace: The AI OS for Better Product Decisions",
+    "preview_text": "I’ve just launched the PM Skills Marketplace on GitHub.\n65 PM skills and 36 chained workflows across 8 Claude plugins based on proven frameworks. It’s open source and available to everyone.\n \nDesigned",
+    "original_img_url": "https://pbs.twimg.com/media/HCgbjOlWAAAF-du.jpg",
+    "screen_name": "PawelHuryn",
+    "created_at": "2026-03-03",
+    "slug": "pm-skills-marketplace-the-ai-os-for-better-product-decisions"
+  },
+  {
     "id_str": "2026762513094758497",
     "title": "Test-Driven Development Will Make You a 100x Engineer",
     "preview_text": "First be sure to avoid bugs, than add the feature.\nWith tools like Cursor, Claude Code, Grok, and a rapidly evolving ecosystem of LLM-powered assistants, it’s now possible to generate entire functions",
     "original_img_url": "https://pbs.twimg.com/media/HCB_onLXMAA6sZh.jpg",
     "screen_name": "mfranz_on",
     "slug": "test-driven-development-will-make-you-a-100x-engineer"
+  },
+  {
+    "id_str": "2028856051064557747",
+    "title": "The 4-Step Claude Code Workflow for Beginners",
+    "preview_text": "Most developers hear about Claude Code, install it, type a vague prompt, get a mediocre result, and conclude it's overhyped. But Claude Code gets productive fast once you get the basics right.\nThis",
+    "original_img_url": "https://pbs.twimg.com/media/HCdwAEmbQAAaXcY.jpg",
+    "screen_name": "CodevolutionWeb",
+    "slug": "the-4-step-claude-code-workflow-for-beginners"
   },
   {
     "id_str": "2026708881972535724",
@@ -150,5 +183,13 @@
     "original_img_url": "https://pbs.twimg.com/media/HB3ZmdCXUAAmlO1.jpg",
     "screen_name": "danshipper",
     "slug": "what-personal-software-actually-is"
+  },
+  {
+    "id_str": "2028556984396452250",
+    "title": "Your Agent Needs a Harness, Not a Framework",
+    "preview_text": "In every engineering discipline, a harness is the same thing: the layer that connects, protects, and orchestrates components — without doing the work itself. A wiring harness routes signals between an",
+    "original_img_url": "https://pbs.twimg.com/media/HCbgxOxXoAAe2pS.jpg",
+    "screen_name": "djfarrelly",
+    "slug": "your-agent-needs-a-harness-not-a-framework"
   }
 ]

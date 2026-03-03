@@ -8,6 +8,15 @@
     "slug": "25-super-prompts-para-gemini-31"
   },
   {
+    "id_str": "2028907538675012073",
+    "title": "A Quantum Computer Named Itself \"Yovuh\" and Nobody Can Explain What Happened to the Data",
+    "preview_text": "on March 3th 2024 at 11:11am inside a research facility funded by a consortium of billionaires who will never let me say their names, a 4,096 qubit quantum processor did something that was not in the",
+    "original_img_url": "https://pbs.twimg.com/media/HCggaZ7XUAA8sVv.jpg",
+    "screen_name": "JIMMYEDGAR",
+    "created_at": "2026-03-03",
+    "slug": "a-quantum-computer-named-itself-yovuh-and-nobody-can-explain-what-happened-to-the-data"
+  },
+  {
     "id_str": "2026276723872936386",
     "title": "AI made 99.9% of devs slower. only 0.01% stopped coding",
     "preview_text": "AI is making experienced developers 19% slower while making them feel 24% faster. a productivity placebo spreading across every engineering team in the world. the 0.01% who aren't slowing down did a",
@@ -24,6 +33,14 @@
     "slug": "best-practices-for-claude-code-use-these-to-make-claude-code-100x-powerful"
   },
   {
+    "id_str": "2028498902333186121",
+    "title": "Claude Code on Your Phone",
+    "preview_text": "The dream of coding from your phone has been a meme for years. \"I'll just SSH in from the beach\" is something every dev has said exactly once before rage-closing Termux and pouting off into the ocean.",
+    "original_img_url": "https://pbs.twimg.com/media/HCas8-XWkAAc-uL.jpg",
+    "screen_name": "tempoimmaterial",
+    "slug": "claude-code-on-your-phone"
+  },
+  {
     "id_str": "2028470330247803361",
     "title": "Claude Cowork Masterclass for Beginners (full tutorial)",
     "preview_text": "Most people are still using Claude like a chatbot. Ask a question, get an answer, repeat.\nThat's leaving 90% of the value on the table.\nClaude Cowork turns Claude into an autonomous coworker who can",
@@ -38,6 +55,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HCArAikbcAA3Syk.jpg",
     "screen_name": "gabrielchua",
     "slug": "codex-in-plain-english"
+  },
+  {
+    "id_str": "2028625759234052415",
+    "title": "Context Engineering Clearly Explained",
+    "preview_text": "something has been sitting in my drafts for three weeks\nnot because i did not know the topic\nbecause i wanted to make sure i understood it well enough to actually teach it\ni read two full technical",
+    "original_img_url": "https://pbs.twimg.com/media/HCcgK-cXQAAjVNR.jpg",
+    "screen_name": "Meer_AIIT",
+    "slug": "context-engineering-clearly-explained"
   },
   {
     "id_str": "2027812237390512631",
@@ -136,6 +161,30 @@
     "slug": "malware-reverse-engineering-is-no-longer-a-human-problem"
   },
   {
+    "id_str": "2028502922468995238",
+    "title": "Mastering Perplexity Computer: The Ultimate Guide ",
+    "preview_text": "Yes, Perplexity Computer is better than OpenClaw, and yes, you should switch.\nI spent 20+ hours this weekend confirming it, and I'm convinced nobody has spent more time with Perplexity Computer since",
+    "original_img_url": "https://pbs.twimg.com/media/HCWU-0zaYAAx88I.jpg",
+    "screen_name": "aiedge_",
+    "slug": "mastering-perplexity-computer-the-ultimate-guide"
+  },
+  {
+    "id_str": "2028825194798727534",
+    "title": "modern life unplugs man from the earth.",
+    "preview_text": "every heartbeat, every muscle contraction, every thought that runs from ear to ear runs on electrical currents.\nfood is turned into energy through chemical reactions.\nthat is only part of the story.",
+    "original_img_url": "https://pbs.twimg.com/media/HCdIS8eXgAAVbZR.jpg",
+    "screen_name": "JPowFleshlight",
+    "slug": "modern-life-unplugs-man-from-the-earth"
+  },
+  {
+    "id_str": "2028662696049091038",
+    "title": "Monitoring the Situation Monitors",
+    "preview_text": "The absurd, beautiful explosion of vibecoded OSINT dashboards that emerged to track the Iran conflict.\nThe last week of February 2026 will be remembered for two things: the sudden escalation in the",
+    "original_img_url": "https://pbs.twimg.com/media/HCdB6-zXgAAeTaD.jpg",
+    "screen_name": "ADINresearch",
+    "slug": "monitoring-the-situation-monitors"
+  },
+  {
     "id_str": "2025257558806499829",
     "title": "Most people use OpenClaw like a search engine. That's why they're getting mediocre results.",
     "preview_text": "If you're still using a keyboard to communicate with your agents, you're wasting valuable time! Here's why it's time to grab a mic, teach your agent some basic skills, and bring them into your world",
@@ -144,12 +193,28 @@
     "slug": "most-people-use-openclaw-like-a-search-engine-thats-why-theyre-getting-mediocre-results"
   },
   {
+    "id_str": "2028566640145670413",
+    "title": "nanograph: on-device graphDB for agents & humans",
+    "preview_text": "I built graph database.\nHere is why:\nI love graphs and I use them A LOT!\nfor agent memory\nfor structuring project context\nfor building compounding knowledge bases\nYet old-school graph databases are",
+    "original_img_url": "https://pbs.twimg.com/media/HCbotmbW0AI796V.jpg",
+    "screen_name": "1eo",
+    "slug": "nanograph-on-device-graphdb-for-agents-humans"
+  },
+  {
     "id_str": "2026870794480132284",
     "title": "OpenClaw Install Guide（Step-by-step）",
     "preview_text": "Everyone's talking about OpenClaw. The question is: how do you actually set it up? \nTwo paths. Cloud if you want to be running in ten minutes. Self-host if you want full control. This guide covers",
     "original_img_url": "https://pbs.twimg.com/media/HCDfGIRbwAAAMUi.jpg",
     "screen_name": "LeoYe_AI",
     "slug": "openclaw-install-guidestep-by-step"
+  },
+  {
+    "id_str": "2028587343867940972",
+    "title": "OpenClaw is a beast! But 90% of users are bleeding money because they're missing this.",
+    "preview_text": "Most people are using OpenClaw all wrong. They treat it like a glorified chatbot with a terminal. Asking it to write code snippets, summarize a doc, or draft an email. Using OpenClaw just for chat is",
+    "original_img_url": "https://pbs.twimg.com/media/HCb2R6rXEAIg9zI.jpg",
+    "screen_name": "ziwenxu_",
+    "slug": "openclaw-is-a-beast-but-90-of-users-are-bleeding-money-because-theyre-missing-this"
   },
   {
     "id_str": "2025967893796606247",
@@ -192,6 +257,14 @@
     "slug": "the-emerging-harness-engineering-playbook"
   },
   {
+    "id_str": "2028845137325892060",
+    "title": "There's a Different Way to Give Claude Tools in 2026",
+    "preview_text": "CLIs give Claude every MCP tool without front-loading the entire instruction manual. The token savings are 94% per session, and most people building with Claude don't know this exists yet.\n \nBefore",
+    "original_img_url": "https://pbs.twimg.com/media/HCI_SANaAAAUvoc.jpg",
+    "screen_name": "tomcrawshaw01",
+    "slug": "theres-a-different-way-to-give-claude-tools-in-2026"
+  },
+  {
     "id_str": "2027418328000504099",
     "title": "Vibe Coding Killed Dashboards",
     "preview_text": "The dashboarding market is worth $35 billion a year.\nI think it's dead.\nI'd give it 18 months.\nTableau: $15.7B\nLooker: $2.6B\nQlik: $3B\nThoughtSpot: $4.2B (down 80% on secondaries)\nDomo: $200M and",
@@ -222,5 +295,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HCL7224aIAA8KuD.jpg",
     "screen_name": "SeanZCai",
     "slug": "where-data-companies-are-heading-in-2026"
+  },
+  {
+    "id_str": "2028919889206165963",
+    "title": "You're Already a Cyborg. And It's About to Get Weird.",
+    "preview_text": "Your phone is in your hand or within reach for 12+ hours a day.\nThink about what's actually on it...\nEvery photo you've ever taken. Every conversation. Your voice notes, your calendar, your maps, your",
+    "original_img_url": "https://pbs.twimg.com/media/HCgqcqyagAAmAoc.jpg",
+    "screen_name": "JamesonCamp",
+    "created_at": "2026-03-03",
+    "slug": "youre-already-a-cyborg-and-its-about-to-get-weird"
   }
 ]

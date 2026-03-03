@@ -1,5 +1,21 @@
 [
   {
+    "id_str": "2028515697803030745",
+    "title": "98% Win Rate. 2 Indicators. Zero Guesswork. (My Exact Trading Formula)",
+    "preview_text": "I've tested over 1,000 indicators in the last 10 years, and only 2 of them actually make money.\nNot 15. Not 10. Not even 5.\nJust two.\nAnd before you think \"that's impossible\" or \"this is clickbait,\"",
+    "original_img_url": "https://pbs.twimg.com/media/HCa7lC4boAAYMK4.png",
+    "screen_name": "MarketMovesMatt",
+    "slug": "98-win-rate-2-indicators-zero-guesswork-my-exact-trading-formula"
+  },
+  {
+    "id_str": "2028475210609938701",
+    "title": "Backtested ETF Rotation Strategy",
+    "preview_text": "Today, we show a backtested ETF rotation strategy. \nOne of the most interesting ideas is ETF rotation: owning only the strongest asset instead of everything at once.\nHere’s what the data says. But",
+    "original_img_url": "https://pbs.twimg.com/media/HCZh3rNWYAAt8g7.jpg",
+    "screen_name": "QuantifiedStrat",
+    "slug": "backtested-etf-rotation-strategy"
+  },
+  {
     "id_str": "2028056322479153272",
     "title": "Detailed Article on Mark Minervini - Volatility Contraction Pattern (VCP)",
     "preview_text": "The Volatility Contraction Pattern (VCP) is a highly regarded technical chart pattern popularized by legendary stock trader Mark Minervini. It is primarily used to identify stocks that are preparing",
@@ -48,6 +64,14 @@
     "slug": "lessons-from-a-trading-great-stanley-druckenmiller"
   },
   {
+    "id_str": "2028686425357758905",
+    "title": "Nicolas Darvas : A Professional dancer & self taught investor who  turned $10,000 into $2 million",
+    "preview_text": "The Nicolas Darvas trading strategy, famously known as the Darvas Box Theory, is one of the most legendary trend-following systems in stock market history.\nDarvas was a professional ballroom dancer in",
+    "original_img_url": "https://pbs.twimg.com/media/HCdXdycb0AAnktE.jpg",
+    "screen_name": "pheonix_trader",
+    "slug": "nicolas-darvas-a-professional-dancer-self-taught-investor-who-turned-10000-into-2-million"
+  },
+  {
     "id_str": "2026412655234482492",
     "title": "Qullamaggie Mean Reversion Playbook - Highly Profitable and Repeatable",
     "preview_text": "Qullamägi’s Mean Reversion Playbook (No Fluff)\nQullamägi really only has one true “mean reversion” setup: the Parabolic Short (and its mirror, the Parabolic Long bounce). Everything revolves around",
@@ -62,5 +86,14 @@
     "original_img_url": "https://pbs.twimg.com/media/HCarwe-bIAER_jd.jpg",
     "screen_name": "ohiain",
     "slug": "stop-buying-the-obvious-breakout"
+  },
+  {
+    "id_str": "2028899660539281487",
+    "title": "Why Volatility-Adjusted Sizing Matters More Than You Think",
+    "preview_text": "Most traders don't fail because their strategy is broken. They fail because their position sizing is broken.\nThey trade the same size in a raging market as in a quiet one. They let volatility decide",
+    "original_img_url": "https://pbs.twimg.com/media/HCgY5BKWgAApp8X.jpg",
+    "screen_name": "AlgomaticTrade",
+    "created_at": "2026-03-03",
+    "slug": "why-volatility-adjusted-sizing-matters-more-than-you-think"
   }
 ]

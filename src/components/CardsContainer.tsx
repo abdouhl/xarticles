@@ -101,7 +101,7 @@ export default function CardsContainer({
 
         // Filter for new tools (added within last 30 days)
         if (filterNew) {
-            base = base.filter((tool) => isRecentlyAdded(tool['date-added'], 3));
+            base = base.filter((tool) => isRecentlyAdded(tool.created_at, 3));
         }
 
         if (sort === 'random') {
@@ -206,14 +206,14 @@ export default function CardsContainer({
     return (
         <section>
             <ul role="list" className="link-card-grid">
-                {displayedCards.map(({ id_str, title, preview_text, screen_name, 'date-added': dateAdded, slug, category, original_img_url }, i) => (
+                {displayedCards.map(({ id_str, title, preview_text, screen_name, created_at, slug, category, original_img_url }, i) => (
                     <Card
                         key={`${title}-${i}`}
                         href={`https://x.com/${screen_name}/status/${id_str}`}
                         title={title}
                         body={preview_text}
                         screen_name={screen_name}
-                        dateAdded={dateAdded}
+                        dateAdded={created_at}
                         slug={slug}
                         category={category}
                         image={original_img_url}

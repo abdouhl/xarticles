@@ -72,14 +72,14 @@ export default function FavoritesView() {
             </div>
 
             <ul role="list" className="link-card-grid">
-                {sortedTools.map(({ id_str, title, preview_text, screen_name, 'date-added': dateAdded, slug, category, original_img_url }, i) => (
+                {sortedTools.map(({ id_str, title, preview_text, screen_name, created_at, slug, category, original_img_url }, i) => (
                     <Card
                         key={`${slug}-${i}`}
                         href={`https://x.com/${screen_name}/status/${id_str}`}
                         title={title}
                         body={preview_text}
                         screen_name={screen_name}
-                        dateAdded={dateAdded}
+                        dateAdded={created_at}
                         slug={slug}
                         category={category}
                         image={original_img_url}

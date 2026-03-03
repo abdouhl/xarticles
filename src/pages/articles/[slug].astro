@@ -58,7 +58,7 @@ const formatDate = (dateStr: string) => {
 };
 
 const domain = extractDomain(`https://x.com/${tool.screen_name}/status/${tool.id_str}` || "");
-const formattedDate = formatDate(tool["date-added"]);
+const formattedDate = formatDate(tool.created_at);
 const canonicalUrl = `https://xarticl.es/articles/${tool.slug}`;
 const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
@@ -119,7 +119,7 @@ const breadcrumbs = [
     description={tool.body}
     url={tool.url}
     tag={tool.tag}
-    dateAdded={tool["date-added"]}
+    dateAdded={tool.created_at}
     category={category}
   />
   <BreadcrumbSchema items={breadcrumbs} />

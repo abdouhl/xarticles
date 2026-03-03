@@ -101,7 +101,7 @@ export default function CardsContainer({
 
         // Filter for new tools (added within last 30 days)
         if (filterNew) {
-            base = base.filter((tool) => isRecentlyAdded(tool['date-added'], 30));
+            base = base.filter((tool) => isRecentlyAdded(tool['date-added'], 3));
         }
 
         if (sort === 'random') {

@@ -35,7 +35,7 @@ export interface Article {
     original_img_url?: string;
     id_str: string;
     screen_name: string;
-    "date-added": string;
+    created_at: string;
     slug?: string;
 }
 

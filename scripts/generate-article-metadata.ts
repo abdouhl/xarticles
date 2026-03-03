@@ -56,7 +56,7 @@ try {
                 category: category.category,
                 url: `https://x.com/${tool.screen_name}/status/${tool.id_str}`,
                 screen_name: tool.screen_name,
-                'date-added': tool['date-added'],
+                created_at: tool.created_at,
                 slug: tool.slug
             };
 

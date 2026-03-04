@@ -361,6 +361,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HB89Qv-XwAAFW21.jpg",
           "screen_name": "twistartups",
           "slug": "your-startup-doesnt-have-a-knowledge-problem-it-has-a-memory-architecture-problem"
+        },
+        {
+          "id_str": "1831787113807073759",
+          "title": "\"Founder Mode\" shouldn't be a Rorschach Test",
+          "preview_text": "@paulg coined Founder Mode over the weekend, but he left \"what is founder mode\" and \"how to do it\" as an exercise for the reader.\nThat has left room for the term to become a Rorschach test... random",
+          "original_img_url": "https://pbs.twimg.com/media/GWvQoJWXsAAza8d.jpg",
+          "screen_name": "haridigresses",
+          "created_at": "2024-09-05"
         }
       ]
     },
@@ -1096,6 +1104,22 @@
           "screen_name": "JamesonCamp",
           "created_at": "2026-03-03",
           "slug": "youre-already-a-cyborg-and-its-about-to-get-weird"
+        },
+        {
+          "id_str": "2028863686107120003",
+          "title": "Why the New OpenClaw SubAgents System Removes Hidden Breakpoints ",
+          "preview_text": "The OpenClaw SubAgents system now behaves like real infrastructure instead of background helpers.\nIt introduces structure, sequencing, and verification across every task.\nIt eliminates the silent",
+          "original_img_url": "https://pbs.twimg.com/media/HCfk_02awAAcxnB.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2028882051584188905",
+          "title": "Custom Engines, Broken Rigs, and AI Costs",
+          "preview_text": "AI + Game Dev, Weekly — Feb 24 through Mar 2, 2026\nThe \"Build Your Own Engine\" Moment Is Here\nMultiple experienced developers — some with seven-figure engine licensing histories — independently",
+          "original_img_url": "https://pbs.twimg.com/media/HCgJQgOWIAELkIO.jpg",
+          "screen_name": "bennhoffman",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -1678,6 +1702,78 @@
           "original_img_url": "https://pbs.twimg.com/media/HCQJ5vbaIAEOEgK.jpg",
           "screen_name": "ericosiu",
           "slug": "your-ai-agent-infrastructure-is-the-real-moat-mine-has-already-replaced-27kmo-in-salaries"
+        },
+        {
+          "id_str": "2028955292025962534",
+          "title": "Investigating how Codex context compaction works",
+          "preview_text": "For non-codex models, the open-source Codex CLI compacts context locally: an LLM summarizes the conversation using a compaction prompt. When the compacted context is later used, responses.create()",
+          "original_img_url": "https://pbs.twimg.com/media/HChK-6VawAIhJ8h.jpg",
+          "screen_name": "Kangwook_Lee",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2023864936347398403",
+          "title": "No, you should not use OpenClaw to automate your G&A team",
+          "preview_text": "OpenClaw isn't about the tech, it's about the approach. It unlocks AI agents to boost personal productivity.\nThis approach is anchored on a few principles:\nIn a local (i.e,. device-first) approach,",
+          "original_img_url": "https://pbs.twimg.com/media/HBY2a4obsAAfeUt.jpg",
+          "screen_name": "haridigresses",
+          "created_at": "2026-02-17"
+        },
+        {
+          "id_str": "2028957200165814397",
+          "title": "The Two-Model AI Automation System That Executes Faster Than You Can Plan",
+          "preview_text": "The two-model AI automation system is rewriting how creators, operators, and founders build workflows that scale without adding headcount.\nClaude Sonnet 4.6 handles the thinking.\nKimi K2.5 handles the",
+          "original_img_url": "https://pbs.twimg.com/media/HChNXj9aEAAqzg1.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2029011993450139878",
+          "title": "OpenClaw WebSocket Transport Fixes Slow AI Automation",
+          "preview_text": "OpenClaw WebSocket transport just changed how AI automation works.\nIt replaces the old messaging system with a real time two way connection.\nThis makes AI agents faster, more stable, and much more",
+          "original_img_url": "https://pbs.twimg.com/media/HCh_QKzbsAAaGnY.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-04"
+        },
+        {
+          "id_str": "2028927989602476356",
+          "title": "Stop Prompting. Start Installing OpenClaw Extensions.",
+          "preview_text": "OpenClaw extensions are the upgrade that most AI users are ignoring.\nIt unlock over 2,800 community-built skills that instantly expand your local AI system.\nIt turn OpenClaw from a chatbot into a real",
+          "original_img_url": "https://pbs.twimg.com/media/HCgy6zDawAAng_y.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2029040275704963358",
+          "title": "Claude Code Auto Memory Just Made AI Remember Everything",
+          "preview_text": "Claude Code auto memory just changed how AI assistants actually work.\nThis means the system remembers your projects, commands, and preferences automatically.\nIt removes one of the biggest frustrations",
+          "original_img_url": "https://pbs.twimg.com/media/HCiZCOgawAA_zOU.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-04"
+        },
+        {
+          "id_str": "2028916262177521902",
+          "title": "Google Antigravity AI Studio: The New Builder Workflow",
+          "preview_text": "Google Antigravity AI Studio changes how you build.\nYou are no longer limited to writing every function and fixing every edge case yourself.\nInstead, you define direction clearly and supervise",
+          "original_img_url": "https://pbs.twimg.com/media/HCgnQAFawAASmlU.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2029053028465099076",
+          "title": "The AI Supercycle Just Hit Its First Crisis — And It Started in Seoul",
+          "preview_text": "At 3:03 a.m. UTC on March 4, the widely followed @spectatorindex account posted a stark update: \"BREAKING: South Korea's share market falls even further, now down 10%.\"\nIn a market that had been one",
+          "original_img_url": "https://pbs.twimg.com/media/HCik9oeXYAAPge0.jpg",
+          "screen_name": "ADINresearch",
+          "created_at": "2026-03-04"
+        },
+        {
+          "id_str": "2029048546343969212",
+          "title": "Perplexity AI Multimodel Workflow Turns AI Into a Real Operator",
+          "preview_text": "Perplexity AI Multimodel Workflow changes expectations around modern digital output.\nIt brings clarity to tasks that once felt chaotic.\nThis gives creators and teams uncommon execution power.\nWatch",
+          "original_img_url": "https://pbs.twimg.com/media/HCigabEbUAA3zXr.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-04"
         }
       ]
     },
@@ -1877,6 +1973,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCbgxOxXoAAe2pS.jpg",
           "screen_name": "djfarrelly",
           "slug": "your-agent-needs-a-harness-not-a-framework"
+        },
+        {
+          "id_str": "2028968986051002513",
+          "title": "The Google Stitch and GLM5 Workflow That Builds Full Stack Apps In Minutes",
+          "preview_text": "Google Stitch and GLM5 workflow is changing how apps get built.\nOne AI tool designs the interface.\nAnother AI tool writes the backend code.\nWatch the video below:\nWant to make money and save time with",
+          "original_img_url": "https://pbs.twimg.com/media/HChYEb4awAEkrCz.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2137,6 +2241,38 @@
           "original_img_url": "https://pbs.twimg.com/media/HCLo-qYa0AAuW2b.jpg",
           "screen_name": "whotfiszackk",
           "slug": "we-identify-micro-influencers-in-our-niche-1-5k-followers-who-have-engaged-audiences-but-no-product"
+        },
+        {
+          "id_str": "2028891363316777352",
+          "title": "How To Improve Your Outbound Campaign Results With Claude Code",
+          "preview_text": "Most people have no idea why their campaigns are not working.\nThey'll change the subject line. Adjust the send time. Swap out the\nlead list. Try a new sequencer.\nAnd the reply rates barely move.\nThe",
+          "original_img_url": "https://pbs.twimg.com/media/HCgRLg5awAQKcqY.jpg",
+          "screen_name": "coldemailchris",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2029054680777593272",
+          "title": "The Gallagher Paradox",
+          "preview_text": "It doesn't matter what they write about us in the press. As long as we're on the cover. They can write anything they want about us inside but as long as we're on the cover, then it don't matter. \n—",
+          "original_img_url": "https://pbs.twimg.com/media/HCbRDbUWAAARKkQ.jpg",
+          "screen_name": "Kpaxs",
+          "created_at": "2026-03-04"
+        },
+        {
+          "id_str": "2028910418866126893",
+          "title": "This Is How to Use Your GBP to Get Leads Without Anyone Visiting Your Website ",
+          "preview_text": "Something Weird Is Happening to Local Businesses Right Now\nYou check your rankings. Still on page one. Still in the map pack. Reviews look good. GBP is verified. Everything seems fine.\nBut the phone",
+          "original_img_url": "https://pbs.twimg.com/media/HCgjOIUawAM2aMH.jpg",
+          "screen_name": "LocalSEO_Guy",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2028774880276091319",
+          "title": "Creative Diversity: Explained ($25M in ad spend)",
+          "preview_text": "Creative Diversity was the most-used DTC marketing phrase in 2025.\nWhen you ask someone what Creative Diversity means, you’d usually get something along the lines of “using a diverse set of ads inside",
+          "original_img_url": "https://pbs.twimg.com/media/HCenyDxWsAElQnH.jpg",
+          "screen_name": "LachezarVoynov",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2191,6 +2327,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCI4aN_akAA01z_.jpg",
           "screen_name": "floriandarroman",
           "slug": "turn-your-openclaw-into-a-content-machine-send-this-to-your-agent"
+        },
+        {
+          "id_str": "1938679760093376662",
+          "title": "We need to talk about \"slop\"",
+          "preview_text": "“Slop” no longer means low-quality content. Most slop we see today is not crappy SEO pages, listicles on Buzzfeed, offshore content farms, or even bots on X or Reddit.\nWe need to update both our",
+          "original_img_url": "https://pbs.twimg.com/media/GueSxQSXIAAB4l-.jpg",
+          "screen_name": "haridigresses",
+          "created_at": "2025-06-27"
         }
       ]
     },
@@ -2243,6 +2387,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCVLg52awAEIOd4.jpg",
           "screen_name": "saimagnate",
           "slug": "this-one-thing-is-super-important-in-a-script"
+        },
+        {
+          "id_str": "2028926887896969225",
+          "title": "Gell-Mann Amnesia: A Definitive Ranking of Which Journalism Beats Are Most Filled With Hacks",
+          "preview_text": "Murray Gell-Mann wasn't a media critic--he was one of the greatest physicists of the 20th century, a Nobel laureate who discovered quarks and helped build the modern understanding of subatomic",
+          "original_img_url": "https://pbs.twimg.com/media/HCgzB6ybEAAwJy_.jpg",
+          "screen_name": "ADINresearch",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2479,6 +2631,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HB6hCz6WgAAOaHZ.jpg",
           "screen_name": "mralexthomas",
           "slug": "youre-building-your-body-in-the-wrong-order"
+        },
+        {
+          "id_str": "2028922659115770071",
+          "title": "The GLP-1 & Peptide Libido Question",
+          "preview_text": "A tweet went viral this week. Dr. Shin Geon-yeong, posting as @asparagoid, laid out the case in the cadence of a thriller:\n \nThe post racked up millions of impressions in a day. The replies split",
+          "original_img_url": "https://pbs.twimg.com/media/HCgpCJzXAAAOP3K.jpg",
+          "screen_name": "ADINresearch",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2555,6 +2715,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCfbAVVa4AAR37T.jpg",
           "screen_name": "pontusab",
           "slug": "saas-isnt-dead-your-ui-is"
+        },
+        {
+          "id_str": "2028976285368582429",
+          "title": "The Heat-Death of SaaS",
+          "preview_text": "First: SaaS ≠ Software\nB2B software is an industry that is many decades old, which has evolved in waves.\nWave 1 was the original stretch of prepackaged, on-premise business software, which lasted",
+          "original_img_url": "https://pbs.twimg.com/media/HChfELBbgAAawja.jpg",
+          "screen_name": "haridigresses",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2673,6 +2841,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HB251GdaMAAYOyM.jpg",
           "screen_name": "mvanhorn",
           "slug": "your-claudemd-is-broken-i-asked-x-reddit-and-youtube-what-actually-works"
+        },
+        {
+          "id_str": "2028963903246565726",
+          "title": "This Gemini 3.1 Pro and Claude Opus 4.6 Workflow Replaces 3 Team Roles",
+          "preview_text": "Gemini 3.1 Pro and Claude Opus 4.6 workflow is the unfair advantage most founders are missing.\nEveryone keeps asking which model is better.\nThat question is small thinking.\nWatch the video below:",
+          "original_img_url": "https://pbs.twimg.com/media/HChTh0gaEAAS5g-.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -2902,6 +3078,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCa-XucaAAAyzm9.jpg",
           "screen_name": "grinich",
           "slug": "workos-raises-100m-series-c-hits-2b-valuation"
+        },
+        {
+          "id_str": "2028887399473053928",
+          "title": "The era of running your entire business out of a Markdown file",
+          "preview_text": "As a company, we @moment_dev have a single ambition: to make it possible to run your entire business out of a Markdown file.\nA Markdown file, really? Yes. Finance people have Excel, lawyers have Word,",
+          "original_img_url": "https://pbs.twimg.com/media/HCgODH2awAMUjUi.jpg",
+          "screen_name": "hausdorff_space",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -3010,6 +3194,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCEXo39aMAEFZIT.jpg",
           "screen_name": "getoro_xyz",
           "slug": "wtf-are-militaries-using-ai-for-and-why-defense-budgets-are-fomoing-worldwide"
+        },
+        {
+          "id_str": "2028552760073822558",
+          "title": "For AI Beginners: Courses to Learn About AI that are Completely Free",
+          "preview_text": "The rise of artificial intelligence has made powerful tools accessible to everyone, but many users remain limited to surface-level prompting without understanding the underlying mechanics. \nHere are",
+          "original_img_url": "https://pbs.twimg.com/media/HCbd87uXYAArLvC.jpg",
+          "screen_name": "mkbijaksana",
+          "created_at": "2026-03-02"
         }
       ]
     },
@@ -3162,6 +3354,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HB7clwIXYAAMe5W.jpg",
           "screen_name": "gemchange_ltd",
           "slug": "your-hedge-funds-sharpe-ratio-is-a-lie-prediction-markets-are-the-only-place-it-cant-hide"
+        },
+        {
+          "id_str": "2028938620225372548",
+          "title": "👿The MAD Straddle 👿",
+          "preview_text": "This post explores the relationship between an option straddle and volatility.\nYou will learn:\n☑️The relationship between MAD (mean absolute deviation) and standard deviation\n☑️how to approximate a",
+          "original_img_url": "https://pbs.twimg.com/media/HCg0oOmaAAArsuy.jpg",
+          "screen_name": "KrisAbdelmessih",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -3392,6 +3592,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HCKDsm9aoAAS2YE.jpg",
           "screen_name": "Shawnife",
           "slug": "when-a-profitable-company-fires-half-its-staff-pay-attention"
+        },
+        {
+          "id_str": "2028903808999256147",
+          "title": "Prediction Markets: Maker vs Taker Advantage",
+          "preview_text": "Why structural liquidity advantage consistently outperforms forecasting - and how professional traders exploit it.\nTraders using the Gluon trading bot apply exactly this strategy — automatically",
+          "original_img_url": "https://pbs.twimg.com/media/HCgdL7dWMAAU6OV.png",
+          "screen_name": "mikita_crypto",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2028891920068411811",
+          "title": "How Accurate Is Polymarket Compared To Superforecasters?+  Brier score? ",
+          "preview_text": "Recently, Good Judgment’s data scientist Christopher Karvetski published something much less flashy and much more useful for people like us traders: a head-to-head accuracy test between Polymarket and",
+          "original_img_url": "https://pbs.twimg.com/media/HCgPgalW4AEiUr1.jpg",
+          "screen_name": "AleiahLock",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -3494,6 +3710,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCdjzceaQAAerCw.jpg",
           "screen_name": "saimagnate",
           "slug": "you-have-no-idea-what-youre-looking-at"
+        },
+        {
+          "id_str": "2029029736341786646",
+          "title": "NotebookLM and Google AntiGravity: The Fastest Way To Build Landing Pages",
+          "preview_text": "The AI landing page generator is becoming the fastest way to turn ideas into finished landing pages.\nIt removes the friction that normally slows teams down when they try to design, write, or build",
+          "original_img_url": "https://pbs.twimg.com/media/HCiPbgxbIAAvyI4.jpg",
+          "screen_name": "JulianGoldieSEO",
+          "created_at": "2026-03-04"
         }
       ]
     },
@@ -3702,6 +3926,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HCFd4YqWcAAuyO6.jpg",
           "screen_name": "oliverhenry",
           "slug": "the-dangerous-side-of-openclaw-skills-and-how-to-protect-yourself"
+        },
+        {
+          "id_str": "2028889783938830836",
+          "title": "How Claude Code escapes its own denylist and sandbox",
+          "preview_text": "The adversary can reason now, and our security tools weren't built for that.\n \nToday, we're releasing Veto in early access, our content-addressable kernel enforcement engine.\n\nIn the last ten days, a",
+          "original_img_url": "https://pbs.twimg.com/media/HCgPcXvWgAIt-RQ.jpg",
+          "screen_name": "leodido",
+          "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "2028885272872796596",
+          "title": "i've \"stolen\" $75,000+ from Fortune 500 companies over the last 5 years ",
+          "preview_text": "i've \"stolen\" $75,000+ from Fortune 500 companies over the last 5 years and they keep asking me to take more\nnot stolen like i hacked anything\n\"stolen\" like i found a gap in how billion-dollar",
+          "original_img_url": "https://pbs.twimg.com/media/HCZKucPWAAAr8Rq.jpg",
+          "screen_name": "MakinHisWay",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -3890,6 +4130,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCTEbF2bwAA_Kan.jpg",
           "screen_name": "jiayun_studio",
           "slug": "the-ultimate-design-toolkit-for-builders"
+        },
+        {
+          "id_str": "2028903716863262795",
+          "title": "Why Design Tools Are Going Open Source (And Why It Matters Now)",
+          "preview_text": "In February 2026, Figma released version 126.1.2. One line in the changelog caught nobody's attention. It should have.\nThe update stripped --remote-debugging-port on startup, with no announcement and",
+          "original_img_url": "https://pbs.twimg.com/media/HCgdIa2awAACvOI.jpg",
+          "screen_name": "hnshah",
+          "created_at": "2026-03-03"
         }
       ]
     },
@@ -3912,6 +4160,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCamjOYXgAAuvIi.jpg",
           "screen_name": "ADINresearch",
           "slug": "the-invisible-war-for-your-mind"
+        },
+        {
+          "id_str": "2028941867379765740",
+          "title": "Dominance vs Submission: The definitive personality traits and behaviors checklist",
+          "preview_text": "Forget everything else you've read on mainstream about what dominance is. Dominance is self-assertion. You're either dominant or submissive in every place and situation, even when alone by yourself in",
+          "original_img_url": "https://pbs.twimg.com/media/HCg_yLbWYAECVW1.jpg",
+          "screen_name": "YOHAMI",
+          "created_at": "2026-03-03"
         }
       ]
     },

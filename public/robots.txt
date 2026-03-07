@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://xarticl.es/sitemap-index.xml
+Sitemap: https://www.xarticl.es/sitemap-index.xml
+Ads.txt: https://www.xarticl.es/ads.txt

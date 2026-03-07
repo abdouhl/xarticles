@@ -1,11 +1,56 @@
 [
   {
+    "id_str": "2028938620225372548",
+    "title": "👿The MAD Straddle 👿",
+    "preview_text": "This post explores the relationship between an option straddle and volatility.\nYou will learn:\n☑️The relationship between MAD (mean absolute deviation) and standard deviation\n☑️how to approximate a",
+    "original_img_url": "https://pbs.twimg.com/media/HCg0oOmaAAArsuy.jpg",
+    "screen_name": "KrisAbdelmessih",
+    "created_at": "2026-03-03",
+    "slug": "the-mad-straddle"
+  },
+  {
+    "id_str": "2013512020646301815",
+    "title": "How I Made $2.2M in 2025 Day Trading (Full Training)",
+    "preview_text": "I made $2.2 million day trading in 2025.\nI've boiled my entire trading approach down into a simple 3-step framework that ANYONE can follow. \nIn this article, I'll show you exactly what it is (and how",
+    "original_img_url": "https://pbs.twimg.com/media/G-2Ftc5bkAAeQhZ.jpg",
+    "screen_name": "Bradgohtrades",
+    "created_at": "2026-01-20",
+    "slug": "how-i-made-22m-in-2025-day-trading-full-training"
+  },
+  {
+    "id_str": "2015069356317983027",
+    "title": "How To Correctly Reason About A Market Maker",
+    "preview_text": "Introduction\nA market maker quotes bid and ask prices, earns the spread when both sides fill, and manages the inventory risk in between. \nEveryone that writes an article on market making will hit you",
+    "original_img_url": "https://pbs.twimg.com/media/G_b0dT7awAAt05g.jpg",
+    "screen_name": "systematicls",
+    "created_at": "2026-01-24",
+    "slug": "how-to-correctly-reason-about-a-market-maker"
+  },
+  {
     "id_str": "2026393693385798010",
     "title": "Stop Trading Yesterday’s Volatility: A guide to trade future vol using Synth data",
     "preview_text": "data from Feb 16th 2026\nMost traders set stops and targets based on where price has been, not where it is going. When vol shifts around news or regime changes, those levels are wrong before the trade",
     "original_img_url": "https://pbs.twimg.com/media/HB8yQHIaMAAodRJ.jpg",
     "screen_name": "SynthdataCo",
     "slug": "stop-trading-yesterdays-volatility-a-guide-to-trade-future-vol-using-synth-data"
+  },
+  {
+    "id_str": "2029610565132505510",
+    "title": "Wall Street Pays $300,000 a Year to Quant Who Think This Way ",
+    "preview_text": "The interviewer slides a piece of paper across the table. One handwritten problem, no charts, no Bloomberg terminal, no prior knowledge of markets required.\n\nThree problems and ninety minutes to show",
+    "original_img_url": "https://pbs.twimg.com/media/HCpl8MqW8AA344w.png",
+    "screen_name": "phosphenq",
+    "created_at": "2026-03-05",
+    "slug": "wall-street-pays-300000-a-year-to-quant-who-think-this-way"
+  },
+  {
+    "id_str": "2003099156915843227",
+    "title": "Why People Are (Mostly) Wrong About Hedge Fund Returns",
+    "preview_text": "Introduction\nMost criticism of hedge fund returns is based on a category error. When someone tells you hedge funds “underperform the market,” they are comparing a boat to a car and complaining the",
+    "original_img_url": "https://pbs.twimg.com/media/G8xwOqBbgAATcDA.jpg",
+    "screen_name": "systematicls",
+    "created_at": "2025-12-22",
+    "slug": "why-people-are-mostly-wrong-about-hedge-fund-returns"
   },
   {
     "id_str": "2026300422483271733",

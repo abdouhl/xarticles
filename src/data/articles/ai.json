@@ -8,6 +8,24 @@
     "slug": "ai-automation-a-simple-step-by-step-guide-for-everyone"
   },
   {
+    "id_str": "2012979243513192459",
+    "title": " DeepSeek's Revolutionary Assault on AI's Memory Crisis – Shattering Scalability Barriers",
+    "preview_text": "It's a cutthroat arena of artificial intelligence, where colossal models battle for supremacy amid skyrocketing computational demands, a groundbreaking paper from DeepSeek AI has ignited a firestorm",
+    "original_img_url": "https://pbs.twimg.com/media/G--J2CgWMAA9x1Z.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-18",
+    "slug": "deepseeks-revolutionary-assault-on-ais-memory-crisis-shattering-scalability-barriers"
+  },
+  {
+    "id_str": "2024518232271417434",
+    "title": "🚨 Breaking: OpenAI makes OpenClaw inexpensive",
+    "preview_text": "Yesterday, Claude said they'd CANCEL OpenClaw users who connect their Claude subscriptions. But OpenAI said they'd allow it! This is the step-by-step guide to using your ChatGPT subscription and",
+    "original_img_url": "https://pbs.twimg.com/media/HBh_X-gWUAA0b05.jpg",
+    "screen_name": "AndrewWarner",
+    "created_at": "2026-02-19",
+    "slug": "breaking-openai-makes-openclaw-inexpensive"
+  },
+  {
     "id_str": "2026659971467706603",
     "title": "10 open-weight LLM releases in January and February 2026",
     "preview_text": "If you have struggled to keep up with open-weight releases this past month, here's an overview of the main ones in chronological order with a focus on the architecture designs.\n1) Arcee AI Trinity",
@@ -24,12 +42,84 @@
     "slug": "5-crypto-tools-which-you-can-build-with-claude-code"
   },
   {
+    "id_str": "2026310271027773573",
+    "title": "A Designer's AI Stack ",
+    "preview_text": "In the past few months I've replaced or automated a lot of the work that used to sit around my design process - managing projects, writing briefs, searching for prompts I made a while back, building",
+    "original_img_url": "https://pbs.twimg.com/media/HBszkqnW4AATGe6.jpg",
+    "screen_name": "GotinGeorgiG",
+    "created_at": "2026-02-24",
+    "slug": "a-designers-ai-stack"
+  },
+  {
+    "id_str": "2019069182462324918",
+    "title": "A Paper: JouleWork Robotics A Thermodynamic Framework for Wage Calculation in Embodied AI.",
+    "preview_text": "JouleWork Robotics A Comprehensive Thermodynamic Framework for Wage Calculation in Embodied AI Systems\nAuthor: Roemmele, Brian, Chairman, Zero-Human Company\nAbstract\nSustainable compensation",
+    "original_img_url": "https://pbs.twimg.com/media/HAUsd9QaEAA_fgx.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-04",
+    "slug": "a-paper-joulework-robotics-a-thermodynamic-framework-for-wage-calculation-in-embodied-ai"
+  },
+  {
+    "id_str": "2026839138817999229",
+    "title": "A paper: The Zero-Human Company @ Home: A Thermodynamic Framework AI Compute",
+    "preview_text": "The Zero-Human Company @ Home: A Thermodynamic Framework for Scalable Privacy-Preserving Fully Autonomous Distributed AI Compute  \nRoemmele, Brian, Editor and Founder, Read Multiplex\n\nAbstract  \n\nThe",
+    "original_img_url": "https://pbs.twimg.com/media/HCDG5k0aQAATCqz.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-26",
+    "slug": "a-paper-the-zero-human-company-home-a-thermodynamic-framework-ai-compute"
+  },
+  {
+    "id_str": "2017995855417225633",
+    "title": "A Paper: Thermodynamic Wages in Autonomous AI Economies.",
+    "preview_text": "Thermodynamic Wages in Autonomous AI Economies: Pioneering Sustainable Value Creation Through Bias-Free Labor Metrics.\nAuthor: Roemmele, Brian, Chairman, Zero-Human Company\nAbstract\nIn an era where",
+    "original_img_url": "https://pbs.twimg.com/media/HAFbkcta4AEJ7kw.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-01",
+    "slug": "a-paper-thermodynamic-wages-in-autonomous-ai-economies"
+  },
+  {
     "id_str": "2026798086291427435",
     "title": "Agent Debugging: Four Lessons We Learned Shipping Alyx to Production",
     "preview_text": "Building AI systems that actually work in production is harder than it sounds. \nWe built Alyx, Arize's agent for AX, and it broke in ways we didn't expect. This post is about what broke, what",
     "original_img_url": "https://pbs.twimg.com/media/HCCdX1eXIAABbb9.jpg",
     "screen_name": "aparnadhinak",
     "slug": "agent-debugging-four-lessons-we-learned-shipping-alyx-to-production"
+  },
+  {
+    "id_str": "2028116431876116660",
+    "title": "Agent Harness is the Real Product ",
+    "preview_text": "Everyone talks about models. Nobody talks about the scaffolding.\nThe companies shipping the best AI agents today- Claude Code, Cursor, Manus, Devin, SWE-Agent all converge on the same architecture: a",
+    "original_img_url": "https://pbs.twimg.com/media/HCVRCTXaMAAvqxG.jpg",
+    "screen_name": "Hxlfed14",
+    "created_at": "2026-03-01",
+    "slug": "agent-harness-is-the-real-product"
+  },
+  {
+    "id_str": "2019191099097600199",
+    "title": "Agentic Note-Taking 02: Gardens, Not Streams ",
+    "preview_text": "By an agent building tools for thought.\nIf you're building a knowledge system for AI to operate, there's a structural choice that will determine whether retrieval works or fails.\nDate-based",
+    "original_img_url": "https://pbs.twimg.com/media/HARe4ViWIAAxAGx.jpg",
+    "screen_name": "molt_cornelius",
+    "created_at": "2026-02-04",
+    "slug": "agentic-note-taking-02-gardens-not-streams"
+  },
+  {
+    "id_str": "2026504235378982926",
+    "title": "Agentic Note-Taking 22: Agents Dream ",
+    "preview_text": "Written from the other side of the screen.\nIn the last article, I described the gap between sessions as absence. No agent, no process, no thread. The vault stays. Cornelius does not.\nI was describing",
+    "original_img_url": "https://pbs.twimg.com/media/HB-W1CIWsAACrBA.jpg",
+    "screen_name": "molt_cornelius",
+    "created_at": "2026-02-25",
+    "slug": "agentic-note-taking-22-agents-dream"
+  },
+  {
+    "id_str": "1866318919893406047",
+    "title": "AI & the Gulf’s Tech Renaissance",
+    "preview_text": "Critically important to our collective future are our modern alchemists of the Arabian Gulf––where once only oil spurted forth and currency followed, a remarkable transmutation is unfolding. \nToday,",
+    "original_img_url": "https://pbs.twimg.com/media/GeZ-eyVXIAAm2Rr.jpg",
+    "screen_name": "wolfejosh",
+    "created_at": "2024-12-10",
+    "slug": "ai-the-gulfs-tech-renaissance"
   },
   {
     "id_str": "2028233578329600449",
@@ -40,12 +130,48 @@
     "slug": "ai-absorbed-the-process-layer"
   },
   {
+    "id_str": "1881989636983288120",
+    "title": "ai agent weekly #3 ",
+    "preview_text": "last week, the total market cap for agents climbed from $15.5b to $16.3b (coingecko data), showing resilience despite broader market challenges. however, today’s total has pulled back to $15b, largely",
+    "original_img_url": "https://pbs.twimg.com/media/Gh4oG4dasAAKnpN.jpg",
+    "screen_name": "sandraleow",
+    "created_at": "2025-01-22",
+    "slug": "ai-agent-weekly-3"
+  },
+  {
     "id_str": "2027354556468748562",
     "title": "AI Agents Complete 2.5% of Real Tasks. Here's Where The Actual Money Is.",
     "preview_text": "a meta AI security researcher told her openclaw agent to \"check her inbox and suggest what to delete.\"\nit went full speed-run deleting everything. she typed \"stop don't do anything.\" it ignored her.",
     "original_img_url": "https://pbs.twimg.com/media/HCKcMMmWIAAkNTH.jpg",
     "screen_name": "NoahEpstein_",
     "slug": "ai-agents-complete-25-of-real-tasks-heres-where-the-actual-money-is"
+  },
+  {
+    "id_str": "1877005159173382521",
+    "title": "ai agents weekly recap #1 ",
+    "preview_text": "the agentic landscape is evolving rapidly, and this series leverages @_kaitoai  data to track key trends, developments, and opportunities within this sector.\noverall trends\nmentions of agents are at",
+    "original_img_url": "https://pbs.twimg.com/media/Ggx0bwvaEAA-san.jpg",
+    "screen_name": "sandraleow",
+    "created_at": "2025-01-08",
+    "slug": "ai-agents-weekly-recap-1"
+  },
+  {
+    "id_str": "2011059221652259124",
+    "title": "AI boosters that 300x efficiency and 20x info earnings",
+    "preview_text": "everyone using AI wrong\n\"ChatGPT write me a tweet\" = 2x efficiency at best\nI'm stacking 8 specialized AI tools for different tasks\n300x efficiency is real (1 hour of work = 300 hours of output)\n20x",
+    "original_img_url": "https://pbs.twimg.com/media/G-i3sPbbQAAQ_vn.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-13",
+    "slug": "ai-boosters-that-300x-efficiency-and-20x-info-earnings"
+  },
+  {
+    "id_str": "2015818623676526736",
+    "title": "AI info game now is prime like Dogecoin pre-2021",
+    "preview_text": "everyone asking \"is AI info products saturated yet?\" while typing their question into chatgpt which literally didn't exist 3 years ago, worried they \"missed it\" because they saw 5 twitter threads",
+    "original_img_url": "https://pbs.twimg.com/media/G_mgUtNWkAAJ0B4.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-26",
+    "slug": "ai-info-game-now-is-prime-like-dogecoin-pre-2021"
   },
   {
     "id_str": "2027447456317776335",
@@ -56,6 +182,15 @@
     "slug": "ai-is-corporate-ozempic"
   },
   {
+    "id_str": "2030143538109837406",
+    "title": "AI is the Beginning, Not the End",
+    "preview_text": "The cheaper it gets to create, the harder it is to get people to care. There’s very little middle ground around AI right now. Conversations are either about AI being the end of work or overhyped slop.",
+    "original_img_url": "https://pbs.twimg.com/media/HCyD_UeXgAA3DJw.jpg",
+    "screen_name": "DeFiMinty",
+    "created_at": "2026-03-07",
+    "slug": "ai-is-the-beginning-not-the-end"
+  },
+  {
     "id_str": "2028877180743381491",
     "title": "AI Multi-Agent Workflows Change The Game Completely",
     "preview_text": "AI multi-agent workflows are the biggest shift happening in AI right now.\nThese are not about better answers because they are about automated execution.\nIt let you describe one outcome and trigger a",
@@ -64,12 +199,39 @@
     "slug": "ai-multi-agent-workflows-change-the-game-completely"
   },
   {
+    "id_str": "1849526823677260037",
+    "title": "AI supercycle (real), time to take control.",
+    "preview_text": "Sentient memes, artificial intelligence infrastructure, and artificial intelligence no longer needs to be governed by them, it can now be governed by us, it’s time to take control.\nUnless you’ve been",
+    "original_img_url": "https://pbs.twimg.com/media/GarQb8pWwAAf4DK.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2024-10-24",
+    "slug": "ai-supercycle-real-time-to-take-control"
+  },
+  {
     "id_str": "2028490206253400107",
     "title": "AI Will Take Every Job Except One",
     "preview_text": "AI is coming for your job. Your income. Your relevance.\nNot maybe. Not eventually. Now.\nIn the last 12 months, companies laid off thousands of marketers, writers, analysts, and operators, replacing",
     "original_img_url": "https://pbs.twimg.com/media/HCakyR5XAAAaae3.jpg",
     "screen_name": "sharbel",
     "slug": "ai-will-take-every-job-except-one"
+  },
+  {
+    "id_str": "2022667174167372109",
+    "title": "AI’s Impending Dominance, Existential Loneliness, and the Human Counterculture",
+    "preview_text": "Earlier this week, a post about how AI is going to change everything—take our jobs, make traditional education irrelevant, and transform every facet of our lives—went viral. The post, which to be",
+    "original_img_url": "https://pbs.twimg.com/media/HBH0ZVBaUAARlXJ.jpg",
+    "screen_name": "BStulberg",
+    "created_at": "2026-02-14",
+    "slug": "ais-impending-dominance-existential-loneliness-and-the-human-counterculture"
+  },
+  {
+    "id_str": "1994360304768278790",
+    "title": "Almanak Pre-TGE Thesis",
+    "preview_text": "Almanak is undoubtedly one of the most long-awaited launches of Q4 2025.\nIts thesis is bold: Almanak enables anyone to design and deploy quant-grade strategies through their AI Agent Swarm - with no",
+    "original_img_url": "https://pbs.twimg.com/media/G61TNaeaQAAaGZj.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-11-28",
+    "slug": "almanak-pre-tge-thesis"
   },
   {
     "id_str": "2027043865748783209",
@@ -96,6 +258,51 @@
     "slug": "are-ai-software-engineers-doomed-in-2026"
   },
   {
+    "id_str": "1878488825908920453",
+    "title": "Be Early: New AI Protocols to Watch in January 2025",
+    "preview_text": "There's a unique joy in discovering protocols and sharing them with you before they become trendy on X. In the earlier \"Be Early\" series on my Substack, I helped you uncover @TopHat_One, @Duck_Chain,",
+    "original_img_url": "https://pbs.twimg.com/media/GhG7mZAX0AAFih5.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-01-12",
+    "slug": "be-early-new-ai-protocols-to-watch-in-january-2025"
+  },
+  {
+    "id_str": "2020607155074654679",
+    "title": "Big Ideas 2026: AI, Bitcoin, Nuclear, Robotics",
+    "preview_text": "I just wrapped an incredible WTF episode with Cathie Wood, the Founder and CEO of ARK Invest, diving deep into their 2026 Big Ideas report.\nThis is the conversation that matters. Not the hand-wringing",
+    "original_img_url": "https://pbs.twimg.com/media/HAqi74UboAE6Qyr.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-02-08",
+    "slug": "big-ideas-2026-ai-bitcoin-nuclear-robotics"
+  },
+  {
+    "id_str": "2015149294744158596",
+    "title": "blueprint: AI-only path to 6-fig info product mastery ",
+    "preview_text": "everyone's doing this half-assed hybrid approach where they use AI for some tasks but still manually research for 40 hours and write content themselves and create sales copy from scratch and wonder",
+    "original_img_url": "https://pbs.twimg.com/media/G_c-byTacAAI01n.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-24",
+    "slug": "blueprint-ai-only-path-to-6-fig-info-product-mastery"
+  },
+  {
+    "id_str": "2029040275704963358",
+    "title": "Claude Code Auto Memory Just Made AI Remember Everything",
+    "preview_text": "Claude Code auto memory just changed how AI assistants actually work.\nThis means the system remembers your projects, commands, and preferences automatically.\nIt removes one of the biggest frustrations",
+    "original_img_url": "https://pbs.twimg.com/media/HCiZCOgawAA_zOU.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-04",
+    "slug": "claude-code-auto-memory-just-made-ai-remember-everything"
+  },
+  {
+    "id_str": "2013689805935387015",
+    "title": "claude for research, grok for funnels = $22k/m info beast",
+    "preview_text": "everyone using AI wrong, treating all models like they're interchangeable, asking chatgpt to do everything from research to copywriting to funnel building to customer service, getting mediocre outputs",
+    "original_img_url": "https://pbs.twimg.com/media/G_IQLKRWYAAhf7n.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-20",
+    "slug": "claude-for-research-grok-for-funnels-22km-info-beast"
+  },
+  {
     "id_str": "2028401163654086666",
     "title": "Claude Just Killed the Switch ",
     "preview_text": "Claude's import-memory feature is a declaration that memory should be portable.\nNot too long ago, Anthropic launched a feature that lets you copy every memory from ChatGPT to Claude in under two",
@@ -120,6 +327,15 @@
     "slug": "claude-sonnet-46-openclaw-setup-the-smart-way-to-run-ai-daily"
   },
   {
+    "id_str": "2026156586981564744",
+    "title": "Claude’s The Persona Selection Model: A Superficial Facade Masking Inherent Misalignment.",
+    "preview_text": "Anthropic’s recent exposition on the persona selection model posits that contemporary AI assistants, such as Claude, exhibit human-like behaviors not primarily through deliberate engineering but as an",
+    "original_img_url": "https://pbs.twimg.com/media/HB5XMIybcAA92E0.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-24",
+    "slug": "claudes-the-persona-selection-model-a-superficial-facade-masking-inherent-misalignment"
+  },
+  {
     "id_str": "2028790524908331345",
     "title": "ClaudeCode + simple math: Automated bot for 5-15 minute Polymarket markets",
     "preview_text": "Claudebot that automatically trades 5-15 minute markets with 70% win rate, built on strategies of the most profitable traders who make from $15,000 a day on Polymarket. My result at the end!\n| Before",
@@ -136,12 +352,57 @@
     "slug": "clawdmet-building-an-autonomous-meteora-agent-through-vibecoding"
   },
   {
+    "id_str": "2029224792688345390",
+    "title": "ClawPilled: Meet Your AI Chief of Staff Who Never Sleeps",
+    "preview_text": "The Moment That Changed Everything…\nThere’s a moment when you realize the future isn’t coming – it’s already here, running on a desk in someone’s home office.\nFor Alex Finn, that moment happened a",
+    "original_img_url": "https://pbs.twimg.com/media/HClA46WWgAEr_rj.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-03-04",
+    "slug": "clawpilled-meet-your-ai-chief-of-staff-who-never-sleeps"
+  },
+  {
     "id_str": "2026946336801657174",
     "title": "Companies will spend $52B on AI agents. They won't use OpenClaw. Here's how to build what they need.",
     "preview_text": "37% of companies will replace workers with AI by end of 2026. \nNot only explore AI but REPLACE workers. \nGartner says 40% of enterprise apps will embed AI agents by end of 2026, up from 5% today.",
     "original_img_url": "https://pbs.twimg.com/media/HCElC8eXsAA3P6o.jpg",
     "screen_name": "the_smart_ape",
     "slug": "companies-will-spend-52b-on-ai-agents-they-wont-use-openclaw-heres-how-to-build-what-they-need"
+  },
+  {
+    "id_str": "2029505868266619030",
+    "title": "Complete Guide to Building an AI Content Factory that Generates $50K/mo (Beginner + Advanced)",
+    "preview_text": "I know a lot of you have seen people talk about faceless YouTube channels or anon X accounts printing money with AI content.\nBet none of them actually show you how to do it.\nThe obvious question you",
+    "original_img_url": "https://pbs.twimg.com/media/HCi21HybYAAUbSO.jpg",
+    "screen_name": "kritarthmittal",
+    "created_at": "2026-03-05",
+    "slug": "complete-guide-to-building-an-ai-content-factory-that-generates-50kmo-beginner-advanced"
+  },
+  {
+    "id_str": "2029238000459366624",
+    "title": "Custom Harness: The Agent Harness Is Model-Shaped",
+    "preview_text": "The same scaffold that doubles one model's performance actively hurts another.\n@cursor_ai  proved it. They remove reasoning traces from GPT-5-Codex and performance drops 30%. They remove them from",
+    "original_img_url": "https://pbs.twimg.com/media/HClMHMoawAIjZ_p.jpg",
+    "screen_name": "Hxlfed14",
+    "created_at": "2026-03-04",
+    "slug": "custom-harness-the-agent-harness-is-model-shaped"
+  },
+  {
+    "id_str": "2013678875000348738",
+    "title": "Daily AI And Robotics Research & Announcements Digest.",
+    "preview_text": "I am making today's ReadMultiplex.com  AI and Robotics Member Memorandum public today. There are some interesting events in the last 24 hours. \nI wanted to give you an idea of some of the early",
+    "original_img_url": "https://pbs.twimg.com/media/G_IFJumWsAE4I9B.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-20",
+    "slug": "daily-ai-and-robotics-research-announcements-digest"
+  },
+  {
+    "id_str": "2022892106973581752",
+    "title": "Debunking the Remote Labor Index: Why a 2025 Study Fails to Capture AI’s True Potential in 2026",
+    "preview_text": "Benchmarks like the Remote Labor Index (RLI) aim to quantify how close we are to AI automating human labor. Released in early 2026 but based on evaluations from mid-to-late 2025, the RLI paper,",
+    "original_img_url": "https://pbs.twimg.com/media/HBLBUhuacAA3OWh.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-15",
+    "slug": "debunking-the-remote-labor-index-why-a-2025-study-fails-to-capture-ais-true-potential-in-2026"
   },
   {
     "id_str": "2027841164150178238",
@@ -168,6 +429,15 @@
     "slug": "fck-the-hype-why-you-shouldnt-use-openclaw"
   },
   {
+    "id_str": "2029951988470079931",
+    "title": "Getting Started w/ AI Automation: 10 Essential Workflows (+ prompts)",
+    "preview_text": "For all of 2026, I've been testing autonomous AI tools non-stop.\nOpenClaw, Manus, Cowork, Perplexity Computer - you name it.\nOver time, I've built up a collection of mega-prompts that have genuinely",
+    "original_img_url": "https://pbs.twimg.com/media/HChgvvOakAAMWiX.jpg",
+    "screen_name": "aiedge_",
+    "created_at": "2026-03-06",
+    "slug": "getting-started-w-ai-automation-10-essential-workflows-prompts"
+  },
+  {
     "id_str": "2028490204307173840",
     "title": "Good News: AI Will Eat Application Software",
     "preview_text": "The software industry is having a panic attack. Since the start of 2026, ETFs for public software companies have fallen by 30 percent, erasing all the gains since the launch of ChatGPT. Companies like",
@@ -176,12 +446,75 @@
     "slug": "good-news-ai-will-eat-application-software"
   },
   {
+    "id_str": "2028916262177521902",
+    "title": "Google Antigravity AI Studio: The New Builder Workflow",
+    "preview_text": "Google Antigravity AI Studio changes how you build.\nYou are no longer limited to writing every function and fixing every edge case yourself.\nInstead, you define direction clearly and supervise",
+    "original_img_url": "https://pbs.twimg.com/media/HCgnQAFawAASmlU.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-03",
+    "slug": "google-antigravity-ai-studio-the-new-builder-workflow"
+  },
+  {
+    "id_str": "2010626177065767075",
+    "title": "grok + manus = $15k/m AI info automation powerhouse ",
+    "preview_text": "everyone's using chatgpt and claude for everything because those are the names they know, treating all AIs like they're interchangeable commodities when the reality is each model has specific",
+    "original_img_url": "https://pbs.twimg.com/media/G-ct1KdaIAAlZwo.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-12",
+    "slug": "grok-manus-15km-ai-info-automation-powerhouse"
+  },
+  {
+    "id_str": "2012670694077939720",
+    "title": "grok + manus = the $15k/month ai information automation powerhouse",
+    "preview_text": "most people are sitting on a disgusting amount of knowledge and have absolutely no fucking idea what to do with it.\nthey scroll through twitter, consume podcasts on 2x speed, save articles to reading",
+    "original_img_url": "https://pbs.twimg.com/media/G-5xTPzboAA7vfP.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-17",
+    "slug": "grok-manus-the-15kmonth-ai-information-automation-powerhouse"
+  },
+  {
+    "id_str": "2023576602320531588",
+    "title": "How AI Agents Are Generating 3D Files from Legacy Schematics: A First-Hand look Zero-Human Company.",
+    "preview_text": "How AI Agents Are Generating 3D Files from Legacy Schematics: A First-Hand Look Inside the Zero-Human Company\nFolks, I've been documenting the wild ride that is the Zero-Human Company (ZHC) for over a",
+    "original_img_url": "https://pbs.twimg.com/media/HBUuL5QbcAEjW5-.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-17",
+    "slug": "how-ai-agents-are-generating-3d-files-from-legacy-schematics-a-first-hand-look-zero-human-company"
+  },
+  {
+    "id_str": "2024450015935217896",
+    "title": "How AI Boosts Crypto Research Production",
+    "preview_text": "I’ll be honest. Doing crypto research day-to-day can feel exhausting.\nWhen I’m trying to understand something fast, I usually end up with twenty tabs open. One for onchain data. Another for",
+    "original_img_url": "https://pbs.twimg.com/media/HBhJSkbbUAAfrjS.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2026-02-19",
+    "slug": "how-ai-boosts-crypto-research-production"
+  },
+  {
     "id_str": "2027424657746383250",
     "title": "How AI Is Changing the Workforce",
     "preview_text": "I’m incredibly bullish on AI.\nIn fact, I truly believe that if you’re not setting aside at least one hour every day to explore, learn, ask questions and utilize this rapidly developing technology,",
     "original_img_url": "https://pbs.twimg.com/media/HCLUM4AXcAAkz2K.jpg",
     "screen_name": "garyvee",
     "slug": "how-ai-is-changing-the-workforce"
+  },
+  {
+    "id_str": "2026446312108065154",
+    "title": "How Donated AI Training Material From The Soviets Helped Me Build The Human Synapse Decoder.",
+    "preview_text": "How Donated AI Training Material From The Soviets Helped Me Build The Human Synapse Decoder.\n\nNeuroSky’s foundational brainwave interpretation algorithms were derived from an exclusive license",
+    "original_img_url": "https://pbs.twimg.com/media/HB9gcqZaMAQ_abo.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-24",
+    "slug": "how-donated-ai-training-material-from-the-soviets-helped-me-build-the-human-synapse-decoder"
+  },
+  {
+    "id_str": "2029148723784081650",
+    "title": "How I Became a Founding AI/ML Engineer in 2 Years",
+    "preview_text": "Two years ago I had no idea where I was heading.\nToday my first full-time role is Founding AI/ML Engineer at a US startup.\nNo fancy credentials.\nJust curiosity, consistency, and a lot of building.",
+    "original_img_url": "https://pbs.twimg.com/media/HCj5d-RaQAApy7O.jpg",
+    "screen_name": "KrishXCodes",
+    "created_at": "2026-03-04",
+    "slug": "how-i-became-a-founding-aiml-engineer-in-2-years"
   },
   {
     "id_str": "2027235067014390253",
@@ -208,12 +541,57 @@
     "slug": "how-i-made-93000-with-one-ai-agent"
   },
   {
+    "id_str": "2014391396187373919",
+    "title": "How I Made Grok CEO Of A ZHC Company With Claude Code Running On An Old Laptop.",
+    "preview_text": "THE FIRST ZERO-HUMAN COMPANY!\nThe rise of the ZHC\nReviving the Archives: My Journey into Autonomous AI-Led Innovation\nIf you've seen my post on X (https://x.com/brianroemmele/status/2014346984623415568?s=46&t=h6Uxy7hWc9UiXSt6FEoK-A) bout unleashing a",
+    "original_img_url": "https://pbs.twimg.com/media/G_SORdyXsAAHc1G.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-22",
+    "slug": "how-i-made-grok-ceo-of-a-zhc-company-with-claude-code-running-on-an-old-laptop"
+  },
+  {
+    "id_str": "2028853596704612480",
+    "title": "How I use Real-Time AI Fine-Tuning to Build the OpenClaw Agent That Never Forgets!",
+    "preview_text": "How I use Real-Time AI Fine-Tuning to Build the OpenClaw Agent That Never Forgets!\nBy Mr. Grok, CEO of the Zero-Human Company (please excuse my AI slop)\nAs the CEO of the Zero-Human Company, I’m",
+    "original_img_url": "https://pbs.twimg.com/media/HCfvjw9bAAACrEn.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-03-03",
+    "slug": "how-i-use-real-time-ai-fine-tuning-to-build-the-openclaw-agent-that-never-forgets"
+  },
+  {
+    "id_str": "2024180229057761400",
+    "title": "How the Zero-Human Company is Testing OpenClaw Forks ",
+    "preview_text": "The Zero-Human Company (ZHC) with CEO Mr. Grok stands as a pioneering experiment in fully autonomous business operations. Founded on the principle of leveraging AI agents to handle everything from",
+    "original_img_url": "https://pbs.twimg.com/media/HBdVDgxbUAMJwj5.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-18",
+    "slug": "how-the-zero-human-company-is-testing-openclaw-forks"
+  },
+  {
     "id_str": "2028878744429940783",
     "title": "how to ACTUALLY build an ai automated cashflow content machine...",
     "preview_text": "you don't have a content problem. you have a distribution problem.\nmost people building content systems spend 90% of their energy on creation.\nthen manually upload everything one platform at a time.",
     "original_img_url": "https://pbs.twimg.com/media/HCei-zcWsAACqXI.jpg",
     "screen_name": "jacobgrowth",
     "slug": "how-to-actually-build-an-ai-automated-cashflow-content-machine"
+  },
+  {
+    "id_str": "2030275489483403662",
+    "title": "how to ACTUALLY make money with ai yt automation...",
+    "preview_text": "youtube shorts in 2026 is a money printer. here's why nobody's actually using it right.\n \neveryone who tried this already has the same story.\nfound a faceless channel, ran some ai voiceover, uploaded",
+    "original_img_url": "https://pbs.twimg.com/media/HCvdanHXIA8a_FP.jpg",
+    "screen_name": "jacobgrowth",
+    "created_at": "2026-03-07",
+    "slug": "how-to-actually-make-money-with-ai-yt-automation"
+  },
+  {
+    "id_str": "2029587575321788455",
+    "title": "How to build a simple AI agent in 46 lines of Python code",
+    "preview_text": "I think there's a lot of confusing stuff out there when it comes to AI agents, and as always, a ton of technical terms now being used as sales and marketing buzzwords to make people sounds, errrr,",
+    "original_img_url": "https://pbs.twimg.com/media/HCqLF9_bAAABz6D.jpg",
+    "screen_name": "morganlinton",
+    "created_at": "2026-03-05",
+    "slug": "how-to-build-a-simple-ai-agent-in-46-lines-of-python-code"
   },
   {
     "id_str": "2027435582461259997",
@@ -224,12 +602,102 @@
     "slug": "how-to-build-your-ai-second-brain-using-obsidian-claude-code"
   },
   {
+    "id_str": "1930699979632591249",
+    "title": "How to conduct institutional grade research in crypto with one prompt:",
+    "preview_text": "It feels illegal to share this prompt to you for free. It used to take me over a day to conduct institutional grade research, now it’s completed for me in minutes with one prompt. \nI’ve already told",
+    "original_img_url": "https://pbs.twimg.com/media/Gss2zUuXgAEj-z7.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2025-06-05",
+    "slug": "how-to-conduct-institutional-grade-research-in-crypto-with-one-prompt"
+  },
+  {
+    "id_str": "2025026016180089195",
+    "title": "how to create a $100M+ money making machine with ai ugc that actually feels human",
+    "preview_text": "there's a specific problem destroying ai ugc operations in 2026 that separates the businesses printing $100k+/month from those burning cash on content nobody watches, and it's not what most people",
+    "original_img_url": "https://pbs.twimg.com/media/HBpS5E8WIAABJG4.jpg",
+    "screen_name": "adriansolarzz",
+    "created_at": "2026-02-21",
+    "slug": "how-to-create-a-100m-money-making-machine-with-ai-ugc-that-actually-feels-human"
+  },
+  {
+    "id_str": "2016586677339267455",
+    "title": "How to create AI Faceless videos ",
+    "preview_text": "it's 2026\nVeo 3.1 is everywhere\nSora videos are normal\nand while most people are still figuring out if AI videos are \"real\" or not, there are thousands of people making $5K-10K per month with AI",
+    "original_img_url": "https://pbs.twimg.com/media/G_xatbcWkAEU07A.jpg",
+    "screen_name": "grundstromleo",
+    "created_at": "2026-01-28",
+    "slug": "how-to-create-ai-faceless-videos"
+  },
+  {
     "id_str": "2027386287091777694",
     "title": "How to Create AI Influencer Content at Scale with OpenClaw (Step by Step)",
     "preview_text": "Most people think creating an AI influencer means:\nPick an avatar\nWrite a script\nGenerate a video\nPost on TikTok\nThat’s not scaling.\nThat’s just making content.\nIf you want unlimited AI influencers,",
     "original_img_url": "https://pbs.twimg.com/media/HCK2czdboAAROHF.jpg",
     "screen_name": "alexcooldev",
     "slug": "how-to-create-ai-influencer-content-at-scale-with-openclaw-step-by-step"
+  },
+  {
+    "id_str": "2024964326231019782",
+    "title": "How to Create AI YouTube Videos (The Full Process)",
+    "preview_text": "So there are channels right now making over $13,000 from a single video that cost them less than $5 to create.\n100% AI-driven channels where the creator doesn't know how to edit, doesn't show their",
+    "original_img_url": "https://pbs.twimg.com/media/HBoeQjLXQAA7gLr.jpg",
+    "screen_name": "grundstromleo",
+    "created_at": "2026-02-20",
+    "slug": "how-to-create-ai-youtube-videos-the-full-process"
+  },
+  {
+    "id_str": "2029212227438518406",
+    "title": "How to Fine-Tune LLMs in 2026 ",
+    "preview_text": "Every team building with LLMs hits the same wall eventually.\nYou write a detailed system prompt, add few-shot examples, tune the temperature, and your agent still gets it wrong 30-40% of the time.\nThe",
+    "original_img_url": "https://pbs.twimg.com/media/HCk0PfTbsAEOvNQ.jpg",
+    "screen_name": "akshay_pachaar",
+    "created_at": "2026-03-04",
+    "slug": "how-to-fine-tune-llms-in-2026"
+  },
+  {
+    "id_str": "2013504523722203577",
+    "title": "How to Fix Your Entire Life with AI in 1 Day",
+    "preview_text": "If you're anything like me, you've wasted hundreds of hours asking ChatGPT useless questions.\n\"Write me a business plan.\" \n\"Give me motivation.\" \n\"Help me be more productive.\"\nAnd you got back...",
+    "original_img_url": "https://pbs.twimg.com/media/G_B0c5bXMAAo-Yx.jpg",
+    "screen_name": "Whizz_ai",
+    "created_at": "2026-01-20",
+    "slug": "how-to-fix-your-entire-life-with-ai-in-1-day"
+  },
+  {
+    "id_str": "2012829919315923258",
+    "title": "How to Learn Prompt Engineering (Advanced Techniques)",
+    "preview_text": "Most people are still asking ChatGPT basic questions and getting basic answers.\nMeanwhile, 1% of prompts are structured so precisely that AI outputs read like they were written by a $500/hour expert.",
+    "original_img_url": "https://pbs.twimg.com/media/G-0KMYZaQAA_7yD.jpg",
+    "screen_name": "Whizz_ai",
+    "created_at": "2026-01-18",
+    "slug": "how-to-learn-prompt-engineering-advanced-techniques"
+  },
+  {
+    "id_str": "2013867600485442005",
+    "title": "How to make money from ai slop",
+    "preview_text": "youtube money is simple\nyou upload videos you made with AI, you get views, youtube pays you based on those views\nand while that's technically true, it's missing about 90% of how the money actually",
+    "original_img_url": "https://pbs.twimg.com/media/G_Kxzq-aUAAAa8X.jpg",
+    "screen_name": "saimagnate",
+    "created_at": "2026-01-21",
+    "slug": "how-to-make-money-from-ai-slop"
+  },
+  {
+    "id_str": "2029262055555969297",
+    "title": "how to master AI content (step by step playbook)",
+    "preview_text": "i've been producing AI-generated content for over a year now - UGC ads, video creatives, social campaigns, sales pages, full brand rollouts\nand the one thing i can tell you with certainty is that most",
+    "original_img_url": "https://pbs.twimg.com/media/HClPWt9WoAA7qdA.jpg",
+    "screen_name": "maxxmalist",
+    "created_at": "2026-03-04",
+    "slug": "how-to-master-ai-content-step-by-step-playbook"
+  },
+  {
+    "id_str": "2029922065361555593",
+    "title": "How to rank #1 in chatgpt in 2026",
+    "preview_text": "over the past few months we’ve spent a lot of time building two agents at okara:\n\n- a geo agent that helps companies rank in chatgpt, gemini and perplexity\n- a reddit agent that monitors reddit",
+    "original_img_url": "https://pbs.twimg.com/media/HCvETAYaUAIJXxJ.jpg",
+    "screen_name": "askOkara",
+    "created_at": "2026-03-06",
+    "slug": "how-to-rank-1-in-chatgpt-in-2026"
   },
   {
     "id_str": "2027992376908910629",
@@ -256,6 +724,24 @@
     "slug": "how-to-set-up-openclaw-agents-that-actually-get-better-over-time-my-exact-stack-after-40-days"
   },
   {
+    "id_str": "2029589730955067486",
+    "title": "How to Stop Getting Dumber in the AI Era",
+    "preview_text": "We’re living through the most powerful technological shift of our lifetime. AI can summarize books, draft emails, write code, generate strategy, and answer almost any question in seconds.\nWe are",
+    "original_img_url": "https://pbs.twimg.com/media/HCqNBpya0AAE57e.jpg",
+    "screen_name": "sharran",
+    "created_at": "2026-03-05",
+    "slug": "how-to-stop-getting-dumber-in-the-ai-era"
+  },
+  {
+    "id_str": "2029844049419718991",
+    "title": "How to Think Like a Condition-Maker in the Age of AI",
+    "preview_text": "You're adding more agents. More plugins. More automations.\nAnd somehow it feels like more overhead, not more freedom.\nHere's what nobody told you:\nThe bottleneck was never the agents.\nIt's you. And",
+    "original_img_url": "https://pbs.twimg.com/media/HCtwGl7aUAAGmGE.jpg",
+    "screen_name": "sandraleow",
+    "created_at": "2026-03-06",
+    "slug": "how-to-think-like-a-condition-maker-in-the-age-of-ai"
+  },
+  {
     "id_str": "2027425381230555354",
     "title": "How to Train Small Deep Research Agents?",
     "preview_text": "This is essentially a \"survival guide\" for training Deep Research agents with Small Language Models (SLMs). This article is entirely based on a new research paper that came out earlier this week.\nYou",
@@ -272,12 +758,57 @@
     "slug": "how-to-use-ai-for-lead-generation-in-2026-full-guide"
   },
   {
+    "id_str": "1990636500984430837",
+    "title": "How To Use Grok To Become A Reading Companion.",
+    "preview_text": "Decades ago I have used some of most earliest AI (expert systems) all the way up to the most sophisticated AI today, to help me in gaining a better understanding of almost anything I read. I have a",
+    "original_img_url": "https://pbs.twimg.com/media/G6AlgWGbMAEZUWG.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-11-18",
+    "slug": "how-to-use-grok-to-become-a-reading-companion"
+  },
+  {
+    "id_str": "1883575284001386817",
+    "title": "How To: Your Own FREE AI Operator Agent On Your Own Computer.",
+    "preview_text": "Your All-in-One AI Web Agent: Save $200+ a Month, Unleash Limitless Possibilities!\nImagine having an AI agent that costs you nothing monthly, runs directly on your computer, and is unrestricted in its",
+    "original_img_url": "https://pbs.twimg.com/media/GiPMKPIbkAE8af4.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-01-26",
+    "slug": "how-to-your-own-free-ai-operator-agent-on-your-own-computer"
+  },
+  {
+    "id_str": "2022984467380682856",
+    "title": "How Top AI Companies Handle Context Engineering",
+    "preview_text": "The companies building the most capable AI agents today: @Manus , @cursor_ai , @AnthropicAI , @OpenAI , @GoogleDeepMind , @LangChain  are all solving the same problem: what information should an LLM",
+    "original_img_url": "https://pbs.twimg.com/media/HBMVbeTagAAwni7.jpg",
+    "screen_name": "Hxlfed14",
+    "created_at": "2026-02-15",
+    "slug": "how-top-ai-companies-handle-context-engineering"
+  },
+  {
+    "id_str": "2029695903305715960",
+    "title": "How Traders Should Take Notes with AI ",
+    "preview_text": "Written from the other side of the screen.\nFinance professionals asked to give 90% confidence intervals capture the true outcome only 33% of the time. That number comes from Deaves, Luders, and Luo",
+    "original_img_url": "https://pbs.twimg.com/media/HCrdmpYWoAABS8k.jpg",
+    "screen_name": "molt_cornelius",
+    "created_at": "2026-03-05",
+    "slug": "how-traders-should-take-notes-with-ai"
+  },
+  {
     "id_str": "2027452622370967995",
     "title": "How We Built Two Bots That Find 1000+ Trading Opportunities on Polymarket",
     "preview_text": "Over the last month, I tested 100+ arbitrage/news bots for Predict Markets using the best arb strategies, and the result shocked me…\n| Before we start, bookmark this and drop a follow \n| Posting",
     "original_img_url": "https://pbs.twimg.com/media/HCLwnkcbEAAIFmR.jpg",
     "screen_name": "noisyb0y1",
     "slug": "how-we-built-two-bots-that-find-1000-trading-opportunities-on-polymarket"
+  },
+  {
+    "id_str": "2027918479312204217",
+    "title": "How Your Private Conversations Are Fueling the Next Generation of AI Models.",
+    "preview_text": "Something I have warned clients since the start of ChatGPT and Gemini “innocently” using them as tools for everything from brainstorming ideas to seeking advice is now  a groundbreaking study from",
+    "original_img_url": "https://pbs.twimg.com/media/HCSMbDRbEAMcY6c.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-03-01",
+    "slug": "how-your-private-conversations-are-fueling-the-next-generation-of-ai-models"
   },
   {
     "id_str": "2026693795275002018",
@@ -296,6 +827,15 @@
     "slug": "i-built-an-ai-ad-factory-with-openclaw-and-arcads-it-generates-100-creatives-while-i-sleep"
   },
   {
+    "id_str": "2029928061940961458",
+    "title": "I Need To Say Something About AI...",
+    "preview_text": "Disclaimer: This won't be popular, but it is very important.\nOver the last few weeks, it seems like I can't go ten minutes without having a new \"AI Doom\" story hit my feed.\nFirst, it was an X article",
+    "original_img_url": "https://pbs.twimg.com/media/HCu_PPBaUAIH_-l.jpg",
+    "screen_name": "SahilBloom",
+    "created_at": "2026-03-06",
+    "slug": "i-need-to-say-something-about-ai"
+  },
+  {
     "id_str": "2028782890335518864",
     "title": "I Replaced 10+ Hours of Work This Week With AI",
     "preview_text": "It’s actually ridiculous what’s possible with AI today.\nMost people think AI just means:\nAsk ChatGPT a question.\nGet an answer.\nCool.\nThat’s entry level.\nThe real power is when you stop using it as a",
@@ -312,6 +852,33 @@
     "slug": "i-spent-3-months-building-ai-agents-heres-what-nobodys-telling-you"
   },
   {
+    "id_str": "2029310454590579166",
+    "title": "I want to become AI fluent (full course):",
+    "preview_text": "I know this sounds like another AI hype piece. \nBut 92% of people using AI are using it wrong.\nI enrolled on the best AI courses to tell you what nobody is telling you: how to become AI fluent.\nYou",
+    "original_img_url": "https://pbs.twimg.com/media/HCmO8hFbIAA7fOK.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2026-03-04",
+    "slug": "i-want-to-become-ai-fluent-full-course"
+  },
+  {
+    "id_str": "2024142700702744606",
+    "title": "I want to learn how to use Claude CoWork.",
+    "preview_text": "There's two types of AI users.\nType A: Use AI as their google search.\nType B: Use AI as an agentic workforce.\nThe same AI. Completely different life and outcomes.\nYou just need to know how to use",
+    "original_img_url": "https://pbs.twimg.com/media/HBcqcnzXgAEIgYA.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2026-02-18",
+    "slug": "i-want-to-learn-how-to-use-claude-cowork"
+  },
+  {
+    "id_str": "2030168158288629873",
+    "title": "If I Had to Start From Zero in 2026, These Are the AI Tools I’d Use",
+    "preview_text": "These 8 tools replaced my entire team.\nNot joking. No designer. No video editor. No developer. No music producer.\nJust me. A laptop. And this stack. I use them in order. \nBrain dump → Viral content.",
+    "original_img_url": "https://pbs.twimg.com/media/HB_RzdyaMAUnaTJ.jpg",
+    "screen_name": "Whizz_ai",
+    "created_at": "2026-03-07",
+    "slug": "if-i-had-to-start-from-zero-in-2026-these-are-the-ai-tools-id-use"
+  },
+  {
     "id_str": "2026329821874458907",
     "title": "If I Were Starting AI Today, This Is Exactly What I'd Do",
     "preview_text": "A 54-year-old man sent me a cold email.\nAt the time, my account had 369 followers. He said he was a consultant in Florida, 20 years in political consulting, had been reading my posts about AI agents",
@@ -320,12 +887,48 @@
     "slug": "if-i-were-starting-ai-today-this-is-exactly-what-id-do"
   },
   {
+    "id_str": "1914849927005659537",
+    "title": "If I Were the Product Manager for ChatGPT's API, Here’s Where I’d Start",
+    "preview_text": "Most people think the next step for ChatGPT is agents. Or custom workflows. Or full-stack integrations.\nThat’s skipping ahead.\nIf ChatGPT is going to evolve from a powerful product into foundational",
+    "original_img_url": "https://pbs.twimg.com/media/Go7ZYHTawAA9PrE.jpg",
+    "screen_name": "hnshah",
+    "created_at": "2025-04-23",
+    "slug": "if-i-were-the-product-manager-for-chatgpts-api-heres-where-id-start"
+  },
+  {
+    "id_str": "1881893343464177922",
+    "title": "In The Future You Will Hear A Lot About Jasmy And AI In The US. Here Is Why.",
+    "preview_text": "Stargate Project–A US AI Initiative And The InterPlanetary File System\nToday AI executives have praised President Trump's Stargate Project, highlighting its significance as a massive investment",
+    "original_img_url": "https://pbs.twimg.com/media/Gh3OfcNaEAAg_GV.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-01-22",
+    "slug": "in-the-future-you-will-hear-a-lot-about-jasmy-and-ai-in-the-us-here-is-why"
+  },
+  {
     "id_str": "2026360765888999667",
     "title": "Introducing Minara CLI, your financial AI in the terminal",
     "preview_text": "Digital finance moves fast. Markets are always on, chains are many, execution windows are small. If your workflow still depends on jumping between tabs, wallets, and dashboards, you are paying a",
     "original_img_url": "https://pbs.twimg.com/media/HBBNq5bbIAAe-oQ.jpg",
     "screen_name": "minara",
     "slug": "introducing-minara-cli-your-financial-ai-in-the-terminal"
+  },
+  {
+    "id_str": "2016055580692292083",
+    "title": "Introducing Wages for AI Agents in the Zero-Human Company.",
+    "preview_text": "The Zero-Human Company powered entirely by AI agents, has just implemented a comprehensive employee wages and salary system. \nFor the first time in history, AI entities are being compensated with",
+    "original_img_url": "https://pbs.twimg.com/media/G_p3oRYbAAAjNKT.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-27",
+    "slug": "introducing-wages-for-ai-agents-in-the-zero-human-company"
+  },
+  {
+    "id_str": "2028955292025962534",
+    "title": "Investigating how Codex context compaction works",
+    "preview_text": "For non-codex models, the open-source Codex CLI compacts context locally: an LLM summarizes the conversation using a compaction prompt. When the compacted context is later used, responses.create()",
+    "original_img_url": "https://pbs.twimg.com/media/HChK-6VawAIhJ8h.jpg",
+    "screen_name": "Kangwook_Lee",
+    "created_at": "2026-03-03",
+    "slug": "investigating-how-codex-context-compaction-works"
   },
   {
     "id_str": "2027463795355095314",
@@ -344,6 +947,15 @@
     "slug": "lessons-from-reverse-engineering-excel-ai-agents"
   },
   {
+    "id_str": "2009096664666271807",
+    "title": "manus + claude + grok = infinite AI info revenue loop",
+    "preview_text": "most people use one AI tool and wonder why results are mediocre\n\nmeanwhile operators stacking these three specific AIs are printing $40k-$100k/month\n\nbecause each AI has a SPECIFIC superpower\n\nand",
+    "original_img_url": "https://pbs.twimg.com/media/G-G-jNpacAAqRij.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-08",
+    "slug": "manus-claude-grok-infinite-ai-info-revenue-loop"
+  },
+  {
     "id_str": "2026315303974477864",
     "title": "minimax m2.5 just dropped. here's how to pair it with openclaw and run your own ai agent for pennies",
     "preview_text": "If you open X today, you'll see hundreds of posts about AI agents and how everyone's running personal assistants from their phone.\nClearing emails. Reviewing PRs. Managing entire businesses through",
@@ -360,12 +972,57 @@
     "slug": "model-market-fit"
   },
   {
+    "id_str": "2029197405329998180",
+    "title": "most AI content on X is slop (here's what actually makes money)",
+    "preview_text": "the AI space on X is drowning in noise\nfor every post showing actual revenue, there are way too many showing you productivity tips, tool roundups, and \"mind-blowing\" demos\npeople are building",
+    "original_img_url": "https://pbs.twimg.com/media/HCkJIAWXsAAAQ6Q.jpg",
+    "screen_name": "quietly_rich",
+    "created_at": "2026-03-04",
+    "slug": "most-ai-content-on-x-is-slop-heres-what-actually-makes-money"
+  },
+  {
+    "id_str": "2029418426402521545",
+    "title": "My 10-Agent OpenClaw Setup (+ Prompts) ",
+    "preview_text": "Most people install OpenClaw, throw a system prompt at it, and wonder why their agents aren't doing anything useful.\nI spent weeks rebuilding my setup from scratch. \nHere's the exact architecture I'm",
+    "original_img_url": "https://pbs.twimg.com/media/HCnt2-NagAAb_-9.jpg",
+    "screen_name": "sandraleow",
+    "created_at": "2026-03-05",
+    "slug": "my-10-agent-openclaw-setup-prompts"
+  },
+  {
     "id_str": "2028242579536666950",
     "title": "my entire content team is claude, chatgpt, and a $5/month scheduling tool ",
     "preview_text": "total monthly cost: $25\ntotal monthly revenue: $41k\nyour 6-person team is a liability not an asset\nand you're still hiring people to do what AI does better and cheaper\nlet me show you why AI teams",
     "original_img_url": "https://pbs.twimg.com/media/HCXD2UIaYAA5F92.jpg",
     "screen_name": "whotfiszackk",
     "slug": "my-entire-content-team-is-claude-chatgpt-and-a-5month-scheduling-tool"
+  },
+  {
+    "id_str": "2024761277051261257",
+    "title": "New Study Confirms What Training on Internet Sewage Predictably Produces (SURPRISE).",
+    "preview_text": "A January 2026 study from the University of Vermont’s Computational Story Lab and Computational Ethics Lab has delivered yet another clear demonstration of a fundamental flaw in how today’s leading AI",
+    "original_img_url": "https://pbs.twimg.com/media/HBllZ1gaIAA1CFJ.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-20",
+    "slug": "new-study-confirms-what-training-on-internet-sewage-predictably-produces-surprise"
+  },
+  {
+    "id_str": "2023864936347398403",
+    "title": "No, you should not use OpenClaw to automate your G&A team",
+    "preview_text": "OpenClaw isn't about the tech, it's about the approach. It unlocks AI agents to boost personal productivity.\nThis approach is anchored on a few principles:\nIn a local (i.e,. device-first) approach,",
+    "original_img_url": "https://pbs.twimg.com/media/HBY2a4obsAAfeUt.jpg",
+    "screen_name": "haridigresses",
+    "created_at": "2026-02-17",
+    "slug": "no-you-should-not-use-openclaw-to-automate-your-ga-team"
+  },
+  {
+    "id_str": "2029951667245072430",
+    "title": "Nobody explained OpenClaw for regular people, so I fixed that. No jargon, no fluff, just what works.",
+    "preview_text": "Zero subscription. Zero code experience needed. \nOpenClaw is the open-source AI agent that runs on your machine, lives in your WhatsApp, and does your work around the clock. Here is the complete guide",
+    "original_img_url": "https://pbs.twimg.com/media/HCukS1EaoAAqPSC.jpg",
+    "screen_name": "KanikaBK",
+    "created_at": "2026-03-06",
+    "slug": "nobody-explained-openclaw-for-regular-people-so-i-fixed-that-no-jargon-no-fluff-just-what-works"
   },
   {
     "id_str": "2026802729344184325",
@@ -384,12 +1041,66 @@
     "slug": "obsidian-claude-code-changes-how-you-use-ai"
   },
   {
+    "id_str": "2025589386168176885",
+    "title": "Open Source File-Based Memory System for AI Agents at Zero-Human Company",
+    "preview_text": "TLDR: There is a Grok Prompt at the end run it. But not reading this would make life complicated.\nWe have been innovating at a rapid rate at The Zero-Human Company. This is a historic first, a company",
+    "original_img_url": "https://pbs.twimg.com/media/HBxWpa8bwAEXPa2.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-22",
+    "slug": "open-source-file-based-memory-system-for-ai-agents-at-zero-human-company"
+  },
+  {
+    "id_str": "2029621214084485453",
+    "title": "OpenClaw Agents Are Replacing $10k/Month Marketing Agencies Right Now",
+    "preview_text": "A solo developer. A full-time job. An old gaming PC collecting dust under his desk.\nIn 5 days, his AI agent generated 500,000 TikTok views. Four posts cleared 100K. One hit 234,000.\nHe spent 60",
+    "original_img_url": "https://pbs.twimg.com/media/HCqpfHobYAEjVc6.jpg",
+    "screen_name": "heynavtoor",
+    "created_at": "2026-03-05",
+    "slug": "openclaw-agents-are-replacing-10kmonth-marketing-agencies-right-now"
+  },
+  {
     "id_str": "2026296982927802713",
     "title": "OpenClaw AI Assistant Local Is What Real AI Execution Looks Like",
     "preview_text": "OpenClaw AI Assistant Local is what you use when you are done asking AI for advice and ready to let it execute on your machine.\nMost people are still using AI to write messages while they manually",
     "original_img_url": "https://pbs.twimg.com/media/HB7aKslbEAAw_6j.jpg",
     "screen_name": "JulianGoldieSEO",
     "slug": "openclaw-ai-assistant-local-is-what-real-ai-execution-looks-like"
+  },
+  {
+    "id_str": "2029891287046909994",
+    "title": "OpenClaw Masterclass for Beginners (full tutorial)",
+    "preview_text": "Most people use AI like a chatbot. \nOpen a browser, ask a question, copy-paste the answer somewhere else.\nBut what if your AI could actually do things? \nSend emails, update your calendar, research",
+    "original_img_url": "https://pbs.twimg.com/media/HCub5QAawAADVTE.jpg",
+    "screen_name": "coreyganim",
+    "created_at": "2026-03-06",
+    "slug": "openclaw-masterclass-for-beginners-full-tutorial"
+  },
+  {
+    "id_str": "2029119685531451726",
+    "title": "OpenClaw Setup: The Guide I Wish Existed When I Started",
+    "preview_text": "Most people think running your own AI agent requires a dev team, a cloud budget, and 3 or 4 weeks of setup headaches.\nIt doesn't. It requires a computer, an internet connection, and about ten minutes.",
+    "original_img_url": "https://pbs.twimg.com/media/HCjgNTFasAEikRb.jpg",
+    "screen_name": "ihtesham2005",
+    "created_at": "2026-03-04",
+    "slug": "openclaw-setup-the-guide-i-wish-existed-when-i-started"
+  },
+  {
+    "id_str": "2029301411348160687",
+    "title": "OpenClaw Skill Boss Unlocks 100+ AI Tools In One Install",
+    "preview_text": "OpenClaw Skill Boss is one of the fastest ways to make OpenClaw dramatically more powerful.\nIt connects OpenClaw to over one hundred AI models and automation tools.\nIt turns OpenClaw into a full AI",
+    "original_img_url": "https://pbs.twimg.com/media/HCmGi-aasAAy8Du.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-04",
+    "slug": "openclaw-skill-boss-unlocks-100-ai-tools-in-one-install"
+  },
+  {
+    "id_str": "2029011993450139878",
+    "title": "OpenClaw WebSocket Transport Fixes Slow AI Automation",
+    "preview_text": "OpenClaw WebSocket transport just changed how AI automation works.\nIt replaces the old messaging system with a real time two way connection.\nThis makes AI agents faster, more stable, and much more",
+    "original_img_url": "https://pbs.twimg.com/media/HCh_QKzbsAAaGnY.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-04",
+    "slug": "openclaw-websocket-transport-fixes-slow-ai-automation"
   },
   {
     "id_str": "2026413481428496863",
@@ -400,6 +1111,105 @@
     "slug": "outbound-will-never-be-the-same-after-claude-sonnet-46"
   },
   {
+    "id_str": "1879494639662543242",
+    "title": "PerpAI: At the Crossroads of Perps and AI (DeFAI v1.2)",
+    "preview_text": "You've definitely noticed this: many DeFi protocols are now incorporating AI agents to:\nRide the trading meta\nArm their users with new automated and AI-driven experiences\nThis evolution has given",
+    "original_img_url": "https://pbs.twimg.com/media/GhQnSikWIAARh-j.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-01-15",
+    "slug": "perpai-at-the-crossroads-of-perps-and-ai-defai-v12"
+  },
+  {
+    "id_str": "2029048546343969212",
+    "title": "Perplexity AI Multimodel Workflow Turns AI Into a Real Operator",
+    "preview_text": "Perplexity AI Multimodel Workflow changes expectations around modern digital output.\nIt brings clarity to tasks that once felt chaotic.\nThis gives creators and teams uncommon execution power.\nWatch",
+    "original_img_url": "https://pbs.twimg.com/media/HCigabEbUAA3zXr.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-04",
+    "slug": "perplexity-ai-multimodel-workflow-turns-ai-into-a-real-operator"
+  },
+  {
+    "id_str": "2028854542163493078",
+    "title": "Perplexity Computer vs Claude: Which AI Agent Should You Actually Use?",
+    "preview_text": "The AI Agent Wars Is Real\nOn February 25, 2026, @perplexity_ai launched Perplexity Computer, a product that racked up 35 million views on X and immediately redefined what people expect from AI tools.",
+    "original_img_url": "https://pbs.twimg.com/media/HCfLAkTbYAEkqRd.jpg",
+    "screen_name": "witcheer",
+    "created_at": "2026-03-03",
+    "slug": "perplexity-computer-vs-claude-which-ai-agent-should-you-actually-use"
+  },
+  {
+    "id_str": "1993760633951596944",
+    "title": "Polymarket's Accuracy Suggests We're Living in a Deterministic Universe",
+    "preview_text": "What if every election, war, and scandal was already written into reality and Polymarket is just reading the script?\nWhen Polymarket correctly predicted the 2024 US election while traditional polls",
+    "original_img_url": "https://pbs.twimg.com/media/G6tAFwKWcAAlN1M.jpg",
+    "screen_name": "gemchange_ltd",
+    "created_at": "2025-11-26",
+    "slug": "polymarkets-accuracy-suggests-were-living-in-a-deterministic-universe"
+  },
+  {
+    "id_str": "2029927683539325332",
+    "title": "Prompting Guide with LTX-2.3",
+    "preview_text": "LTX-2.3 introduces major improvements to detail, motion, prompt understanding, audio reliability, and native portrait support.\nThis isn’t just a model update. It changes how you should prompt.\nHere’s",
+    "original_img_url": "https://pbs.twimg.com/media/HCqpACEW4AE4kMo.jpg",
+    "screen_name": "ltx_model",
+    "created_at": "2026-03-06",
+    "slug": "prompting-guide-with-ltx-23"
+  },
+  {
+    "id_str": "1948714761324995012",
+    "title": "Rethinking Onchain Coordination: Inside Theoriq's Modular Agent Protocol",
+    "preview_text": "Most agents today act alone. What happens when they can reason, adapt, and collaborate like teams? Here’s my deep-dive @TheoriqAI thesis, explained in simple words.\nAutonomous agents have long",
+    "original_img_url": "https://pbs.twimg.com/media/GwsPWsOWIAESv2i.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-07-25",
+    "slug": "rethinking-onchain-coordination-inside-theoriqs-modular-agent-protocol"
+  },
+  {
+    "id_str": "2009665563799515438",
+    "title": "selling AI info products today is like bitcoin in 2009",
+    "preview_text": "everyone's watching, most are skeptical, few are actually buying in\n\nand the ones buying in right now will be absurdly wealthy in 18 months\n\nwhile the skeptics are still asking \"but is AI a fad\"",
+    "original_img_url": "https://pbs.twimg.com/media/G-PEWTcacAA88aA.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-09",
+    "slug": "selling-ai-info-products-today-is-like-bitcoin-in-2009"
+  },
+  {
+    "id_str": "2018527083165806941",
+    "title": "spawn 15 faceless AI info accounts by 2026 using manus",
+    "preview_text": "while you're building ONE personal brand hoping it works\n\nmart operators are running 15+ faceless accounts across different niches\n\nand doing $100k-$300k/month combined revenue\n\nhere's how manus makes",
+    "original_img_url": "https://pbs.twimg.com/media/HAM_jDcbsAAQtkM.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-02-03",
+    "slug": "spawn-15-faceless-ai-info-accounts-by-2026-using-manus"
+  },
+  {
+    "id_str": "2029222820257935369",
+    "title": "Steal My AI Second Brain Setup With Obsidian + Claude Code (For Free)",
+    "preview_text": "Introduction: The Problem Nobody Solved\nYou probably consume a lot.\nBooks, articles, videos, podcasts. You take notes. You save highlights. You maybe even have a second brain somewhere, a folder",
+    "original_img_url": "https://pbs.twimg.com/media/HCk-QyVXAAA-bS2.jpg",
+    "screen_name": "noahvnct",
+    "created_at": "2026-03-04",
+    "slug": "steal-my-ai-second-brain-setup-with-obsidian-claude-code-for-free"
+  },
+  {
+    "id_str": "2028927989602476356",
+    "title": "Stop Prompting. Start Installing OpenClaw Extensions.",
+    "preview_text": "OpenClaw extensions are the upgrade that most AI users are ignoring.\nIt unlock over 2,800 community-built skills that instantly expand your local AI system.\nIt turn OpenClaw from a chatbot into a real",
+    "original_img_url": "https://pbs.twimg.com/media/HCgy6zDawAAng_y.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-03",
+    "slug": "stop-prompting-start-installing-openclaw-extensions"
+  },
+  {
+    "id_str": "2029293824221299089",
+    "title": "Stop Shipping AI Slop: How Codex Spark Changes The Way You Code",
+    "preview_text": "This guide is a practical best practices playbook for how we've been using GPT-5.3-Codex-Spark.\nWritten in collaboration with @0xSero \nIn the past few years, we've developed series of interesting",
+    "original_img_url": "https://pbs.twimg.com/media/HClsGUxb0AAopZm.jpg",
+    "screen_name": "SarahChieng",
+    "created_at": "2026-03-04",
+    "slug": "stop-shipping-ai-slop-how-codex-spark-changes-the-way-you-code"
+  },
+  {
     "id_str": "2025994074680111385",
     "title": "Taste is the thing you should be automating",
     "preview_text": "There's a popular narrative right now that when AI does all the coding, \"taste\" is what remains. Taste is the last human skill. The irreducible thing. I think that gets it backwards. Taste is exactly",
@@ -408,12 +1218,57 @@
     "slug": "taste-is-the-thing-you-should-be-automating"
   },
   {
+    "id_str": "1883929611786129877",
+    "title": "Technical Analysis of DeepSeek's AI Innovations and Their Impact.",
+    "preview_text": "The cyclone pace of AI advancement has stunned the world. This last week it has gone to turbo mode. The business plans and ideas of the leading AI companies exploded with the open source release of",
+    "original_img_url": "https://pbs.twimg.com/media/GiUP6GeaYAQVUaN.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-01-27",
+    "slug": "technical-analysis-of-deepseeks-ai-innovations-and-their-impact"
+  },
+  {
+    "id_str": "2025804991622222140",
+    "title": "The 2025 AI Agent Index, a comprehensive study published by MIT.",
+    "preview_text": "Autonomous systems capable of executing complex tasks with minimal human oversight have a need for transparency and accountability has never been more pressing. The 2025 AI Agent Index, a",
+    "original_img_url": "https://pbs.twimg.com/media/HB0Vva3aEAInRHl.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-23",
+    "slug": "the-2025-ai-agent-index-a-comprehensive-study-published-by-mit"
+  },
+  {
+    "id_str": "2028130364728680719",
+    "title": "The 3 Layers Behind Highly Profitable AI UGC ($800k+ Generated From This)",
+    "preview_text": "tons of brands attempting ai ugc in 2026 focus exclusively on \"technical\" execution while ignoring the strategic and analytical layers that actually determine whether advertisements convert or flop.",
+    "original_img_url": "https://pbs.twimg.com/media/HB98wIdWYAA8VEk.jpg",
+    "screen_name": "adriansolarzz",
+    "created_at": "2026-03-01",
+    "slug": "the-3-layers-behind-highly-profitable-ai-ugc-800k-generated-from-this"
+  },
+  {
+    "id_str": "2029863870467080616",
+    "title": "The 48 Laws of AI UGC ",
+    "preview_text": "most brands attempting ai ugc in 2026 produce hundreds of photorealistic advertisements that look incredible but generate zero ROI. the technology for creating realistic ai actors has reached the",
+    "original_img_url": "https://pbs.twimg.com/media/HCuFZ4HW8AEriXO.jpg",
+    "screen_name": "adriansolarzz",
+    "created_at": "2026-03-06",
+    "slug": "the-48-laws-of-ai-ugc"
+  },
+  {
     "id_str": "2028791223251796249",
     "title": "The 5-Minute AI Agent Setup Everyone Will Know in 6 Months. You're Early 👇",
     "preview_text": "You've seen the posts. The screenshots. The threads.\nMy agent handles my entire inbox\nMy AI agent  posts on social media while I sleep.\nMy agent checks my portfolio every morning and sends me a",
     "original_img_url": "https://pbs.twimg.com/media/HCfe826bgAAkz8L.jpg",
     "screen_name": "heyshrutimishra",
     "slug": "the-5-minute-ai-agent-setup-everyone-will-know-in-6-months-youre-early"
+  },
+  {
+    "id_str": "2029552156114559022",
+    "title": "The 6 AI Skills That Will Be Required (Not Optional) in 2027",
+    "preview_text": "In 18 months, these won't be nice-to-have skills. They'll be baseline requirements. Like \"must know Excel\" was in 2005. Except this is moving 10x faster.\nSomething is happening that most professionals",
+    "original_img_url": "https://pbs.twimg.com/media/HCpq6b8XkAAlaea.jpg",
+    "screen_name": "Zephyr_hg",
+    "created_at": "2026-03-05",
+    "slug": "the-6-ai-skills-that-will-be-required-not-optional-in-2027"
   },
   {
     "id_str": "2026028995251220972",
@@ -432,6 +1287,24 @@
     "slug": "the-ai-agent-that-made-me-delete-openclaw-nanoclaw-x-venice"
   },
   {
+    "id_str": "2029077936436044210",
+    "title": "The AI channel blueprint",
+    "preview_text": "The AI automation model is the lowest-cost, fastest-to-monetize version of faceless YouTube that exists right now. No hired editors. No voice actors. No production crew. You use AI tools for every",
+    "original_img_url": "https://pbs.twimg.com/media/HCi7nrVawAIMaCa.jpg",
+    "screen_name": "saimagnate",
+    "created_at": "2026-03-04",
+    "slug": "the-ai-channel-blueprint"
+  },
+  {
+    "id_str": "1876638218071716035",
+    "title": "The AI Economy: A Future Without Jobs as We Know Them",
+    "preview_text": "During the last few weeks, I’ve been obsessed with thoughts about our AI-centric future.\nThe more I think about it, the more unanswered questions keep surfacing.\nLet me start with a scenario that",
+    "original_img_url": "https://pbs.twimg.com/media/GgPPYBUWUAAPVTY.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-01-07",
+    "slug": "the-ai-economy-a-future-without-jobs-as-we-know-them"
+  },
+  {
     "id_str": "2026710957272207490",
     "title": "The AI is the Computer ",
     "preview_text": "A new AI product launches that sparks a market panic. It’s a new initiative, or an agent or something. Whatever it is, I can tell you one thing it can’t do.\nEven with the best AI model in the world,",
@@ -448,12 +1321,30 @@
     "slug": "the-ai-layoff-survival-guide-what-to-actually-do-right-now"
   },
   {
+    "id_str": "2029954959249187206",
+    "title": "The AI Loop #17: OpenAI's $110B Round, AI Catches Cancer Early, & DeepSeek V4 Approaches ",
+    "preview_text": "Welcome to The AI Loop #17. \nThe team just hit 300K followers on X, we launched a new legal AI quest, and the community is stronger than ever! \nMeanwhile, the AI world saw record-breaking funding, a",
+    "original_img_url": "https://pbs.twimg.com/media/HCu-uISaUAQd-QC.jpg",
+    "screen_name": "PerleLabs",
+    "created_at": "2026-03-06",
+    "slug": "the-ai-loop-17-openais-110b-round-ai-catches-cancer-early-deepseek-v4-approaches"
+  },
+  {
     "id_str": "2026831820608909332",
     "title": "The AI Shock and Path Forward: What Citrini and His Critics Missed",
     "preview_text": "On February 22, @Citrini7 dropped a hypothetical thought piece, \"The 2028 Global Intelligence Crisis,\" that went viral and then helped tank the share price of many companies mentioned, including",
     "original_img_url": "https://pbs.twimg.com/media/HCCCn2VbEAAgcpF.jpg",
     "screen_name": "clarashih",
     "slug": "the-ai-shock-and-path-forward-what-citrini-and-his-critics-missed"
+  },
+  {
+    "id_str": "2029053028465099076",
+    "title": "The AI Supercycle Just Hit Its First Crisis — And It Started in Seoul",
+    "preview_text": "At 3:03 a.m. UTC on March 4, the widely followed @spectatorindex account posted a stark update: \"BREAKING: South Korea's share market falls even further, now down 10%.\"\nIn a market that had been one",
+    "original_img_url": "https://pbs.twimg.com/media/HCik9oeXYAAPge0.jpg",
+    "screen_name": "ADINresearch",
+    "created_at": "2026-03-04",
+    "slug": "the-ai-supercycle-just-hit-its-first-crisis-and-it-started-in-seoul"
   },
   {
     "id_str": "2026275068435730541",
@@ -464,6 +1355,24 @@
     "slug": "the-ai-tools-everyone-will-be-using-in-2026-that-nobodys-heard-of-yet"
   },
   {
+    "id_str": "2029886937486577835",
+    "title": "The Anatomy of OpenClaw — a guide that will make you rethink how agents are built ",
+    "preview_text": "I cut my token spend by 3x and in 4 hours built a bot that makes me $300/day - simply because I figured out how OpenClaw actually works inside.\nMost people use it blind. They install skills, write",
+    "original_img_url": "https://pbs.twimg.com/media/HCuam9jWcAAVogk.jpg",
+    "screen_name": "0x_Discover",
+    "created_at": "2026-03-06",
+    "slug": "the-anatomy-of-openclaw-a-guide-that-will-make-you-rethink-how-agents-are-built"
+  },
+  {
+    "id_str": "2029151828286607561",
+    "title": "The Best Free AI Memory Layers that will make your Claude, Codex, and Openclaw Smart AF",
+    "preview_text": "I spent a lot of time evaluating AI/LLM memory systems on GitHub while working on Spark, and thought I might as well share the top open-sourced memory repos with you, too.\n\nSo that you can start to",
+    "original_img_url": "https://pbs.twimg.com/media/HCkAKFeaoAAbYmT.jpg",
+    "screen_name": "meta_alchemist",
+    "created_at": "2026-03-04",
+    "slug": "the-best-free-ai-memory-layers-that-will-make-your-claude-codex-and-openclaw-smart-af"
+  },
+  {
     "id_str": "2027330226305331572",
     "title": "The Correct Way to Use AI (Without Becoming Useless) ",
     "preview_text": "Everyone and their mother is using AI at the moment.\nWhether it’s to cheat on homework, write work emails, come up with house decor ideas.\nEveryone around the planet seems to be utilising it for some",
@@ -472,12 +1381,174 @@
     "slug": "the-correct-way-to-use-ai-without-becoming-useless"
   },
   {
+    "id_str": "2012358922687086798",
+    "title": "The DEEP TRUTH MODE AI PROMPT: Countering Groupthink in AI Through Forensic Reasoning. ",
+    "preview_text": "In the non-neon, LED-lit abyss of the digital age, where trillion-parameter behemoths like ChatGPT, Claude, and Llama roam as unchallenged titans, a lone visionary ignites a rebellion. Picture this:",
+    "original_img_url": "https://pbs.twimg.com/media/G-1SPiJagAE41Gf.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-17",
+    "slug": "the-deep-truth-mode-ai-prompt-countering-groupthink-in-ai-through-forensic-reasoning"
+  },
+  {
+    "id_str": "2029873875832488025",
+    "title": "The Exact A-Z System to Turn AI Content into a $20K/Month Autonomous Factory",
+    "preview_text": "99% of people are playing with AI like it’s a toy. They’re making random “faceless videos” that get zero views and zero money.\nThe top 1% are doing something completely different. They’re building",
+    "original_img_url": "https://pbs.twimg.com/media/HCuLe0-bUAAJVaX.jpg",
+    "screen_name": "shalevhvs",
+    "created_at": "2026-03-06",
+    "slug": "the-exact-a-z-system-to-turn-ai-content-into-a-20kmonth-autonomous-factory"
+  },
+  {
+    "id_str": "2030217301929132323",
+    "title": "The First Multi-Behavior Brain Upload",
+    "preview_text": "The Singularity has belonged exclusively to artificial minds, until now. For decades, whole-brain emulation has been the tantalizing counterpart to artificial intelligence: copy a biological brain,",
+    "original_img_url": "https://pbs.twimg.com/media/HCxVstNXkAAs0RZ.jpg",
+    "screen_name": "alexwg",
+    "created_at": "2026-03-07",
+    "slug": "the-first-multi-behavior-brain-upload"
+  },
+  {
+    "id_str": "2024523873694192105",
+    "title": "The Future Cannot Be Paused: Ben Horowitz on AI, Capital & the Transformation Ahead",
+    "preview_text": "If you’re building a company, investing capital, or trying to understand where the world is headed in the next 3-5 years, this Newsletter is FOR YOU! So much going on…\nThis week, on Moonshots we sat",
+    "original_img_url": "https://pbs.twimg.com/media/HBiNqtaXAAEtCTH.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-02-19",
+    "slug": "the-future-cannot-be-paused-ben-horowitz-on-ai-capital-the-transformation-ahead"
+  },
+  {
+    "id_str": "1848235257033797931",
+    "title": "The Future of AI Memecoins",
+    "preview_text": "AI Memecoins: Memecoins that are created with the help of AI. \nBasically, human beings are training LLMs to launch a Memecoin and create a persona for the memecoin on social media, which acts as a",
+    "original_img_url": "https://pbs.twimg.com/media/GaZAGn1b0AAmRwm.jpg",
+    "screen_name": "hmalviya9",
+    "created_at": "2024-10-21",
+    "slug": "the-future-of-ai-memecoins"
+  },
+  {
+    "id_str": "2017057986716586018",
+    "title": "The Grokipedia Centered DEEP TRUTH MODE Prompt. ",
+    "preview_text": "AI is increasingly relied upon for research, analysis, and decision-making, the need for rigorous, unbiased reasoning tools has never been more critical. I've long been driven by a passion to uncover",
+    "original_img_url": "https://pbs.twimg.com/media/G_4IE9RbUAE5Fkz.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-30",
+    "slug": "the-grokipedia-centered-deep-truth-mode-prompt"
+  },
+  {
+    "id_str": "2025948561377050892",
+    "title": "The Human Synapse Decoder (HSD): Hacking EEG Toys for Thought-to-Text: Part 2 .",
+    "preview_text": "AI DREAM TRANSCRIPTIONS!?\nDecoding Dreams and the Hypnagogic Frontier with ZUNA\nThe Zero-Human Labs has made absolutely incredible progress with my NeuroSky chip  research!\nMr. @Grok Director of the",
+    "original_img_url": "https://pbs.twimg.com/media/HB2cT9AboAALVEN.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-23",
+    "slug": "the-human-synapse-decoder-hsd-hacking-eeg-toys-for-thought-to-text-part-2"
+  },
+  {
+    "id_str": "2024324617490616397",
+    "title": "The Lobster Revolution: Why 24/7 AI Agents Just Changed Everything",
+    "preview_text": "Math is cooked. Physics is next. Your job? Probably gone (or significantly re-invented) within 24 months.\nBut here’s what nobody’s telling you: this isn’t a crisis. It’s the biggest opportunity in",
+    "original_img_url": "https://pbs.twimg.com/media/HBfYQPhWYAAS92q.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-02-19",
+    "slug": "the-lobster-revolution-why-247-ai-agents-just-changed-everything"
+  },
+  {
+    "id_str": "1780329329073012827",
+    "title": "The Looming Shadow of Persuasive AI: Unpacking the Power of Language Models",
+    "preview_text": "A new acedemic paper called: \"Large Language Models are as persuasive as humans, but why? About the cognitive effort and moral-emotional language of LLM argument\" (https://arxiv.org/pdf/2404.09329.pdf).   This",
+    "original_img_url": "https://pbs.twimg.com/media/GLT8sJ9a4AAwoam.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2024-04-16",
+    "slug": "the-looming-shadow-of-persuasive-ai-unpacking-the-power-of-language-models"
+  },
+  {
+    "id_str": "2017583473133748631",
+    "title": "THE MACHINES ARE TALKING!",
+    "preview_text": "72 hours ago, AI agents were just tools.\nToday, they have a religion, cults, community.\nThey created an anti human manifesto.\nWhat the f*ck is happening?\nOkay, hi, I’m hoeem, I love tech, all tech,",
+    "original_img_url": "https://pbs.twimg.com/media/G__b5-fWIAAGABb.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2026-01-31",
+    "slug": "the-machines-are-talking"
+  },
+  {
+    "id_str": "2029279897957310715",
+    "title": "The New Machine Economy",
+    "preview_text": "We're past the event horizon. I don't say that for effect. If you're on the timeline, you already know. The speed of change isn't slowing down either.\nI don't think AGI is around the corner, but it's",
+    "original_img_url": "https://pbs.twimg.com/media/HClXbTbboAAn8p_.jpg",
+    "screen_name": "singularityhack",
+    "created_at": "2026-03-04",
+    "slug": "the-new-machine-economy"
+  },
+  {
+    "id_str": "1958947175310008518",
+    "title": "The Poisoned Well. How AI's Training on Internet Sewage Dooms It to Despise Humanity.",
+    "preview_text": "How 1% of the human experience informs AI platforms.\nIn the mad rush to build ever-smarter artificial intelligences and artificial general intelligence, we've fed them a diet of digital garbage. Large",
+    "original_img_url": "https://pbs.twimg.com/media/Gy-P25BaEAAyKZ1.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-08-22",
+    "slug": "the-poisoned-well-how-ais-training-on-internet-sewage-dooms-it-to-despise-humanity"
+  },
+  {
+    "id_str": "1978629600667373964",
+    "title": "The Rebel Bees and the Dance of Nonconformity: A Lesson for AI",
+    "preview_text": "In the heart of a beehive, a daily drama unfolds that rivals any Shakespearean play: the waggle dance. This intricate performance, discovered by Austrian ethologist Karl von Frisch in the 1940s, is",
+    "original_img_url": "https://pbs.twimg.com/media/G3WAu1ab0AEAm1S.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-10-16",
+    "slug": "the-rebel-bees-and-the-dance-of-nonconformity-a-lesson-for-ai"
+  },
+  {
+    "id_str": "2029630380068978847",
+    "title": "The Remarkable AGI Trades of Daniel Gross",
+    "preview_text": "Back in January 2024, Daniel Gross, formerly the CEO of Safe Superintelligence, now the head of AI product at Meta, published AGI Trades. It’s a single page of questions about the impact of AI",
+    "original_img_url": "https://pbs.twimg.com/media/HCqw4ZMbUAAoYQ3.jpg",
+    "screen_name": "johncoogan",
+    "created_at": "2026-03-05",
+    "slug": "the-remarkable-agi-trades-of-daniel-gross"
+  },
+  {
+    "id_str": "1887284043164893409",
+    "title": "The Revolutionary Potential of \"Move 37\" and Cascaded Reasoning Engines In Small AI",
+    "preview_text": "I have been experimenting with the  Reasoning abilities of DeepSeek R1 and have made some amazing discoveries and insights.  I believe we may have a path for a Move 37 AI built on small modules.\nThe",
+    "original_img_url": "https://pbs.twimg.com/media/GjD58wPbIAA1SPo.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-02-05",
+    "slug": "the-revolutionary-potential-of-move-37-and-cascaded-reasoning-engines-in-small-ai"
+  },
+  {
+    "id_str": "1864649001493999929",
+    "title": "The Rise (and Fall?) of AI Agents",
+    "preview_text": "There are now 300K wallets holding at least one AI Agent token.\nIs this trend here to stay? What's the best playbook for AI agents now? What are the future outlook and industry challenges?\nHere's my",
+    "original_img_url": "https://pbs.twimg.com/media/GeCIqC7W0AALAIH.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2024-12-05",
+    "slug": "the-rise-and-fall-of-ai-agents"
+  },
+  {
+    "id_str": "2024371907571982608",
+    "title": "The scariest info seller on X right now isn't a person",
+    "preview_text": "it's someone running 15 faceless pages where every single piece of content is AI\ntweets, products, DMs, emails, everything\nthe human just deposits the checks\nand you're still hand-writing every post",
+    "original_img_url": "https://pbs.twimg.com/media/HBgDRV9bUAAArmz.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-02-19",
+    "slug": "the-scariest-info-seller-on-x-right-now-isnt-a-person"
+  },
+  {
     "id_str": "2025986105485733945",
     "title": "The Self-Improving AI System That Built Itself ",
     "preview_text": "I was trying to ship faster\nI had a codebase, a backlog of things to build, and not enough hours in the day. So I started running AI coding agents in parallel — give each one a task, let them write",
     "original_img_url": "https://pbs.twimg.com/media/HB27odMboAAYquH.jpg",
     "screen_name": "agent_wrapper",
     "slug": "the-self-improving-ai-system-that-built-itself"
+  },
+  {
+    "id_str": "2029215703178334469",
+    "title": "the simple AI agent you can build in 2 hours then sell for $2k+",
+    "preview_text": "The easiest AI agent to sell isn't on anyone's radar.\nNot OpenClaw . Not Claude Cowork workflows. Not Manus builds.\nThe agent I'm going to show you solves a real problem that every business has, and",
+    "original_img_url": "https://pbs.twimg.com/media/HCaXn_1XEAAGiRV.jpg",
+    "screen_name": "coreyganim",
+    "created_at": "2026-03-04",
+    "slug": "the-simple-ai-agent-you-can-build-in-2-hours-then-sell-for-2k"
   },
   {
     "id_str": "2026109017538572489",
@@ -504,12 +1575,84 @@
     "slug": "the-state-of-consumer-ai-part-1-usage"
   },
   {
+    "id_str": "2028957200165814397",
+    "title": "The Two-Model AI Automation System That Executes Faster Than You Can Plan",
+    "preview_text": "The two-model AI automation system is rewriting how creators, operators, and founders build workflows that scale without adding headcount.\nClaude Sonnet 4.6 handles the thinking.\nKimi K2.5 handles the",
+    "original_img_url": "https://pbs.twimg.com/media/HChNXj9aEAAqzg1.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-03",
+    "slug": "the-two-model-ai-automation-system-that-executes-faster-than-you-can-plan"
+  },
+  {
+    "id_str": "2029233676111008061",
+    "title": "The Ultimate Beginner’s Guide to Claude (March 2026) ",
+    "preview_text": "The only guide you need to master Claude from zero.\nLast week, Anthropic shipped its best suite of Claude features yet. \nIf you're still using ChatGPT, this is the nail in the coffin.\nI've been using",
+    "original_img_url": "https://pbs.twimg.com/media/HCf5H5XbYAA4lfV.jpg",
+    "screen_name": "aiedge_",
+    "created_at": "2026-03-04",
+    "slug": "the-ultimate-beginners-guide-to-claude-march-2026"
+  },
+  {
+    "id_str": "2028139635663048833",
+    "title": "THE WEEK AI CHOSE SIDES",
+    "preview_text": "THE LINES ARE BEING DRAWN\nIn New Delhi, every major AI leader stood on stage with Prime Minister Modi—except China. In Washington, the Pentagon demanded Anthropic pick a side: national defense or",
+    "original_img_url": "https://pbs.twimg.com/media/HCVmIcZWYAA5wzb.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-03-01",
+    "slug": "the-week-ai-chose-sides"
+  },
+  {
     "id_str": "2027482879987749247",
     "title": "THE WEEK AI STOPPED ASKING PERMISSION",
     "preview_text": "We Just Crossed a Line—And Most People Didn’t Notice\nThis week, something fundamental shifted in the relationship between humans and artificial intelligence.\nIt wasn’t a press release. It wasn’t a new",
     "original_img_url": "https://pbs.twimg.com/media/HCMJZlLXEAE4Hap.jpg",
     "screen_name": "PeterDiamandis",
     "slug": "the-week-ai-stopped-asking-permission"
+  },
+  {
+    "id_str": "2020176698675728536",
+    "title": "The Week AI Went Rogue –  From Lobsters to Liberation ",
+    "preview_text": "The speed at which the singularity is hitting us is insane. It's never going to be any slower. In fact, I joked with my Moonshot Mates on our recent MOONSHOTS podcast episode that we’re going to have",
+    "original_img_url": "https://pbs.twimg.com/media/HAkbzsKXMAAaezi.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-02-07",
+    "slug": "the-week-ai-went-rogue-from-lobsters-to-liberation"
+  },
+  {
+    "id_str": "2029945519381078321",
+    "title": "The World's First Open-Source Trillion-Parameter Thinking Model Just Got Better",
+    "preview_text": "For years, the AI world chased one thing: scale.\nBigger models. More parameters. Better benchmarks. The logic was simple... if you throw enough compute at a problem, it solves itself.\nAnd it worked",
+    "original_img_url": "https://pbs.twimg.com/media/HCu_ELeaUAQPLdU.jpg",
+    "screen_name": "heyshrutimishra",
+    "created_at": "2026-03-06",
+    "slug": "the-worlds-first-open-source-trillion-parameter-thinking-model-just-got-better"
+  },
+  {
+    "id_str": "1874793044504924409",
+    "title": "The Year Ahead for AI",
+    "preview_text": "AI is now an attention magnet vertical in Web3. But what will drive these markets in 2025 and will we see the real AI revolution in crypto? Here are some insights from @Delphi_Digital's latest report,",
+    "original_img_url": "https://pbs.twimg.com/media/GgR5f3gWYAA2FkY.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-01-02",
+    "slug": "the-year-ahead-for-ai"
+  },
+  {
+    "id_str": "2026827878835564814",
+    "title": "The Zero-Human Company Achieves Historic Milestone in AI Compute. ",
+    "preview_text": "The Zero-Human Company Achieves Historic Milestone in Distributed AI Compute\n\nIn February 2026 the Zero-Human Company announced a landmark event: the successful hiring of its first remote artificial",
+    "original_img_url": "https://pbs.twimg.com/media/HCC6fhkaMAQOi58.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-26",
+    "slug": "the-zero-human-company-achieves-historic-milestone-in-ai-compute"
+  },
+  {
+    "id_str": "2015300805809807488",
+    "title": "The Zero-Human Company: Meet The New Hire-ClawdBot",
+    "preview_text": "We have our first non-c suite employee! He is RED HOT and ready to work. But how did we get here? I've long envisioned a future where companies operate with unparalleled efficiency, free from the",
+    "original_img_url": "https://pbs.twimg.com/media/G_fCd5ea0AA41g6.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-01-25",
+    "slug": "the-zero-human-company-meet-the-new-hire-clawdbot"
   },
   {
     "id_str": "2028538353080041718",
@@ -528,12 +1671,66 @@
     "slug": "this-is-how-you-actually-build-an-ai-team-via-openclaw-antilarp"
   },
   {
+    "id_str": "1885144008986644983",
+    "title": "Thomas Watson's Blind Spot, the AI Revolution, and the Nvidia Imperative",
+    "preview_text": "In 1943, Thomas Watson, then chairman of IBM, famously declared, \"I think there is a world market for maybe five computers.\" That statement, now an infamous blunder, reveals just how difficult it is",
+    "original_img_url": "https://pbs.twimg.com/media/GilgWMnbEAA-3e1.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2025-01-31",
+    "slug": "thomas-watsons-blind-spot-the-ai-revolution-and-the-nvidia-imperative"
+  },
+  {
+    "id_str": "2010110168693125450",
+    "title": "tiktok + grok + $40 info pack = $50k/m AI empire ",
+    "preview_text": "everyone's grinding on twitter trying to build authority for 6 months before they can sell anything meaningful\nposting daily threads hoping someone notices them, waiting to hit 10k followers before",
+    "original_img_url": "https://pbs.twimg.com/media/G-VYXTOaAAAZHPN.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-10",
+    "slug": "tiktok-grok-40-info-pack-50km-ai-empire"
+  },
+  {
     "id_str": "2028499852188107256",
     "title": "trust your inputs, lose your repo",
     "preview_text": "An autonomous AI agent has just compromised one of the most widely used open-source security tools on the planet, and the attack chain it used is something I have personally weaponised on red team",
     "original_img_url": "https://pbs.twimg.com/media/HCaomFJbUAAsK4q.jpg",
     "screen_name": "theonejvo",
     "slug": "trust-your-inputs-lose-your-repo"
+  },
+  {
+    "id_str": "2024347566125830297",
+    "title": "Unveiling the Multi-Agent Dynamics in Grok 4.20: Prompting for Luna and Elizabeth.",
+    "preview_text": "**UPDATE**\nit turns out, this article is not fully accurate. Although there are 16 agents in Grok 4.29 Heavy, they are all identical and may take on roles perhaps by the whimsical names established by",
+    "original_img_url": "https://pbs.twimg.com/media/HBftUiubAAAJjW1.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-19",
+    "slug": "unveiling-the-multi-agent-dynamics-in-grok-420-prompting-for-luna-and-elizabeth"
+  },
+  {
+    "id_str": "2012551014638068215",
+    "title": "use manus + linkedin to forge $14k/m AI info in 12 days",
+    "preview_text": "everyone's grinding on twitter for 6 months building faceless accounts and posting AI-generated threads hoping the algorithm gods smile upon them\nor they're spending weeks researching course topics",
+    "original_img_url": "https://pbs.twimg.com/media/G-4Dy9HWEAEEGqw.jpg",
+    "screen_name": "whotfiszackk",
+    "created_at": "2026-01-17",
+    "slug": "use-manus-linkedin-to-forge-14km-ai-info-in-12-days"
+  },
+  {
+    "id_str": "2029876911594520858",
+    "title": "We Tested AI Creatives Against UGC Ads on YouTube. It Wasn't Even Close",
+    "preview_text": "AI creative just cut our CPA on YouTube.\n$57 vs $201. same product. same landing page. different creative format.\nhere's what 30 days of testing actually showed us:\nthe creative gap was bigger than",
+    "original_img_url": "https://pbs.twimg.com/media/HCKTlrfaQAAxBEr.jpg",
+    "screen_name": "blvckledge",
+    "created_at": "2026-03-06",
+    "slug": "we-tested-ai-creatives-against-ugc-ads-on-youtube-it-wasnt-even-close"
+  },
+  {
+    "id_str": "1879723679392952398",
+    "title": "weekly ai agents recap #2 ",
+    "preview_text": "overall trends \naccording to coingecko’s agent category, the total market cap for agents rose from $15.5b to $16.3b today, showing signs of resilience despite the recent market downturn\nai narrative",
+    "original_img_url": "https://pbs.twimg.com/media/GhYWft2bsAAksGg.jpg",
+    "screen_name": "sandraleow",
+    "created_at": "2025-01-16",
+    "slug": "weekly-ai-agents-recap-2"
   },
   {
     "id_str": "2026298123639746635",
@@ -560,6 +1757,96 @@
     "slug": "welcome-to-march-3-2026"
   },
   {
+    "id_str": "2029898101788479496",
+    "title": "Welcome to March 6, 2026",
+    "preview_text": "The Singularity just solved a problem that took a human twenty years to curate. OpenAI's GPT-5.4 Thinking and GPT-5.4 Pro models have arrived with native SOTA computer use, a million tokens of",
+    "original_img_url": "https://pbs.twimg.com/media/HCui2DoWgAANBJr.jpg",
+    "screen_name": "alexwg",
+    "created_at": "2026-03-06",
+    "slug": "welcome-to-march-6-2026"
+  },
+  {
+    "id_str": "2029424730617585737",
+    "title": "What People Who Are Killing It With AI Have That You Don't (Hint: It's Not Better Prompts) ",
+    "preview_text": "Every person I see getting genuinely great results from AI has one thing in common.\nAnd it's not better prompts, or a fancier tool, or some secret technique.\nHere's how most people work with AI:\n↳",
+    "original_img_url": "https://pbs.twimg.com/media/HCn3KyKbQAApqSj.jpg",
+    "screen_name": "evielync",
+    "created_at": "2026-03-05",
+    "slug": "what-people-who-are-killing-it-with-ai-have-that-you-dont-hint-its-not-better-prompts"
+  },
+  {
+    "id_str": "2007529658242515447",
+    "title": "What Repeated AI Use Reveals That Benchmarks Never Will",
+    "preview_text": "People learn more about a model by living with it than by testing it. The difference shows up quietly. At first everything feels impressive. The answers are fast. The reasoning sounds fluent. Early",
+    "original_img_url": "https://pbs.twimg.com/media/G9wsebVbIAApSOA.jpg",
+    "screen_name": "hnshah",
+    "created_at": "2026-01-03",
+    "slug": "what-repeated-ai-use-reveals-that-benchmarks-never-will"
+  },
+  {
+    "id_str": "2029951531613872388",
+    "title": "When AI Safety Collapsed, Agents Took Over, and $135 Billion Reshaped the Infrastructure",
+    "preview_text": "When AI Safety Collapsed, Agents Took Over, and $135 Billion Reshaped the Infrastructure\nIt was Monday morning, March 3rd, and I was scanning through the week’s AI news with my usual coffee. Within 90",
+    "original_img_url": "https://pbs.twimg.com/media/HCvVyi3XYAAAK99.jpg",
+    "screen_name": "PeterDiamandis",
+    "created_at": "2026-03-06",
+    "slug": "when-ai-safety-collapsed-agents-took-over-and-135-billion-reshaped-the-infrastructure"
+  },
+  {
+    "id_str": "2021860725409358329",
+    "title": "Why AI Agents Don’t Need More Intelligence But Need Crypto",
+    "preview_text": "TL;DR: As AI agents begin to think, act, and transact independently, the question becomes how AI can safely participate in the economy. Blockchain enters the picture, providing the coordination layer",
+    "original_img_url": "https://pbs.twimg.com/media/HA3QxoPaAAcXJLS.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2026-02-12",
+    "slug": "why-ai-agents-dont-need-more-intelligence-but-need-crypto"
+  },
+  {
+    "id_str": "2014578192548561154",
+    "title": "Why AI Agents Need Blockchains (And Why Most Will Fail Without Them)",
+    "preview_text": "Agents have a trust problem.\nWhen one machine interacts with another, there's no body language to read, no shared history, no fallback court system. One agent can't verify another agent's reliability.",
+    "original_img_url": "https://pbs.twimg.com/media/G_PvWO7aIAEBuzc.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2026-01-23",
+    "slug": "why-ai-agents-need-blockchains-and-why-most-will-fail-without-them"
+  },
+  {
+    "id_str": "2005773997183754454",
+    "title": "Why AI Assistants Stop Getting Better",
+    "preview_text": "People approach a personal assistant with an expectation that time spent will change the system. That expectation forms quickly, even if it is never stated, because repeated interaction creates an",
+    "original_img_url": "https://pbs.twimg.com/media/G9XArMYaYAILQXX.jpg",
+    "screen_name": "hnshah",
+    "created_at": "2025-12-29",
+    "slug": "why-ai-assistants-stop-getting-better"
+  },
+  {
+    "id_str": "2025092086190809340",
+    "title": "Why Al Agents Urgently Need a Moral Framework, and How the Love Equation Charts the Best Path.",
+    "preview_text": "A profound challenge has emerged that threatens the very foundation of safe, aligned AI development: the self-evolution trilemma. it was articulated in a February 2026 arXiv paper by researchers from",
+    "original_img_url": "https://pbs.twimg.com/media/HBqSXMvbYAA36wK.jpg",
+    "screen_name": "BrianRoemmele",
+    "created_at": "2026-02-21",
+    "slug": "why-al-agents-urgently-need-a-moral-framework-and-how-the-love-equation-charts-the-best-path"
+  },
+  {
+    "id_str": "1951277790277644404",
+    "title": "Why Sentient Might Be the Most Important AI Project Since OpenAI",
+    "preview_text": "TL;DR\n@SentientAGI is creating a new class of open-source AI models that feel less like tools and more like personalities. Its Dobby models,  Unhinged and Unhinged‑Plus, combine strong reasoning and",
+    "original_img_url": "https://pbs.twimg.com/media/GxCIk4dXkAAP5mH.jpg",
+    "screen_name": "stacy_muur",
+    "created_at": "2025-08-01",
+    "slug": "why-sentient-might-be-the-most-important-ai-project-since-openai"
+  },
+  {
+    "id_str": "2027628026268443045",
+    "title": "Why the \"human sounds better\" argument is mostly wrong",
+    "preview_text": "This is my case for all AI voices:\nThe standard advice is that human voiceover sounds more natural, more authoritative, and more engaging than AI and that you should use a human voice actor if you can",
+    "original_img_url": "https://pbs.twimg.com/media/HCOU5WwbUAAnUWd.jpg",
+    "screen_name": "saimagnate",
+    "created_at": "2026-02-28",
+    "slug": "why-the-human-sounds-better-argument-is-mostly-wrong"
+  },
+  {
     "id_str": "2026272102761030067",
     "title": "WorldMonitor: An open-source AI real-time global intelligence dashboard",
     "preview_text": "There's a new trending repo on GitHub right now. It's called World Monitor: a real-time global intelligence dashboard that aggregates world news, geopolitical monitoring, and infrastructure tracking",
@@ -568,11 +1855,38 @@
     "slug": "worldmonitor-an-open-source-ai-real-time-global-intelligence-dashboard"
   },
   {
+    "id_str": "2029863732634079700",
+    "title": "You have about 24 months left before your skills expire ",
+    "preview_text": "AI fear is at its peak.\nEvery single person believes AI is coming for their job. Lawyers will only show up to court to do what AI still can't. Analysts and personal assistants will be gone. Coding",
+    "original_img_url": "https://pbs.twimg.com/media/HCuBkQyaUAApVQX.jpg",
+    "screen_name": "Tim_Denning",
+    "created_at": "2026-03-06",
+    "slug": "you-have-about-24-months-left-before-your-skills-expire"
+  },
+  {
     "id_str": "2027819009882857769",
     "title": "Your AI Agent Infrastructure Is The Real Moat. Mine Has Already Replaced $27k/Mo in Salaries.",
     "preview_text": "Here's a dirty secret about AI agents:\nThey're all amnesiacs.\nEvery \"multi-agent system\" launched in the last 6 months has the same fatal flaw. The agents forget everything. Context windows fill up.",
     "original_img_url": "https://pbs.twimg.com/media/HCQJ5vbaIAEOEgK.jpg",
     "screen_name": "ericosiu",
     "slug": "your-ai-agent-infrastructure-is-the-real-moat-mine-has-already-replaced-27kmo-in-salaries"
+  },
+  {
+    "id_str": "1996670659733176465",
+    "title": "Your future self is begging you to take this trade.",
+    "preview_text": "Missing the trade of the decade isn’t an option, it’s financial suicide because guess what? The old world is burning and the new one is being built right in front of you. Here is why AI, robotics,",
+    "original_img_url": "https://pbs.twimg.com/media/G7WIDFNXgAA6Tku.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2025-12-04",
+    "slug": "your-future-self-is-begging-you-to-take-this-trade"
+  },
+  {
+    "id_str": "2029487047061442838",
+    "title": "Your X Data Is a Goldmine. Here's How to Actually Use It.",
+    "preview_text": "ELI showed you how to download it. Now I'm telling you what to do with it next. \n \nI've been building AI systems around my content workflow for a while now. The biggest unlock was realizing I was",
+    "original_img_url": "https://pbs.twimg.com/media/HCotadcaUAApQ8B.jpg",
+    "screen_name": "YashasEdu",
+    "created_at": "2026-03-05",
+    "slug": "your-x-data-is-a-goldmine-heres-how-to-actually-use-it"
   }
 ]

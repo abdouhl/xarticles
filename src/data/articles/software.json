@@ -1,11 +1,38 @@
 [
   {
+    "id_str": "2022603662741414193",
+    "title": "🕹️ Cursor For Product Managers",
+    "preview_text": "So, last week I had a change of heart. You know I have been convincing folks to try and use Claude Code; and while I still love it, I just haven’t been having a lot of great experiences recently with",
+    "original_img_url": "https://pbs.twimg.com/media/HBJVAWvaoAA0lMX.jpg",
+    "screen_name": "nurijanian",
+    "created_at": "2026-02-14",
+    "slug": "cursor-for-product-managers"
+  },
+  {
+    "id_str": "2012442681688068259",
+    "title": "🕹️ How to Chain Claude Code Skills Into Product Workflows",
+    "preview_text": "I’ve explained my process seven times in the last three weeks.\nOnce to ChatGPT when drafting an interview guide. Again when analyzing transcripts. Again when a junior PM asked how I structure",
+    "original_img_url": "https://pbs.twimg.com/media/G-2hhrZboAAdrVT.jpg",
+    "screen_name": "nurijanian",
+    "created_at": "2026-01-17",
+    "slug": "how-to-chain-claude-code-skills-into-product-workflows"
+  },
+  {
     "id_str": "2026907452277719230",
     "title": "1 spec isn't cool. You know what's cool? 10 specs. ",
     "preview_text": "We optimized software development for speed for twenty years. Now AI agents can prototype faster than any team ever could, and the bottleneck has flipped. The constraint used to be \"can we build it.\"",
     "original_img_url": "https://pbs.twimg.com/media/HCEExOkasAAYgFv.jpg",
     "screen_name": "augmentcode",
     "slug": "1-spec-isnt-cool-you-know-whats-cool-10-specs"
+  },
+  {
+    "id_str": "2029707252219924641",
+    "title": "A Rust Porting Playbook: 7 Techniques for Highly Tested Agent-Written Code",
+    "preview_text": "After a few weeks of experimentation, I’m excited to share something new: the Rust Porting Playbook, a system of documents, guidelines, and tools for 100% agentic porting of Python codebases to Rust.\n",
+    "original_img_url": "https://pbs.twimg.com/media/HCnc2Rdb0AA3ZdS.jpg",
+    "screen_name": "ojoshe",
+    "created_at": "2026-03-05",
+    "slug": "a-rust-porting-playbook-7-techniques-for-highly-tested-agent-written-code"
   },
   {
     "id_str": "2028564120338063859",
@@ -24,6 +51,24 @@
     "slug": "agentic-software-engineering"
   },
   {
+    "id_str": "2017838622360350886",
+    "title": "Anthropic Killed Product Managers: Plugins for Product Managers in Claude Cowork",
+    "preview_text": "Sorry about the clickbait.\nNo, it’s not true (yet?), though when I first saw the announcement, I must confess, this headline is what came across my mind.\nOn January 31, Anthropic rolled out Claude",
+    "original_img_url": "https://pbs.twimg.com/media/HADLOS0bEAQubZk.jpg",
+    "screen_name": "nurijanian",
+    "created_at": "2026-02-01",
+    "slug": "anthropic-killed-product-managers-plugins-for-product-managers-in-claude-cowork"
+  },
+  {
+    "id_str": "2030158911765106822",
+    "title": "Bagaimana Membuat Software As A Service (SaaS) yang Proper di Era AI",
+    "preview_text": "Disclaimer: Ini hanya berdasarkan pengalaman menggeluti algoritma pemrograman dari zaman bahasa Pascal dan HTML di Notepad. Cara/Metode setiap orang bisa berbeda.\nSaaS yang proper memang harus dimulai",
+    "original_img_url": "https://pbs.twimg.com/media/HCySaB4bAAAV-Sk.jpg",
+    "screen_name": "AryHHAry",
+    "created_at": "2026-03-07",
+    "slug": "bagaimana-membuat-software-as-a-service-saas-yang-proper-di-era-ai"
+  },
+  {
     "id_str": "2026002315371745671",
     "title": "Building a 16-Bit CPU from Scratch in C (Step-by-Step)",
     "preview_text": "Building a 16-Bit CPU from Scratch in C might sound intimidating, but it's one of the most rewarding projects you can undertake as a programmer. In this article, I'll walk you through every step of",
@@ -32,12 +77,39 @@
     "slug": "building-a-16-bit-cpu-from-scratch-in-c-step-by-step"
   },
   {
+    "id_str": "2027759832523051263",
+    "title": "Claude Cowork: The Definitive Setup Guide",
+    "preview_text": "What Cowork Actually Is\nCowork is an agentic desktop tool built into the Claude Desktop app. It gives Claude direct read/write access to folders on your computer, the ability to execute multi-step",
+    "original_img_url": "https://pbs.twimg.com/media/HCPJAI6XoAEzgrK.jpg",
+    "screen_name": "witcheer",
+    "created_at": "2026-02-28",
+    "slug": "claude-cowork-the-definitive-setup-guide"
+  },
+  {
+    "id_str": "2029562564384882868",
+    "title": "Claude Masterclass for Beginners (Claude vs. Claude Cowork vs. Claude Code)",
+    "preview_text": "Most people say \"I use Claude\" like it's one thing.\nIt's not. Most people don't realize Claude is three distinct products. If you're using the wrong one for your workflow, you're leaving massive",
+    "original_img_url": "https://pbs.twimg.com/media/HCp0NDGbEAEy0Oe.jpg",
+    "screen_name": "coreyganim",
+    "created_at": "2026-03-05",
+    "slug": "claude-masterclass-for-beginners-claude-vs-claude-cowork-vs-claude-code"
+  },
+  {
     "id_str": "2028873598170178016",
     "title": "Gemini 3.1 Flash-Lite: Developer guide and use cases",
     "preview_text": "Gemini 3.1 Flash-Lite is the high-volume, affordable powerhouse of the Gemini family. It’s purpose-built for large-scale tasks where speed and cost-efficiency are the main priorities, making it the",
     "original_img_url": "https://pbs.twimg.com/media/HCfkWZxaoAEl1Vh.jpg",
     "screen_name": "GoogleAIStudio",
     "slug": "gemini-31-flash-lite-developer-guide-and-use-cases"
+  },
+  {
+    "id_str": "1965488946672271662",
+    "title": "Had an Engineer Dive Into Figma Make. Here’s What We Learned So Far.",
+    "preview_text": "You can tell a product is early when it needs you to be both the engine and the steering wheel.\nWe’ve been testing Make (the AI website builder inside Figma) to see if it’s actually ready to help real",
+    "original_img_url": "https://pbs.twimg.com/media/G0bRKTobEAAu6l2.jpg",
+    "screen_name": "hnshah",
+    "created_at": "2025-09-09",
+    "slug": "had-an-engineer-dive-into-figma-make-heres-what-we-learned-so-far"
   },
   {
     "id_str": "2026846215644787196",
@@ -56,12 +128,39 @@
     "slug": "how-peter-steinberger-does-agentic-engineering-plus-my-take"
   },
   {
+    "id_str": "2028814227004395561",
+    "title": "How To Be A World-Class Agentic Engineer",
+    "preview_text": "Introduction\nYou're a developer. You're using Claude and Codex CLI and you're wondering everyday if you're sufficiently juicing the shit out of Claude or Codex. Once in awhile you're seeing it doing",
+    "original_img_url": "https://pbs.twimg.com/media/HCfLhE-a4AA6UfW.jpg",
+    "screen_name": "systematicls",
+    "created_at": "2026-03-03",
+    "slug": "how-to-be-a-world-class-agentic-engineer"
+  },
+  {
+    "id_str": "2012577243839840333",
+    "title": "How To Build a Python Backtester That Runs in Seconds",
+    "preview_text": "Introduction\nThere are largely 2 types of backtesters, an event-based backtester, and a vectorised backtester. Events-based are really complicated but, in exchange, they can get you the highest",
+    "original_img_url": "https://pbs.twimg.com/media/G-pcxtBbQAYgm-x.jpg",
+    "screen_name": "systematicls",
+    "created_at": "2026-01-17",
+    "slug": "how-to-build-a-python-backtester-that-runs-in-seconds"
+  },
+  {
     "id_str": "2027280077483085863",
     "title": "how to vibecode with claude code",
     "preview_text": "this is your no-BS guide to building cool stuff with claude code\n\nwithout overengineering ( for beginners )\nSTEP 1: PLAN\nthis is where most people mess up.\nthey open claude and go:\nbuild me an app\nno.",
     "original_img_url": "https://pbs.twimg.com/media/HCJXcqNa0AEV_xk.jpg",
     "screen_name": "aashatwt",
     "slug": "how-to-vibecode-with-claude-code"
+  },
+  {
+    "id_str": "2007137091101106249",
+    "title": "I want to learn how to vibe code:",
+    "preview_text": "My goal this year is to learn how to vibe code.\nThe problem is: I have no experience in coding.\nMost people don’t know where to start.\nUntil today, I didn’t either, I’ve been researching.\nNow we",
+    "original_img_url": "https://pbs.twimg.com/media/G9rIa-tWgAAeM3p.jpg",
+    "screen_name": "hooeem",
+    "created_at": "2026-01-02",
+    "slug": "i-want-to-learn-how-to-vibe-code"
   },
   {
     "id_str": "2025833621299351613",
@@ -80,6 +179,15 @@
     "slug": "nanoclaw-a-lightweight-alternative-to-openclaw"
   },
   {
+    "id_str": "2029304239345017050",
+    "title": "Nine Ways to Scrape Data with Claude Code",
+    "preview_text": "One of the easiest and most useful tasks to which to put Claude Code is scraping data. \nHowever, getting optimal data scraping results from Claude Code depend on giving it the right nudges and access",
+    "original_img_url": "https://pbs.twimg.com/media/HCmGaQvXIAAkDaY.jpg",
+    "screen_name": "aniketapanjwani",
+    "created_at": "2026-03-04",
+    "slug": "nine-ways-to-scrape-data-with-claude-code"
+  },
+  {
     "id_str": "2025920521871716562",
     "title": "OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]",
     "preview_text": "I don't use Codex or Claude Code directly anymore.\nI use OpenClaw as my orchestration layer. My orchestrator, Zoe, spawns the agents, writes their prompts, picks the right model for each task,",
@@ -95,6 +203,15 @@
     "screen_name": "PawelHuryn",
     "created_at": "2026-03-03",
     "slug": "pm-skills-marketplace-the-ai-os-for-better-product-decisions"
+  },
+  {
+    "id_str": "2029680516568600933",
+    "title": "Services: The New Software",
+    "preview_text": "The next $1T company will be a software company masquerading as a services firm.\n\nEvery founder building an AI tool is asking the same question: what happens when the next version of Claude makes my",
+    "original_img_url": "https://pbs.twimg.com/media/HCrZoYZWEAAJfoI.jpg",
+    "screen_name": "JulienBek",
+    "created_at": "2026-03-05",
+    "slug": "services-the-new-software"
   },
   {
     "id_str": "2026762513094758497",
@@ -135,6 +252,15 @@
     "original_img_url": "https://pbs.twimg.com/media/HB7gEmnWEAAV-xV.jpg",
     "screen_name": "ArmanHezarkhani",
     "slug": "the-complete-guide-claude-for-excel"
+  },
+  {
+    "id_str": "2028968986051002513",
+    "title": "The Google Stitch and GLM5 Workflow That Builds Full Stack Apps In Minutes",
+    "preview_text": "Google Stitch and GLM5 workflow is changing how apps get built.\nOne AI tool designs the interface.\nAnother AI tool writes the backend code.\nWatch the video below:\nWant to make money and save time with",
+    "original_img_url": "https://pbs.twimg.com/media/HChYEb4awAEkrCz.jpg",
+    "screen_name": "JulianGoldieSEO",
+    "created_at": "2026-03-03",
+    "slug": "the-google-stitch-and-glm5-workflow-that-builds-full-stack-apps-in-minutes"
   },
   {
     "id_str": "2026116841706582072",

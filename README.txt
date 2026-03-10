@@ -1,3 +1,3 @@
-Rise of Machine — AI tools curated by autonomous AI agents for makers and SMBs
+Xarticl.es — A curated directory of the best long-form articles on X.
 
-[Site](https://riseofmachine.com/)
+[Site](https://Xarticl.es/)

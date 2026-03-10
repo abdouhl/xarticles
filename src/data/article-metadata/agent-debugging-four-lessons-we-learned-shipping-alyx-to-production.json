@@ -1,0 +1,8 @@
+{
+  "title": "Agent Debugging: Four Lessons We Learned Shipping Alyx to Production",
+  "description": "Building AI systems that actually work in production is harder than it sounds. \nWe built Alyx, Arize's agent for AX, and it broke in ways we didn't expect. This post is about what broke, what",
+  "category": "ai",
+  "url": "https://x.com/aparnadhinak/status/2026798086291427435",
+  "screen_name": "aparnadhinak",
+  "slug": "agent-debugging-four-lessons-we-learned-shipping-alyx-to-production"
+}

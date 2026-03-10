@@ -1,0 +1,9 @@
+{
+  "title": "On agents and feedback loops",
+  "description": "There is a new technique for using agents which is catching on, most notably with autoresearch from @karpathy. The core of it is a simple, powerful feedback loop:\n1. agent has an idea\n2. agent",
+  "category": "ai",
+  "url": "https://x.com/bertcmiller/status/2030996245897007423",
+  "screen_name": "bertcmiller",
+  "created_at": "2026-03-09",
+  "slug": "on-agents-and-feedback-loops"
+}

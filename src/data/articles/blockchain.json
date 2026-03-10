@@ -107,6 +107,15 @@
     "slug": "evaluating-a-token-sale-a-practical-guide"
   },
   {
+    "id_str": "2031030310092062913",
+    "title": "How Polymarket Actually Prices Beliefs: The Math Behind LMSR ",
+    "preview_text": "Before Polymarket, before PredictIt, before any of the modern prediction markets you’ve heard of, someone had to solve a hard problem.\nHow do you build a market that always has liquidity? One where",
+    "original_img_url": "https://pbs.twimg.com/media/HC1k_UIWsAALmb9.jpg",
+    "screen_name": "AleiahLock",
+    "created_at": "2026-03-09",
+    "slug": "how-polymarket-actually-prices-beliefs-the-math-behind-lmsr"
+  },
+  {
     "id_str": "1910371934178582713",
     "title": "How to Use Dune: A 101 Guide + Top Dashboards to Bookmark",
     "preview_text": "Curious how to track what’s happening onchain without being a dev?\nBlockchain data shouldn't be locked behind high technical barriers. Whether you're a marketer tracking campaign performance, a",
@@ -114,6 +123,15 @@
     "screen_name": "stacy_muur",
     "created_at": "2025-04-10",
     "slug": "how-to-use-dune-a-101-guide-top-dashboards-to-bookmark"
+  },
+  {
+    "id_str": "2031042423288426979",
+    "title": "Introducing ERC-8183: The Commerce Layer for AI Agents ",
+    "preview_text": "Co-developed by Virtuals Protocol and the Ethereum Foundation's dAI team\n \nSpecification: https://eips.ethereum.org/EIPS/eip-8183\nDiscussion: ethereum-magicians.org/t/erc-8183-agentic-commerce/27902\nJoin the Builder's Community:",
+    "original_img_url": "https://pbs.twimg.com/media/HC9R9sLawAA5YEo.jpg",
+    "screen_name": "virtuals_io",
+    "created_at": "2026-03-09",
+    "slug": "introducing-erc-8183-the-commerce-layer-for-ai-agents"
   },
   {
     "id_str": "1986025091348451615",
@@ -277,6 +295,15 @@
     "slug": "the-rise-of-payfi-the-payment-layer-of-the-future"
   },
   {
+    "id_str": "2031057464376898009",
+    "title": "The Stablecoin Data Gap",
+    "preview_text": "I met with a product leader at a major fintech recently, who told me the four reasons they think crypto will be critical to their operations: 1) cheaper cross-border payments, 2) 24/7 settlement, 3)",
+    "original_img_url": "https://pbs.twimg.com/media/HC-5tdFagAAiHZF.jpg",
+    "screen_name": "ethanyish",
+    "created_at": "2026-03-09",
+    "slug": "the-stablecoin-data-gap"
+  },
+  {
     "id_str": "1934579773809778745",
     "title": "The State of New Chains: Berachain, Abstract, Unichain, Ink, and Worldchain",
     "preview_text": "The blockchain landscape witnessed several high-profile mainnet launches in early 2025, each promising unique value propositions. Six months in, the data reveals a sobering picture of post-launch",
@@ -374,5 +401,14 @@
     "screen_name": "hooeem",
     "created_at": "2024-11-18",
     "slug": "you-can-use-ai-sturdy-to-farm-yield-let-me-show-you"
+  },
+  {
+    "id_str": "2030995832808288659",
+    "title": "Zcash Open Development Lab Raises $25M+ in Seed Funding",
+    "preview_text": "Zcash Open Development Lab (ZODL) has secured over $25 million in funding. This milestone signals strong investor confidence in the growing worldwide adoption of shielded ZEC as digital private money.",
+    "original_img_url": "https://pbs.twimg.com/media/HC-iLAcXUAA4CrO.jpg",
+    "screen_name": "zodl_app",
+    "created_at": "2026-03-09",
+    "slug": "zcash-open-development-lab-raises-25m-in-seed-funding"
   }
 ]

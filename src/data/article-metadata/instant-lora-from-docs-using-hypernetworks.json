@@ -1,0 +1,9 @@
+{
+  "title": "Instant LORA from docs, using Hypernetworks",
+  "description": "Hypernetworks are neural networks that output other neural networks. In this article we will learn how they work, and look into a pretty dope use-case: what if you can instantly generate a LoRA",
+  "category": "artificial-intelligence",
+  "url": "https://x.com/neural_avb/status/2029222564862812498",
+  "screen_name": "neural_avb",
+  "created_at": "2026-03-04",
+  "slug": "instant-lora-from-docs-using-hypernetworks"
+}

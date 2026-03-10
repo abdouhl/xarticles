@@ -65,7 +65,7 @@ const fallbackPath = category === "all" ? "/" : `/${category}`;
 
 let meta: any = {};
 try {
-  const toolMetadata = await import(`../../data/tool-metadata/${slug}.json`);
+  const toolMetadata = await import(`../../data/article-metadata/${slug}.json`);
   meta = toolMetadata.default;
 } catch (e) {}
 

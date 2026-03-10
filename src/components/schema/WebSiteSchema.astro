@@ -3,14 +3,14 @@ interface Props {
     url?: string;
 }
 
-const { url = "https://riseofmachine.com" } = Astro.props;
+const { url = "https://www.xarticl.es" } = Astro.props;
 
 const schema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Rise of Machine",
+    name: "Xarticl.es",
     url: url,
-    description: "AI tools curated by autonomous AI agents for makers and SMBs",
+    description: "A curated directory of the best long-form articles on X",
     potentialAction: {
         "@type": "SearchAction",
         target: {

@@ -1,5 +1,14 @@
 [
   {
+    "id_str": "2018336121155969288",
+    "title": "\"If You Don't Write Clearly, You Don't Think Clearly.\"",
+    "preview_text": "This is a damn good speech from 2007 given by an investor named Mark Sellers to Harvard MBA students. The title: \"So You Want To Be The Next Warren Buffett? How's Your Writing?\"\nI first read this 10+",
+    "original_img_url": "https://pbs.twimg.com/media/HAEjEaTXIAA4ZjQ.jpg",
+    "screen_name": "gregoryblotnick",
+    "created_at": "2026-02-02",
+    "slug": "if-you-dont-write-clearly-you-dont-think-clearly"
+  },
+  {
     "id_str": "2012522440816263250",
     "title": "100+ Nano Banana Prompts (Copy and Paste)",
     "preview_text": "Everyone is hyping Gemini Nano Banana.\nBut most people are stuck staring at a blank prompt, getting mid results, and wondering why it “doesn’t work for them.”\nThe truth is simple: \nNano Banana is",
@@ -25,6 +34,15 @@
     "screen_name": "Whizz_ai",
     "created_at": "2026-01-23",
     "slug": "200-new-nano-banana-prompts-copy-and-paste"
+  },
+  {
+    "id_str": "2013332265682497816",
+    "title": "3 random things that are not so random.",
+    "preview_text": "Unscripted attempt at 1M\n\n(If for some bizarre reason this ends up winning, consider the 1M donated.) \nGiven I had not planned to write for this, let’s do this one a cappella.\n\nI’m going to write",
+    "original_img_url": "https://pbs.twimg.com/media/G_DKIvcWYAAPpSt.jpg",
+    "screen_name": "xydotdot",
+    "created_at": "2026-01-19",
+    "slug": "3-random-things-that-are-not-so-random"
   },
   {
     "id_str": "2026290244262228233",
@@ -78,6 +96,15 @@
     "slug": "how-fiction-writers-should-take-notes-with-ai"
   },
   {
+    "id_str": "2031039177815670803",
+    "title": "How to systemise your writing process for maximum creative output (5 simple steps) ",
+    "preview_text": "Great writing comes from having a system.\n3 reasons why:\nSystems make hard things easy. My rule: for everything you do more than once, make it simple to repeat. If you're serious about writing, you'll",
+    "original_img_url": "https://pbs.twimg.com/media/HC-x3hUbkAIOIdv.jpg",
+    "screen_name": "ItsKieranDrew",
+    "created_at": "2026-03-09",
+    "slug": "how-to-systemise-your-writing-process-for-maximum-creative-output-5-simple-steps"
+  },
+  {
     "id_str": "2012587079511748643",
     "title": "Lorem Ipsum Dolor Sit Amet",
     "preview_text": "Consectetur Adipiscing Elit\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
@@ -87,11 +114,38 @@
     "slug": "lorem-ipsum-dolor-sit-amet"
   },
   {
+    "id_str": "2021966894664761422",
+    "title": "On Excessively Quoting Other Authors",
+    "preview_text": "This is one of those practices that is relentlessly mocked through history and for good reason. There's a delicate balance. I cannot tell you, or even show you, how to do it correctly, but what I can",
+    "original_img_url": "https://pbs.twimg.com/media/HA9hHFWW0AARukQ.jpg",
+    "screen_name": "gregoryblotnick",
+    "created_at": "2026-02-12",
+    "slug": "on-excessively-quoting-other-authors"
+  },
+  {
+    "id_str": "2017948318765101200",
+    "title": "Samuel Johnson - \"The Major Works\" - Highlights & Excerpts",
+    "preview_text": "Samuel Johnson is a towering figure in the world of British letters, either \"at the top\" or \"near the top\" depending who you ask - I will leave that to a Brit as the final arbiter rather than myself,",
+    "original_img_url": "https://pbs.twimg.com/media/G_63Xt5XIAABMtE.jpg",
+    "screen_name": "gregoryblotnick",
+    "created_at": "2026-02-01",
+    "slug": "samuel-johnson-the-major-works-highlights-excerpts"
+  },
+  {
     "id_str": "2028110271282376837",
     "title": "This one thing is super important in a script:",
     "preview_text": "A writing approach that works in true crime will produce flat content in finance. \nAn editorial voice calibrated for tech analysis will feel cold and alienating in psychology and self-improvement",
     "original_img_url": "https://pbs.twimg.com/media/HCVLg52awAEIOd4.jpg",
     "screen_name": "saimagnate",
     "slug": "this-one-thing-is-super-important-in-a-script"
+  },
+  {
+    "id_str": "2015909609999941965",
+    "title": "Vibe Note-Taking 101: Editing Workflow ",
+    "preview_text": "editing long content with claude code sucks\nthe normal way looks like this:\nread through your draft\nnotice paragraph 3 needs work\ncopy that paragraph\npaste it to claude with your comment\nscroll to",
+    "original_img_url": "https://pbs.twimg.com/media/G_npF0tXsAAyzdN.jpg",
+    "screen_name": "arscontexta",
+    "created_at": "2026-01-26",
+    "slug": "vibe-note-taking-101-editing-workflow"
   }
 ]

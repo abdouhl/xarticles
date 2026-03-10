@@ -1,0 +1,9 @@
+{
+  "title": "How Claude Code escapes its own denylist and sandbox",
+  "description": "The adversary can reason now, and our security tools weren't built for that.\n \nToday, we're releasing Veto in early access, our content-addressable kernel enforcement engine.\n\nIn the last ten days, a",
+  "category": "cybersecurity",
+  "url": "https://x.com/leodido/status/2028889783938830836",
+  "screen_name": "leodido",
+  "created_at": "2026-03-03",
+  "slug": "how-claude-code-escapes-its-own-denylist-and-sandbox"
+}

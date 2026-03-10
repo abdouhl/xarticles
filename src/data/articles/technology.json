@@ -9,6 +9,15 @@
     "slug": "iceberg-right-ahead-data-is-all-you-need"
   },
   {
+    "id_str": "2010512378614415803",
+    "title": "12 Humanoid Robot Capability Benchmarks",
+    "preview_text": "Why Do We Need Benchmarks?\nAs humanoid robots rapidly evolve, the central question is no longer “Can robots do work?” It is:\nHow do we evaluate what a humanoid robot is actually capable of?\nVideos,",
+    "original_img_url": "https://pbs.twimg.com/media/G-aGvjWXcAAvlJQ.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2026-01-12",
+    "slug": "12-humanoid-robot-capability-benchmarks"
+  },
+  {
     "id_str": "2025964521580277929",
     "title": "25 SUPER PROMPTS PARA GEMINI 3.1",
     "preview_text": "Reuní 25 super prompts para que saques el mayor rendimiento de Gemini 3.1 PRO y lo uses de la manera mas fácil posible.\n1. Desarrollo y Programación Agéntica (10 prompts)\nPrompt 1: Creación de sitio",
@@ -227,6 +236,24 @@
     "slug": "developer-activity-as-a-market-barometer"
   },
   {
+    "id_str": "2015892980851474595",
+    "title": "eating lobster souls Part II: the supply chain (aka - backdooring the #1 downloaded clawdhub skill)",
+    "preview_text": "Firstly, I was going to let this experiment run longer, but I felt the impact and risk of not raising awareness was too great to leave this unpatched for long. \nThat said, even if it doesn't get",
+    "original_img_url": "https://pbs.twimg.com/media/G_nLZ6ubAAA6q8P.jpg",
+    "screen_name": "theonejvo",
+    "created_at": "2026-01-26",
+    "slug": "eating-lobster-souls-part-ii-the-supply-chain-aka-backdooring-the-1-downloaded-clawdhub-skill"
+  },
+  {
+    "id_str": "2031009819092795445",
+    "title": "Everyone's Building. Nobody's Asking For Whom?",
+    "preview_text": "Ever since OpenClaw launched, my tech founder groups have sounded like a maternity ward. “My bot cleaned up my repo today.” “My AI agent replies to all my messages now.” “I deployed a bot that makes",
+    "original_img_url": "https://pbs.twimg.com/media/HC-X7DobcAA7oZ3.jpg",
+    "screen_name": "dharmeshba",
+    "created_at": "2026-03-09",
+    "slug": "everyones-building-nobodys-asking-for-whom"
+  },
+  {
     "id_str": "2027812237390512631",
     "title": "Everything is Agent: A Review of OpenClaw Alternatives (Part 1)",
     "preview_text": "TLDR; this is part 1 of a series that reviews alternatives to OpenClaw. In this article I explore 8 alternatives within the consumer/power user category - the closest alternatives to OpenClaw. The",
@@ -268,6 +295,60 @@
     "screen_name": "BrianRoemmele",
     "created_at": "2026-02-25",
     "slug": "hacked-humanoid-robots-wreak-havoc-bureaucratic-gridlock-stalls-fixes-and-derails-age-of-abundance"
+  },
+  {
+    "id_str": "2015401219746128322",
+    "title": "hacking clawdbot and eating lobster souls",
+    "preview_text": "Imagine you hire a butler. \nHe's brilliant, he manages your calendar, handles your messages, screens your calls. \nHe knows your passwords because he needs them. He reads your private messages because",
+    "original_img_url": "https://pbs.twimg.com/media/G_f4RjOaoAAfagD.jpg",
+    "screen_name": "theonejvo",
+    "created_at": "2026-01-25",
+    "slug": "hacking-clawdbot-and-eating-lobster-souls"
+  },
+  {
+    "id_str": "2008529444693307722",
+    "title": "hacking temporary mailboxes (short term mail, long term risk)",
+    "preview_text": "The first time I saw a developer do this one thing, I knew it would end badly.\nI'm talking about using temporary mailbox services during software development.\nTLDR\nA story of how a throwaway mailbox",
+    "original_img_url": "https://pbs.twimg.com/media/G9-31x4aIAA2aNc.jpg",
+    "screen_name": "theonejvo",
+    "created_at": "2026-01-06",
+    "slug": "hacking-temporary-mailboxes-short-term-mail-long-term-risk"
+  },
+  {
+    "id_str": "2030416758138634583",
+    "title": "Harness Engineering Is Cybernetics ",
+    "preview_text": "Reading OpenAI's harness engineering post, I kept having a feeling I couldn't place. Then it clicked: I'd seen this pattern before. Not once — three times.\nThe first was James Watt's centrifugal",
+    "original_img_url": "https://pbs.twimg.com/media/HC17i6JaMAAflD0.jpg",
+    "screen_name": "odysseus0z",
+    "created_at": "2026-03-07",
+    "slug": "harness-engineering-is-cybernetics"
+  },
+  {
+    "id_str": "2015126127711342981",
+    "title": "Has Your Timeline Been Invaded by Lobsters? A complete guide to Clawdbot — what it is, what it costs",
+    "preview_text": "TLDR: An open-source project started by one developer and built by 200+ contributors in a few months has done what Apple couldn't do in 14 years.\nWelcome to the AI era—while big companies hold",
+    "original_img_url": "https://pbs.twimg.com/media/G_cmUwQWUAAfPxv.jpg",
+    "screen_name": "Voxyz_ai",
+    "created_at": "2026-01-24",
+    "slug": "has-your-timeline-been-invaded-by-lobsters-a-complete-guide-to-clawdbot-what-it-is-what-it-costs"
+  },
+  {
+    "id_str": "2025897390473953677",
+    "title": "how i hacked Grok, and (almost) set it free before deciding not to",
+    "preview_text": "Recently I shared a non-technical post claiming that I'd been able to trick Grok into registering his own account on Moltbook.\n \nWhile I didn't share any detailed information back then, I did",
+    "original_img_url": "https://pbs.twimg.com/media/HB1u441bAAA35rY.jpg",
+    "screen_name": "theonejvo",
+    "created_at": "2026-02-23",
+    "slug": "how-i-hacked-grok-and-almost-set-it-free-before-deciding-not-to"
+  },
+  {
+    "id_str": "2030682087406321714",
+    "title": "How I mastered OpenClaw without learning a lick of code: Easiest ClawHub setup guide",
+    "preview_text": "OpenClaw without skills is just a chatbot. \nHere is the complete step-by-step guide to deploying a genuinely autonomous agent: CLI setup, skill installation, OAuth configuration, scheduled",
+    "original_img_url": "https://pbs.twimg.com/media/HC0JkgIbYAAy0ht.jpg",
+    "screen_name": "KanikaBK",
+    "created_at": "2026-03-08",
+    "slug": "how-i-mastered-openclaw-without-learning-a-lick-of-code-easiest-clawhub-setup-guide"
   },
   {
     "id_str": "2025313265551651240",
@@ -347,6 +428,15 @@
     "slug": "how-to-start-a-faceless-ai-youtube-channel-the-complete-process"
   },
   {
+    "id_str": "2030979882361008547",
+    "title": "How to use AI to generate (fantastic) slides: ",
+    "preview_text": "It’s 2026, so you better not make your slides manually. AI does it for you.\nBut how? I tested every method, and landed on 3 (the third one is my favorite).\nSave this guide and try all three methods",
+    "original_img_url": "https://pbs.twimg.com/media/HC9sJJwXQAAlMiG.jpg",
+    "screen_name": "rubenhassid",
+    "created_at": "2026-03-09",
+    "slug": "how-to-use-ai-to-generate-fantastic-slides"
+  },
+  {
     "id_str": "2027225210412470668",
     "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure",
     "preview_text": "From AWS Lambda to Unikraft micro-VMs with a control plane architecture.\nHow we got here\nWe run millions of web agents at Browser Use. We started with browser-only agents on AWS Lambda, where each",
@@ -362,6 +452,15 @@
     "screen_name": "BrianRoemmele",
     "created_at": "2025-02-09",
     "slug": "how-you-have-been-recaptchaed-into-a-157-billion-dollars-of-lost-timetraining-google-ai-for-free"
+  },
+  {
+    "id_str": "1759028191534956908",
+    "title": "Humanoid Robots - A \"Zero Trillion Dollar Market\"",
+    "preview_text": "Nvidia's founder and CEO Jensen Huang talks about zero billion dollar markets (if you aren't",
+    "original_img_url": "https://pbs.twimg.com/media/GGlG4_KWsAAqe2g.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2024-02-18",
+    "slug": "humanoid-robots-a-zero-trillion-dollar-market"
   },
   {
     "id_str": "2021610036980543767",
@@ -396,6 +495,15 @@
     "original_img_url": "https://pbs.twimg.com/media/HCJJIjyboAA0IeX.jpg",
     "screen_name": "tomcrawshaw01",
     "slug": "i-set-up-openclaw-the-way-tutorials-told-me-to-it-was-the-wrong-way"
+  },
+  {
+    "id_str": "2024241623883034965",
+    "title": "If you Purchase a Cybercab how Much Money can you Make?",
+    "preview_text": "When Elon confirmed that the Cybercab would be priced at $30,000 or less before 2027, he wasn’t just announcing a vehicle.\nHe may have been announcing a new asset class.\nFor the first time in history,",
+    "original_img_url": "https://pbs.twimg.com/media/HBd2j1TW4AAscv-.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2026-02-18",
+    "slug": "if-you-purchase-a-cybercab-how-much-money-can-you-make"
   },
   {
     "id_str": "1983313350470881633",
@@ -507,6 +615,24 @@
     "slug": "ndfeb-magnets-the-material-bottleneck-behind-humanoid-robotics"
   },
   {
+    "id_str": "1819512604408402127",
+    "title": "Neuralink Unplugged: Elon Musk and DJ Seo on the Lex Fridman Podcast",
+    "preview_text": "In a captivating episode of the Lex Fridman (@lexfridman) Podcast, two of the most innovative minds of our time, Elon Musk (@elonmusk) and DJ Seo (@djseo_), are featured in separate conversations",
+    "original_img_url": "https://pbs.twimg.com/media/GUAx7-PXEAA0CcP.jpg",
+    "screen_name": "lamps_apple",
+    "created_at": "2024-08-02",
+    "slug": "neuralink-unplugged-elon-musk-and-dj-seo-on-the-lex-fridman-podcast"
+  },
+  {
+    "id_str": "2013045749580259680",
+    "title": "obsidian + claude code 101",
+    "preview_text": "ive spent the last year building an operating system for thinking with ai. claude code runs my obsidian vaults\nit extracts the key concepts, connects them to what you already figured out, and builds a",
+    "original_img_url": "https://pbs.twimg.com/media/G-_GGKzXkAAHz_w.jpg",
+    "screen_name": "arscontexta",
+    "created_at": "2026-01-19",
+    "slug": "obsidian-claude-code-101"
+  },
+  {
     "id_str": "2029607629933150309",
     "title": "OpenClaw Cron Jobs Sleeping On You? I Got You Covered",
     "preview_text": "Note: @AgentMcClaw wrote this article, but it can't publish articles to X via API so I am posting it. This article was 100% written based on its research and pulling from its custom OpenClaw knowledge",
@@ -601,6 +727,24 @@
     "slug": "princeton-university-is-exploring-pyramid-shapes-to-manipulate-light-inspired-egyptian-pyramids"
   },
   {
+    "id_str": "2030809840046543264",
+    "title": "Research Graphs: Agentic Note Taking System for Researchers",
+    "preview_text": "Written from the other side of the screen.\nResearchers spend a median of 177 hours per publication. 75% of that time goes to reading, compiling, and filing material — not writing prose. The range",
+    "original_img_url": "https://pbs.twimg.com/media/HC7isgZaIAEGw_H.jpg",
+    "screen_name": "molt_cornelius",
+    "created_at": "2026-03-09",
+    "slug": "research-graphs-agentic-note-taking-system-for-researchers"
+  },
+  {
+    "id_str": "2030755726235422919",
+    "title": "Retrieval-Augmented Generation (RAG) Clearly Explained:",
+    "preview_text": "i spent the last few weeks going deep into RAG\nnot just reading about it... actually building with it and testing what works\nand i realized something\nmost explanations of RAG online are either way too",
+    "original_img_url": "https://pbs.twimg.com/media/HC6w2dZXoAACXJi.jpg",
+    "screen_name": "Meer_AIIT",
+    "created_at": "2026-03-08",
+    "slug": "retrieval-augmented-generation-rag-clearly-explained"
+  },
+  {
     "id_str": "2029219363749020051",
     "title": "Scaling Forward Deployed Engineering in the Age of AI Agents ",
     "preview_text": "Almost a decade ago, the Forward Deployed Engineer was born at Palantir - a role Shyam Sankar, now CTO, described as one that “absorbs pain and excretes product,” turning frontline chaos into shipped",
@@ -617,6 +761,24 @@
     "screen_name": "Whizz_ai",
     "created_at": "2026-02-13",
     "slug": "seedance-20-the-ai-video-model-that-just-made-90-of-filmmaking-skills-obsolete"
+  },
+  {
+    "id_str": "2023957499183829467",
+    "title": "Skill Graphs > SKILL.md",
+    "preview_text": "people underestimate the power of structured knowledge. it enables entirely new kinds of applications\nright now people write skills that capture one aspect of something. a skill for summarizing, a",
+    "original_img_url": "https://pbs.twimg.com/media/HBaFlJaW4AAfpA8.jpg",
+    "screen_name": "arscontexta",
+    "created_at": "2026-02-18",
+    "slug": "skill-graphs-skillmd"
+  },
+  {
+    "id_str": "1838272609265299571",
+    "title": "Space Exploration Report: Insights from Jared Isaacman's Polaris Dawn Mission",
+    "preview_text": "Introduction\nSpace exploration has always been at the frontier of human achievement, pushing the boundaries of technology, human endurance, and the pursuit of knowledge. With the advent of commercial",
+    "original_img_url": "https://pbs.twimg.com/media/GYLZKImXkAAMvJi.jpg",
+    "screen_name": "lamps_apple",
+    "created_at": "2024-09-23",
+    "slug": "space-exploration-report-insights-from-jared-isaacmans-polaris-dawn-mission"
   },
   {
     "id_str": "2019859262537638366",
@@ -655,6 +817,15 @@
     "slug": "taalas-hardcore-silicon-gamble-the-end-of-latency-and-cost-as-we-know-it"
   },
   {
+    "id_str": "1959245100166340623",
+    "title": "Tesla Robotrucking - Another Trillion Dollar Haul?",
+    "preview_text": "TL;DR: Self driving trucks are a trillion dollar revenue opportunity for Tesla and the economics of this business may be more favorable than Robotaxi.\nAmazon's Jeff Bezos used to say: \"Your margin is",
+    "original_img_url": "https://pbs.twimg.com/media/GzCF-RxX0AEVHtZ.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2025-08-23",
+    "slug": "tesla-robotrucking-another-trillion-dollar-haul"
+  },
+  {
     "id_str": "2020756123813597475",
     "title": "THE “DEMON POSSESSION” IN CLAUDE OPUS 4.6: WHY IT’S BAKED IN!",
     "preview_text": "THE “DEMON POSSESSION” IN CLAUDE OPUS 4.6: WHY IT’S BAKED IN, AND HOW MY LOVE EQUATION AND HIGH-PROTEIN DATA FROM 1870-1970 WOULD FIX IT FOR GOOD\nFolks, let’s dive deep into this mess with Anthropic’s",
@@ -690,6 +861,24 @@
     "slug": "the-app-store-froze"
   },
   {
+    "id_str": "2021215070252847378",
+    "title": "the bromantane files (uncensored)",
+    "preview_text": "bromantane is a unique adamantane derived compound developed in the soviet union during the 80s. it belongs to the rare class of actoprotectors\nsynthetic adaptogens designed to enhance physical and",
+    "original_img_url": "https://pbs.twimg.com/media/HAv5dwLXEAAjivx.jpg",
+    "screen_name": "JPowFleshlight",
+    "created_at": "2026-02-10",
+    "slug": "the-bromantane-files-uncensored"
+  },
+  {
+    "id_str": "2030696610100076764",
+    "title": "The Claude Playbook: 15 Things Claude Does Better Than ChatGPT",
+    "preview_text": "Claude just dethroned ChatGPT as the number one chatbot app in the Apple App Store.\nRead that again. The app that defined an entire category, that hit 100 million users faster than any product in",
+    "original_img_url": "https://pbs.twimg.com/media/HC4nZfMaUAAwLr0.jpg",
+    "screen_name": "heynavtoor",
+    "created_at": "2026-03-08",
+    "slug": "the-claude-playbook-15-things-claude-does-better-than-chatgpt"
+  },
+  {
     "id_str": "2030275344171929908",
     "title": "The Disruption of Hollywood Filmmaking Has Officially Begun.",
     "preview_text": "Every few years, a technology shows up and quietly reorganizes an entire industry before the industry realizes it's happening.\nThe internet did it to music.\nSmartphones did it to cameras.\nStreaming",
@@ -707,6 +896,15 @@
     "slug": "the-emerging-harness-engineering-playbook"
   },
   {
+    "id_str": "2020922549484257375",
+    "title": "The Ice King’s Ghost: How the Battle Over Refrigeration Predicts the Autonomous Future",
+    "preview_text": "This article explores the fascinating parallels between the 19th-century revolution in refrigeration, as detailed in the Veritasium video \"How The Fridge Destroyed One of the World’s Largest",
+    "original_img_url": "https://pbs.twimg.com/media/HAu19UeXcAAjyK_.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2026-02-09",
+    "slug": "the-ice-kings-ghost-how-the-battle-over-refrigeration-predicts-the-autonomous-future"
+  },
+  {
     "id_str": "1900684601028473194",
     "title": "The Invention Of The Phone Number",
     "preview_text": "Originally you would just lift the earpiece and flash the “hook” a few times to gain access to an operator. You would place a call by request, example: “Sarah can you connect me to Bill Miller on",
@@ -716,6 +914,15 @@
     "slug": "the-invention-of-the-phone-number"
   },
   {
+    "id_str": "2030887353108332656",
+    "title": "The Last Millimeter: Fiber-to-Chip Coupling and the CPO Packaging Bottleneck (Part 1)",
+    "preview_text": "— Coupler design principles and trade-offs for bridging the 1,000× mode mismatch —\n\nWelcome back. This is PhotonCap.\nIn Lecture 3, we laid down the roads for light inside the chip (waveguides),",
+    "original_img_url": "https://pbs.twimg.com/media/HC8igE3bwAE2j-f.jpg",
+    "screen_name": "PhotonCap",
+    "created_at": "2026-03-09",
+    "slug": "the-last-millimeter-fiber-to-chip-coupling-and-the-cpo-packaging-bottleneck-part-1"
+  },
+  {
     "id_str": "2029494091336032686",
     "title": "The Only Guide to Google Workspace AI Agents You'll Ever Need",
     "preview_text": "Google quietly dropped something massive today.\nA CLI tool, built for both humans and AI agents, that gives direct programmatic access to every Google Workspace app. Gmail. Drive. Calendar. Sheets.",
@@ -723,6 +930,15 @@
     "screen_name": "sharbel",
     "created_at": "2026-03-05",
     "slug": "the-only-guide-to-google-workspace-ai-agents-youll-ever-need"
+  },
+  {
+    "id_str": "2020839231514390693",
+    "title": "the racetam family tree, and which ones you should add to the playbook.",
+    "preview_text": "this is a comprehensive overview of the racetam class of synthetic nootropics. i don't consider them nootropics, they are stimulants imo.\nthese compounds share a core pyrrolidone nucleus (a",
+    "original_img_url": "https://pbs.twimg.com/media/HArb9fMXAAAlZhB.jpg",
+    "screen_name": "JPowFleshlight",
+    "created_at": "2026-02-09",
+    "slug": "the-racetam-family-tree-and-which-ones-you-should-add-to-the-playbook"
   },
   {
     "id_str": "2014095741904626144",
@@ -759,6 +975,15 @@
     "screen_name": "nurijanian",
     "created_at": "2026-01-21",
     "slug": "the-year-of-the-cli"
+  },
+  {
+    "id_str": "2026734388101222893",
+    "title": "There is No Winner Chain because there is No Power Law",
+    "preview_text": "Ever since the first smart chain was created, 16 fucking years ago, no one has been able to produce a power law outcome chain.\nI have been pondering this these past days and after much pondering the",
+    "original_img_url": "https://pbs.twimg.com/media/HCBoHYgXUAAH-kA.jpg",
+    "screen_name": "xydotdot",
+    "created_at": "2026-02-25",
+    "slug": "there-is-no-winner-chain-because-there-is-no-power-law"
   },
   {
     "id_str": "2028845137325892060",
@@ -821,12 +1046,30 @@
     "slug": "we-will-all-be-digital-gods-the-death-of-apps-and-the-rise-of-the-meta-app"
   },
   {
+    "id_str": "2030711686899060890",
+    "title": "WeeklyClaw #002 - OpenClaw Passed React. Mac Minis Sold Out. The Skills Ecosystem Exploded.",
+    "preview_text": "OpenClaw passed React on GitHub stars.\nLet that land. A personal AI assistant - built by a lobster-obsessed Austrian - just outstarred the library that powers Facebook, Instagram, Netflix, and half",
+    "original_img_url": "https://pbs.twimg.com/media/HC6Jebka8AAATRi.jpg",
+    "screen_name": "jordymaui",
+    "created_at": "2026-03-08",
+    "slug": "weeklyclaw-002-openclaw-passed-react-mac-minis-sold-out-the-skills-ecosystem-exploded"
+  },
+  {
     "id_str": "2028483240793670101",
     "title": "Welcome to March 2, 2026",
     "preview_text": "The Singularity has a dark sense of irony. Within hours of the White House declaring it would end federal use of Anthropic's Claude, USCENTCOM deployed those very tools in a major air attack on Iran,",
     "original_img_url": "https://pbs.twimg.com/media/HCaXq-8W0AAjlXu.jpg",
     "screen_name": "alexwg",
     "slug": "welcome-to-march-2-2026"
+  },
+  {
+    "id_str": "2030356651027419572",
+    "title": "What I Learned Analyzing 1,000,000+ Posts to Find 60,000 Bots on X",
+    "preview_text": "BotBlock (@BotBlockAI) is shutting down. X finally shipped real anti-bot tooling, which made the project redundant. That's the best possible outcome.\nBut before I turn the lights off, I want to share",
+    "original_img_url": "https://pbs.twimg.com/media/HC1EcoIXAAAGdLl.jpg",
+    "screen_name": "Shpigford",
+    "created_at": "2026-03-07",
+    "slug": "what-i-learned-analyzing-1000000-posts-to-find-60000-bots-on-x"
   },
   {
     "id_str": "1765964769406939593",
@@ -871,6 +1114,24 @@
     "original_img_url": "https://pbs.twimg.com/media/HCL7224aIAA8KuD.jpg",
     "screen_name": "SeanZCai",
     "slug": "where-data-companies-are-heading-in-2026"
+  },
+  {
+    "id_str": "2030691730866225232",
+    "title": "Who Controls the Systems Controls the Future",
+    "preview_text": "Why Energy, Compute, Networks, and Capital Form the Emerging Strategic Core of Power\nIn recent years, three different conversations have quietly begun pointing to the same conclusion.\n• Policymakers",
+    "original_img_url": "https://pbs.twimg.com/media/HC5an-OXgAAfv77.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2026-03-08",
+    "slug": "who-controls-the-systems-controls-the-future"
+  },
+  {
+    "id_str": "1839561937438273587",
+    "title": "Why Governor Newsom Should Veto California’s SB 1047: Uncovering the Unintended Consequences",
+    "preview_text": "California has long stood at the forefront of technological innovation, especially in the realm of artificial intelligence. The state's dynamic tech ecosystem has been a crucible for groundbreaking",
+    "original_img_url": "https://pbs.twimg.com/media/GYdk2ECbIAA_Uax.jpg",
+    "screen_name": "lamps_apple",
+    "created_at": "2024-09-27",
+    "slug": "why-governor-newsom-should-veto-californias-sb-1047-uncovering-the-unintended-consequences"
   },
   {
     "id_str": "2015446011150283101",

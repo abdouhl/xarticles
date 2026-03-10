@@ -19,6 +19,8 @@ const { category } = Astro.params;
   site={`Xarticl.es - ${category}`}
   title="Xarticl.es"
   tagline="A curated directory of the best long-form articles on X."
+  pageTitle={`Best ${category.charAt(0).toUpperCase() + category.slice(1)} Articles on X – Curated Articles | Xarticl.es`}
+  pageDescription={`Explore the best ${category.charAt(0).toUpperCase() + category.slice(1)} articles from X (Twitter). This page curates high-quality articles about ${category}.`}
   showSearch={true}
 >
   <main id="main-content">

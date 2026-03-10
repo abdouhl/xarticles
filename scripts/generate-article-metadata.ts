@@ -10,7 +10,7 @@ console.log('🔧 Generating individual article metadata files...\n');
 
 // Paths
 const toolsPath = path.join(__dirname, '../src/data/articles.json');
-const metadataPath = path.join(__dirname, '../src/data/metadata1.json');
+const metadataPath = path.join(__dirname, '../src/data/metadata.json');
 const outputDir = path.join(__dirname, '../src/data/article-metadata');
 
 // Ensure output directory exists
@@ -30,9 +30,9 @@ try {
     let metadataMap: Record<string, any> = {};
     if (fs.existsSync(metadataPath)) {
         metadataMap = JSON.parse(fs.readFileSync(metadataPath, 'utf-8'));
-        console.log(`✅ Loaded metadata1.json with ${Object.keys(metadataMap).length} entries`);
+        console.log(`✅ Loaded metadata.json with ${Object.keys(metadataMap).length} entries`);
     } else {
-        console.log('⚠️  metadata1.json not found, will use article data only');
+        console.log('⚠️  metadata.json not found, will use article data only');
     }
 
     let totalFiles = 0;

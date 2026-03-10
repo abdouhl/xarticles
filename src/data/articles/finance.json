@@ -1,5 +1,14 @@
 [
   {
+    "id_str": "2031012029545189610",
+    "title": "\"The March of Nines\" in Public Equity Markets: An Analytical Framework",
+    "preview_text": "There was an excellent quote from Andrej Karpathy on how progress is a \"March of Nines,\" which I think could be extended into equity valuation and many of the bull/bear debates taking place in just",
+    "original_img_url": "https://pbs.twimg.com/media/HC9yiMdWsAACSfV.jpg",
+    "screen_name": "gregoryblotnick",
+    "created_at": "2026-03-09",
+    "slug": "the-march-of-nines-in-public-equity-markets-an-analytical-framework"
+  },
+  {
     "id_str": "2028938620225372548",
     "title": "👿The MAD Straddle 👿",
     "preview_text": "This post explores the relationship between an option straddle and volatility.\nYou will learn:\n☑️The relationship between MAD (mean absolute deviation) and standard deviation\n☑️how to approximate a",
@@ -7,6 +16,15 @@
     "screen_name": "KrisAbdelmessih",
     "created_at": "2026-03-03",
     "slug": "the-mad-straddle"
+  },
+  {
+    "id_str": "2030619550056612204",
+    "title": "7 Quant Strategies Wall Street Uses Daily — With Copy-Paste Code You Can Run Right Now",
+    "preview_text": "Wall Street quant desks use these strategies daily. Most retail traders have never heard of them.\nEach one has real edge, real math, and code you can run right now.\nThe strategies are real concepts",
+    "original_img_url": "https://pbs.twimg.com/media/HC41BPFWcAEk_pg.jpg",
+    "screen_name": "obscicron",
+    "created_at": "2026-03-08",
+    "slug": "7-quant-strategies-wall-street-uses-daily-with-copy-paste-code-you-can-run-right-now"
   },
   {
     "id_str": "2013512020646301815",
@@ -27,12 +45,39 @@
     "slug": "how-to-correctly-reason-about-a-market-maker"
   },
   {
+    "id_str": "2030691742152818774",
+    "title": "INTERVIEW WITH A QUANT TRADER",
+    "preview_text": "a candid conversation with a person who trades billions using algorithms\nwe met in an unremarkable coffee bar in the center of manhattan, not far from hudson yards\n\nbackground:\nyesterday i posted a",
+    "original_img_url": "https://pbs.twimg.com/media/HC5dj3QbQAAXP8f.jpg",
+    "screen_name": "zostaff",
+    "created_at": "2026-03-08",
+    "slug": "interview-with-a-quant-trader"
+  },
+  {
     "id_str": "2026393693385798010",
     "title": "Stop Trading Yesterday’s Volatility: A guide to trade future vol using Synth data",
     "preview_text": "data from Feb 16th 2026\nMost traders set stops and targets based on where price has been, not where it is going. When vol shifts around news or regime changes, those levels are wrong before the trade",
     "original_img_url": "https://pbs.twimg.com/media/HB8yQHIaMAAodRJ.jpg",
     "screen_name": "SynthdataCo",
     "slug": "stop-trading-yesterdays-volatility-a-guide-to-trade-future-vol-using-synth-data"
+  },
+  {
+    "id_str": "2025333891330900087",
+    "title": "Terminal Value Overhang (Part 2): \"Never Lead With Valuation\" + Nightmare DCFs",
+    "preview_text": "This is a follow up to last week's article on secular bear \"reapers,\" technological disruption, and Return on Brain Damage:\n \nPart 3 is here:\n \nThe topic here is the same: terminal value overhangs,",
+    "original_img_url": "https://pbs.twimg.com/media/HBtsSScXIAAnH4q.jpg",
+    "screen_name": "gregoryblotnick",
+    "created_at": "2026-02-21",
+    "slug": "terminal-value-overhang-part-2-never-lead-with-valuation-nightmare-dcfs"
+  },
+  {
+    "id_str": "1992071704982462735",
+    "title": "The Paradox of Volatility",
+    "preview_text": "Why the People Who Fear It Most Are the Ones Who Create It\nVolatility is often talked about as if it were a force of nature - a storm that sweeps in from nowhere, rattling portfolios and testing",
+    "original_img_url": "https://pbs.twimg.com/media/G6VCab6X0AAsiLk.jpg",
+    "screen_name": "CernBasher",
+    "created_at": "2025-11-22",
+    "slug": "the-paradox-of-volatility"
   },
   {
     "id_str": "2029610565132505510",

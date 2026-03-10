@@ -2,10 +2,11 @@
 interface Article {
     title: string;
     preview_text: string;
-    original_img_url?: string;
+    original_img_url?: string | null;
     id_str: string;
     screen_name: string;
     slug?: string;
+    created_at?: string;
 }
 
 interface Props {

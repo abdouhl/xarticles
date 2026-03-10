@@ -176,12 +176,13 @@ const breadcrumbs = [
           <section class="tool-summary">
             <article>
               <p class="snapshot-label">About</p>
-              <p class="tool-description">{tool.preview_text}</p>
+              {/* <p class="tool-description">{tool.preview_text}</p>*/}
               {
                 meta.description && meta.description !== tool.body && (
                   <p class="tool-description-full">{meta.description}</p>
                 )
               }
+              <br>
               <img  src={tool.original_img_url} alt={tool.title} />
             </article>
 

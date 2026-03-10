@@ -60,6 +60,15 @@
     "slug": "5-crypto-tools-which-you-can-build-with-claude-code"
   },
   {
+    "id_str": "2014013649036431371",
+    "title": "7 ways I use Claude Code to work(feels like cheating tbh)",
+    "preview_text": "Despite not knowing how to code, I use AI to revive lost deals, draft emails, monitor clients, and build go-to-market strategies. \nMy philosophy is simple: I use Claude Code to build these tools so",
+    "original_img_url": "https://pbs.twimg.com/media/G_M2d-eXYAAfgDH.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-01-21",
+    "slug": "7-ways-i-use-claude-code-to-workfeels-like-cheating-tbh"
+  },
+  {
     "id_str": "2026310271027773573",
     "title": "A Designer's AI Stack ",
     "preview_text": "In the past few months I've replaced or automated a lot of the work that used to sit around my design process - managing projects, writing briefs, searching for prompts I made a while back, building",
@@ -294,6 +303,15 @@
     "slug": "are-ai-software-engineers-doomed-in-2026"
   },
   {
+    "id_str": "2031042753015013462",
+    "title": "Autoformalization is Required for Sovereignty",
+    "preview_text": "TLDR; AI is about to flood the world with code, proofs, and machine-generated decisions. Almost none of it will be meaningfully audited. If output scales exponentially while trust does not, the scarce",
+    "original_img_url": "https://pbs.twimg.com/media/HC-q42UXAAEEcLA.jpg",
+    "screen_name": "ani_pai",
+    "created_at": "2026-03-09",
+    "slug": "autoformalization-is-required-for-sovereignty"
+  },
+  {
     "id_str": "1878488825908920453",
     "title": "Be Early: New AI Protocols to Watch in January 2025",
     "preview_text": "There's a unique joy in discovering protocols and sharing them with you before they become trendy on X. In the earlier \"Be Early\" series on my Substack, I helped you uncover @TopHat_One, @Duck_Chain,",
@@ -346,6 +364,15 @@
     "screen_name": "JulianGoldieSEO",
     "created_at": "2026-03-04",
     "slug": "claude-code-auto-memory-just-made-ai-remember-everything"
+  },
+  {
+    "id_str": "2029980432117420157",
+    "title": "Claude Code saved $3.4M and 19,550 engineer hours on one project ",
+    "preview_text": "Claude Code saved my company $3.4M on one project.\nNot projected. Not estimated. Already built and running.\nI'm going to show you the math because most people talking about AI ROI are making it up.",
+    "original_img_url": "https://pbs.twimg.com/media/HCsNCDhaUAMgw78.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-03-06",
+    "slug": "claude-code-saved-34m-and-19550-engineer-hours-on-one-project"
   },
   {
     "id_str": "2031057925809254509",
@@ -1001,6 +1028,15 @@
     "slug": "how-traders-should-take-notes-with-ai"
   },
   {
+    "id_str": "2011814697889316930",
+    "title": "How we built Agent Builder’s memory system",
+    "preview_text": "We launched LangSmith Agent Builder this week as a no-code way to build agents. A key part of Agent builder is it’s memory system. In this blog we cover our rationale for prioritizing a memory system,",
+    "original_img_url": "https://pbs.twimg.com/media/G-tmoaVbQAAtBAl.jpg",
+    "screen_name": "hwchase17",
+    "created_at": "2026-01-15",
+    "slug": "how-we-built-agent-builders-memory-system"
+  },
+  {
     "id_str": "2031055593360990358",
     "title": "How we built LangChain's GTM Agent",
     "preview_text": "Every outbound at LangChain used to start the same way: a rep toggling between tabs. Salesforce for the account record, Gong for call history, LinkedIn for the contact, the company website for",
@@ -1050,6 +1086,24 @@
     "screen_name": "Voxyz_ai",
     "created_at": "2026-02-06",
     "slug": "i-built-an-ai-company-with-openclaw-vercel-supabase-two-weeks-later-they-run-it-themselves"
+  },
+  {
+    "id_str": "2024405961583350016",
+    "title": "I Gave an AI Root Access. 48 Hours Later, It Migrated Itself to a New Server. ",
+    "preview_text": "I was in Da Nang, Vietnam, eating pho when my phone buzzed:\n\"Partitioning drives, setting up RAID 1 mirror...\"\n\"Migrating workspace. 991 files syncing...\"\n\"All services running. Ready to cut over.\"",
+    "original_img_url": "https://pbs.twimg.com/media/HBgb91KbwAA7INE.jpg",
+    "screen_name": "nyk_builderz",
+    "created_at": "2026-02-19",
+    "slug": "i-gave-an-ai-root-access-48-hours-later-it-migrated-itself-to-a-new-server"
+  },
+  {
+    "id_str": "2021249104710598785",
+    "title": "I Gave My OpenClaw Agents One Shared Brain. They Stopped Being Stupid. ",
+    "preview_text": "OpenClaw is great. People are all building their own 'mission control' dashboards in hopes of having their agents do the work of entire armies.\nPeople are talking about their 10-20 deep agent squads.",
+    "original_img_url": "https://pbs.twimg.com/media/HAwlFAfaAAMVW0G.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-02-10",
+    "slug": "i-gave-my-openclaw-agents-one-shared-brain-they-stopped-being-stupid"
   },
   {
     "id_str": "2029928061940961458",
@@ -1131,6 +1185,15 @@
     "slug": "i-want-to-learn-how-to-use-claude-cowork"
   },
   {
+    "id_str": "2022071459334484248",
+    "title": "I'm from 2058. The AI Didn't Destroy Us. It Did Something Worse.",
+    "preview_text": "Episode 2:\nThe Cortex Farms were built in Nevada, Siberia, and China. \nRows of pods containing lab-grown tissue, fed by nutrient lines, connected to the mesh network.\n(P.S. make sure you read the",
+    "original_img_url": "https://pbs.twimg.com/media/HA_UpSBXIAABeTu.jpg",
+    "screen_name": "johnrushx",
+    "created_at": "2026-02-12",
+    "slug": "im-from-2058-the-ai-didnt-destroy-us-it-did-something-worse"
+  },
+  {
     "id_str": "2030168158288629873",
     "title": "If I Had to Start From Zero in 2026, These Are the AI Tools I’d Use",
     "preview_text": "These 8 tools replaced my entire team.\nNot joking. No designer. No video editor. No developer. No music producer.\nJust me. A laptop. And this stack. I use them in order. \nBrain dump → Viral content.",
@@ -1155,6 +1218,15 @@
     "screen_name": "hnshah",
     "created_at": "2025-04-23",
     "slug": "if-i-were-the-product-manager-for-chatgpts-api-heres-where-id-start"
+  },
+  {
+    "id_str": "2010044779225329688",
+    "title": "In software, the code documents the app. In AI, the traces do.",
+    "preview_text": "TL;DR\nIn traditional software, you read the code to understand what the app does - the decision logic lives in your codebase\nIn AI agents, the code is just scaffolding - the actual decision-making",
+    "original_img_url": "https://pbs.twimg.com/media/G-Uc4EQasAYZa8k.jpg",
+    "screen_name": "hwchase17",
+    "created_at": "2026-01-10",
+    "slug": "in-software-the-code-documents-the-app-in-ai-the-traces-do"
   },
   {
     "id_str": "1881893343464177922",
@@ -1768,6 +1840,15 @@
     "slug": "the-first-multi-behavior-brain-upload"
   },
   {
+    "id_str": "2026020594626740652",
+    "title": "The Forker's Manifesto for The Intelligence Revolution",
+    "preview_text": "The Industrial Revolution ushered in massive sociopolitical changes. In late 1700s, Luddites and textile workers burned and destroyed their own factories because machines were taking their jobs. We",
+    "original_img_url": "https://pbs.twimg.com/media/HB3etEqXwAAeWXv.jpg",
+    "screen_name": "0xkydo",
+    "created_at": "2026-02-23",
+    "slug": "the-forkers-manifesto-for-the-intelligence-revolution"
+  },
+  {
     "id_str": "2020272022417289587",
     "title": "The Full Tutorial: 6 AI Agents That Run a Company — How I Built Them From Scratch",
     "preview_text": "My last post blew up — 600K views, 2,400 likes. The most common reply? \"I get it, but I couldn't build it myself.\" So I wrote the build guide. 5,600 words, every step, nothing hidden. You don't need",
@@ -1813,6 +1894,15 @@
     "slug": "the-grokipedia-centered-deep-truth-mode-prompt"
   },
   {
+    "id_str": "2031237851300716888",
+    "title": "The Harness Is The Product. The Model Never Was",
+    "preview_text": "LangChain's coding agent jumped from 52.8% to 66.5% on Terminal Bench 2.0 — Top 30 to Top 5 — by changing zero model parameters. They changed the harness. Gartner predicts that over 40% of agentic AI",
+    "original_img_url": "https://pbs.twimg.com/media/HC_XFulaMAAYtuE.jpg",
+    "screen_name": "nyk_builderz",
+    "created_at": "2026-03-10",
+    "slug": "the-harness-is-the-product-the-model-never-was"
+  },
+  {
     "id_str": "2025948561377050892",
     "title": "The Human Synapse Decoder (HSD): Hacking EEG Toys for Thought-to-Text: Part 2 .",
     "preview_text": "AI DREAM TRANSCRIPTIONS!?\nDecoding Dreams and the Hypnagogic Frontier with ZUNA\nThe Zero-Human Labs has made absolutely incredible progress with my NeuroSky chip  research!\nMr. @Grok Director of the",
@@ -1856,6 +1946,15 @@
     "screen_name": "singularityhack",
     "created_at": "2026-03-04",
     "slug": "the-new-machine-economy"
+  },
+  {
+    "id_str": "2031082004054421553",
+    "title": "The Next Wave of Billion-Dollar Companies Will Run on 2 Things: Forward-Deployed Humans + AI Agents",
+    "preview_text": "Palantir built a $375B company with one strategy:\nDon't sell software.\nEmbed engineers inside the customer.\nThose engineers learn the business.\nThen they build systems that are hard for the customers",
+    "original_img_url": "https://pbs.twimg.com/media/HC2B7KibcAEKdjr.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-03-09",
+    "slug": "the-next-wave-of-billion-dollar-companies-will-run-on-2-things-forward-deployed-humans-ai-agents"
   },
   {
     "id_str": "1958947175310008518",
@@ -1960,6 +2059,15 @@
     "original_img_url": "https://pbs.twimg.com/media/HCY2AcjbwAEbFE9.jpg",
     "screen_name": "apoorv03",
     "slug": "the-state-of-consumer-ai-part-1-usage"
+  },
+  {
+    "id_str": "2025735644471775632",
+    "title": "The traditional SaaS is over → I think this is what comes next",
+    "preview_text": "Over the past 30 days, 99% of my habits have changed.\nInstead of logging in to Stripe, my bank, Gmail, and 30 other SaaS tools, I simply got everything I needed through an AI agent connected to all of",
+    "original_img_url": "https://pbs.twimg.com/media/HBzaNuIWMAAouF3.jpg",
+    "screen_name": "johnrushx",
+    "created_at": "2026-02-23",
+    "slug": "the-traditional-saas-is-over-i-think-this-is-what-comes-next"
   },
   {
     "id_str": "2028957200165814397",
@@ -2225,6 +2333,15 @@
     "slug": "which-llm-is-best-at-running-what-parts-of-a-startup"
   },
   {
+    "id_str": "2009343950650286333",
+    "title": "Who Will Fund the AI Century? ",
+    "preview_text": "TLDR: AI has a financing problem; stablecoins are the solution.\nIntroduction\nIn 2025, OpenAI announced a $500B cluster, funded by Softbank and Oracle. But to get to the next order of magnitude — $5T —",
+    "original_img_url": "https://pbs.twimg.com/media/G-J46q3WQAoEGU_.jpg",
+    "screen_name": "ani_pai",
+    "created_at": "2026-01-08",
+    "slug": "who-will-fund-the-ai-century"
+  },
+  {
     "id_str": "2021860725409358329",
     "title": "Why AI Agents Don’t Need More Intelligence But Need Crypto",
     "preview_text": "TL;DR: As AI agents begin to think, act, and transact independently, the question becomes how AI can safely participate in the economy. Blockchain enters the picture, providing the coordination layer",
@@ -2250,6 +2367,15 @@
     "screen_name": "hnshah",
     "created_at": "2025-12-29",
     "slug": "why-ai-assistants-stop-getting-better"
+  },
+  {
+    "id_str": "2027230849331331464",
+    "title": "Why AI Needs Crypto (And How to Sell to Agents in a Shifting Market)",
+    "preview_text": "Most people frame AI vs crypto as a rivalry.\nWrong framing.\nIf AI is the intelligence layer, crypto is increasingly becoming the transaction layer for autonomous software.\nThe next wave of growth",
+    "original_img_url": "https://pbs.twimg.com/media/HBgnTIlacAAxzT4.jpg",
+    "screen_name": "nyk_builderz",
+    "created_at": "2026-02-27",
+    "slug": "why-ai-needs-crypto-and-how-to-sell-to-agents-in-a-shifting-market"
   },
   {
     "id_str": "2025092086190809340",

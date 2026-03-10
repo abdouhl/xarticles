@@ -245,6 +245,15 @@
     "slug": "eating-lobster-souls-part-ii-the-supply-chain-aka-backdooring-the-1-downloaded-clawdhub-skill"
   },
   {
+    "id_str": "2027102725662814459",
+    "title": "Every Major Technology Was Supposed to Destroy Us. Here's What Actually Happened.",
+    "preview_text": "\"AI will destroy jobs.\"\nPeople have been saying this about every major technology for 600 years. They've been wrong every time.\n \nScribes lost their jobs. Millions of humans gained the ability to",
+    "original_img_url": "https://pbs.twimg.com/media/HCG3JkpbUAADAsq.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-02-26",
+    "slug": "every-major-technology-was-supposed-to-destroy-us-heres-what-actually-happened"
+  },
+  {
     "id_str": "2031009819092795445",
     "title": "Everyone's Building. Nobody's Asking For Whom?",
     "preview_text": "Ever since OpenClaw launched, my tech founder groups have sounded like a maternity ward. “My bot cleaned up my repo today.” “My AI agent replies to all my messages now.” “I deployed a bot that makes",
@@ -675,6 +684,15 @@
     "slug": "openclaw-reality-check-a-full-review-of-use-cases"
   },
   {
+    "id_str": "2020883003346714666",
+    "title": "OpenClaw Works. Your Setup Doesn’t (Yet).",
+    "preview_text": "Every person I talk to is excited about OpenClaw.\n\"We have 10 agents! 14 agents! An agent for everything!\"\nCool. \nHow do they remember what happened yesterday?\n*silence*\nThat's the gap. And it's huge.",
+    "original_img_url": "https://pbs.twimg.com/media/HArCeiPaMAAcQp1.jpg",
+    "screen_name": "ericosiu",
+    "created_at": "2026-02-09",
+    "slug": "openclaw-works-your-setup-doesnt-yet"
+  },
+  {
     "id_str": "2029953139856531528",
     "title": "Pal: a personal context-agent that learns how you work",
     "preview_text": "You have a meeting with Sarah in an hour. You need to prep.\nYou check your calendar for the agenda. Search your email for the last thread. Open your notes for what you captured last time. Find the",
@@ -870,6 +888,15 @@
     "slug": "the-bromantane-files-uncensored"
   },
   {
+    "id_str": "2024786223332467176",
+    "title": "The Claude + Codex Local Stack Playbook That Cut One Loop by 78.5%",
+    "preview_text": "Save this runbook if you use Claude + Codex locally.\nOn February 19, 2026, one measured pass cut zsh -i -c exit from 1.794s to 0.386s(-78.5%). [E1]\nEveryone says \"fix prompts\"; in practice, this is a",
+    "original_img_url": "https://pbs.twimg.com/media/HBgUjYSbUAYxqnH.jpg",
+    "screen_name": "nyk_builderz",
+    "created_at": "2026-02-20",
+    "slug": "the-claude-codex-local-stack-playbook-that-cut-one-loop-by-785"
+  },
+  {
     "id_str": "2030696610100076764",
     "title": "The Claude Playbook: 15 Things Claude Does Better Than ChatGPT",
     "preview_text": "Claude just dethroned ChatGPT as the number one chatbot app in the Apple App Store.\nRead that again. The app that defined an entire category, that hit 100 million users faster than any product in",
@@ -912,6 +939,15 @@
     "screen_name": "BrianRoemmele",
     "created_at": "2025-03-14",
     "slug": "the-invention-of-the-phone-number"
+  },
+  {
+    "id_str": "2021760681704382500",
+    "title": "THE LAST LOGIN (Ep.1)",
+    "preview_text": "We solved aging.\nWe solved energy.\nWe solved death. \nBut...at what cost?\nACT I : THE TOY\n2022–2024\nIt's November 30, 2022.\nI'm sitting in my apartment in Austin, eating cold pad thai, scrolling",
+    "original_img_url": "https://pbs.twimg.com/media/HA6t4BDWUAAON9h.jpg",
+    "screen_name": "johnrushx",
+    "created_at": "2026-02-12",
+    "slug": "the-last-login-ep1"
   },
   {
     "id_str": "2030887353108332656",
@@ -966,6 +1002,15 @@
     "screen_name": "hnshah",
     "created_at": "2025-10-25",
     "slug": "the-toy-that-becomes-an-operating-system"
+  },
+  {
+    "id_str": "2021261552222158955",
+    "title": "The two patterns by which agents connect sandboxes",
+    "preview_text": "TL;DR:\nMore and more agents need a workspace: a computer where they can run code, install packages, and access files. Sandboxes provide this.\nThere are two architecture patterns for integrating agents",
+    "original_img_url": "https://pbs.twimg.com/media/HAw3JWbaAAA8GjZ.jpg",
+    "screen_name": "hwchase17",
+    "created_at": "2026-02-10",
+    "slug": "the-two-patterns-by-which-agents-connect-sandboxes"
   },
   {
     "id_str": "2013772262982431085",

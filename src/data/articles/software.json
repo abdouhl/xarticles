@@ -208,6 +208,15 @@
     "slug": "how-to-vibecode-with-claude-code"
   },
   {
+    "id_str": "2020231728837894469",
+    "title": "I built a word puzzle game with SwiftUI & Liquid Glass",
+    "preview_text": "I didn’t want to build another word game. I wanted to build one that feels genuinely good to play.\nFor me, that has always been about how things feel in use. The clarity of the UI. The way animations",
+    "original_img_url": "https://pbs.twimg.com/media/HAksxXhacAAO3oB.jpg",
+    "screen_name": "Shubham_iosdev",
+    "created_at": "2026-02-07",
+    "slug": "i-built-a-word-puzzle-game-with-swiftui-liquid-glass"
+  },
+  {
     "id_str": "2007137091101106249",
     "title": "I want to learn how to vibe code:",
     "preview_text": "My goal this year is to learn how to vibe code.\nThe problem is: I have no experience in coding.\nMost people don’t know where to start.\nUntil today, I didn’t either, I’ve been researching.\nNow we",
@@ -399,6 +408,24 @@
     "original_img_url": "https://pbs.twimg.com/media/HB3ZmdCXUAAmlO1.jpg",
     "screen_name": "danshipper",
     "slug": "what-personal-software-actually-is"
+  },
+  {
+    "id_str": "2010370554528690293",
+    "title": "You Can't Debug The Debugger",
+    "preview_text": "Nine Flavors of Not-You — Onion Has No Center — Internal Politics — Why You Can't Just Update  — Art of Self-Editing\nThere's a certain kind of person who, when asked \"what do you want to do today?\",",
+    "original_img_url": "https://pbs.twimg.com/media/G-XPgkMXYAA-kNU.jpg",
+    "screen_name": "Kpaxs",
+    "created_at": "2026-01-11",
+    "slug": "you-cant-debug-the-debugger"
+  },
+  {
+    "id_str": "2027094058330656814",
+    "title": "You don’t know what your agent will do until it’s in production",
+    "preview_text": "When you ship traditional software to production, you have a good sense of what to expect. Users click buttons, fill out forms, navigate through predetermined paths. Your test suite might cover 80-90%",
+    "original_img_url": "https://pbs.twimg.com/media/HCGu1s6awAATQDC.jpg",
+    "screen_name": "hwchase17",
+    "created_at": "2026-02-26",
+    "slug": "you-dont-know-what-your-agent-will-do-until-its-in-production"
   },
   {
     "id_str": "2028556984396452250",

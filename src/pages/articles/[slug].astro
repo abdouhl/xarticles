@@ -363,12 +363,19 @@ const breadcrumbs = [
       document.body.removeAttribute("data-modal-open");
       document.body.style.overflow = "";
 
-      if (window.history.length > 1) window.history.back();
-      else
+      const ref = document.referrer;
+
+      const isInternal =
+        ref && new URL(ref).hostname === window.location.hostname;
+
+      if (isInternal) {
+        history.back();
+        
+      } else {
         window.location.href =
           document.getElementById("toolModal")?.dataset.fallback || "/";
+      }
     }
-
     function handleInteraction(e) {
       if (
         e.target.closest(".tool-detail-close-btn") ||

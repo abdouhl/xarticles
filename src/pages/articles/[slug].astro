@@ -71,15 +71,15 @@ try {
 
 const seoTitle = meta.title || tool.title;
 const seoDescription = meta.description || tool.body;
-const seoOgImage = faviconUrl;
+const seoOgImage = tool.original_img_url;
 const seoOgType = "website";
 const seoOgSiteName = "Xarticl.es";
 
 const encodedShareText = encodeURIComponent(
-  `Check out ${tool.title} - ${tool.body}`,
+  `Check out ${tool.title} - a great article I found on Xarticl.es!`,
 );
 const encodedCanonicalUrl = encodeURIComponent(canonicalUrl);
-const xShareUrl = `https://x.com/intent/post?text=${encodedShareText}&url=${encodedCanonicalUrl}&via=planetabhi`;
+const xShareUrl = `https://x.com/intent/post?text=${encodedShareText}&url=${encodedCanonicalUrl}&via=${tool.screen_name}`;
 const linkedinShareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodedCanonicalUrl}`;
 const redditShareUrl = `https://www.reddit.com/submit?url=${encodedCanonicalUrl}&title=${encodedShareText}`;
 

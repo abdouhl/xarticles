@@ -26,6 +26,24 @@
     "slug": "1-spec-isnt-cool-you-know-whats-cool-10-specs"
   },
   {
+    "id_str": "2029199521658687778",
+    "title": "35+ Claude Code Tips (2026 Edition)",
+    "preview_text": "From Beginner Workflows → Advanced Power-User Techniques\n\nAfter 11 months of intensive Claude Code usage and insights from the developer community, these tips emerged as the ones that actually",
+    "original_img_url": "https://pbs.twimg.com/media/HCkpbsra8AAp-Nu.jpg",
+    "screen_name": "Suryanshti777",
+    "created_at": "2026-03-04",
+    "slug": "35-claude-code-tips-2026-edition"
+  },
+  {
+    "id_str": "2031402826455556376",
+    "title": "A Day in the Life of a Prophit Engineer",
+    "preview_text": "How One Person Replaces a Four-Person Growth Team (and Why That Person Looks Nothing Like You'd Expect)\nBy Taylor Holiday | March 2026\nThe 10% OpEx Era Series\nArticle 1: The economics of collapsing a",
+    "original_img_url": "https://pbs.twimg.com/media/HDD9zPeaMAAXEfI.jpg",
+    "screen_name": "TaylorHoliday",
+    "created_at": "2026-03-10",
+    "slug": "a-day-in-the-life-of-a-prophit-engineer"
+  },
+  {
     "id_str": "2029707252219924641",
     "title": "A Rust Porting Playbook: 7 Techniques for Highly Tested Agent-Written Code",
     "preview_text": "After a few weeks of experimentation, I’m excited to share something new: the Rust Porting Playbook, a system of documents, guidelines, and tools for 100% agentic porting of Python codebases to Rust.\n",
@@ -78,6 +96,15 @@
     "slug": "bagaimana-membuat-software-as-a-service-saas-yang-proper-di-era-ai"
   },
   {
+    "id_str": "2012527497414598666",
+    "title": "Better Taste > Better Code",
+    "preview_text": "Most people think software is built by logic. It is not. \n\nSoftware is built by\n\nselection, which means deciding what to keep, what to reject, and what you refuse to ship.\nThat is vibe coding.\nVibe",
+    "original_img_url": "https://pbs.twimg.com/media/HBgqfPsbcAAyGY4.jpg",
+    "screen_name": "Av1dlive",
+    "created_at": "2026-01-17",
+    "slug": "better-taste-better-code"
+  },
+  {
     "id_str": "2026002315371745671",
     "title": "Building a 16-Bit CPU from Scratch in C (Step-by-Step)",
     "preview_text": "Building a 16-Bit CPU from Scratch in C might sound intimidating, but it's one of the most rewarding projects you can undertake as a programmer. In this article, I'll walk you through every step of",
@@ -93,6 +120,15 @@
     "screen_name": "arscontexta",
     "created_at": "2026-02-16",
     "slug": "claude-code-plugin-for-knowledge-work-open-source-second-brain-blueprint"
+  },
+  {
+    "id_str": "2031418875946958915",
+    "title": "Claude Code vs. Codex: The Definitive Guide",
+    "preview_text": "I've used Claude Code for months, then moved to Codex. I just switched back to Claude and the reason has nothing to do with benchmarks. I also tested both on the same task.\nIn this article:\nI will",
+    "original_img_url": "https://pbs.twimg.com/media/HDDtZaQXQAAUtuK.jpg",
+    "screen_name": "Hesamation",
+    "created_at": "2026-03-10",
+    "slug": "claude-code-vs-codex-the-definitive-guide"
   },
   {
     "id_str": "2027759832523051263",
@@ -122,6 +158,15 @@
     "slug": "claude-skills-masterclass-for-beginners-full-tutorial"
   },
   {
+    "id_str": "2031379148703408414",
+    "title": "Developer to Fleet Commander",
+    "preview_text": "The top 5% to 10% of builders are now 3 to 5 times more productive than they were a year ago. The median builder is up maybe 10% to 20%.\n \nIn the past few weeks, I've spoken with several founders",
+    "original_img_url": "https://pbs.twimg.com/media/HC_H_9CaMAEPYd_.jpg",
+    "screen_name": "Alfred_Lin",
+    "created_at": "2026-03-10",
+    "slug": "developer-to-fleet-commander"
+  },
+  {
     "id_str": "2031002592491491716",
     "title": "Faster iOS Subscriptions with ASC CLI and RevenueCat MCP",
     "preview_text": "Setting up subscriptions is one of the parts on App Store Connect that I dread the most. \nNot because it is hard, but because it is tedious, especially with the screenshots and review notes. You click",
@@ -146,6 +191,15 @@
     "screen_name": "derrickcchoi",
     "created_at": "2026-03-09",
     "slug": "getting-started-with-codex-best-practices-for-better-results"
+  },
+  {
+    "id_str": "2031382582349193644",
+    "title": "Guide to Competitive Programming",
+    "preview_text": "A lot of you followed me because of my competitive programming credentials, so I am sharing the exact resources I followed, the order I used them in, and some general tips to help you reach Expert.",
+    "original_img_url": "https://pbs.twimg.com/media/HDDpUq2bUAE8zkN.jpg",
+    "screen_name": "ryuzaki2401",
+    "created_at": "2026-03-10",
+    "slug": "guide-to-competitive-programming"
   },
   {
     "id_str": "1965488946672271662",
@@ -215,6 +269,24 @@
     "screen_name": "Shubham_iosdev",
     "created_at": "2026-02-07",
     "slug": "i-built-a-word-puzzle-game-with-swiftui-liquid-glass"
+  },
+  {
+    "id_str": "2015688502935978395",
+    "title": "I Installed Clawdbot Yesterday. Every User Hits The Same Dark Pattern At Week 8.",
+    "preview_text": "I Installed Clawdbot Yesterday. Here's The Dark Pattern 10,000+ Users Are Already Showing (And Why We'll All Feel It In 3 Years)\n\nI bought a Mac mini and installed Clawdbot yesterday.\n\n$5 for a",
+    "original_img_url": "https://pbs.twimg.com/media/G_kpzO1X0AAV-FQ.jpg",
+    "screen_name": "TukiFromKL",
+    "created_at": "2026-01-26",
+    "slug": "i-installed-clawdbot-yesterday-every-user-hits-the-same-dark-pattern-at-week-8"
+  },
+  {
+    "id_str": "2027054100807106829",
+    "title": "I Tested All 21 Claude Cowork Plugins. Here’s the Tier List Nobody’s Publishing.",
+    "preview_text": "Anthropic just shipped 21 plugins for Claude Cowork. The original 11 launched January 30. Ten more dropped February 24.\nBetween those two dates, $285 billion in software stock value evaporated.",
+    "original_img_url": "https://pbs.twimg.com/media/HCEuGTpbEAAQh6a.jpg",
+    "screen_name": "heynavtoor",
+    "created_at": "2026-02-26",
+    "slug": "i-tested-all-21-claude-cowork-plugins-heres-the-tier-list-nobodys-publishing"
   },
   {
     "id_str": "2007137091101106249",
@@ -344,6 +416,15 @@
     "slug": "the-complete-guide-claude-for-excel"
   },
   {
+    "id_str": "2031828795821608998",
+    "title": "The Four Games of Life",
+    "preview_text": "I built an app for car dealerships. \nWrote code for three months before going to work each day. \nPitched three. None bought.\nI was playing a flat game inside a live one. The code worked. \nThe market",
+    "original_img_url": "https://pbs.twimg.com/media/HDGOLeOaAAAN6rb.jpg",
+    "screen_name": "DruRly",
+    "created_at": "2026-03-11",
+    "slug": "the-four-games-of-life"
+  },
+  {
     "id_str": "2028968986051002513",
     "title": "The Google Stitch and GLM5 Workflow That Builds Full Stack Apps In Minutes",
     "preview_text": "Google Stitch and GLM5 workflow is changing how apps get built.\nOne AI tool designs the interface.\nAnother AI tool writes the backend code.\nWatch the video below:\nWant to make money and save time with",
@@ -367,6 +448,15 @@
     "original_img_url": "https://pbs.twimg.com/media/HCaeF3VW4AAqZnx.jpg",
     "screen_name": "_colemurray",
     "slug": "the-software-assembly-line"
+  },
+  {
+    "id_str": "2031960684930736315",
+    "title": "The Ultimate Vibe Coding Beginner's Guide",
+    "preview_text": "Most advice around vibe coding tells beginners one thing: build fast.\nBut when you look at real developer discussions, tool traces, and debugging sessions, a different pattern appears.\nThe builders",
+    "original_img_url": "https://pbs.twimg.com/media/HDHe55JbEAAxdb4.jpg",
+    "screen_name": "nyk_builderz",
+    "created_at": "2026-03-12",
+    "slug": "the-ultimate-vibe-coding-beginners-guide"
   },
   {
     "id_str": "2027323057757704567",
@@ -426,6 +516,15 @@
     "screen_name": "hwchase17",
     "created_at": "2026-02-26",
     "slug": "you-dont-know-what-your-agent-will-do-until-its-in-production"
+  },
+  {
+    "id_str": "2027094110918856838",
+    "title": "You're Using OpenClaw Wrong",
+    "preview_text": "stop asking it to build the pipeline. build it yourself.\nhere's what happens:\nyou tell it to run a pipeline. pull data, transform it, push it somewhere, trigger an action.\nit tries. builds the logic",
+    "original_img_url": "https://pbs.twimg.com/media/HCGuwseaMAAGMzP.jpg",
+    "screen_name": "everestchris6",
+    "created_at": "2026-02-26",
+    "slug": "youre-using-openclaw-wrong"
   },
   {
     "id_str": "2028556984396452250",

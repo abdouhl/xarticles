@@ -1,5 +1,23 @@
 [
   {
+    "id_str": "2031329243716878340",
+    "title": "Building a Polymarket Weather Trading Bot in Python (Step-by-Step Guide)",
+    "preview_text": "In this article, I will show you how to create a bot for trading on Polymarket based on weather data in Python from scratch. No programming experience is required, just follow the step-by-step",
+    "original_img_url": "https://pbs.twimg.com/media/HCzYIJvb0AATSB3.jpg",
+    "screen_name": "AlterEgo_eth",
+    "created_at": "2026-03-10",
+    "slug": "building-a-polymarket-weather-trading-bot-in-python-step-by-step-guide"
+  },
+  {
+    "id_str": "2026996847105937506",
+    "title": "CLAUDE CODE PARA PRINCIPIANTES",
+    "preview_text": "Claude Code. Habras escuchado de el (ella?) antes o quizás es tu primera vez. Quizás hayas querido usarlo y no has sabido por donde empezar, o quizás ya lo usas en tu día a día. Sea cual sea el caso,",
+    "original_img_url": "https://pbs.twimg.com/media/HCFTPsdX0AA6ogO.jpg",
+    "screen_name": "arceyul",
+    "created_at": "2026-02-26",
+    "slug": "claude-code-para-principiantes"
+  },
+  {
     "id_str": "2027744530124951831",
     "title": "How to Simulate Like a Quant Desk. Every Model, Every Formula, Runnable Code",
     "preview_text": "This isn't a list of techniques.\nIt's a story - one that starts with a coin flip and ends with institutional-grade simulation engines.\nEach section builds on the last. Skip ahead and the math won't",

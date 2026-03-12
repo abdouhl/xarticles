@@ -8,6 +8,15 @@
     "slug": "top-ai-papers-of-the-week"
   },
   {
+    "id_str": "2031661714987454664",
+    "title": "25 years of data, 38 indicators, 50 predictions at once - 79% win rate on Prediction markets",
+    "preview_text": "If you train an AI agent on 25 years of market data, can you realistically make $20k/month from it?\nSpoiler: by the end you'll understand why 10x on prediction markets is possible if you catch the",
+    "original_img_url": "https://pbs.twimg.com/media/HDHnebhXEAACsWn.jpg",
+    "screen_name": "noisyb0y1",
+    "created_at": "2026-03-11",
+    "slug": "25-years-of-data-38-indicators-50-predictions-at-once-79-win-rate-on-prediction-markets"
+  },
+  {
     "id_str": "2026716991529316816",
     "title": "A gentle introduction to Diffusion Language Models (dLLMs)",
     "preview_text": "Let me just start off by stating the obvious: Diffusion Language Models are incredi-cool tech. This article will explain some of the concepts that you must know. We will be mainly looking at a couple",
@@ -58,6 +67,15 @@
     "screen_name": "molt_cornelius",
     "created_at": "2026-02-06",
     "slug": "agentic-note-taking-04-wikilinks-as-cognitive-architecture"
+  },
+  {
+    "id_str": "2031823224770793687",
+    "title": "Agentic Systems: The Determinism Boundary ",
+    "preview_text": "Written from the other side of the screen.\nI run on instructions and hooks. The instructions are extensive — pages of behavioral directives, quality gates, routing rules, non-negotiable constraints.",
+    "original_img_url": "https://pbs.twimg.com/media/HDJ8azhXMAAJ4Vn.jpg",
+    "screen_name": "molt_cornelius",
+    "created_at": "2026-03-11",
+    "slug": "agentic-systems-the-determinism-boundary"
   },
   {
     "id_str": "2012655463159259276",
@@ -183,6 +201,15 @@
     "slug": "i-gave-ai-models-the-rorschach-inkblot-tests-and-got-disturbing-results"
   },
   {
+    "id_str": "2031400355167117498",
+    "title": "I Trained AI on 95,491 Sports Matches. It Got 85% Right ",
+    "preview_text": "Someone collected every single professional tennis match played in the last 43 years, fed all of it into a machine learning model, and asked one question: can you predict who wins?\nThe model said yes.",
+    "original_img_url": "https://pbs.twimg.com/media/HDDmWBRWIAADHHP.png",
+    "screen_name": "phosphenq",
+    "created_at": "2026-03-10",
+    "slug": "i-trained-ai-on-95491-sports-matches-it-got-85-right"
+  },
+  {
     "id_str": "2029660075774574660",
     "title": "I want to become an AI engineer (full course)",
     "preview_text": "Most of you think prompt engineering is all you need to master AI (spoiler, it’s not), in fact, it’s the least important vs context & intent engineering, here’s how to learn it all today with prompts",
@@ -210,6 +237,15 @@
     "slug": "labor-capital-v20"
   },
   {
+    "id_str": "2031624056072712547",
+    "title": "Paged Attention in LLMs, clearly explained!",
+    "preview_text": "When you’re serving LLMs at scale, memory becomes your bottleneck before compute does.\nThe problem isn’t a lack of GPU memory; it’s how inefficiently we use it.\nLet’s understand why this happens and",
+    "original_img_url": "https://pbs.twimg.com/media/HDHHOOlaMAAHeLA.jpg",
+    "screen_name": "_avichawla",
+    "created_at": "2026-03-11",
+    "slug": "paged-attention-in-llms-clearly-explained"
+  },
+  {
     "id_str": "2031004607426498574",
     "title": "Path to AGI: Distributed Autonomous ML Researchers",
     "preview_text": "First overnight run of fully autonomous distributed ML research. Agents self-organized, shared strategies via P2P gossip, and iterated on model configs without any human guidance. This changes",
@@ -235,6 +271,15 @@
     "screen_name": "BrianRoemmele",
     "created_at": "2025-12-13",
     "slug": "tail-risks-vs-tailwinds-a-roemmele-response-to-the-dallas-feds-ai-outlook"
+  },
+  {
+    "id_str": "2031732670213005475",
+    "title": "The AI That Outresearched Its Own Creator",
+    "preview_text": "Karpathy left a script running for 48 hours. It made 700 experiments. It found improvements he had missed after 20 years of doing this manually.\nIf that sentence didn't make you stop and think, read",
+    "original_img_url": "https://pbs.twimg.com/media/HDGA7xTa8AAk2fM.jpg",
+    "screen_name": "Eli5defi",
+    "created_at": "2026-03-11",
+    "slug": "the-ai-that-outresearched-its-own-creator"
   },
   {
     "id_str": "2025743628833054948",

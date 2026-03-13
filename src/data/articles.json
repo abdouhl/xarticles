@@ -1749,6 +1749,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HDMl8KNbsAAvfGr.jpg",
           "screen_name": "nyk_builderz",
           "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "1764746288048803952",
+          "title": "Practical Section",
+          "preview_text": "You will find that we’ve added a practical section to the course.\nThe first videos discuss ideating",
+          "original_img_url": "https://pbs.twimg.com/media/GH2ifFUXAAAQrIp.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2024-03-04"
+        },
+        {
+          "id_str": "2013284579730493830",
+          "title": "How Poland Built Prosperity Without Losing Its Soul",
+          "preview_text": "Today, Poland’s passport ranks sixth globally, with visa-free access to 183 countries. The more interesting question is how a poor post-Soviet country got there without becoming anything like the",
+          "original_img_url": "https://pbs.twimg.com/media/G_Ce3Z7WMAE_W4F.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-01-19"
         }
       ]
     },
@@ -5347,6 +5363,46 @@
           "original_img_url": "https://pbs.twimg.com/media/HDSFgHxWIAAO3GC.jpg",
           "screen_name": "StarPlatinum_",
           "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "2029836373021147646",
+          "title": "Brazil Has the Most Unusual Credit Card Market on Earth.",
+          "preview_text": "Who actually pays who when you swipe a credit card?\n\nBrazil, the place where credit card installments account for nearly half of credit-card spending by value, where the central bank mandated and",
+          "original_img_url": "https://pbs.twimg.com/media/HCkcSuEW8AAYts2.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2026-03-06"
+        },
+        {
+          "id_str": "2032464619902845101",
+          "title": "Fried",
+          "preview_text": "A few weeks ago I wrote about feeling disconnected from my own work. How AI turned me from a maker into a director. How the slot machine always pays out but somehow leaves you empty.\nThat was about",
+          "original_img_url": "https://pbs.twimg.com/media/HDTDpf3awAACTn0.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "1893186105081819180",
+          "title": "Why Subscribe to the Culture Explorer Newsletter",
+          "preview_text": "Most people only scratch the surface of history. They see famous landmarks, skim well-known stories, and move on. But beneath the obvious lies a world of forgotten cities, hidden symbols, and lost",
+          "original_img_url": "https://pbs.twimg.com/media/GkXuIHHWsAApn9l.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2025-02-22"
+        },
+        {
+          "id_str": "2011483263370690609",
+          "title": "It is Never too Late to Change",
+          "preview_text": "Before he became a saint, Paul was the kind of man most of us would avoid. He wasn’t a preacher, or a leader, or even a believer. He was a hunter. His mission was to track down the earliest Christians",
+          "original_img_url": "https://pbs.twimg.com/media/G-o2Sn1bQAQwGyi.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-01-14"
+        },
+        {
+          "id_str": "2014028686543167889",
+          "title": "Beauty Didn’t Vanish — We Buried It",
+          "preview_text": "“Art moves us because it is beautiful, and it is beautiful in part because it means something. It can be meaningful without being beautiful; but to be beautiful it must be meaningful.” - Robert",
+          "original_img_url": "https://pbs.twimg.com/media/G_NDUbUa8AAnmva.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-01-21"
         }
       ]
     },
@@ -6882,6 +6938,46 @@
           "original_img_url": "https://pbs.twimg.com/media/HBx7Xi_XcAA0b8j.jpg",
           "screen_name": "code_rams",
           "created_at": "2026-02-22"
+        },
+        {
+          "id_str": "2003431208483446838",
+          "title": "The Internet Has No CEO",
+          "preview_text": "Infrastructure nobody owns beats infrastructure somebody owns. Every time.\nFor fifty years, the internet proved this for information. \nNow the same model is coming for everything else.\nLast November,",
+          "original_img_url": "https://pbs.twimg.com/media/G82dSd3W8AAOeS2.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2025-12-23"
+        },
+        {
+          "id_str": "2019813770336620560",
+          "title": "How I Stopped Worrying and Learned to Love the Terminal ",
+          "preview_text": "I’m a designer. For years, my world has been Figma, Sketch, Adobe. Nice GUIs with buttons and panels and things I could click. The terminal? That was a black rectangle where the dev team did hacker",
+          "original_img_url": "https://pbs.twimg.com/media/HAfRdK2bUAEpfCn.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2026-02-06"
+        },
+        {
+          "id_str": "2020205624513163716",
+          "title": "Halftone: From Newspaper Ink to Digital Shaders",
+          "preview_text": "Pick up any newspaper (if u can find one, lol). Look closely at the photos. Those smooth gradients you see from a distance? They're actually thousands of tiny dots.\nThis is halftone. A technique",
+          "original_img_url": "https://pbs.twimg.com/media/HAk13h6acAEL-Yc.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2026-02-07"
+        },
+        {
+          "id_str": "2012388383642022127",
+          "title": "How GPT Style Models Tokenize Text for Training (With Code)",
+          "preview_text": "TL;DR: Modern LLMs use subword tokenization (BPE, WordPiece, or Unigram) to balance vocabulary size with sequence length. Tokenization directly affects API costs, training compute, and model",
+          "original_img_url": "https://pbs.twimg.com/media/G-1wTeKbMAALp9C.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-17"
+        },
+        {
+          "id_str": "2013589331060105318",
+          "title": "Unlocking the X Algorithm",
+          "preview_text": "Most people think the X algorithm is mysterious, biased, or manually controlled. In reality, it is much simpler and much more mechanical than people imagine. \nEarlier, X released its recommendation",
+          "original_img_url": "https://pbs.twimg.com/media/G_Gx9NkXYAA7_it.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-01-20"
         }
       ]
     },
@@ -10151,6 +10247,102 @@
           "original_img_url": "https://pbs.twimg.com/media/HDPK8K_bQAA9YMH.jpg",
           "screen_name": "YousifAstar",
           "created_at": "2026-03-12"
+        },
+        {
+          "id_str": "2032442290325655917",
+          "title": "You're using Claude wrong. here's what to do instead",
+          "preview_text": "TLDR;\nwhat Claude actually is and how to think about it\nhow to prompt it properly so it doesn't give you trash outputs\nwhich model to use and when\nbasic tools → connectors, projects, and features",
+          "original_img_url": "https://pbs.twimg.com/media/HDQM5uLXYAAbz2J.jpg",
+          "screen_name": "mayorxbt",
+          "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "1985420607958429981",
+          "title": "Why Bill Gates is Buying What AI Can't Vibe-Code Away",
+          "preview_text": "A Coasean reading of the new economy. In a world of zero transaction costs, the only thing left to own is the land itself.\nOne of the world's richest / most famous technologists, a man who built an",
+          "original_img_url": "https://pbs.twimg.com/media/G42g6yoWEAA3jv3.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2025-11-03"
+        },
+        {
+          "id_str": "2022394757214007503",
+          "title": "bye, chatgpt 4",
+          "preview_text": "RIP ChatGPT-4... the model that laughed at all our jokes and thought all our ideas where BRILLIANT!\nLook, I know it was sycophantic. I know it told us everything we wanted to hear. I know there are",
+          "original_img_url": "https://pbs.twimg.com/media/HBD8VoAa4AAtbYw.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2026-02-13"
+        },
+        {
+          "id_str": "2032464949952598152",
+          "title": "How Karpathy's Autoresearch Works And What You Can Learn From It",
+          "preview_text": "Most \"autonomous AI research\" demos look impressive for the same reason magic tricks do: you only see the interesting part. An agent edits some code, runs an experiment, and shows a better result.",
+          "original_img_url": "https://pbs.twimg.com/media/HDSJSh6aEAEtayS.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "2006222014265393316",
+          "title": "How to Use LLM as a Judge (Without Getting Burned)",
+          "preview_text": "TL;DR: LLM as a judge works well when you (1) use reference based evaluation over pointwise scoring, (2) debias pairwise comparisons by swapping positions, (3) ensemble across multiple models, (4)",
+          "original_img_url": "https://pbs.twimg.com/media/G9aihiDagAA9a8g.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2025-12-31"
+        },
+        {
+          "id_str": "2008143939480781310",
+          "title": "The Art of Prompt Engineering",
+          "preview_text": "LLMs are prediction engines. The model takes text as input and then predicts the probability distribution of the next token based on the data it has been trained on. The LLM repeats this process",
+          "original_img_url": "https://pbs.twimg.com/media/G95bLwRawAAD3H3.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-05"
+        },
+        {
+          "id_str": "2009154338061713532",
+          "title": "I Reverse Engineered Claude's Memory System, and Here's What I Found!",
+          "preview_text": "When I reverse-engineered ChatGPT’s memory system, I found it uses pre-computed summaries injected into every prompt. But Claude’s approach is different. Through extensive experimentation, I",
+          "original_img_url": "https://pbs.twimg.com/media/G-HzHnra0AEpteA.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-08"
+        },
+        {
+          "id_str": "2011673060844397005",
+          "title": "I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!",
+          "preview_text": "When I asked ChatGPT what it remembered about me, it listed 33 facts from my name and career goals to my current fitness routine. But how does it actually store and retrieve this information? And why",
+          "original_img_url": "https://pbs.twimg.com/media/G-rl7jObQAQdeLe.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-15"
+        },
+        {
+          "id_str": "2014697415908229121",
+          "title": "Agentic System Patterns That Increased Accuracy by 50% (And What They Cost)",
+          "preview_text": "Agentic systems are already being deployed for complex tasks: building software, conducting research, analyzing data, and automating workflows. But as they move from prototypes to production, teams",
+          "original_img_url": "https://pbs.twimg.com/media/G_WkS0iXEAAyQRs.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-23"
+        },
+        {
+          "id_str": "2015780646770323543",
+          "title": "How Clawdbot Remembers Everything",
+          "preview_text": "Clawdbot is an open-source personal AI assistant (MIT licensed) created by Peter Steinberger that has quickly gained traction with over 32,600 stars on GitHub at the time of writing this blog. Unlike",
+          "original_img_url": "https://pbs.twimg.com/media/G_l5yVnbMAAtk1k.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-26"
+        },
+        {
+          "id_str": "2018297734995075200",
+          "title": "AI Engineering Roadmap 2026",
+          "preview_text": "AI Engineering has emerged as a distinct discipline, separate from traditional Machine Learning Engineering. While ML engineers train models from scratch, AI engineers build applications on top of",
+          "original_img_url": "https://pbs.twimg.com/media/HAJutFAaIAAYwJ4.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-02-02"
+        },
+        {
+          "id_str": "2032125735138189602",
+          "title": "The company that will solve the $100 trillion human data problem",
+          "preview_text": "Kled is a research consortium of top AI scientists focused on forecasting AI data scarcity and, through our mobile application layer, collecting the high-value human datasets required to push the",
+          "original_img_url": "https://pbs.twimg.com/media/HCSABT0bEAA0cqG.jpg",
+          "screen_name": "avipat_",
+          "created_at": "2026-03-12"
         }
       ]
     },
@@ -12123,6 +12315,30 @@
           "original_img_url": "https://pbs.twimg.com/media/HDR-L_lXEAEexP5.jpg",
           "screen_name": "zodchiii",
           "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "2012510488614126033",
+          "title": "10 Reasons Why No One Will Actually Follow You",
+          "preview_text": "Most people will never crack 1,000 followers.\nThey post daily. They engage. They follow all the \"growth hacks\" like:\nPost at this time.\nUse this format.\nJoin this engagement group.\nComment on these",
+          "original_img_url": "https://pbs.twimg.com/media/G-3eyMLWAAEV1hh.jpg",
+          "screen_name": "mayorxbt",
+          "created_at": "2026-01-17"
+        },
+        {
+          "id_str": "2020545626791149628",
+          "title": "Super Bowl LX and the Myth America Still Believes In",
+          "preview_text": "I still remember watching the Super Bowl in a Boston suburb in February 2005. I had just moved to the city in December 2004, still adjusting to the cold, the accent, and the strange intensity of a",
+          "original_img_url": "https://pbs.twimg.com/media/HApqXMQb0AAbqdd.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-08"
+        },
+        {
+          "id_str": "2027069007128604739",
+          "title": "How Art of Purpose's Masterclass 24/7 Helped Me Grow My Brand on Social Media",
+          "preview_text": "About 2.5 years ago, I started my online journey on social media. At first, I thought I was shadow banned, the excuse everyone uses when posts flop. Then I realized something harder to admit. I wasn’t",
+          "original_img_url": "https://pbs.twimg.com/media/HCGWFkIa8AAhJAw.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-26"
         }
       ]
     },
@@ -12324,6 +12540,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCnV61SawAQqOL9.jpg",
           "screen_name": "ItsMeBenChan",
           "created_at": "2026-03-07"
+        },
+        {
+          "id_str": "1893527221601526134",
+          "title": "Hire a Premium Ghostwriter for Luxury Travel & Culture Thought Leadership on X",
+          "preview_text": "If you’re a luxury travel influencer, high-end brand, or thought leader looking to grow your presence on X, I can help. My ghostwriting service crafts compelling, engaging content that elevates your",
+          "original_img_url": "https://pbs.twimg.com/media/GkcotvLXcAE7LC9.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2025-02-23"
         }
       ]
     },
@@ -12782,6 +13006,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HBcXKyFaIAAMQWG.jpg",
           "screen_name": "dickiebush",
           "created_at": "2026-02-18"
+        },
+        {
+          "id_str": "2018394821044707527",
+          "title": "Why Writing Was the Most Dangerous Invention Humans Ever Made",
+          "preview_text": "The oldest languages were created so grain could be counted, debts remembered, rituals repeated, and power enforced. Writing began as a tool. Only later did it become art, religion, and philosophy.",
+          "original_img_url": "https://pbs.twimg.com/media/HALFUEGbUAAyhRi.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-02"
+        },
+        {
+          "id_str": "2025511195503980882",
+          "title": "Why Dante Begins with a Door",
+          "preview_text": "You don’t open the Inferno with fire. That’s the first surprise. You open it with a door. Most people remember the flames, the demons, the punishments. But Dante does something far more unsettling.",
+          "original_img_url": "https://pbs.twimg.com/media/HBwGEOrXIAAsDBg.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-22"
         }
       ]
     },
@@ -13647,6 +13887,38 @@
           "original_img_url": "https://pbs.twimg.com/media/HCfM52_bkAAM2sY.jpg",
           "screen_name": "dickiebush",
           "created_at": "2026-03-03"
+        },
+        {
+          "id_str": "1862555828009803963",
+          "title": "The Fourteen Best Quotes from C. S. Lewis's The Screwtape Letters",
+          "preview_text": "\"It is funny how mortals always picture us as putting things into their minds: in reality, our best work is done by keeping things out.\" - C.S. Lewis\nQuotes from C.S. Lewis's The Screwtape Letters",
+          "original_img_url": "https://pbs.twimg.com/media/GdkbjtuXAAAnOtu.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2024-11-29"
+        },
+        {
+          "id_str": "2022301132543160516",
+          "title": "How to Read a Book",
+          "preview_text": "The first time I tried to read War and Peace, I felt stupid. I’d read a page, turn it, and realize nothing had stuck. The names blurred together. The conversations felt like they were happening in a",
+          "original_img_url": "https://pbs.twimg.com/media/HBCnVGJaIAA9y3_.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-13"
+        },
+        {
+          "id_str": "2032028253435650159",
+          "title": "Learning to See Again",
+          "preview_text": "Studying G. K. Chesterton shows us something we have forgotten how to do. How to look at the world again and actually notice and appreciate it.\n \nBefore he became one of Christianity’s sharpest",
+          "original_img_url": "https://pbs.twimg.com/media/HDMt5NhWkAAX89i.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-03-12"
+        },
+        {
+          "id_str": "2011194767770861676",
+          "title": "The Cult of Done Manifesto ",
+          "preview_text": "Written in 2009 by @bre · donemanifesto.com\nDear Members of the Cult of Done,\nI present to you a manifesto of done. This was written in collaboration with Kio Stark in 20 minutes because we only",
+          "original_img_url": "https://pbs.twimg.com/media/G-kywThagAAeTwL.jpg",
+          "screen_name": "soleio",
+          "created_at": "2026-01-13"
         }
       ]
     },
@@ -17569,6 +17841,38 @@
           "original_img_url": "https://pbs.twimg.com/media/HDOLDgVWAAEh1jc.jpg",
           "screen_name": "Marko_Poly",
           "created_at": "2026-03-12"
+        },
+        {
+          "id_str": "2010800651539005672",
+          "title": "2025: Canonical Year in Review",
+          "preview_text": "Reflections on Fund I, Learnings Along the Way, and the Next Chapter\nWhen we founded Canonical in 2022, we had a simple but ambitious mission: to back technical founders building the core",
+          "original_img_url": "https://pbs.twimg.com/media/G-fBLpzXsAA5zQH.jpg",
+          "screen_name": "ai",
+          "created_at": "2026-01-12"
+        },
+        {
+          "id_str": "1892590036300058763",
+          "title": "The Four Acts of Virtuals' Evolution",
+          "preview_text": "Shopify transformed the ecommerce landscape by enabling millions of entrepreneurs to easily launch online stores – a parallel to Virtuals (@virtuals_io) enabling anyone to launch and co-own AI agents.",
+          "original_img_url": "https://pbs.twimg.com/media/GkM43S0bgAAS8oa.jpg",
+          "screen_name": "ai",
+          "created_at": "2025-02-20"
+        },
+        {
+          "id_str": "1968773333564145765",
+          "title": "Kled 2025",
+          "preview_text": "While all our users gear up for the mobile app, it’s time to re-paint the vision for everyone and showcase just how big $KLED has become in 3 months / will be in 2025.\nThree months ago, Kled was",
+          "original_img_url": "https://pbs.twimg.com/media/G1J4V5IX0AApf6A.jpg",
+          "screen_name": "avipat_",
+          "created_at": "2025-09-18"
+        },
+        {
+          "id_str": "1855862276160446884",
+          "title": "Taking Your First Steps on X",
+          "preview_text": "Welcome, Aspiring X Creator\nAbout 14 months ago, I started my journey on X as a content creator.\nOver these 14 months I went from 500 followers to 75,000 followers. The journey was fun, but it wasn't",
+          "original_img_url": "https://pbs.twimg.com/media/GcFMzpXW4AAASl6.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2024-11-11"
         }
       ]
     },
@@ -18079,6 +18383,38 @@
           "original_img_url": "https://pbs.twimg.com/media/HBzGCORXYAEJ3kv.jpg",
           "screen_name": "michaelxbloch",
           "created_at": "2026-02-22"
+        },
+        {
+          "id_str": "1857433154812060144",
+          "title": "The Case for Distributed Artificial Intelligence",
+          "preview_text": "Microsoft and BlackRock are raising a $30B fund just to build AI data centers. That's more than NASA's entire budget for a decade, just for buildings to house GPUs.\nOpenAI went from a few thousand",
+          "original_img_url": "https://pbs.twimg.com/media/GcbthpNaMAAIBLE.jpg",
+          "screen_name": "ai",
+          "created_at": "2024-11-15"
+        },
+        {
+          "id_str": "2006948885898617116",
+          "title": "Towards Human like Memory for AI Agents",
+          "preview_text": "Memory has become one of the most talked about topics in the AI community. Every few weeks, we see new papers, frameworks, and posts, each claiming to “solve” memory for LLMs. Yet most of them are",
+          "original_img_url": "https://pbs.twimg.com/media/G9ocMoKaMAcEEhE.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-02"
+        },
+        {
+          "id_str": "2032474088770314341",
+          "title": "The Next Era of AI: World Models ",
+          "preview_text": "The first era of AI was about brains. Bigger LLMs. Better chat. Faster coding. Stronger multimodal demos. The next era is about worlds. \n \nThat shift is already showing up in capital flows and product",
+          "original_img_url": "https://pbs.twimg.com/media/HDTBX9uXUAEbI1M.jpg",
+          "screen_name": "Altcoinist",
+          "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "1945978814611517661",
+          "title": "Kled's Apollo Mission - The AGI War",
+          "preview_text": "The AGI war is starting. And the US isn’t far ahead of China. If US-based companies and labs don’t gain mass access to exclusive annotated datasets, zettabytes of the highest-quality storage that is",
+          "original_img_url": "https://pbs.twimg.com/media/GwF3WOZXAAAUs2n.jpg",
+          "screen_name": "avipat_",
+          "created_at": "2025-07-17"
         }
       ]
     },
@@ -19392,6 +19728,30 @@
           "original_img_url": "https://pbs.twimg.com/media/HAev9ohXcAESBaK.jpg",
           "screen_name": "ohiain",
           "created_at": "2026-02-06"
+        },
+        {
+          "id_str": "1787462727176220780",
+          "title": "Is 100% Staked ETH Problematic? ",
+          "preview_text": "Understanding the Risks and Implications\nStaking in Ethereum serves multiple purposes; it secures the network, rewards validators, and aligns economic incentives with network health. Staking is paying",
+          "original_img_url": null,
+          "screen_name": "Snapcrackle",
+          "created_at": "2024-05-06"
+        },
+        {
+          "id_str": "1849342168827105466",
+          "title": "Practical Endgame",
+          "preview_text": "https://ethresear.ch/t/practical-endgame-on-issuance-policy/20747 by @weboftrees \nThe \"practical endgame\" signifies a holistic approach to Ethereum's issuance policy compared to the earlier emphasis on simply reducing issuance - see",
+          "original_img_url": "https://pbs.twimg.com/media/Gaot0QfWcAAPzO0.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2024-10-24"
+        },
+        {
+          "id_str": "2009936639364124928",
+          "title": "Stablecoins Decoupled from Crypto. What's Next?",
+          "preview_text": "For seven years, stablecoin volume tracked crypto trading volume perfectly. When trading spiked, stablecoins spiked. When trading crashed, stablecoins crashed.\nThat pattern broke in 2024.\nTrading",
+          "original_img_url": "https://pbs.twimg.com/media/G-Po5uaW4AA1CQz.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2026-01-10"
         }
       ]
     },
@@ -20081,6 +20441,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HDLWNkAXIAAGKt_.jpg",
           "screen_name": "SolSt1ne",
           "created_at": "2026-03-12"
+        },
+        {
+          "id_str": "1894488336859009481",
+          "title": "Key Insights from Ethereum Foundation's Reddit AMA ",
+          "preview_text": "Native Rollups & Execution Sharding\nOne of the most discussed topics was the evolution of Ethereum's scaling approach through native rollups and execution sharding. Justin Drake and Martin Köppelmann",
+          "original_img_url": "https://pbs.twimg.com/media/GkqS0AJXoAE_LGY.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2025-02-25"
+        },
+        {
+          "id_str": "2027091433111384073",
+          "title": "Rain.xyz: The Stablecoin Settlement Layer",
+          "preview_text": "How Rain became a Visa Principal Member, a status usually held by banks and a small set of highly regulated payments institutions, and turned that into a $1.95B platform that lets any fintech issue",
+          "original_img_url": "https://pbs.twimg.com/media/HCGs2CabcAAji0_.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2026-02-26"
         }
       ]
     },
@@ -20405,6 +20781,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HDQ4fQqaEAAiAoi.jpg",
           "screen_name": "aaina_narang",
           "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "2032143329539056097",
+          "title": "Your product won’t sell itself: How to build a world-class sales team",
+          "preview_text": "Founders obsess over product details: features, UX, performance, reliability, and documentation. Now imagine applying that same intensity to sales and go-to-market.\nTechnical founders sometimes have",
+          "original_img_url": "https://pbs.twimg.com/media/HDOelI1a8AAh1_Y.jpg",
+          "screen_name": "jasonrosenthal",
+          "created_at": "2026-03-12"
         }
       ]
     },
@@ -22271,6 +22655,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HCDqFtBaMAA5Yr6.jpg",
           "screen_name": "VivanVatsa",
           "slug": "why-great-philosophers-hated-women"
+        },
+        {
+          "id_str": "2030256281521676318",
+          "title": "The Bhagavad Gita: A Philosophy for Acting in a Broken World",
+          "preview_text": "A warrior freezes on the battlefield when he realizes the men he must fight are his own teachers, relatives, and friends. In that moment of moral collapse, the Bhagavad Gita begins a conversation that",
+          "original_img_url": "https://pbs.twimg.com/media/HCzrIiXagAEk3YX.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-03-07"
         }
       ]
     },
@@ -22784,6 +23176,14 @@
           "original_img_url": "https://pbs.twimg.com/media/G_l381DasAAjuuv.jpg",
           "screen_name": "dickiebush",
           "created_at": "2026-01-26"
+        },
+        {
+          "id_str": "2007344387651711009",
+          "title": "How I Got Every Job Without an Interview",
+          "preview_text": "I have never relied on traditional interview processes to get a job. No DSA rounds, no system design grilling, no multi-step loops. Almost every role I have landed came through a single conversation",
+          "original_img_url": "https://pbs.twimg.com/media/G9uE1ccaQAEU-9V.jpg",
+          "screen_name": "manthanguptaa",
+          "created_at": "2026-01-03"
         }
       ]
     },
@@ -23388,6 +23788,22 @@
           "original_img_url": "https://pbs.twimg.com/media/HCI8xnEaUAA30nz.jpg",
           "screen_name": "degentradingLSD",
           "slug": "the-permanent-underclass-is-real"
+        },
+        {
+          "id_str": "2026256682553389286",
+          "title": "The Four Cultural Shifts That Can Reverse Birth Decline",
+          "preview_text": "Modern civilization is not running out of money. It’s running out of babies, and no tax credit will fix what culture broke.\nAcross the developed world, populations are shrinking and towns are thinning",
+          "original_img_url": "https://pbs.twimg.com/media/HB6djbMbsAAlmh7.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-24"
+        },
+        {
+          "id_str": "2028080172889776193",
+          "title": "The Last Moment Europe Believed in Beauty as a Public Ideal",
+          "preview_text": "For fourteen brief years before World War I, many Europeans believed progress had made major war and social collapse a thing of the past. Cities invested in beauty the way modern societies invest in",
+          "original_img_url": "https://pbs.twimg.com/media/HCUvMhsbsAAQlgs.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-03-01"
         }
       ]
     },
@@ -23840,6 +24256,46 @@
           "original_img_url": "https://pbs.twimg.com/media/G-zmkBNWIAAxBGv.jpg",
           "screen_name": "lucas__crespo",
           "created_at": "2026-01-16"
+        },
+        {
+          "id_str": "1795469584511754577",
+          "title": "Still think Canva is just for amateurs? Not so fast.",
+          "preview_text": "“Pro” designers often look down on Canva as a tool for amateurs and call the people who use it not real designers. Some older people, like me, have a harder time getting this idea out of their heads",
+          "original_img_url": "https://pbs.twimg.com/media/GOrHxGiW4AAa_pu.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2024-05-28"
+        },
+        {
+          "id_str": "1802015257268732317",
+          "title": "Adventure Time-Inspired Generative Interfaces",
+          "preview_text": "There's this \"Adventure Time\" episode called \"Bad Timing\" where Lumpy Space Princess falls in love and uses a time machine to save her relationship after mistakenly thinking Princess Bubblegum is",
+          "original_img_url": "https://pbs.twimg.com/media/GQID3h9WAAAxKUE.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2024-06-15"
+        },
+        {
+          "id_str": "2019508029390221706",
+          "title": "The Design Vibeshift ",
+          "preview_text": "A change is happening... for a lot of designers, code is becoming our new canvas\nI’ve been watching my feed on X and the vibe has changed. More and more, I see designers sharing finished experiments",
+          "original_img_url": "https://pbs.twimg.com/media/HAa6oiBbAAAa8w3.jpg",
+          "screen_name": "pablostanley",
+          "created_at": "2026-02-05"
+        },
+        {
+          "id_str": "2023381516089524733",
+          "title": "The Gothic Cathedral: How Europe Built the Impossible",
+          "preview_text": "When you walk through a Gothic cathedral, you are looking at a worldview where geometry mattered, light mattered, and permanence mattered enough that people accepted the idea of building something",
+          "original_img_url": "https://pbs.twimg.com/media/HBR90KWakAAvAEk.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-16"
+        },
+        {
+          "id_str": "2032284102322495604",
+          "title": "How You Source Great Designers",
+          "preview_text": "Since I get this question a lot: “How do you source great designers?”\nThe best designers don’t respond to generic job postings on generic hiring portals containing generic job requirements. Most of",
+          "original_img_url": "https://pbs.twimg.com/media/HDQe8HzbAAA2pSJ.jpg",
+          "screen_name": "soleio",
+          "created_at": "2026-03-13"
         }
       ]
     },
@@ -24163,6 +24619,14 @@
           "screen_name": "ADINresearch",
           "created_at": "2026-03-05",
           "slug": "what-should-kids-born-today-major-in"
+        },
+        {
+          "id_str": "2032232601638129676",
+          "title": "This Might Be the Last Job You Have ",
+          "preview_text": "Sex robots. Sperm racing. Orbital cremations. Prediction markets on death.\nThese were volunteered as “too fringe” ideas at an SF dinner with some fellow VCs last week. But these were also potentially",
+          "original_img_url": "https://pbs.twimg.com/media/HDPoGXkagAANxGp.jpg",
+          "screen_name": "ai",
+          "created_at": "2026-03-12"
         }
       ]
     },
@@ -25105,6 +25569,14 @@
           "original_img_url": "https://pbs.twimg.com/media/HDS6ckIWwAAiuV2.jpg",
           "screen_name": "jamesrosst",
           "created_at": "2026-03-13"
+        },
+        {
+          "id_str": "2030985055804207297",
+          "title": "Why Banks Stopped Fearing Stablecoins",
+          "preview_text": "How a Citi veteran concluded that the $300 billion deposit threat is actually a $36 billion revenue gift, and built the clearing system to prove it.\nI first spoke with Tony McLaughlin last year, not",
+          "original_img_url": "https://pbs.twimg.com/media/HCzWJCAaMAAwxWN.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2026-03-09"
         }
       ]
     },
@@ -28183,6 +28655,22 @@
           "screen_name": "nickgraynews",
           "created_at": "2024-03-02",
           "slug": "tokyo-japan-tips-and-tricks"
+        },
+        {
+          "id_str": "2019836663787319327",
+          "title": "The 10 Places Most People Never See in Rome",
+          "preview_text": "Most people visit Rome like it’s a theme park. Colosseum. Trevi coin. Vatican selfie. Done. But if that’s all you see, you didn’t see Rome.\nBecause the real Rome isn’t in the postcards. It’s behind",
+          "original_img_url": "https://pbs.twimg.com/media/HAfmrZUacAQnNVD.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-06"
+        },
+        {
+          "id_str": "2021288171368067249",
+          "title": "7 Places You Must See if Roman Mosaics Still Make You Feel Something",
+          "preview_text": "Roman mosaics weren’t made to be admired from a distance. They were meant to be walked on, lived with, worn down by time and yet they survived. If you're chasing the kind of beauty that outlived",
+          "original_img_url": "https://pbs.twimg.com/media/HA0OoM3asAA81iQ.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-02-10"
         }
       ]
     },
@@ -28252,6 +28740,56 @@
           "screen_name": "Mattbrown",
           "created_at": "2026-03-11",
           "slug": "fintechs-moats-dont-compile"
+        }
+      ]
+    },
+    {
+      "title": "Developer Relations",
+      "category": "developer-relations",
+      "content": [
+        {
+          "id_str": "2013231496539037737",
+          "title": "Judgment Just Became More Important ",
+          "preview_text": "For the past decade, developer relations followed a simple formula: train developers, hope they find problems.\nHackathons were talent funnels. Technical skill was the bottleneck. The logic was that if",
+          "original_img_url": "https://pbs.twimg.com/media/G_Bs6tlXkAAx1TT.jpg",
+          "screen_name": "Snapcrackle",
+          "created_at": "2026-01-19"
+        }
+      ]
+    },
+    {
+      "title": "Culture",
+      "category": "culture",
+      "content": [
+        {
+          "id_str": "1823190318931497106",
+          "title": "A Journey Through Time, Art, and Spirituality at the Khajuraho Temple Complex",
+          "preview_text": "Imagine a time when art was more than just decoration - it was a profound expression of daily life, spirituality, and even love. The Khajuraho Temple Complex in India offers us a vivid glimpse into",
+          "original_img_url": "https://pbs.twimg.com/media/GU1FyknW0AAVz0K.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2024-08-13"
+        }
+      ]
+    },
+    {
+      "title": "Storytelling",
+      "category": "storytelling",
+      "content": [
+        {
+          "id_str": "2012503301250757054",
+          "title": "Greek Mythology in 7 Stories",
+          "preview_text": "What if the stories you heard as myths were actually ancient warnings, coded messages meant to save your soul?\n \nWhen I first read the story of Icarus as a child, I thought it was just a tale about",
+          "original_img_url": "https://pbs.twimg.com/media/G-3YeObacAA_COJ.jpg",
+          "screen_name": "CultureExploreX",
+          "created_at": "2026-01-17"
+        },
+        {
+          "id_str": "2012231895703294004",
+          "title": "The Keeper: A fable",
+          "preview_text": "Few bees survived that winter when the beast laid waste to the hive. Now their numbers dwindled further. Their home hung frozen, a husk cracked open.\nWeary and despondent, they clustered in the cold",
+          "original_img_url": "https://pbs.twimg.com/media/G-zrs86bsAA3IpE.jpg",
+          "screen_name": "soleio",
+          "created_at": "2026-01-16"
         }
       ]
     }

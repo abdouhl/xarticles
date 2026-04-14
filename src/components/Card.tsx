@@ -29,7 +29,7 @@ export default function Card({
     return (
         <li className="link-card">
             <div className="card-cover">
-                <img  src={coverImage} alt={title} />
+                <img  src={coverImage} alt={title} loading="lazy" decoding="async"/>
                 <p className="distribution">
                     {isNew && (
                         <span
@@ -40,11 +40,14 @@ export default function Card({
                             🔥
                         </span>
                     )}
-                    <span className="tag">@{screen_name}</span>
+                    {screen_name && (
+                        <span className="tag">@{screen_name}</span>
+                    )}
                 </p>
             </div>
             <a
                 href={linkUrl}
+                aria-label={`Read article: ${title}`}
                 onClick={() => {
                     window.dispatchEvent(new CustomEvent('articles:save-state'));
                 }}

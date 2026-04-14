@@ -15,7 +15,8 @@
         0px 12px 12px -6px var(--shadow-color);
     content-visibility: auto;
     contain-intrinsic-size: auto;
-    transition: box-shadow 0.2s ease-out;
+    /*transition: box-shadow 0.2s ease-out;*/
+    will-change: transform;
     overflow: visible;
 }
 
@@ -23,15 +24,17 @@
     width: 100%;
     text-decoration: none;
     padding: 0.8rem 1.2rem;
-    color: var(--accent);
+    color: var(--content-primary);
     justify-content: space-between;
 }
 
-p {
-    color: var(--content-secondary);
+.link-card p {
+    /*color: var(--content-secondary);*/
+    color: white;
 }
 
 .link-card:is(:hover, :focus-within) {
+    transform: translateY(-2px);
     background-position: 0;
     background: var(--background);
     box-shadow:
@@ -62,11 +65,14 @@ p.distribution {
 }
 
 span.tag {
-    background-color: var(--background-selected);
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    backdrop-filter: blur(4px);
+    /*background-color: var(--background-selected);*/
     padding: calc(0.12rem - 1px) calc(0.24rem - 1px);
     border-radius: var(--spacing-00);
     display: inline-block;
-    color: var(--content-secondary);
+    /*color: var(--content-secondary);*/
     margin-top: var(--spacing-08);
     font-family: var(--monospace);
     font-size: var(--desktop-caption);
@@ -114,12 +120,15 @@ strong {
     right: var(--spacing-03);
     z-index: 10;
     opacity: 0;
+    transform: translateY(-5px);
+    transition: opacity 0.2s ease, transform 0.2s ease;
 }
 
 /* Show on hover/focus */
 .link-card:hover .card-bookmark,
 .link-card:focus-within .card-bookmark {
     opacity: 1;
+    transform: translateY(0);
 }
 
 /* Always show if bookmarked */

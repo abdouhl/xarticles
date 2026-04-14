@@ -1,9 +1,0 @@
-{
-  "title": "How we built LangChain's GTM Agent",
-  "description": "Every outbound at LangChain used to start the same way: a rep toggling between tabs. Salesforce for the account record, Gong for call history, LinkedIn for the contact, the company website for",
-  "category": "ai",
-  "url": "https://x.com/LangChain/status/2031055593360990358",
-  "screen_name": "LangChain",
-  "created_at": "2026-03-09",
-  "slug": "how-we-built-langchains-gtm-agent"
-}

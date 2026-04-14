@@ -1,9 +1,0 @@
-{
-  "title": "Teaching OpenClaw to not get Hacked",
-  "description": "My OpenClaw instance processes hundreds of inbound emails, webhook payloads, chat messages, web pages, search results, and fetched documents per day. Every one of them is untrusted input that goes",
-  "category": "security",
-  "url": "https://x.com/MatthewBerman/status/2030423565355676100",
-  "screen_name": "MatthewBerman",
-  "created_at": "2026-03-07",
-  "slug": "teaching-openclaw-to-not-get-hacked"
-}

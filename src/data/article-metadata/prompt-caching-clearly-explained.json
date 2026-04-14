@@ -1,9 +1,0 @@
-{
-  "title": "Prompt caching, clearly explained",
-  "description": "A case study on how Claude achieves 92% cache hit-rate\n \nEvery time an AI agent takes a step, it pays a tax.\nIt re-reads everything from scratch.\nThe system instructions. The tool definitions. The",
-  "category": "ai",
-  "url": "https://x.com/akshay_pachaar/status/2031021906254766128",
-  "screen_name": "akshay_pachaar",
-  "created_at": "2026-03-09",
-  "slug": "prompt-caching-clearly-explained"
-}

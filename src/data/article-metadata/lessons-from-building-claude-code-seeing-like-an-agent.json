@@ -1,8 +1,0 @@
-{
-  "title": "Lessons from Building Claude Code: Seeing like an Agent ",
-  "description": "One of the hardest parts of building an agent harness is constructing its action space.\nClaude acts through Tool Calling, but there are a number of ways tools can be constructed in the Claude API with",
-  "category": "ai",
-  "url": "https://x.com/trq212/status/2027463795355095314",
-  "screen_name": "trq212",
-  "slug": "lessons-from-building-claude-code-seeing-like-an-agent"
-}

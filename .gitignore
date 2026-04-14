@@ -26,6 +26,6 @@ lerna-debug.log*
 .vscode
 
 # ignore data directories
-src/data/articles
-src/data/article-metadata
+src/data/articles/
+src/data/article-metadata/
 src/data/slug-map.json

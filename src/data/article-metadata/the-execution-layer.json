@@ -1,9 +1,0 @@
-{
-  "title": "The Execution Layer",
-  "description": "LLMs are in desperate need of an execution layer made for them to run tool calls in.\nA year ago LLMs were making direct calls to tools, we found that it flooded their context with irrelevant",
-  "category": "ai",
-  "url": "https://x.com/RhysSullivan/status/2030903539871154193",
-  "screen_name": "RhysSullivan",
-  "created_at": "2026-03-09",
-  "slug": "the-execution-layer"
-}

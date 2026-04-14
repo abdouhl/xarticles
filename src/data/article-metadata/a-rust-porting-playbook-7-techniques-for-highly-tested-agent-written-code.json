@@ -1,9 +1,0 @@
-{
-  "title": "A Rust Porting Playbook: 7 Techniques for Highly Tested Agent-Written Code",
-  "description": "After a few weeks of experimentation, I’m excited to share something new: the Rust Porting Playbook, a system of documents, guidelines, and tools for 100% agentic porting of Python codebases to Rust.\n",
-  "category": "software",
-  "url": "https://x.com/ojoshe/status/2029707252219924641",
-  "screen_name": "ojoshe",
-  "created_at": "2026-03-05",
-  "slug": "a-rust-porting-playbook-7-techniques-for-highly-tested-agent-written-code"
-}

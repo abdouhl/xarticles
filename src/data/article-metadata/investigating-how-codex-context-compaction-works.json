@@ -1,9 +1,0 @@
-{
-  "title": "Investigating how Codex context compaction works",
-  "description": "For non-codex models, the open-source Codex CLI compacts context locally: an LLM summarizes the conversation using a compaction prompt. When the compacted context is later used, responses.create()",
-  "category": "ai",
-  "url": "https://x.com/Kangwook_Lee/status/2028955292025962534",
-  "screen_name": "Kangwook_Lee",
-  "created_at": "2026-03-03",
-  "slug": "investigating-how-codex-context-compaction-works"
-}

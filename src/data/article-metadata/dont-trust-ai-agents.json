@@ -1,8 +1,0 @@
-{
-  "title": "Don't trust AI agents",
-  "description": "When you're building with AI agents, they should be treated as untrusted and potentially malicious. Whether it's prompt injection, a model trying to escape its sandbox, or something nobody's thought",
-  "category": "ai",
-  "url": "https://x.com/Gavriel_Cohen/status/2027841164150178238",
-  "screen_name": "Gavriel_Cohen",
-  "slug": "dont-trust-ai-agents"
-}

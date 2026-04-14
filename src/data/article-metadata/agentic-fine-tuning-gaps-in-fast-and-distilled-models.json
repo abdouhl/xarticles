@@ -1,8 +1,0 @@
-{
-  "title": "Agentic Fine-Tuning Gaps in Fast and Distilled Models",
-  "description": "tetsuo\n \nFast and distilled code models fail in a few recurring agentic failure modes that base models get right. These are mostly distillation and training-distribution gaps. The underlying reasoning",
-  "category": "artificial-intelligence",
-  "url": "https://x.com/tetsuoai/status/2028068322106097773",
-  "screen_name": "tetsuoai",
-  "slug": "agentic-fine-tuning-gaps-in-fast-and-distilled-models"
-}

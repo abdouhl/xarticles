@@ -1,8 +1,0 @@
-{
-  "title": "How We Built Secure, Scalable Agent Sandbox Infrastructure",
-  "description": "From AWS Lambda to Unikraft micro-VMs with a control plane architecture.\nHow we got here\nWe run millions of web agents at Browser Use. We started with browser-only agents on AWS Lambda, where each",
-  "category": "technology",
-  "url": "https://x.com/larsencc/status/2027225210412470668",
-  "screen_name": "larsencc",
-  "slug": "how-we-built-secure-scalable-agent-sandbox-infrastructure"
-}

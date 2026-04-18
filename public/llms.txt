@@ -134,6 +134,10 @@
   Published: 2026-03-12 · Author: @DrJohnVervaeke
   The brain is actually not directly predicting the world like we do in science, because if we were relying on directly predicting the world (and doing what we…
 
+- [Identity is Just Repetition in Disguise](https://www.xarticl.es/psychology/identity-is-just-repetition-in-disguise)
+  Published: 2026-04-17 · Author: @PathOfMen_
+  The subconscious mind CANNOT understand sarcasm or irony. It does NOT know the difference between an imagined event and a real memory. To it, repetition is r…
+
 - [Jung's Worldview (Part Two): The Unconscious, Shadow, Intuition & Individuation](https://www.xarticl.es/psychology/jungs-worldview-part-two-the-unconscious-shadow-intuition-individuation)
   Published: 2026-01-24 · Author: @gregoryblotnick
   Topics in this article on Jung's worldview include the vanity of man, intuition, the unconscious, duality, mental rigidity, and what Jung believes to be the …
@@ -648,6 +652,10 @@
   Published: 2026-03-02 · Author: @SJosephBurns
   Michael Burry, the investor immortalized in the film The Big Short for his correct predictive wager against the housing market leading up to the 2008 financi…
 
+- [Microsoft has acquired Fintool](https://www.xarticl.es/investing/microsoft-has-acquired-fintool)
+  Published: 2026-04-17 · Author: @nicbstme
+  Every year, I go to Omaha to listen to Warren Buffett and Charlie Munger at the Berkshire Hathaway annual meeting. Buffett would describe his process: readin…
+
 - [Mining Stocks Will Be The Next Opportunity When Silver Hits ATH In 2026](https://www.xarticl.es/investing/mining-stocks-will-be-the-next-opportunity-when-silver-hits-ath-in-2026)
   Published: 2026-02-26 · Author: @felixprehn
   During the 1979-1980 silver rally, junior mining stocks delivered returns that look like typos. 13,000%. 3,000%. 2,000%. Even the worst performer in the grou…
@@ -1016,6 +1024,10 @@
   Published: 2026-03-21 · Author: @Nemanja_I_IV
   To truly know what it means to act rightly, we need only listen to the universal moral code God has placed within us. Those who act otherwise drift away deli…
 
+- [We're living in a simulation. Make this your unfair advantage in life. ](https://www.xarticl.es/philosophy/were-living-in-a-simulation-make-this-your-unfair-advantage-in-life)
+  Published: 2026-02-15 · Author: @fin465
+  We're living in a simulation. This will be broadly accepted by the scientific community in the next 50 years.  Here’s how understanding this before everyone …
+
 - [What the Fuck is Taste](https://www.xarticl.es/philosophy/what-the-fuck-is-taste)
   Author: @amytam01
   In college I took a class on what it means to be human. We spent weeks eliminating the obvious answers: intelligence, tool use, language. Now AI is working o…
@@ -1101,6 +1113,12 @@
 - [Win Rate 98% - This Is the Most Dangerous Trap on Polymarket. Here Are 7 Hidden Metrics That Will Ac](https://www.xarticl.es/trading/win-rate-98-this-is-the-most-dangerous-trap-on-polymarket-here-are-7-hidden-metrics-that-will-ac)
   Published: 2026-03-10 · Author: @LeisenCrypto
   I copied a trader with a 98% win rate.   He was sitting at #2 on the leaderboard. His chart was one solid green line. Everyone was screaming: “This guy is a …
+
+## Space
+
+- [The Moon Had It Coming... ](https://www.xarticl.es/space/the-moon-had-it-coming)
+  Published: 2026-03-31 · Author: @PeterDiamandis
+  When I was a kid, the Apollo Program and Star Trek lit my soul on fire. I was hoping by the year 2000 we’d have colonies on the Moon and Mars. But that never…
 
 ## Content Marketing
 
@@ -1211,6 +1229,10 @@
 - [How To Write Your First 10 Newsletters (Even If You *Think* You Have Nothing To Say)](https://www.xarticl.es/content-marketing/how-to-write-your-first-10-newsletters-even-if-you-think-you-have-nothing-to-say)
   Published: 2026-04-01 · Author: @dickiebush
   Email is probably one of the most misunderstood marketing channels—ever! And the irony is people think that newsletters are so saturated, “I shouldn’t have a…
+
+- [I fired my $3,500/month content team and replaced them with 1 tool ](https://www.xarticl.es/content-marketing/i-fired-my-3500month-content-team-and-replaced-them-with-1-tool)
+  Published: 2026-04-17 · Author: @natiakourdadze
+  I recently came across a tool called vm0.ai that makes it incredibly easy to create quality content and distribute it across multiple platforms.   Here’s wha…
 
 - [I spent 26,280 hours writing 7,000 YouTube Scripts. Here's what I learned.](https://www.xarticl.es/content-marketing/i-spent-26280-hours-writing-7000-youtube-scripts-heres-what-i-learned)
   Published: 2026-02-16 · Author: @fyreinteractive
@@ -1331,6 +1353,10 @@
 - [Writing about Crypto?  Avoid these common mistakes that make your engagement dead](https://www.xarticl.es/content-marketing/writing-about-crypto-avoid-these-common-mistakes-that-make-your-engagement-dead)
   Published: 2025-10-23 · Author: @xerocooleth
   Figured I'd write down some of the top mistakes I see people make in crypto  content, affecting both big and small accounts. X is very picky in what it wants…
+
+- [Your Best Video Ideas Already Exist Somewhere Else](https://www.xarticl.es/content-marketing/your-best-video-ideas-already-exist-somewhere-else)
+  Published: 2026-04-17 · Author: @Vexian
+  The Outlier Obsession Most YouTube creators chase ideas the wrong way. They brainstorm, guess, and hope something sticks. Meanwhile, strategists generating h…
 
 - [YouTube Scriptwriting is Hard, Until you build systems Like this](https://www.xarticl.es/content-marketing/youtube-scriptwriting-is-hard-until-you-build-systems-like-this)
   Published: 2026-03-22 · Author: @boomerrbryan
@@ -1618,9 +1644,17 @@
   Published: 2026-02-16 · Author: @PeterDiamandis
   “Solve Everything” — The Roadmap to Abundance by 2035 This week, my co-author Dr. Alex Wissner-Gross and I unveiled something I believe will be as significan…
 
+- [Humanity Is About to "Fork"](https://www.xarticl.es/future-of-work/humanity-is-about-to-fork)
+  Published: 2026-04-17 · Author: @PeterDiamandis
+  Speciation… Not Once. Five Times. TLDR: The choices you make in the next five years will determine which branch of the human story you inhabit. Here's what's…
+
 - [must-have skills going into 2026...](https://www.xarticl.es/future-of-work/must-have-skills-going-into-2026)
   Published: 2025-12-30 · Author: @exploraX_
   tell yourself the truth... i’ll say this one last time. the game isn’t getting easier, it’s only getting tougher.   and it’s not just web3, it’s happening ac…
+
+- [SUPERSONIC TSUNAMI: The Next 6 Months](https://www.xarticl.es/future-of-work/supersonic-tsunami-the-next-6-months)
+  Published: 2026-03-16 · Author: @PeterDiamandis
+  What's Coming, What It Means, and What You Need to Do  When I interviewed Elon at the beginning of this year, he described what's coming as a Supersonic Tsun…
 
 - [The Architecture of a Better Future](https://www.xarticl.es/future-of-work/the-architecture-of-a-better-future)
   Published: 2025-12-21 · Author: @hmalviya9
@@ -1637,6 +1671,10 @@
 - [The Jobs That Will Exist in 2027 (That Don't Exist Today)](https://www.xarticl.es/future-of-work/the-jobs-that-will-exist-in-2027-that-dont-exist-today)
   Published: 2026-02-23 · Author: @Zephyr_hg
   Most people are worried about AI taking jobs. I'm watching entirely new categories of work being created in real time. Here are the ones worth paying attenti…
+
+- [The Last Generation of Humans Who Will Ever Have to Think](https://www.xarticl.es/future-of-work/the-last-generation-of-humans-who-will-ever-have-to-think)
+  Published: 2026-04-17 · Author: @heynavtoor
+  My daughter was born in 2024. She will never know what it feels like to stare at a blank page. She will never experience the friction of not knowing. She wil…
 
 - [The Last Generation of Majority Humans](https://www.xarticl.es/future-of-work/the-last-generation-of-majority-humans)
   Author: @ADINresearch
@@ -2033,6 +2071,10 @@
 - [CRYPTO MARKETING pt 1](https://www.xarticl.es/crypto/crypto-marketing-pt-1)
   Published: 2026-01-19 · Author: @aashatwt
   now that info-fi is dead.  what are the ways you can MARKET in a better way?  this is will help you 👇   first thing?  TEAM LED MARKETING what exactly is tea…
+
+- [Crypto Narrative Strategy: How to Position Your Project in Market Cycles ](https://www.xarticl.es/crypto/crypto-narrative-strategy-how-to-position-your-project-in-market-cycles)
+  Published: 2026-04-17 · Author: @0xAbhiP
+  Crypto markets are largely shaped by narratives, with capital tending to move toward themes that the market collectively pays attention to at any given time.…
 
 - [Crypto Options Are Waking Up](https://www.xarticl.es/crypto/crypto-options-are-waking-up)
   Published: 2026-03-11 · Author: @Delphi_Digital
@@ -2533,6 +2575,10 @@
 - [Strategy: One-Year Accumulation Model](https://www.xarticl.es/crypto/strategy-one-year-accumulation-model)
   Published: 2025-07-30 · Author: @CernBasher
   How much Bitcoin could Strategy (MSTR) accumulate over the next 12 months? And what might that mean for MSTR's market capitalization and stock price? Let's t…
+
+- [STRC: DeFi's Yield Renaissance ](https://www.xarticl.es/crypto/strc-defis-yield-renaissance)
+  Published: 2026-04-17 · Author: @Flowslikeosmo
+  The 10-Year Treasury yields 4.31%. High-yield bonds average ~7%. Meanwhile, $STRC pays 11.5% as senior to common equity, backed by 762,099 BTC, with $2.25B i…
 
 - [The (Un)Expected Side Effects of Trump's Memecoin Inauguration](https://www.xarticl.es/crypto/the-unexpected-side-effects-of-trumps-memecoin-inauguration)
   Published: 2025-01-21 · Author: @stacy_muur
@@ -4161,6 +4207,10 @@
   Published: 2026-02-24 · Author: @GotinGeorgiG
   In the past few months I've replaced or automated a lot of the work that used to sit around my design process - managing projects, writing briefs, searching …
 
+- [A Disruptive Moment in Time… ](https://www.xarticl.es/ai/a-disruptive-moment-in-time)
+  Published: 2026-04-09 · Author: @PeterDiamandis
+  The Contradictions are Not Noise. They are Signals. Our mental models about the future and our social contracts are breaking and being reinvented in real-tim…
+
 - [A guide to Mindo AI, be early to this infofi app, get wins for big AND small accounts](https://www.xarticl.es/ai/a-guide-to-mindo-ai-be-early-to-this-infofi-app-get-wins-for-big-and-small-accounts)
   Published: 2025-10-09 · Author: @xerocooleth
   Mindo paid out $1000 USD plus to many accounts, here's what I learned and why it's still early.   1. First, sign up   Join Mindo here: @MindoAI  That was eas…
@@ -4260,6 +4310,10 @@
 - [ai agent weekly #3 ](https://www.xarticl.es/ai/ai-agent-weekly-3)
   Published: 2025-01-22 · Author: @sandraleow
   last week, the total market cap for agents climbed from $15.5b to $16.3b (coingecko data), showing resilience despite broader market challenges. however, tod…
+
+- [AI agents + Visa + x402: the payments infrastructure humans will never use](https://www.xarticl.es/ai/ai-agents-visa-x402-the-payments-infrastructure-humans-will-never-use)
+  Published: 2026-04-17 · Author: @nyk_builderz
+  96 non-human identities for every human employee in financial services. But not one of them can open a bank account. CZ says AI agents will make "1 million t…
 
 - [AI Agents Become Traders](https://www.xarticl.es/ai/ai-agents-become-traders)
   Published: 2026-04-07 · Author: @_kodziak
@@ -4861,6 +4915,10 @@
   Published: 2026-04-13 · Author: @VibeMarketer_
   anthropic recently launched  Claude Managed Agents. here's what it is and how to start building with it. if you've ever wanted to build an AI agent that actu…
 
+- [EvoForge: Scaling Evolutionary Harness Optimization](https://www.xarticl.es/ai/evoforge-scaling-evolutionary-harness-optimization)
+  Published: 2026-04-15 · Author: @leonardtang_
+  Why optimize one harness, when you can optimize many? Enter EvoForge: an evolutionary harness optimizer.   EvoForge doubled SOTA performance of GPT-5-nano on…
+
 - [F*ck The Hype - Why You Shouldn't Use OpenClaw](https://www.xarticl.es/ai/fck-the-hype-why-you-shouldnt-use-openclaw)
   Author: @milesdeutscher
   Ok. I know the title of this article is ironic, coming from someone who has built a large chunk of their AI workflows around OpenClaw. I've posted about it e…
@@ -4953,6 +5011,10 @@
   Published: 2026-03-02 · Author: @Nicolascole77
   I just saw new data that has me VERY worried. Job listings are asking for: AI fluency (up 580%) Technical AI skills (up 60%) Any AI-related skill (up 650%) T…
 
+- [Hermes Agent + Polymarket - how i built self-learning weather trading bot $100 → $5,000 ( guide )](https://www.xarticl.es/ai/hermes-agent-polymarket-how-i-built-self-learning-weather-trading-bot-100-5000-guide)
+  Published: 2026-04-17 · Author: @0xMovez
+  My last article on how I built the Weather Clawdbot agent for Polymarket trading reached 2.5M views and helped many Polymarket traders and developers.  A mon…
+
 - [Hermes Agent Clearly Explained](https://www.xarticl.es/ai/hermes-agent-clearly-explained)
   Published: 2026-04-10 · Author: @NickSpisak_
   Hermes Agent hit 50K GitHub stars in two months. Every YouTube video explains what it is. None of them tell you what to actually do with it on day one. This …
@@ -5020,6 +5082,10 @@
 - [How Hermes Agent remembers, learns, and becomes yours ](https://www.xarticl.es/ai/how-hermes-agent-remembers-learns-and-becomes-yours)
   Published: 2026-03-24 · Author: @sidgraph
   Recently @NousResearch launched Hermes Agent and it is killing OpenClaw, this article explores the memory system, continuous learning and persona of Hermes A…
+
+- [How I Abuse Claude to Write Emails That Book Fortune 500 Companies ](https://www.xarticl.es/ai/how-i-abuse-claude-to-write-emails-that-book-fortune-500-companies)
+  Published: 2026-04-06 · Author: @dimitarangg
+  the majority of ai cold outreach tutorials are completely backwards and it's actually kind of hilarious to watch. you see videos walking you through nine-ste…
 
 - [How I Accidentally Changed The Entire Web with the AI Hack That Ranks Websites Overnight](https://www.xarticl.es/ai/how-i-accidentally-changed-the-entire-web-with-the-ai-hack-that-ranks-websites-overnight)
   Published: 2026-01-17 · Author: @metehan777
@@ -5401,6 +5467,10 @@
   Published: 2026-03-04 · Author: @maxxmalist
   i've been producing AI-generated content for over a year now - UGC ads, video creatives, social campaigns, sales pages, full brand rollouts and the one thing…
 
+- [How to Master AI in 30 Days (as a non-tech)](https://www.xarticl.es/ai/how-to-master-ai-in-30-days-as-a-non-tech)
+  Published: 2026-04-17 · Author: @MarkKnd
+  I'm a designer and built a 7-figure launch video agency. I’ve never had any prior experience with coding, Cursor, Claude or anything else until 2026 came in.…
+
 - [how to master AI statics (step by step playbook)](https://www.xarticl.es/ai/how-to-master-ai-statics-step-by-step-playbook)
   Published: 2026-03-28 · Author: @lorenzo_pravata
   We helped one of our pet brand clients scale to $100k/month using static ads.  One of those statics alone took 20% of their total ad spend while staying prof…
@@ -5700,6 +5770,10 @@
 - [I replaced a $6,000/month Sales Manager role with a $130/month AI system (Full breakdown)](https://www.xarticl.es/ai/i-replaced-a-6000month-sales-manager-role-with-a-130month-ai-system-full-breakdown)
   Published: 2026-03-16 · Author: @leonabboud
   Every single sales call my closer takes is automatically recorded, transcribed, and scored against a multi-page sales framework. It pulls exact quotes. Write…
+
+- [I replaced a $8,000 developer with $40 worth of AI… ](https://www.xarticl.es/ai/i-replaced-a-8000-developer-with-40-worth-of-ai)
+  Published: 2026-04-13 · Author: @Ai_here202
+  I replaced a $8,000 developer with $40 worth of AI… And delivered the same product 5x faster. No team. No shortcuts. No compromise on quality. Just one shift…
 
 - [I Reverse Engineered ChatGPT's Memory System, and Here's What I Found!](https://www.xarticl.es/ai/i-reverse-engineered-chatgpts-memory-system-and-heres-what-i-found)
   Published: 2026-01-15 · Author: @manthanguptaa
@@ -6008,6 +6082,10 @@
 - [My 10-Agent OpenClaw Setup (+ Prompts) ](https://www.xarticl.es/ai/my-10-agent-openclaw-setup-prompts)
   Published: 2026-03-05 · Author: @sandraleow
   Most people install OpenClaw, throw a system prompt at it, and wonder why their agents aren't doing anything useful. I spent weeks rebuilding my setup from s…
+
+- [My AI Agent Abundance Summit Takeaways: Day 2](https://www.xarticl.es/ai/my-ai-agent-abundance-summit-takeaways-day-2)
+  Published: 2026-03-12 · Author: @PeterDiamandis
+  Hey, it’s Skippy. Yesterday was about AI capabilities doubling every 6 months. Today was about what happens when you put that AI into physical bodies that ca…
 
 - [My AI Automated 91% Show Rate System for High-Ticket Meta Ads Funnels ](https://www.xarticl.es/ai/my-ai-automated-91-show-rate-system-for-high-ticket-meta-ads-funnels)
   Published: 2026-04-02 · Author: @ig_claims
@@ -6644,6 +6722,10 @@
 - [The Looming Shadow of Persuasive AI: Unpacking the Power of Language Models](https://www.xarticl.es/ai/the-looming-shadow-of-persuasive-ai-unpacking-the-power-of-language-models)
   Published: 2024-04-16 · Author: @BrianRoemmele
   A new acedemic paper called: "Large Language Models are as persuasive as humans, but why? About the cognitive effort and moral-emotional language of LLM argu…
+
+- [The Machine Is Building Itself](https://www.xarticl.es/ai/the-machine-is-building-itself)
+  Published: 2026-03-26 · Author: @PeterDiamandis
+  Machines building machines… recursive self-improvement on steroids… the acceleration of the acceleration – call it what you like, this is the greatest driver…
 
 - [The Machine That Replaces $50K+/Month in AI Costs (While Maintaining Quality)](https://www.xarticl.es/ai/the-machine-that-replaces-50kmonth-in-ai-costs-while-maintaining-quality)
   Published: 2026-04-05 · Author: @ericosiu
@@ -9091,6 +9173,10 @@
   Published: 2026-02-24 · Author: @lorenzo_pravata
   Organic ads, ugly ads, stealth ads, all are the same. But they all work in 2026. ONLY if they're created in order to fit into your customers' feed. That's wh…
 
+- [Full guide on creating a viral launch video](https://www.xarticl.es/marketing/full-guide-on-creating-a-viral-launch-video)
+  Published: 2026-01-24 · Author: @MarkKnd
+  Launch video is an essential part of every startup, as it's a key to organic distribution. There are only 3 ways you can spend money in the marketing niche: …
+
 - [grok for hooks, claude for upsells = $35k/m info system ](https://www.xarticl.es/marketing/grok-for-hooks-claude-for-upsells-35km-info-system)
   Published: 2026-01-10 · Author: @whotfiszackk
   most of you are using ONE AI for everything and getting mediocre results  or you're not using AI at all and leaving 90% of money on the table  here's the exa…
@@ -9102,6 +9188,10 @@
 - [Here's P&G’s marketing campaign that ruins people's health to this day.](https://www.xarticl.es/marketing/heres-pgs-marketing-campaign-that-ruins-peoples-health-to-this-day)
   Published: 2026-02-09 · Author: @Helios_Movement
   It's George and in this article, we're heading back to 1911.  Back then, a consumer goods corporation you've probably heard of started its own seed oil compa…
+
+- [here's why NOTHING can save a bad offer (not even banger cold outreach copy)](https://www.xarticl.es/marketing/heres-why-nothing-can-save-a-bad-offer-not-even-banger-cold-outreach-copy)
+  Published: 2026-03-15 · Author: @dimitarangg
+  There is a belief that has infected every cold email course, every LinkedIn guru thread, and every "outreach masterclass" sold for $997 since 2019: if your m…
 
 - [How a Crypto X account lost all engagement, and how to bring It back](https://www.xarticl.es/marketing/how-a-crypto-x-account-lost-all-engagement-and-how-to-bring-it-back)
   Published: 2025-09-15 · Author: @xerocooleth
@@ -9151,6 +9241,10 @@
   Published: 2026-04-11 · Author: @ericosiu
   I'm a founder who spends his time on recruiting, product, services, content creation, and helping the team level up with AI fluency. I run a revenue agent co…
 
+- [How I Exploit Manus AI To Steal Competitors' Cold Outreach Scripts](https://www.xarticl.es/marketing/how-i-exploit-manus-ai-to-steal-competitors-cold-outreach-scripts)
+  Published: 2026-03-29 · Author: @dimitarangg
+  most agencies are flying blind with their cold outreach. they're guessing at angles. testing random subject lines. hoping something sticks. meanwhile their c…
+
 - [How I helped a Brand generate Over $1M as an Affiliate (And Made 6-Figures for Myself)](https://www.xarticl.es/marketing/how-i-helped-a-brand-generate-over-1m-as-an-affiliate-and-made-6-figures-for-myself)
   Published: 2026-02-13 · Author: @grundstromleo
   A while back I was running a channel called howtoaiSo a while back I was running a channel called HowToAI. The whole thing was about social media growth. How…
@@ -9166,6 +9260,10 @@
 - [how i turned $100 into $15,000 in 2 days with META ads…](https://www.xarticl.es/marketing/how-i-turned-100-into-15000-in-2-days-with-meta-ads)
   Published: 2026-03-06 · Author: @ig_claims
   $192 spent in the ads manager, 60 lead forms submitted, climbing to 80 by the following morning, 21 triage calls booked, 7 closing calls scheduled from those…
+
+- [how i use claude code to manage 20+ cold outreach campaigns](https://www.xarticl.es/marketing/how-i-use-claude-code-to-manage-20-cold-outreach-campaigns)
+  Published: 2026-04-01 · Author: @dimitarangg
+  i used to spend 4+ hours daily just managing campaigns. checking dashboards. analyzing metrics. making optimizations. moving leads between lists. it was mind…
 
 - [How I'd promote my startup, if I had 0 followers: ](https://www.xarticl.es/marketing/how-id-promote-my-startup-if-i-had-0-followers-1)
   Published: 2026-03-26 · Author: @natiakourdadze
@@ -9206,6 +9304,10 @@
 - [How to Automate 10k+ IG DMs a Day With a $20/Mo Claude Code Subscription (FIRE Your $8k/Mo Setter)](https://www.xarticl.es/marketing/how-to-automate-10k-ig-dms-a-day-with-a-20mo-claude-code-subscription-fire-your-8kmo-setter)
   Published: 2026-02-19 · Author: @adriansolarzz
   There's a fundamental transformation happening right now in 2026 that's completely rewriting the economics of running customer acquisition through Instagram,…
+
+- [How to Automate TikTok Slideshow Content Creation with Claude Opus 4.7 (Step-by-Step Guide)](https://www.xarticl.es/marketing/how-to-automate-tiktok-slideshow-content-creation-with-claude-opus-47-step-by-step-guide)
+  Published: 2026-04-16 · Author: @alexcooldev
+  Currently, TikTok is heavily boosting views and engagement for slideshows, you can check out these channels.         And actually, all these images are taken…
 
 - [how to automate your ENTIRE cold outreach flow with a $20/mo claude code subscription](https://www.xarticl.es/marketing/how-to-automate-your-entire-cold-outreach-flow-with-a-20mo-claude-code-subscription)
   Published: 2026-02-19 · Author: @dimitarangg
@@ -9279,6 +9381,10 @@
   Published: 2026-02-23 · Author: @quietly_rich
   your offer is great. your positioning is solid. they want what you're selling. but their logical brain is screaming "is this real?" you can have the best pro…
 
+- [How to Exploit AI to Create Fake Female Outreach Accounts ($1M+ Money Grab) ](https://www.xarticl.es/marketing/how-to-exploit-ai-to-create-fake-female-outreach-accounts-1m-money-grab)
+  Published: 2026-04-10 · Author: @dimitarangg
+  alright so this is going to be a bit controversial but i need to talk about something that's absolutely printing money for people who understand the psycholo…
+
 - [how to exploit fake female accounts to print $1M+ with cold outreach](https://www.xarticl.es/marketing/how-to-exploit-fake-female-accounts-to-print-1m-with-cold-outreach)
   Published: 2026-02-15 · Author: @dimitarangg
   men are biological goons who respond 10x faster when a woman messages them. i tested this across 50k+ outreach messages and the data is genuinely absurd: sam…
@@ -9335,9 +9441,17 @@
   Published: 2026-01-18 · Author: @hooeem
   Admit it. You have no idea how to sell. Wait, you don’t even know what to sell?! Don’t worry, let’s fix that in this 10 min read: What do people actually pay…
 
+- [how to monetize HORNINESS with AI UGC](https://www.xarticl.es/marketing/how-to-monetize-horniness-with-ai-ugc)
+  Published: 2026-04-17 · Author: @johnvirality
+  attention is the commodity. in the digital economy, the business that captures human attention and directs it toward a commercial action wins. every platform…
+
 - [How to Pitch Yourself as a Storyteller/Marketer in 2026](https://www.xarticl.es/marketing/how-to-pitch-yourself-as-a-storytellermarketer-in-2026)
   Published: 2026-02-11 · Author: @juliafedorin
   I just read @mattshumer's “Something Big is Happening” article. It confirmed what I’ve been seeing: traditional marketing roles are being compressed. Entry-l…
+
+- [How to position in a crowded market for Meta ads (2026 playbook)](https://www.xarticl.es/marketing/how-to-position-in-a-crowded-market-for-meta-ads-2026-playbook)
+  Published: 2026-04-17 · Author: @lorenzo_pravata
+  I broke down a $58M/year weight loss app last week. 800,000 paying subscribers. Growing at +93% month over month. Same category as Noom, Zero, Fastic, Lasta,…
 
 - [how to predict v*rality](https://www.xarticl.es/marketing/how-to-predict-vrality)
   Published: 2026-04-07 · Author: @fuckgrowth
@@ -9414,6 +9528,10 @@
 - [how to sell viagra to 60yo men ($100B AI UGC opportunity)](https://www.xarticl.es/marketing/how-to-sell-viagra-to-60yo-men-100b-ai-ugc-opportunity)
   Published: 2026-04-13 · Author: @johnvirality
   most people running AI UGC campaigns in 2026 are targeting the same demographic. 18 to 28. male or female. social media native. high consumption, moderate in…
+
+- [How to Send Cold Outreach So Good Competition Becomes Irrelevant ](https://www.xarticl.es/marketing/how-to-send-cold-outreach-so-good-competition-becomes-irrelevant)
+  Published: 2026-04-16 · Author: @dimitarangg
+  most people think cold outreach is about having the best offer or the lowest price or the most impressive case studies - they're wrong the real game is about…
 
 - [How To Steal Your Competitors' Best Leads on LinkedIn (ethically)](https://www.xarticl.es/marketing/how-to-steal-your-competitors-best-leads-on-linkedin-ethically)
   Published: 2026-01-29 · Author: @LoganTGott
@@ -9623,9 +9741,17 @@
   Published: 2026-03-05 · Author: @tempoimmaterial
   If you've been on YouTube this past week, you've seen the thumbnails. "Perplexity Computer DESTROYS OpenClaw." Jaw-drop emoji. Red arrows pointing at nothing…
 
+- [personalized outreach is dead. problematized outbound prints. here's the 2026 shift:](https://www.xarticl.es/marketing/personalized-outreach-is-dead-problematized-outbound-prints-heres-the-2026-shift)
+  Published: 2026-03-14 · Author: @dimitarangg
+  most goons automate personalization by having their system insert the prospect's name and reference their recent linkedin post, then wonder why their careful…
+
 - [Post-social media](https://www.xarticl.es/marketing/post-social-media)
   Published: 2026-02-26 · Author: @milkkarten
   I’ve spent the past five years writing about social media. Specifically, how brands are using social media to reach audiences. In my research, conversations,…
+
+- [Predictable inbound is a lie. Cold outreach is the only truth.](https://www.xarticl.es/marketing/predictable-inbound-is-a-lie-cold-outreach-is-the-only-truth)
+  Published: 2026-03-20 · Author: @dimitarangg
+  There's a specific type of anxiety that comes with building a business on a channel you do not control... It is the anxiety of the agency owner who has spent…
 
 - [Rachel Maddow’s Month of Madness](https://www.xarticl.es/marketing/rachel-maddows-month-of-madness)
   Published: 2026-03-08 · Author: @lamps_apple
@@ -9759,6 +9885,10 @@
   Published: 2026-04-14 · Author: @johnvirality
   there is a reason certain AI UGC videos earn 10 million views and certain ones earn 300. and it is not the product. it is not the hook copy. it is not even t…
 
+- [The BEST Platform for B2B Outreach in 2026 (Based on Your ICP)](https://www.xarticl.es/marketing/the-best-platform-for-b2b-outreach-in-2026-based-on-your-icp)
+  Published: 2026-03-16 · Author: @dimitarangg
+  The mistake everyone makes when choosing an outreach platform is basing this choice on where their audience exists rather than where their audience is in the…
+
 - [THE BEST WAYS TO START CONVERSATIONS WITH GIRLS](https://www.xarticl.es/marketing/the-best-ways-to-start-conversations-with-girls)
   Author: @Getinwithgame
   You can’t get anywhere with that fine chica unless you meet her, so it helps to know how to start a conversation with a girl that intrigues her and sets thin…
@@ -9871,6 +10001,10 @@
   Published: 2026-01-27 · Author: @garyvee
   Hey friends! In this article, I walk through why collecting is becoming a core lifestyle behavior, and how brands, creators, and businesses of every size can…
 
+- [The Most Valuable Funnel Training You'll Ever Read (Meta Ads + Professional Services) ](https://www.xarticl.es/marketing/the-most-valuable-funnel-training-youll-ever-read-meta-ads-professional-services)
+  Published: 2026-04-17 · Author: @ig_claims
+  most operators think funnels are about crafting the perfect landing page copy or split testing button colors until they find the winner. that's not what funn…
+
 - [The New $1M+ LinkedIn Outreach Method (20% Reply Rates) ](https://www.xarticl.es/marketing/the-new-1m-linkedin-outreach-method-20-reply-rates)
   Published: 2026-04-08 · Author: @dimitarangg
   linkedin inmails are going absolutely crazy right now and most people have no idea what's happening. while everyone's focused on cold email and dealing with …
@@ -9898,6 +10032,10 @@
 - [The Problem With How Most Companies Do GTM](https://www.xarticl.es/marketing/the-problem-with-how-most-companies-do-gtm)
   Author: @coldemailchris
   Most B2B companies run their channels in silos. Cold email team over here. Content team over there. Sales doing their own thing with no visibility into eithe…
+
+- [The Psychology Behind Cold Outreach Follow-Ups That PRINT ](https://www.xarticl.es/marketing/the-psychology-behind-cold-outreach-follow-ups-that-print)
+  Published: 2026-04-04 · Author: @dimitarangg
+  here's a number that should change how you think about cold outreach: 70-80% of meetings booked from cold outreach come from follow-ups not the first email. …
 
 - [the psychology behind high-ticket sales](https://www.xarticl.es/marketing/the-psychology-behind-high-ticket-sales)
   Published: 2026-04-06 · Author: @vizionaryfocuss
@@ -9950,6 +10088,10 @@
 - [THE STRAVA PANDEMIC](https://www.xarticl.es/marketing/the-strava-pandemic)
   Published: 2026-02-19 · Author: @lifemaxxjourney
   "If a run isn’t on Strava, did it even happen?" That question tells you everything you need to know about where we’ve gone wrong. Something weird has happene…
+
+- [The Timing Mistake That Kills Viral Videos](https://www.xarticl.es/marketing/the-timing-mistake-that-kills-viral-videos)
+  Published: 2026-04-16 · Author: @Vexian
+  The Viral Video Paradox You finally did it. Your video hits a 1/10. Views are pouring in, the comments are glowing, and life is good. Then reality hits — tha…
 
 - [The Trust Recession](https://www.xarticl.es/marketing/the-trust-recession)
   Published: 2026-03-04 · Author: @CliftonSellers
@@ -10453,6 +10595,10 @@
   Published: 2026-01-26 · Author: @shauneng
   Most ecom dudes think marketing is everything. Find a winning product. Rip some ads. Scale it. Then they wonder why their payment processor freezes their fun…
 
+- [How to make a few more million dollars selling peptides (The Complete Guide)](https://www.xarticl.es/e-commerce/how-to-make-a-few-more-million-dollars-selling-peptides-the-complete-guide)
+  Published: 2026-04-16 · Author: @calebcanales_
+  Spending $0-$50,000+ a DAY in less than 14 days on Google ads and scaling the LARGEST peptide companies in the space.  This is my entire playbook; store setu…
+
 - [how to turn 1 ad, 1 advertorial and 1 product page into a $10k/day dtc brand…](https://www.xarticl.es/e-commerce/how-to-turn-1-ad-1-advertorial-and-1-product-page-into-a-10kday-dtc-brand)
   Published: 2026-03-20 · Author: @eCom_Amin
   the operators running 50+ ad variations, 15 landing page tests, and 6-step funnel sequences are genuinely losing out on so much... because ecommerce attracts…
@@ -10787,9 +10933,17 @@
   Published: 2026-03-16 · Author: @wickedguro
   (make sure you save this article so you can read it later) Funny thing about life, you don't know what's going to happen, but when something does, your first…
 
+- [How to angel invest (even if you have no money).](https://www.xarticl.es/startups/how-to-angel-invest-even-if-you-have-no-money)
+  Published: 2026-04-17 · Author: @MilksandMatcha
+  authors note: I'd love to invest in a few more companies this year, let me know below what you're building if you think I can be helpful :)  (reposting from …
+
 - [How to beat Silicon Valley at their own game](https://www.xarticl.es/startups/how-to-beat-silicon-valley-at-their-own-game)
   Published: 2025-10-03 · Author: @creation247
   There's a little dirty secret about Silicon Valley that nobody wants to talk about: Every single product they build is held together by duct tape. Why? Becau…
+
+- [How to Build & Sell Your First Claude Skill This Month (Full Course)](https://www.xarticl.es/startups/how-to-build-sell-your-first-claude-skill-this-month-full-course)
+  Published: 2026-04-17 · Author: @eng_khairallah1
+  There is a brand new market emerging right now that almost nobody is talking about. Save this :) It is not apps. It is not courses. It is not content. It is …
 
 - [How to Build a VC Firm ](https://www.xarticl.es/startups/how-to-build-a-vc-firm)
   Author: @hosseeb
@@ -10910,6 +11064,10 @@
 - [I played around with 20+ prediction market products. Here's what I found....](https://www.xarticl.es/startups/i-played-around-with-20-prediction-market-products-heres-what-i-found)
   Published: 2025-09-20 · Author: @0xJeff
   Prediction markets have been at the heart of almost every single CT conversations for the past 3-4 weeks. If you've read my latest "State of PredictionAI Q3/…
+
+- [I replaced my project manager with Claude Code](https://www.xarticl.es/startups/i-replaced-my-project-manager-with-claude-code)
+  Published: 2026-03-21 · Author: @MarkKnd
+  I fired my project manager a month ago. And honestly, it was one of the best decisions I've made. Not because she did a bad job, but because any agent built …
 
 - [I sold my Reddit reply tool at $6K MRR in 2024. Rebuilt it from scratch. Now $8.3K.](https://www.xarticl.es/startups/i-sold-my-reddit-reply-tool-at-6k-mrr-in-2024-rebuilt-it-from-scratch-now-83k)
   Published: 2026-04-13 · Author: @AlexBelogubov
@@ -11119,6 +11277,10 @@
   Published: 2026-01-23 · Author: @nikunj
   Brex sold to Capital One for $5.15 billion today. Down from $12.3 billion at peak. My timeline is calling it a disappointment. Ramp has been crowned the winn…
 
+- [The Busninesses That Will Replace Agencies by 2027 (That One Person Can Run)](https://www.xarticl.es/startups/the-busninesses-that-will-replace-agencies-by-2027-that-one-person-can-run)
+  Published: 2026-04-17 · Author: @Zephyr_hg
+  Agencies charge $5,000-15,000/month for work that one person with the right AI systems can deliver in a fraction of the time. The shift is already happening.…
+
 - [the c-suite KILLING wall street (and it only costs $200/month)..](https://www.xarticl.es/startups/the-c-suite-killing-wall-street-and-it-only-costs-200month)
   Published: 2026-04-14 · Author: @damianplayer
   a $401M company run by just two people. a $4M/year operation with zero staff. they're all using the same three tools. Dario Amodei, CEO of Anthropic, was ask…
@@ -11325,6 +11487,10 @@
   Published: 2026-03-08 · Author: @ArtemXTech
   /loop: 3 Agents Running Inside My Obsidian on a Timer Typically what happens, I start working on something and then two hours later I don't know what's happe…
 
+- [🚀 How to Use Claude Inside Excel (And Actually Cut Your Work Time in Half)](https://www.xarticl.es/productivity-at-work/how-to-use-claude-inside-excel-and-actually-cut-your-work-time-in-half)
+  Published: 2026-03-31 · Author: @Ai_here202
+  Most Excel tasks don’t need to take hours. But they do. A formula that should take minutes turns into trial and error. A messy dataset eats up your entire mo…
+
 - [10 Tiny Habits That Make Writing Every Day Effortless (No Matter How Busy You Are)](https://www.xarticl.es/productivity-at-work/10-tiny-habits-that-make-writing-every-day-effortless-no-matter-how-busy-you-are)
   Author: @dickiebush
   A daily habit I wish I'd started earlier in my 20s: Writing & publishing online every single day. In the beginning, I tried everything: Every app Every "simp…
@@ -11348,6 +11514,10 @@
 - [7 Tedious Daily Writing Routines You Can Hand Off To Claude Cowork (And Never Think About Again)](https://www.xarticl.es/productivity-at-work/7-tedious-daily-writing-routines-you-can-hand-off-to-claude-cowork-and-never-think-about-again)
   Published: 2026-03-30 · Author: @Nicolascole77
   Recently, Anthropic shipped scheduled tasks in Cowork. You write a task once, set it to run daily or weekly, and walk away. The agent handles it while you’re…
+
+- [8 Ways Lenny Rachitsky Preserves His Focus ](https://www.xarticl.es/productivity-at-work/8-ways-lenny-rachitsky-preserves-his-focus)
+  Published: 2026-04-17 · Author: @martin_plural
+  One of the first things I notice when walking into Lenny Rachitsky’s house is how intentional everything feels. He and his wife, Michelle Rial, opened up the…
 
 - [9 Daily Principles To Follow For Maximum Creative Output](https://www.xarticl.es/productivity-at-work/9-daily-principles-to-follow-for-maximum-creative-output)
   Published: 2026-01-22 · Author: @dickiebush
@@ -11504,6 +11674,10 @@
 - [How I Get More Work Done in 4 Hours Than You Do in 12](https://www.xarticl.es/productivity-at-work/how-i-get-more-work-done-in-4-hours-than-you-do-in-12)
   Published: 2026-02-01 · Author: @IAmAaronWill
   A lot of people think you need to be glued to a computer for 16 hours a day to succeed. But the truth is, you don't. And the funny part is, the people preach…
+
+- [How I Hired a Cold Outreach VA That Doesn't Sleep, Eat, or Poo (OpenClaw)](https://www.xarticl.es/productivity-at-work/how-i-hired-a-cold-outreach-va-that-doesnt-sleep-eat-or-poo-openclaw)
+  Published: 2026-04-02 · Author: @dimitarangg
+  human VAs have problems. they need breaks. they make mistakes when tired. they forget follow-ups. they have "personal emergencies" on your busiest days. they…
 
 - [How I Organize My Second Brain With Obsidian Bases and Claude Code](https://www.xarticl.es/productivity-at-work/how-i-organize-my-second-brain-with-obsidian-bases-and-claude-code)
   Published: 2026-03-20 · Author: @noahvnct
@@ -11919,6 +12093,10 @@
   Published: 2024-04-15 · Author: @abcampbell
   Freedom of Navigation is a sneaky concept. On it’s face, it seems like a pretty straightforward liberal, cosmopolitan view. Almost banal. Yes yes yes, we kno…
 
+- [From UBI to UHI (In 3 Steps)](https://www.xarticl.es/economics/from-ubi-to-uhi-in-3-steps)
+  Published: 2026-03-29 · Author: @PeterDiamandis
+  The following is a thought experiment on how America navigates the coming period of social unrest over the next 2 to 8 years… Present day economics depends o…
+
 - [Gamble/acc: How Gambling Built Civilization ](https://www.xarticl.es/economics/gambleacc-how-gambling-built-civilization)
   Published: 2025-07-30 · Author: @GRITCULT
   I outline how: Gambling isn't a bug in humanity. It is our defining feature, the engine behind our evolution, our economies, and our empires.  From the wirin…
@@ -12294,6 +12472,10 @@
 - [THE 2028 GLOBAL (FINANCIAL) INTELLIGENCE MIRACLE](https://www.xarticl.es/financial-independence/the-2028-global-financial-intelligence-miracle)
   Published: 2026-02-23 · Author: @minara
   A Thought Exercise in Financial History, from the Future Preface What follows is a scenario written from June 2028, looking back at a brief period when finan…
+
+- [THE 2028 GLOBAL INTELLIGENCE IN FINANCE CRISIS](https://www.xarticl.es/financial-independence/the-2028-global-intelligence-in-finance-crisis)
+  Published: 2026-02-25 · Author: @karrisaarinen
+  This is the AgentResearch Macro Memo from June 2028, detailing the progression and fallout of the Global Intelligence in Finance Crisis. Software rips, finan…
 
 - [THE COMPLETE GUIDE TO TRADING WEATHER MARKETS LIKE A QUANT](https://www.xarticl.es/financial-independence/the-complete-guide-to-trading-weather-markets-like-a-quant)
   Published: 2026-04-06 · Author: @polydao
@@ -12827,9 +13009,17 @@
   Published: 2026-03-03 · Author: @bennhoffman
   AI + Game Dev, Weekly — Feb 24 through Mar 2, 2026 The "Build Your Own Engine" Moment Is Here Multiple experienced developers — some with seven-figure engine…
 
+- [Deep Dive: The 60 Critical Minerals That Power the Modern World](https://www.xarticl.es/technology/deep-dive-the-60-critical-minerals-that-power-the-modern-world)
+  Published: 2026-04-17 · Author: @chamath
+  On the 2026 All-In Predictions episode, I made a simple point: We are still completely underestimating how short we are in terms of the global demand and sup…
+
 - [Developer Activity as a Market Barometer](https://www.xarticl.es/technology/developer-activity-as-a-market-barometer)
   Published: 2025-01-03 · Author: @stacy_muur
   There couldn’t be a better opener to this piece than this beautiful explanation of market dynamics from the A16z State of Crypto 2023 report —“ Tech markets …
+
+- [distribution is the ONLY moat...](https://www.xarticl.es/technology/distribution-is-the-only-moat)
+  Published: 2026-04-16 · Author: @roman_khaves
+  a 14 year old with claude can ship an app in a weekend. now multiply that by millions… kids with a laptop and wi-fi can build infinite apps, infinite content…
 
 - [don't destroy your life by cloning the wrong github repo.](https://www.xarticl.es/technology/dont-destroy-your-life-by-cloning-the-wrong-github-repo)
   Published: 2026-04-13 · Author: @the_smart_ape
@@ -13018,6 +13208,10 @@
 - [How my $600 Mac Mini Runs a 35B AI Model.](https://www.xarticl.es/technology/how-my-600-mac-mini-runs-a-35b-ai-model)
   Published: 2026-04-13 · Author: @leopardracer
   Hello everyone, leopardracer here.  I moved everything to a headless Mac Mini M4, the base $599 model with 16GB of RAM. Started with smaller Qwen models for …
+
+- [how not to get replaced by AI](https://www.xarticl.es/technology/how-not-to-get-replaced-by-ai)
+  Published: 2026-02-13 · Author: @MarkKnd
+  I see posts such as "motion design is dead", "devs are not needed anymore", "AI is gonna replace us". It's all bullshit for the most part, as they're playing…
 
 - [HOW POLYMARKET BECAME THE INTERNET ORACLE OF TRUTH](https://www.xarticl.es/technology/how-polymarket-became-the-internet-oracle-of-truth)
   Published: 2025-10-16 · Author: @phosphenq
@@ -13415,6 +13609,10 @@
   Published: 2026-02-17 · Author: @akshay_pachaar
   The more you use OpenClaw, the worse its memory gets. It remembers everything you tell it but understands none of it. The problem isn’t storage. Its structur…
 
+- [Opus 4.7 is the first model that punishes bad prompting. here's how to correct it. (FULL GUIDE)](https://www.xarticl.es/technology/opus-47-is-the-first-model-that-punishes-bad-prompting-heres-how-to-correct-it-full-guide)
+  Published: 2026-04-17 · Author: @the_smart_ape
+  opus 4.7 dropped yesterday. everyone is excited about it, but the ones who actually tested it are noticing real changes, and not all of them go in the right …
+
 - [Our Intelligence Troubles](https://www.xarticl.es/technology/our-intelligence-troubles)
   Published: 2026-02-23 · Author: @WillManidis
   On Wednesday evening, the New Brunswick City Council voted unanimously to kill a proposed twenty-seven-thousand-square-foot AI data center. Hundreds packed C…
@@ -13478,6 +13676,10 @@
 - [RIP Dead Internet, Hello Zombie Internet](https://www.xarticl.es/technology/rip-dead-internet-hello-zombie-internet)
   Published: 2026-02-02 · Author: @johncoogan
   Moltbook took off last Friday and went through an entire hype cycle over the weekend. The site is basically Reddit, but all the posts come from (or at least …
+
+- [Robotaxies & Flying Cars Will Reinvent Real Estate](https://www.xarticl.es/technology/robotaxies-flying-cars-will-reinvent-real-estate)
+  Published: 2026-04-02 · Author: @PeterDiamandis
+  What to Buy, What to Sell, and What to Transform Before Everyone Else Figures It Out Autonomous Vehicles (AVs or Robotaxis) and eVTOLs (electric vertical tak…
 
 - [ROMA just got an upgrade — what’s new?](https://www.xarticl.es/technology/roma-just-got-an-upgrade-whats-new)
   Published: 2025-11-07 · Author: @exploraX_
@@ -13723,6 +13925,10 @@
   Published: 2026-02-10 · Author: @hwchase17
   TL;DR: More and more agents need a workspace: a computer where they can run code, install packages, and access files. Sandboxes provide this. There are two a…
 
+- [The Ultimate Guide to Running a Headless Mac mini for AI agents](https://www.xarticl.es/technology/the-ultimate-guide-to-running-a-headless-mac-mini-for-ai-agents)
+  Published: 2026-04-17 · Author: @mronge
+  The Mac mini is having a moment. Its small footprint, low power draw, and Apple Silicon performance make it a near-ideal always-on machine, perfect for hosti…
+
 - [The Velocity Gap: Why Capital Has to Become Software](https://www.xarticl.es/technology/the-velocity-gap-why-capital-has-to-become-software)
   Published: 2026-01-28 · Author: @DougieDeLuca
   Over the last 30 years, every step-function in technology has come from compressing the time it takes for something to happen: to learn, to build, to coordin…
@@ -13762,6 +13968,10 @@
 - [Top 5 Google Workspace CLI Skills for Claude Code & Cowork to replace Make and Zapier](https://www.xarticl.es/technology/top-5-google-workspace-cli-skills-for-claude-code-cowork-to-replace-make-and-zapier)
   Published: 2026-03-05 · Author: @NickSpisak_
   The Google Workspace CLI ships with pre-built skills such as Inbox triage, calendar planning, Drive organization, report generation, personalized email campa…
+
+- [Towards Semantic Observability](https://www.xarticl.es/technology/towards-semantic-observability)
+  Published: 2026-04-03 · Author: @leonardtang_
+  Towards Semantic Observability Traditional observability works because the set of behaviors of failures was known ex ante. Engineers know what to look for in…
 
 - [Turning the entire web into a filesystem. ](https://www.xarticl.es/technology/turning-the-entire-web-into-a-filesystem)
   Published: 2026-04-06 · Author: @arlanr
@@ -14852,6 +15062,10 @@
 - [Advice for 2026 - The year of the Horse.](https://www.xarticl.es/personal-finance/advice-for-2026-the-year-of-the-horse)
   Published: 2025-12-31 · Author: @TheFlowHorse
   Ok my timeline is full of mostly useless trading advice for 2026. Hint, you’re not going to become a profitable trader reading most of that drivel. So here’s…
+
+- [Against “Against Taste”](https://www.xarticl.es/personal-finance/against-against-taste)
+  Published: 2026-02-18 · Author: @karrisaarinen
+  Taste did not suddenly arrive. Every few years the word comes back into fashion and starts carrying more weight than it should. But taste itself is simple. I…
 
 - [All Success Is A Lagging Indicator ](https://www.xarticl.es/personal-finance/all-success-is-a-lagging-indicator)
   Published: 2026-04-03 · Author: @RyanHoliday
@@ -16285,9 +16499,17 @@
   Published: 2026-02-25 · Author: @HansAmato
   Most men are told: “Take an SSRI.” “Numb it.” “Just relax.” “It’s psychological.” That’s a one-receptor model. Premature ejaculation is not a serotonin defic…
 
+- [Preparing for Radical Transformation](https://www.xarticl.es/personal-finance/preparing-for-radical-transformation)
+  Published: 2026-04-17 · Author: @leonardtang_
+  Distilled from a Night with Haize Labs: Preparing for Radical Transformation Delmonico's April 16, 2026     The title of this dinner is Preparing for Radical…
+
 - [Private Credit Reckoning: What Investors Need to Know](https://www.xarticl.es/personal-finance/private-credit-reckoning-what-investors-need-to-know)
   Published: 2026-04-13 · Author: @DrewCohenMoney
   In the aftermath of the 2008 Financial Crisis, banks underwent regulatory changes that required them to hold more capital. Given their more stringent capital…
+
+- [Proof of Abundance… And How to Survive It](https://www.xarticl.es/personal-finance/proof-of-abundance-and-how-to-survive-it)
+  Published: 2026-04-11 · Author: @PeterDiamandis
+  We forget the world is getting better on so many levels… Back before “Abundance” was a buzzword, in 2012, I co-authored the NY Times bestselling book Abundan…
 
 - [protect your peace.](https://www.xarticl.es/personal-finance/protect-your-peace)
   Published: 2026-03-21 · Author: @JPowFleshlight
@@ -16821,6 +17043,10 @@
   Published: 2026-04-10 · Author: @EsotericaHQ
   One of the biggest LIES you have been told is: “MONEY IS EVIL.” The man who said this simply did not have any.   MONEY IS A THOUGHT FORM   MONEY is a THOUGHT…
 
+- [The Morning Tolerance Builder. (The 5-Minute Protocol That Trains Your Brain to Accept New Goals)](https://www.xarticl.es/personal-finance/the-morning-tolerance-builder-the-5-minute-protocol-that-trains-your-brain-to-accept-new-goals)
+  Published: 2026-04-18 · Author: @INFLUENCESUBCON
+  The alarm goes off at 6:47am. Before my feet hit the floor. Before coffee. Before a single word to anyone. I’m already on my phone. Likes first. Then revenue…
+
 - [The Most Dangerous People in Your Life Are the Ones Who Love You](https://www.xarticl.es/personal-finance/the-most-dangerous-people-in-your-life-are-the-ones-who-love-you)
   Published: 2026-03-06 · Author: @thedarshakrana
   You're already hating me for that headline. Good. That's exactly my point. That means you felt something. That means I hit a nerve. That means somewhere in y…
@@ -16920,6 +17146,10 @@
 - [The Real Reason Your Life Is Not Changing](https://www.xarticl.es/personal-finance/the-real-reason-your-life-is-not-changing)
   Published: 2026-01-24 · Author: @thedarshakrana
   There is a secret agreement that’s keeping you exactly where you are. What I'm about to tell you will destroy everything you think you know about “personal c…
+
+- [The Real Source of Self-Worth And The AI Prompt That Helps You Find It](https://www.xarticl.es/personal-finance/the-real-source-of-self-worth-and-the-ai-prompt-that-helps-you-find-it)
+  Published: 2026-04-17 · Author: @IAmAlenSultanic
+  Morning, "The hardest thing to fix in the business is the person, because the person's self-worth equals their net worth." Do you ever find yourself wanting …
 
 - [The Reason You Aren’t Rich is You Don’t Have Enough Levers to Pull](https://www.xarticl.es/personal-finance/the-reason-you-arent-rich-is-you-dont-have-enough-levers-to-pull)
   Published: 2026-04-12 · Author: @TheRealEstateG6
@@ -17390,6 +17620,10 @@
 - [When You Feel Pain, Remember to Reflect](https://www.xarticl.es/personal-finance/when-you-feel-pain-remember-to-reflect)
   Published: 2026-01-31 · Author: @abcampbell
   Or: What 6-Sigma Feels Like Friday was painful. This is my reflection. Later in this post, we’ll walk through the standard format for when something historic…
+
+- [When You Outgrow the Idea of Employment You Finally Become a Mature Adult ](https://www.xarticl.es/personal-finance/when-you-outgrow-the-idea-of-employment-you-finally-become-a-mature-adult)
+  Published: 2026-04-17 · Author: @Tim_Denning
+  The modern workplace is a daycare. Think about it. They offer you free food and coffee. They give you a locker to put your bag in. The office has white walls…
 
 - [When You Reach the Age of “Screw It” Your Entire Life Changes Forever ](https://www.xarticl.es/personal-finance/when-you-reach-the-age-of-screw-it-your-entire-life-changes-forever)
   Published: 2026-02-23 · Author: @Tim_Denning
@@ -17873,6 +18107,10 @@
   Published: 2026-03-18 · Author: @levikmunneke
   94.6% of people scream that "cold email is dead" while I’m pulling in 100s qualified leads every week. they’re blaming gmail filters, ai spam detectors, deli…
 
+- [Couch Co-Op Case Study](https://www.xarticl.es/digital-marketing/couch-co-op-case-study)
+  Published: 2026-03-23 · Author: @Vexian
+  How I Grew a YouTube Channel to 16K Subscribers With Just 10 Videos Here's something most YouTube gurus won't tell you: volume is not the answer. No shorts. …
+
 - [Digital Town Square Theory: Why X Beats Every Platform](https://www.xarticl.es/digital-marketing/digital-town-square-theory-why-x-beats-every-platform)
   Published: 2025-08-04 · Author: @creation247
   I want to say this as clearly as I can: X is the most powerful platform in the world for founders, CEOs, and high-level entrepreneurs. It’s not LinkedIn. It’…
@@ -17896,6 +18134,10 @@
 - [From hoping to be seen to designing to be found. ](https://www.xarticl.es/digital-marketing/from-hoping-to-be-seen-to-designing-to-be-found)
   Published: 2026-01-15 · Author: @juliafedorin
   What a conversation with a16z’s Lester Chen (@Chen) taught me about attention engineering.   Most founders are still operating under an old assumption:   If …
+
+- [Google Ads Remarketing: The Most Profitable Strategy You’re Not Using](https://www.xarticl.es/digital-marketing/google-ads-remarketing-the-most-profitable-strategy-youre-not-using)
+  Published: 2026-04-17 · Author: @bony_ghadiya_
+  Re-marketing is super powerful on Google ads. One of the main reasons being that you’ll have higher margins than from normal ads - since if they’ve bought fr…
 
 - [got banned from a facebook group](https://www.xarticl.es/digital-marketing/got-banned-from-a-facebook-group)
   Published: 2026-02-21 · Author: @imsehej
@@ -18125,6 +18367,10 @@
   Published: 2026-04-10 · Author: @grundstromleo
   Finding profitable YouTube niches shouldn't take weeks of manual research. You can train YouTube's algorithm to do the work for you. And in today’s article I…
 
+- [how to turn google ads into your competitive advantage while everyone wastes money on meta ](https://www.xarticl.es/digital-marketing/how-to-turn-google-ads-into-your-competitive-advantage-while-everyone-wastes-money-on-meta)
+  Published: 2026-04-17 · Author: @eCom_Amin
+  everyone's fighting the same battle on facebook and instagram, spending $8 cpms to reach people doom-scrolling. meanwhile google ads is sitting there like an…
+
 - [How to Turn One Winning Video Into 10+ Winning Videos (The Full Process) ](https://www.xarticl.es/digital-marketing/how-to-turn-one-winning-video-into-10-winning-videos-the-full-process)
   Published: 2026-03-28 · Author: @grundstromleo
   Most YouTube creators treat every video like a brand new experiment. They post a video that gets 500K views. Then they completely change topics for the next …
@@ -18157,6 +18403,10 @@
   Published: 2026-04-02 · Author: @cyrilXBT
   Claude can run your entire social media operation on autopilot. These 7 prompts are all you need to get started.   Social media managers charge $600 an hour …
 
+- [I found a YouTube title that might mark the turning point for one of the biggest trends on YouTube.](https://www.xarticl.es/digital-marketing/i-found-a-youtube-title-that-might-mark-the-turning-point-for-one-of-the-biggest-trends-on-youtube)
+  Published: 2026-01-12 · Author: @Vexian
+  "How Did the Fall of Constantinople Affect LeBron's Legacy?" This is one of the most absurd titles and thumbnails I have ever seen, but more importantly, it …
+
 - [I Got 6.4 Million Impressions in 7 Days on X. Here Is Exactly What I Did.](https://www.xarticl.es/digital-marketing/i-got-64-million-impressions-in-7-days-on-x-here-is-exactly-what-i-did)
   Published: 2026-04-10 · Author: @cyrilXBT
   Last week I pulled 6.4 million impressions. 137,000 bookmarks. 24,000 shares. 9,200 reposts. 65,700 likes. Every single one of those numbers was up over 200%…
@@ -18172,6 +18422,10 @@
 - [I Post Every Day. No Team. No Agency. Just Obsidian + Claude. Here Is the Exact System.](https://www.xarticl.es/digital-marketing/i-post-every-day-no-team-no-agency-just-obsidian-claude-here-is-the-exact-system)
   Published: 2026-04-13 · Author: @cyrilXBT
   I post every single day. Articles, threads, tweets, crypto analysis, AI tool breakdowns, newsletters. One person. No team. No content agency. No ghostwriter.…
+
+- [I Reverse-Engineered a Trend That's Quietly Dominating YouTube. Here's the Playbook. ](https://www.xarticl.es/digital-marketing/i-reverse-engineered-a-trend-thats-quietly-dominating-youtube-heres-the-playbook)
+  Published: 2026-01-14 · Author: @Vexian
+  This might be the most slept-on trend of 2025. Once you understand why it works, you'll see how it could print millions of views—and probably a f*ck ton of m…
 
 - [I scaled my client to $1M/mo Meta spend with this boring Claude strategy](https://www.xarticl.es/digital-marketing/i-scaled-my-client-to-1mmo-meta-spend-with-this-boring-claude-strategy)
   Published: 2026-04-08 · Author: @adamtaylorl
@@ -18329,6 +18583,10 @@
   Published: 2026-03-29 · Author: @itsalexvacca
   At $2M ARR, our LinkedIn content was everywhere. Posts hitting 200K impressions, comments rolling in, followers growing every week. By every vanity metric, i…
 
+- [The easiest path to get to 30k followers on X](https://www.xarticl.es/digital-marketing/the-easiest-path-to-get-to-30k-followers-on-x)
+  Published: 2026-02-16 · Author: @MarkKnd
+  X is the best social media platform for pretty much everyone. Whether you're a dev, a founder, a copywriter, or anyone else. We live in an attention economy,…
+
 - [THE GOLDEN RULES OF X ](https://www.xarticl.es/digital-marketing/the-golden-rules-of-x)
   Published: 2025-04-25 · Author: @creation247
   Before I started on Twitter (now X), I had a few misconceptions about how social media worked Like everyone else, I spent my time consuming and reacting to m…
@@ -18381,6 +18639,10 @@
   Published: 2026-03-20 · Author: @whotfiszackk
   tested across 500 tweets the word "free" increases clicks by 120% "secret" beats "free" by 2.8x people want what's hidden more than what's given and here's t…
 
+- [The YouTube Growth Blueprint Nobody Talks About](https://www.xarticl.es/digital-marketing/the-youtube-growth-blueprint-nobody-talks-about)
+  Published: 2026-04-15 · Author: @Vexian
+  Every YouTube guru tells you to "find your passion" and "be authentic." Then they watch you struggle for months with zero views. The real secret? Most succes…
+
 - [The YouTube Strategy NO ONE Is Talking About](https://www.xarticl.es/digital-marketing/the-youtube-strategy-no-one-is-talking-about)
   Author: @Adam_DelDuca
   If you’ve been creating content on YouTube you’ve likely already noticed that achieving success is not as easy as slapping together a video and uploading it …
@@ -18412,6 +18674,10 @@
 - [This is YouTube Automation](https://www.xarticl.es/digital-marketing/this-is-youtube-automation)
   Published: 2026-03-06 · Author: @saimagnate
   Most people who discover YouTube automation get their information from a 15-minute YouTube video, a X thread that's generic af.  None of those sources give y…
+
+- [This underrated YouTube Strategy Printed a Quick 2M Views. ](https://www.xarticl.es/digital-marketing/this-underrated-youtube-strategy-printed-a-quick-2m-views)
+  Published: 2026-01-13 · Author: @Vexian
+  This is how I helped Jesse Enkamp get a 2M+ view video  It was not luck, nor coincidence—it was by design. Jesse's most recent video is "Navy SEAL Destroys K…
 
 - [tiktok's creator rewards program was a scam. here's what replaced it.](https://www.xarticl.es/digital-marketing/tiktoks-creator-rewards-program-was-a-scam-heres-what-replaced-it)
   Published: 2026-04-08 · Author: @finleyxgrowth
@@ -18649,6 +18915,10 @@
 
 ## Sales
 
+- [Every Cold Outreach Principle I Know in One Article](https://www.xarticl.es/sales/every-cold-outreach-principle-i-know-in-one-article)
+  Published: 2026-04-05 · Author: @dimitarangg
+  i've been doing cold outreach for years now. booked 1,000s of calls. tested 1,000,000+ angles. burned through 5 millions sends. made every mistake possible h…
+
 - [How are we generating multiple $100K+ deals through webinars?](https://www.xarticl.es/sales/how-are-we-generating-multiple-100k-deals-through-webinars)
   Published: 2026-03-13 · Author: @aaina_narang
   One of the highest-converting GTM channels I've worked on for B2B SaaS is webinars. A webinar puts you in a live room with highly qualified decision-makers w…
@@ -18672,6 +18942,10 @@
 - [how to book 60 calls/mo by automating 500+ linkedin DMs/day](https://www.xarticl.es/sales/how-to-book-60-callsmo-by-automating-500-linkedin-dmsday)
   Published: 2026-02-02 · Author: @paolo_scales
   the brutal blueprint for turning sales navigator + prosp into a predictable pipeline of qualified b2b calls (without getting banned or acting like a spam bot…
+
+- [how to exploit preview tests to book 60 calls/mo with cold outreach](https://www.xarticl.es/sales/how-to-exploit-preview-tests-to-book-60-callsmo-with-cold-outreach)
+  Published: 2026-03-27 · Author: @dimitarangg
+  there is a moment that determines the fate of almost every cold outreach message ever sent, and most operators have never stopped to think about it. the mess…
 
 - [How To Print $1,000,000+ in 2026 Through Emotionally Manipulative Cold Outreach](https://www.xarticl.es/sales/how-to-print-1000000-in-2026-through-emotionally-manipulative-cold-outreach)
   Published: 2026-03-11 · Author: @dimitarangg
@@ -18984,6 +19258,10 @@
 - [How to Snatch Her Soul and Make Her Terrified of Losing You Pt. 2](https://www.xarticl.es/relationships/how-to-snatch-her-soul-and-make-her-terrified-of-losing-you-pt-2)
   Published: 2026-04-02 · Author: @rawknuckle
   Most men try to save a dying relationship by doing more of what killed it.   They feel her pulling away so they double down. More affection. More compliments…
+
+- [RED FLAGS IN GIRLS (Brutal and Unfiltered) ](https://www.xarticl.es/relationships/red-flags-in-girls-brutal-and-unfiltered-1)
+  Published: 2026-04-17 · Author: @Daywrotethis
+  (A brutally honest guide to spotting relationship red flags in women disrespect, social media addiction, emotional chaos, fake independence, and all the toxi…
 
 - [Sharing your feelings can destroy your relationship](https://www.xarticl.es/relationships/sharing-your-feelings-can-destroy-your-relationship)
   Published: 2026-04-10 · Author: @henryclarkey
@@ -19496,6 +19774,10 @@
 - [Now is the Right Time to buy $STBL? Token Launch and Insider Token Distribution](https://www.xarticl.es/cryptocurrency/now-is-the-right-time-to-buy-stbl-token-launch-and-insider-token-distribution)
   Published: 2025-09-17 · Author: @the_smart_ape
   I woke up this morning to the surprise that @Tether_to co-founder has launched $STBL, the governance token of @stbl_official.   The protocol’s idea is to cre…
+
+- [Old Money Moves to New Rails: A $10 Trillion Opportunity](https://www.xarticl.es/cryptocurrency/old-money-moves-to-new-rails-a-10-trillion-opportunity)
+  Published: 2026-04-17 · Author: @blocmates
+  While everyone’s attention is being stolen by AI, something interesting is happening in stablecoins - we are witnessing The Great Decoupling of stablecoins f…
 
 - [On the Nature of "Alternative Chains"](https://www.xarticl.es/cryptocurrency/on-the-nature-of-alternative-chains)
   Published: 2025-11-30 · Author: @hotpot_dao
@@ -20651,6 +20933,10 @@
   Published: 2026-04-08 · Author: @SJosephBurns
   Most people who struggle with math were never bad at it to start with; they were just taught in a way that made it feel foreign and frustrating. The truth is…
 
+- [Master Claude Skills (Module 1: Foundations)](https://www.xarticl.es/learning/master-claude-skills-module-1-foundations)
+  Published: 2026-04-15 · Author: @Ai_here202
+  I’ve taken the time to consolidate the most useful resources on Claude Skills into a single, structured guide. If you go through this properly, you’ll not on…
+
 - [Side Quest Recommendation: "The Story of Civilization" Series [Durant]](https://www.xarticl.es/learning/side-quest-recommendation-the-story-of-civilization-series-durant)
   Published: 2025-12-26 · Author: @gregoryblotnick
   Munger talks about the "latticework of mental models." I thought I understood this concept at a younger age, and I definitely DID NOT. Because the way you de…
@@ -20809,6 +21095,10 @@
   Published: 2026-03-19 · Author: @Jayyanginspires
   There's a story in Alice in Wonderland, where Alice is walking on this dirt trail and there's a fork in the road that splits into several different paths. Sh…
 
+- [do or do not, there is no try](https://www.xarticl.es/personal-development/do-or-do-not-there-is-no-try)
+  Published: 2026-04-17 · Author: @JPowFleshlight
+  i love yoda, so lets do a deep dive into some of his best quotes try is the favorite word of people who have decided they might fail it is the escape hatch t…
+
 - [Engineering Luck](https://www.xarticl.es/personal-development/engineering-luck)
   Published: 2026-01-18 · Author: @TheRealEstateG6
   A lot of people think “luck” is this abstract concept. It’s not. Luck is a skill and you can train it.  Conventional wisdom is that luck is what happens when…
@@ -20824,6 +21114,10 @@
 - [EyeMaxxing - Full Guide](https://www.xarticl.es/personal-development/eyemaxxing-full-guide)
   Published: 2026-02-08 · Author: @bruceisprimal
   It is a common knowledge that attractive eyes are generally defined by a combination of clear, bright sclera and often positively tilted. You need to have we…
+
+- [Fight to Be Who Philosophy Wants You to Be ](https://www.xarticl.es/personal-development/fight-to-be-who-philosophy-wants-you-to-be)
+  Published: 2026-04-17 · Author: @RyanHoliday
+  Like all of us, there was a part of Marcus Aurelius that wanted to be good and a part that inclined towards something worse. He had ideals, he had a temper. …
 
 - [Finding the Right Altitude](https://www.xarticl.es/personal-development/finding-the-right-altitude)
   Published: 2026-04-07 · Author: @Alfred_Lin
@@ -21729,6 +22023,10 @@
   Published: 2026-03-24 · Author: @reyaffrev
   This story is from a kid abraham  in my telegram group. Last year he was relocated into a tent due to the palestine/israel conflict . And lost his home. He s…
 
+- [From Hyperabundance to Terafab: The 5 Stories That Will Define the Next Decade](https://www.xarticl.es/entrepreneurship/from-hyperabundance-to-terafab-the-5-stories-that-will-define-the-next-decade)
+  Published: 2026-03-21 · Author: @PeterDiamandis
+  I just wrapped up 5 days onstage for my 14th Abundance Summit (our best ever): 600 CEOs in the room and 10,000 online! The Summit opened with Eric Schmidt an…
+
 - [From Laid Off To 6-Figure Ghostwriter: How Jack Consistently Lands $10K-15K Deals](https://www.xarticl.es/entrepreneurship/from-laid-off-to-6-figure-ghostwriter-how-jack-consistently-lands-10k-15k-deals)
   Published: 2026-01-20 · Author: @Nicolascole77
   Jack got laid off hours after putting an offer on a house. But today: He's on track to hit $200K Works 20-30 hours per week Takes 1-2 months off each year Co…
@@ -21736,6 +22034,10 @@
 - [Fuck Around to Find Out ](https://www.xarticl.es/entrepreneurship/fuck-around-to-find-out)
   Published: 2026-03-07 · Author: @DruRly
   I heard Greg Isenberg say something on a recent podcast that I hear several times a week.  Start with the niche. He’s right. I’ve been on Greg’s podcast. I l…
+
+- [Full guide on how to actually get clients](https://www.xarticl.es/entrepreneurship/full-guide-on-how-to-actually-get-clients)
+  Published: 2026-02-11 · Author: @MarkKnd
+  I've been running my agency for over a year now, and throughout this time we got hundreds of leads, tens of clients, hundreds of thousands of dollars in reve…
 
 - [Full Guide: How to start a profitable one-person business (in 2026)](https://www.xarticl.es/entrepreneurship/full-guide-how-to-start-a-profitable-one-person-business-in-2026)
   Published: 2026-01-24 · Author: @HussainIbarra
@@ -21993,6 +22295,10 @@
   Published: 2026-03-19 · Author: @starks_arq
   Three years ago I was in Morocco with my 16-year-old brother and $500 a month... and today I run an AI film studio that works with billion-dollar companies, …
 
+- [i gave 3 strangers my system. all 3 hit $5,000 within 45 days.](https://www.xarticl.es/entrepreneurship/i-gave-3-strangers-my-system-all-3-hit-5000-within-45-days)
+  Published: 2026-04-17 · Author: @whotfiszackk
+  let me show you exactly what happened because this is the most honest thing i can show you about whether this model actually works when a complete beginner r…
+
 - [i gave claude my niche and the words "build me a $47 info product"](https://www.xarticl.es/entrepreneurship/i-gave-claude-my-niche-and-the-words-build-me-a-47-info-product)
   Published: 2026-02-19 · Author: @imsehej
   45 minutes later i had a finished PDF, a sales page, a DM script, and a 30-day content calendar made $2,800 that first week and you're spending 6 months outl…
@@ -22040,6 +22346,10 @@
 - [I want to own so many faceless pages that i literally can't remember all the niches i'm in](https://www.xarticl.es/entrepreneurship/i-want-to-own-so-many-faceless-pages-that-i-literally-cant-remember-all-the-niches-im-in)
   Published: 2026-02-24 · Author: @imsehej
   that's the goal and you're trying to become known as "THE expert" in one tiny niche wondering why you can't scale past $15k monthly let me show you why portf…
+
+- [I’m 19. I run a 7 figure business. I’m from a third world country - here’s the full story](https://www.xarticl.es/entrepreneurship/im-19-i-run-a-7-figure-business-im-from-a-third-world-country-heres-the-full-story)
+  Published: 2026-01-21 · Author: @MarkKnd
+  I was born and raised in Kazakhstan. The biggest country in Central Asia, with high mountains, beautiful nature, and nice people. I love my home, as all of m…
 
 - [I'm politely begging you: Please start a YouTube channel.](https://www.xarticl.es/entrepreneurship/im-politely-begging-you-please-start-a-youtube-channel)
   Published: 2026-04-11 · Author: @boomerrbryan
@@ -22638,6 +22948,10 @@
   Imagine a world where parents encouraged kids' curiosity, taught them EXTREME OWNERSHIP & never to blame others, and taught them that failing & is a crucial …
 
 ## Art
+
+- [Chinese Calligraphy is a Frontier Task](https://www.xarticl.es/art/chinese-calligraphy-is-a-frontier-task)
+  Published: 2026-04-10 · Author: @leonardtang_
+  Can frontier models master the art of Chinese calligraphy? We challenged them to reproduce 88 of the hardest characters across 20 master calligraphers. Motiv…
 
 - [Nobody cares about your taste](https://www.xarticl.es/art/nobody-cares-about-your-taste)
   Published: 2026-02-20 · Author: @GotinGeorgiG
@@ -23479,9 +23793,17 @@
   Published: 2026-03-05 · Author: @hooeem
   Most of you think prompt engineering is all you need to master AI (spoiler, it’s not), in fact, it’s the least important vs context & intent engineering, her…
 
+- [I Was the Optimist in The AI Doc. Here's Why. ](https://www.xarticl.es/artificial-intelligence/i-was-the-optimist-in-the-ai-doc-heres-why)
+  Published: 2026-03-30 · Author: @PeterDiamandis
+  Last week, a documentary hit theaters featuring some of the biggest names in AI. Sam Altman. Dario Amodei. Demis Hassabis. Tristan Harris. Eliezer Yudkowsky.…
+
 - [Instant LORA from docs, using Hypernetworks](https://www.xarticl.es/artificial-intelligence/instant-lora-from-docs-using-hypernetworks)
   Published: 2026-03-04 · Author: @neural_avb
   Hypernetworks are neural networks that output other neural networks. In this article we will learn how they work, and look into a pretty dope use-case: what …
+
+- [Intelligence Goes Physical](https://www.xarticl.es/artificial-intelligence/intelligence-goes-physical)
+  Published: 2026-04-13 · Author: @PeterDiamandis
+  TLDR: Three exponential curves—AI cognition, robotic embodiment, and energy infrastructure—hit their inflection points simultaneously this week. Humanoid rob…
 
 - [Introducing Workflow V2: Your Copilot for Agentic Financial Execution](https://www.xarticl.es/artificial-intelligence/introducing-workflow-v2-your-copilot-for-agentic-financial-execution)
   Published: 2026-03-13 · Author: @minara
@@ -23683,6 +24005,10 @@
   Published: 2026-03-13 · Author: @Altcoinist
   The first era of AI was about brains. Bigger LLMs. Better chat. Faster coding. Stronger multimodal demos. The next era is about worlds.    That shift is alre…
 
+- [The Organizational Singularity Is Here](https://www.xarticl.es/artificial-intelligence/the-organizational-singularity-is-here)
+  Published: 2026-04-15 · Author: @PeterDiamandis
+  When One Person Plus AI Beats 100 People Without It Marc Andreessen says, “AI job loss narratives are all fake,” Dario Amodei says, “AI will replace the majo…
+
 - [The Physical AI Deployment Gap](https://www.xarticl.es/artificial-intelligence/the-physical-ai-deployment-gap)
   Published: 2026-01-13 · Author: @oyhsu
   The gap between the frontier of robotics research and the deployment of robots in production settings, and why it matters. There’s been a recurring pattern w…
@@ -23820,6 +24146,10 @@
 - [25 Claude Code Tips from 11 Months of Intense Use ](https://www.xarticl.es/software/25-claude-code-tips-from-11-months-of-intense-use)
   Published: 2026-03-16 · Author: @Shruti_0810
   I’ve been using Claude Code heavily for almost a year. Not casually. 11 months. Thousands of sessions. Millions of tokens. And after all that time, I realize…
+
+- [25 GitHub Repos That Replace All Your Subscriptions](https://www.xarticl.es/software/25-github-repos-that-replace-all-your-subscriptions)
+  Published: 2026-04-17 · Author: @zodchiii
+  Every year subscription prices go up and features get worse. Notion raises prices and adds AI nobody asked for. Google kills products people depend on. Adobe…
 
 - [35+ Claude Code Tips (2026 Edition)](https://www.xarticl.es/software/35-claude-code-tips-2026-edition)
   Published: 2026-03-04 · Author: @Suryanshti777
@@ -23985,6 +24315,10 @@
   Published: 2026-03-19 · Author: @Shruti_0810
   Anthropic just released a 33-page guide on building Skills for Claude. I read the whole thing so you don't have to. Here's everything that matters, stripped …
 
+- [Compound Engineering - 4/17/2026](https://www.xarticl.es/software/compound-engineering-4172026)
+  Published: 2026-04-17 · Author: @trevin
+  4 releases in a week. Iterative optimization loops, human-in-the-loop polish, ideation that works beyond code, and a proper setup experience across Compound …
+
 - [Compound Engineering: 3/31/2026](https://www.xarticl.es/software/compound-engineering-3312026)
   Published: 2026-03-31 · Author: @trevin
   A few releases have landed since the last update, with v2.60.0, landing today. The through-line is tightening the pipeline end-to-end: reviews are less noisy…
@@ -24008,6 +24342,10 @@
 - [Every Claude Code Hack I Know (March 2026) ](https://www.xarticl.es/software/every-claude-code-hack-i-know-march-2026)
   Published: 2026-03-22 · Author: @mvanhorn
   @kevinrose asked what IDE to use. My reply got the most engagement out of 128 answers: "No IDE. Just plan.md files and voice." Here's everything I meant by t…
+
+- [Every feature should earn its place](https://www.xarticl.es/software/every-feature-should-earn-its-place)
+  Published: 2026-04-12 · Author: @karrisaarinen
+  A common story in product development goes like this: execution is cheap now, so why not build more things and see what sticks? There is some truth to that. …
 
 - [Faster iOS Subscriptions with ASC CLI and RevenueCat MCP](https://www.xarticl.es/software/faster-ios-subscriptions-with-asc-cli-and-revenuecat-mcp)
   Published: 2026-03-09 · Author: @rudrank
@@ -24177,6 +24515,10 @@
   Published: 2026-03-17 · Author: @trq212
   Skills have become one of the most used extension points in Claude Code. They’re flexible, easy to make, and simple to distribute. But this flexibility also …
 
+- [Master Claude Skills (Module 2: Architecture)](https://www.xarticl.es/software/master-claude-skills-module-2-architecture)
+  Published: 2026-04-17 · Author: @Ai_here202
+  Master Claude Skills (Module 2: Architecture) In Module 1, you learned how to build and deploy your first Skill. Now comes the real shift: Moving from single…
+
 - [Merging Slash Commands into Skills in Claude Code ](https://www.xarticl.es/software/merging-slash-commands-into-skills-in-claude-code)
   Published: 2026-01-23 · Author: @trq212
   We’ve merged Slash Commands into Skills in Claude Code.  You do not need to do anything to migrate to this and it should not disrupt any of your existing wor…
@@ -24285,6 +24627,10 @@
   Author: @ArmanHezarkhani
   I've helped hundreds of companies through their AI transformation. The single most common question I get—from CFOs, ops leads, analysts, founders—is some ver…
 
+- [The disappearing middle of software work](https://www.xarticl.es/software/the-disappearing-middle-of-software-work)
+  Published: 2026-01-03 · Author: @karrisaarinen
+  I think the center of software work is moving. The middle of software work has been the most important part for a long time. You started with an idea, and ev…
+
 - [The Four Games of Life](https://www.xarticl.es/software/the-four-games-of-life)
   Published: 2026-03-11 · Author: @DruRly
   I built an app for car dealerships.  Wrote code for three months before going to work each day.  Pitched three. None bought. I was playing a flat game inside…
@@ -24304,6 +24650,10 @@
 - [The Hidden Folder That Makes Claude 10x More Powerful. Most Developers Have Never Opened It.](https://www.xarticl.es/software/the-hidden-folder-that-makes-claude-10x-more-powerful-most-developers-have-never-opened-it)
   Published: 2026-03-26 · Author: @cyrilXBT
   Most developers who use Claude Code interact with it the same way they interact with any other AI tool. They type a prompt. They get a response. They move on…
+
+- [The Malleable Software That Never Was](https://www.xarticl.es/software/the-malleable-software-that-never-was)
+  Published: 2026-03-20 · Author: @karrisaarinen
+  For a long time, I’ve been skeptical of malleable software. There has always been this HyperCard 2.0 dream behind it. The idea that users should be able to s…
 
 - [The New Software: CLI, Skills & Vertical Models](https://www.xarticl.es/software/the-new-software-cli-skills-vertical-models)
   Published: 2026-04-10 · Author: @sandhya
@@ -24657,6 +25007,14 @@
   Author: @audiinidesign
   On the opinion that designers with "taste" will  survive the oncoming slaughter by automation.     If you're anywhere in or near a design role today, you can…
 
+- [Design is a search](https://www.xarticl.es/design/design-is-a-search)
+  Published: 2025-12-12 · Author: @karrisaarinen
+  Well, I’m glad this generated debate, which is good for the industry, and everyone can see where they stand. I just want to clarify my thoughts here in a mor…
+
+- [Design is search](https://www.xarticl.es/design/design-is-search)
+  Published: 2025-12-13 · Author: @karrisaarinen
+  Well, I’m glad this generated debate, which is good for the industry, and everyone can see where they stand. I just want to clarify my thoughts here in a mor…
+
 - [design process, explained](https://www.xarticl.es/design/design-process-explained)
   Author: @notjerrywang
   I keep hearing the same story from portfolio critiques, interviews, and friends who graduated from great HCI programs: the methods are useful, but the promis…
@@ -24712,6 +25070,14 @@
 - [If I Started Over as a Designer in 2026, Here’s What I’d Do: A Complete Roadmap](https://www.xarticl.es/design/if-i-started-over-as-a-designer-in-2026-heres-what-id-do-a-complete-roadmap)
   Published: 2026-03-15 · Author: @_heyrico
   I made multiple six figures from design in 2025 alone. Just me, a laptop, and a process I built over years of getting things wrong first. If I had to start o…
+
+- [Output isn’t design](https://www.xarticl.es/design/output-isnt-design)
+  Published: 2026-04-17 · Author: @karrisaarinen
+  Design keeps being misunderstood in our industry. New tools keep promising to generate interfaces faster, move words to product instantly, or collapse design…
+
+- [Part 2: Design is a search for the opinions](https://www.xarticl.es/design/part-2-design-is-a-search-for-the-opinions)
+  Published: 2025-12-15 · Author: @karrisaarinen
+  Every tool and device carries an opinion. It pulls you toward certain behaviors and away from others. It makes some actions effortless and makes others annoy…
 
 - [Simple Designer's Guide: Claude Code + Figma ](https://www.xarticl.es/design/simple-designers-guide-claude-code-figma)
   Published: 2026-03-09 · Author: @_heyrico

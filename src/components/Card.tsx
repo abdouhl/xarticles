@@ -20,6 +20,7 @@ export default function Card({
     screen_name,
     dateAdded,
     slug,
+    category,
     image,
 }: CardProps) {
     const linkUrl = slug ? `/articles/${slug}` : href;
@@ -29,16 +30,15 @@ export default function Card({
     return (
         <li className="link-card">
             <div className="card-cover">
-                <img  src={coverImage} alt={title} loading="lazy" decoding="async"/>
+                <img src={coverImage} alt={title} loading="lazy" decoding="async" />
                 <p className="distribution">
                     {isNew && (
-                        <span
-                            className="tag nu-u-me-2 tag-new"
-                            title="Recently added"
-                            aria-label="New item"
-                        >
+                        <span className="tag tag-new" title="Recently added" aria-label="New item">
                             🔥
                         </span>
+                    )}
+                    {category && (
+                        <span className="tag">{category}</span>
                     )}
                     {screen_name && (
                         <span className="tag">@{screen_name}</span>
@@ -52,7 +52,6 @@ export default function Card({
                     window.dispatchEvent(new CustomEvent('articles:save-state'));
                 }}
             >
-                {/*<strong className="nu-c-fs-normal nu-u-mt-1 nu-u-mb-1">{title}</strong>*/}
                 <strong className="nu-c-helper-text nu-u-mt-1 nu-u-mb-1">{title}</strong>
             </a>
             {slug && (

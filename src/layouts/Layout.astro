@@ -152,13 +152,6 @@ const {
                     <span class="favorites-text">Saved articles</span>
                     <span class="favorites-count" id="favoritesCount"></span>
                 </a>
-                {/* <a
-                    href="https://github.com/planetabhi/riseofmachine/issues"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="submit-btn"
-                    tabindex="0"><span class="submit-text">Submit</span></a
-                >*/}
             </div>
         </div>
 
@@ -170,21 +163,28 @@ const {
         />
         <slot />
 
-        <div class="footer">
-            <p>
-                ABDERAHMANE HELLAL 2026 © <br />
+        <footer class="footer" aria-label="Site footer">
+            <nav class="footer-nav" aria-label="Footer navigation">
+                <a href="/about" class="nu-u-link--subtle">About</a>
+                <span class="footer-separator" aria-hidden="true">·</span>
+                <a href="/privacy" class="nu-u-link--subtle">Privacy</a>
+                <span class="footer-separator" aria-hidden="true">·</span>
+                <a href="/terms" class="nu-u-link--subtle">Terms</a>
+                <span class="footer-separator" aria-hidden="true">·</span>
+                <a href="/cookies" class="nu-u-link--subtle">Cookies</a>
+                <span class="footer-separator" aria-hidden="true">·</span>
+                <a href="/sitemap-index.xml" class="nu-u-link--subtle">Sitemap</a>
+            </nav>
+            <p class="footer-copy">
+                ABDERAHMANE HELLAL 2026 ©
                 <a
                     href="https://elhellal.com/"
                     class="nu-u-link--subtle"
                     target="_blank"
                     rel="noopener noreferrer">@abdou_hll</a
                 >
-                <span class="footer-separator">·</span>
-                <a href="/privacy" class="nu-u-link--subtle">Privacy</a>
-                <span class="footer-separator">·</span>
-                <a href="/terms" class="nu-u-link--subtle">Terms</a>
             </p>
-        </div>
+        </footer>
     </body>
 </html>
 <style is:global>
@@ -478,15 +478,46 @@ const {
         }
     }
 
-    .footer p {
+    /* Footer */
+    .footer {
         padding-bottom: var(--spacing-10);
         text-align: center;
-        font-weight: normal;
-        font-style: normal;
-        color: var(--content-secondary);
+    }
+
+    .footer-nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: var(--spacing-01);
+        margin-bottom: var(--spacing-03);
+    }
+
+    .footer-nav a {
+        font-family: var(--monospace);
         font-size: var(--desktop-caption);
         line-height: var(--lh-desktop-caption);
+        text-decoration: none;
+        transition: color 0.15s ease;
+    }
+
+    .footer-nav a:hover {
+        color: var(--accent) !important;
+    }
+
+    .footer-copy {
         font-family: var(--monospace);
+        font-size: var(--desktop-caption);
+        line-height: var(--lh-desktop-caption);
+        color: var(--content-secondary);
+        margin: 0;
+    }
+
+    .footer-separator {
+        color: var(--content-secondary);
+        font-family: var(--monospace);
+        font-size: var(--desktop-caption);
+        opacity: 0.4;
     }
 
     /* Empty state styles */
@@ -572,12 +603,17 @@ const {
         padding-bottom: var(--spacing-04);
     }
 
+    .legal-header h1 {
+        margin: 0 0 var(--spacing-02) 0;
+    }
+
     .last-updated {
         font-family: var(--monospace);
         font-size: var(--desktop-caption);
         color: var(--content-secondary-alt);
         text-transform: uppercase;
         letter-spacing: 0.05em;
+        margin: 0;
     }
 
     .legal-content-wrapper h2 {
@@ -589,6 +625,11 @@ const {
     .legal-content-wrapper li {
         margin-bottom: var(--spacing-05);
         line-height: var(--lh-desktop-body);
+    }
+
+    .legal-content-wrapper ul {
+        padding-left: var(--spacing-06);
+        margin-bottom: var(--spacing-05);
     }
 
     @media (max-width: 768px) {
@@ -675,7 +716,6 @@ const {
                 pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
             }
 
-
             // New Tools Filter Toggle - Idempotent listener
             const newFilterToggle =
                 document.querySelector("#new-filter-toggle");
@@ -702,7 +742,6 @@ const {
             // Path-specific attributes
             if (window.location.pathname.startsWith("/tools/")) {
                 document.documentElement.setAttribute("data-tool-page", "true");
-                // Ensure body is ready before setting attribute
                 if (document.body) {
                     document.body.setAttribute("data-modal-open", "true");
                 }

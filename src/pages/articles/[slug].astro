@@ -280,10 +280,31 @@ const breadcrumbs = [
           </dl>
         </div>
 
-        <!-- AdSense slot placeholder -->
-        <!-- Replace with your actual AdSense unit -->
+        <!-- AdSense slot — shows Binance banner when no ad is served -->
         <div class="adsense-slot" aria-label="Advertisement">
           <!-- ins class="adsbygoogle" ... -->
+          <a
+            href="https://www.binance.com/register?ref=BMNSQVZ9"
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            class="binance-banner-link"
+            aria-label="Explore Crypto on Binance"
+          >
+            <!-- Square banner for desktop sidebar (≥ 769px) -->
+            <img
+              src="/binance-2.png"
+              alt="Explore Crypto with me on Binance"
+              class="binance-banner binance-banner--desktop"
+              loading="lazy"
+            />
+            <!-- Wide banner for mobile (≤ 768px) -->
+            <img
+              src="/binance-3.png"
+              alt="Explore Crypto with me on Binance"
+              class="binance-banner binance-banner--mobile"
+              loading="lazy"
+            />
+          </a>
         </div>
 
       </aside>
@@ -620,15 +641,33 @@ const breadcrumbs = [
     }
     .detail-link:hover { color: var(--accent); }
 
-    /* AdSense slot */
+    /* ── AdSense slot / Binance banner ────────────────── */
     .adsense-slot {
-      min-height: 250px;
+      min-height: 0;
       background: var(--background-secondary);
       border: 0.5px solid var(--border-muted);
       border-radius: 8px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      overflow: hidden;
+    }
+
+    .binance-banner-link {
+      display: block;
+      line-height: 0;
+    }
+    .binance-banner {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    /* Desktop (≥ 769px): square sidebar banner (binance-2) */
+    .binance-banner--mobile  { display: none; }
+    .binance-banner--desktop { display: block; }
+
+    /* Mobile (≤ 768px): wide banner (binance-3) */
+    @media (max-width: 768px) {
+      .binance-banner--desktop { display: none; }
+      .binance-banner--mobile  { display: block; }
     }
 
     /* ── Related section ──────────────────────────────── */

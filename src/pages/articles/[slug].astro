@@ -48,7 +48,7 @@ const formatDate = (dateStr: string) => {
 
 const formattedDate = formatDate(tool.created_at);
 const canonicalUrl = `https://xarticl.es/articles/${tool.slug}`;
-const faviconUrl = `/favicons/${slug}.png`;
+//const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
 const tweetUrl = `https://x.com/${tool.screen_name}/status/${tool.id_str}`;
 
@@ -101,7 +101,7 @@ const breadcrumbs = [
   twitterTitle={seoTitle}
   twitterDescription={seoDescription}
   twitterImage={seoOgImage}
-  pageFavicon={faviconUrl}
+  
 >
   <SoftwareApplicationSchema
     name={tool.title}
@@ -242,7 +242,7 @@ const breadcrumbs = [
               src={`https://unavatar.io/twitter/${tool.screen_name}`}
               alt={`@${tool.screen_name}`}
               class="author-avatar"
-              onerror="this.src='/favicons/default.png'"
+              onerror="this.onerror=null;this.style.background='#2a2a2a';this.removeAttribute('src')"
               loading="lazy"
             />
             <div>
@@ -319,11 +319,11 @@ const breadcrumbs = [
             <a href={`/articles/${t.slug}`} class="related-card">
               <div class="related-cover">
                 <img
-                  src={t.original_img_url || `/favicons/${t.slug}.png`}
+                  src={t.original_img_url || ``}
                   alt={t.title}
                   class="related-img"
                   loading="lazy"
-                  onerror="this.src='/favicons/default.png'"
+                  onerror="this.onerror=null;this.style.background='#1a1a1a';this.removeAttribute('src')"
                 />
                 <span class="related-tag">{categoryTitle}</span>
               </div>

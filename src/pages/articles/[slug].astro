@@ -48,7 +48,7 @@ const formatDate = (dateStr: string) => {
 
 const formattedDate = formatDate(tool.created_at);
 const canonicalUrl = `https://xarticl.es/articles/${tool.slug}`;
-//const faviconUrl = `/favicons/${slug}.png`;
+const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
 const tweetUrl = `https://x.com/${tool.screen_name}/status/${tool.id_str}`;
 
@@ -82,6 +82,10 @@ const breadcrumbs = [
   { name: categoryTitle, url: `https://xarticl.es/${category}` },
   { name: tool.title },
 ];
+
+const tldr: string | undefined = tool.tldr;
+const whyThisMatters: string | undefined = tool.whyThisMatters;
+const whoShouldRead: string | undefined = tool.whoShouldRead;
 ---
 
 <Layout
@@ -101,7 +105,7 @@ const breadcrumbs = [
   twitterTitle={seoTitle}
   twitterDescription={seoDescription}
   twitterImage={seoOgImage}
-  
+  pageFavicon={faviconUrl}
 >
   <SoftwareApplicationSchema
     name={tool.title}
@@ -170,7 +174,7 @@ const breadcrumbs = [
             </div>
           </header>
 
-          <!-- About section — primary content for AdSense -->
+          <!-- About section -->
           <section class="article-about" aria-label="About this article">
             {tool.body && (
               <p class="article-summary" itemprop="description">{tool.body}</p>
@@ -179,6 +183,40 @@ const breadcrumbs = [
               <p class="article-description">{meta.description}</p>
             )}
           </section>
+
+          <!-- Core Structure — renders only when fields are present -->
+          {(tldr || whyThisMatters || whoShouldRead) && (
+            <div class="core-sections">
+
+              {tldr && (
+                <div class="core-section">
+                  <p class="core-label">
+                    <span class="core-emoji">⚡</span> TL;DR
+                  </p>
+                  <p class="core-body">{tldr}</p>
+                </div>
+              )}
+
+              {whyThisMatters && (
+                <div class="core-section">
+                  <p class="core-label">
+                    <span class="core-emoji">🎯</span> Why this matters
+                  </p>
+                  <p class="core-body">{whyThisMatters}</p>
+                </div>
+              )}
+
+              {whoShouldRead && (
+                <div class="core-section">
+                  <p class="core-label">
+                    <span class="core-emoji">👥</span> Who should read this
+                  </p>
+                  <p class="core-body">{whoShouldRead}</p>
+                </div>
+              )}
+
+            </div>
+          )}
 
           <!-- CTA -->
           <div class="article-cta">
@@ -242,7 +280,7 @@ const breadcrumbs = [
               src={`https://unavatar.io/twitter/${tool.screen_name}`}
               alt={`@${tool.screen_name}`}
               class="author-avatar"
-              onerror="this.onerror=null;this.style.background='#2a2a2a';this.removeAttribute('src')"
+              onerror="this.src='/favicons/default.png'"
               loading="lazy"
             />
             <div>
@@ -282,7 +320,6 @@ const breadcrumbs = [
 
         <!-- AdSense slot — shows Binance banner when no ad is served -->
         <div class="adsense-slot" aria-label="Advertisement">
-          <!-- ins class="adsbygoogle" ... -->
           <a
             href="https://www.binance.com/register?ref=BMNSQVZ9"
             target="_blank"
@@ -290,14 +327,12 @@ const breadcrumbs = [
             class="binance-banner-link"
             aria-label="Explore Crypto on Binance"
           >
-            <!-- Square banner for desktop sidebar (≥ 769px) -->
             <img
               src="/binance-2.png"
               alt="Explore Crypto with me on Binance"
               class="binance-banner binance-banner--desktop"
               loading="lazy"
             />
-            <!-- Wide banner for mobile (≤ 768px) -->
             <img
               src="/binance-3.png"
               alt="Explore Crypto with me on Binance"
@@ -310,7 +345,7 @@ const breadcrumbs = [
       </aside>
     </div>
 
-    <!-- Related articles — full width, AdSense content signal -->
+    <!-- Related articles -->
     {relatedTools.length > 0 && (
       <section class="related-section" aria-label="Related articles">
         <h2 class="related-heading">More in {categoryTitle}</h2>
@@ -319,11 +354,11 @@ const breadcrumbs = [
             <a href={`/articles/${t.slug}`} class="related-card">
               <div class="related-cover">
                 <img
-                  src={t.original_img_url || ``}
+                  src={t.original_img_url || `/favicons/${t.slug}.png`}
                   alt={t.title}
                   class="related-img"
                   loading="lazy"
-                  onerror="this.onerror=null;this.style.background='#1a1a1a';this.removeAttribute('src')"
+                  onerror="this.src='/favicons/default.png'"
                 />
                 <span class="related-tag">{categoryTitle}</span>
               </div>
@@ -497,6 +532,44 @@ const breadcrumbs = [
       color: rgba(255,255,255,0.5);
     }
 
+    /* ── Core Structure ───────────────────────────────── */
+    .core-sections {
+      display: flex;
+      flex-direction: column;
+      border: 0.5px solid rgba(255,255,255,0.08);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .core-section {
+      padding: var(--spacing-05);
+      border-bottom: 0.5px solid rgba(255,255,255,0.08);
+    }
+    .core-section:last-child {
+      border-bottom: none;
+    }
+    .core-label {
+      margin: 0 0 8px 0;
+      font-size: var(--desktop-caption);
+      font-family: var(--monospace);
+      font-weight: 600;
+      color: rgba(255,255,255,0.55);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .core-emoji {
+      font-size: 13px;
+      line-height: 1;
+    }
+    .core-body {
+      margin: 0;
+      font-size: var(--desktop-body-sm);
+      line-height: 1.7;
+      color: #d0d0d0;
+    }
+
     /* CTA */
     .article-cta {
       display: flex;
@@ -649,7 +722,6 @@ const breadcrumbs = [
       border-radius: 8px;
       overflow: hidden;
     }
-
     .binance-banner-link {
       display: block;
       line-height: 0;
@@ -659,12 +731,8 @@ const breadcrumbs = [
       height: auto;
       display: block;
     }
-
-    /* Desktop (≥ 769px): square sidebar banner (binance-2) */
     .binance-banner--mobile  { display: none; }
     .binance-banner--desktop { display: block; }
-
-    /* Mobile (≤ 768px): wide banner (binance-3) */
     @media (max-width: 768px) {
       .binance-banner--desktop { display: none; }
       .binance-banner--mobile  { display: block; }

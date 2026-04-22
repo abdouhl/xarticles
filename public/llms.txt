@@ -74,6 +74,10 @@
   Published: 2025-10-08 · Author: @MiyaHedge
   First of all, I'm happy to announce that @StreetFDN is exploring tokenization for @open_droids, the OpenAI of robotics based in San Francisco with 3 differen…
 
+- [Should Robot Generalists Get Off Their High Horse?](https://www.xarticl.es/robotics/should-robot-generalists-get-off-their-high-horse)
+  Published: 2026-03-17 · Author: @AnneliesGamble
+  A conversation with @Ken_Goldberg, professor of Robotics and Automation at UC Berkeley The dream in robotics is a robot that can do everything a human can do…
+
 ## Religion
 
 - [The Internet was Built for Christians](https://www.xarticl.es/religion/the-internet-was-built-for-christians)
@@ -150,6 +154,10 @@
   Published: 2026-03-26 · Author: @JPowFleshlight
   the epidemic of learned helplessness is a psychological plague that has spread through modern society people increasingly believe their actions cannot meanin…
 
+- [No One Is Good “Deep Down”](https://www.xarticl.es/psychology/no-one-is-good-deep-down)
+  Published: 2026-03-12 · Author: @ChrisWillx
+  We live with a quiet superstition:  That beneath the noise of our habits, mistakes and contradictions lies a truer version of ourselves – a self that is fund…
+
 - [Nothing Big Is Happening](https://www.xarticl.es/psychology/nothing-big-is-happening)
   Published: 2026-02-11 · Author: @youfadedwealth
   You’re just running out of excuses. Everyone is sharing essays about how AI is about to “replace half of white-collar work.” How this is “Covid 2.0.” The ini…
@@ -173,6 +181,10 @@
 - [Silent Hill 2: A Reflection of the Deeper Human Psyche Part 1](https://www.xarticl.es/psychology/silent-hill-2-a-reflection-of-the-deeper-human-psyche-part-1)
   Published: 2026-04-11 · Author: @Nemanja_I_IV
   Before we begin, I’ve started publishing exclusive, in-depth articles on Substack. If you want to go much deeper into ideas like this, including the full psy…
+
+- [The Cassandra Complex](https://www.xarticl.es/psychology/the-cassandra-complex)
+  Published: 2026-03-19 · Author: @ChrisWillx
+  There are few feelings worse in this life than being right but early. You correctly predict a future catastrophe, trend, opportunity for growth or important …
 
 - [the gambler's fallacy, and how it can make you millions.](https://www.xarticl.es/psychology/the-gamblers-fallacy-and-how-it-can-make-you-millions)
   Published: 2026-01-23 · Author: @JPowFleshlight
@@ -209,6 +221,10 @@
 - [The permanent underclass is a psychological weapon..(WAKE UP CALL)](https://www.xarticl.es/psychology/the-permanent-underclass-is-a-psychological-weaponwake-up-call)
   Published: 2026-02-18 · Author: @hmalviya9
   X algo is simply trying to manipulate you with all those viral pushes on AI Anxiety triggering articles like "Permanent underclass"..and I think you need to …
+
+- [The Problem With Performative Empathy](https://www.xarticl.es/psychology/the-problem-with-performative-empathy)
+  Published: 2026-04-06 · Author: @ChrisWillx
+  This quote has been in my head so much over the last few months: “The rise of social media as the primary form is social interaction changed the way that we …
 
 - [the psychology behind $100M offers going over](https://www.xarticl.es/psychology/the-psychology-behind-100m-offers-going-over)
   Published: 2026-04-14 · Author: @vizionaryfocuss
@@ -972,6 +988,10 @@
   Published: 2024-08-12 · Author: @bayeslord
   A few days ago someone asked me about my view on free will. There are lots of frames people use to define the concept, let's look at a handful.  Spoiler for …
 
+- [Gödel and the End of Perfect Certainty](https://www.xarticl.es/philosophy/gdel-and-the-end-of-perfect-certainty)
+  Published: 2026-02-13 · Author: @Math_files
+  Suppose you read a sentence that says: “This statement is false.” Stop for a moment.  Is it true? If it’s true, then what it says must be correct — so it mus…
+
 - [If Modern Science Is So Powerful, Why Can’t It Solve These Mysteries?](https://www.xarticl.es/philosophy/if-modern-science-is-so-powerful-why-cant-it-solve-these-mysteries)
   Published: 2026-03-04 · Author: @thecurioustales
   #1. Why Does Anything Exist At All? Philosophers have a term for questions that break their own frameworks: aporias. Dead ends where reason collapses into si…
@@ -983,6 +1003,10 @@
 - [It Is Actually the Year 3069 and You Are Not Who You Think You Are](https://www.xarticl.es/philosophy/it-is-actually-the-year-3069-and-you-are-not-who-you-think-you-are)
   Published: 2026-03-08 · Author: @JIMMYEDGAR
   I need you to read this slowly. I need you to read this like your life depends on it because it might. not your life HERE. your life on the OTHER SIDE. the r…
+
+- [Life Without Zero](https://www.xarticl.es/philosophy/life-without-zero)
+  Published: 2026-04-20 · Author: @Math_files
+  Zero may seem like “nothing,” but it is one of the most important ideas in human history. First understood in India in the 5th century as “shunya,” it repres…
 
 - [Pyramidmaxx: The Architechure Of Ascension & How To Build Your Way Out Of The Matrix](https://www.xarticl.es/philosophy/pyramidmaxx-the-architechure-of-ascension-how-to-build-your-way-out-of-the-matrix)
   Published: 2026-03-11 · Author: @JIMMYEDGAR
@@ -999,6 +1023,10 @@
 - [Schopenhauer Semi-Speedrun: "World as Will & Representation" (Vol. 1)](https://www.xarticl.es/philosophy/schopenhauer-semi-speedrun-world-as-will-representation-vol-1)
   Published: 2026-01-12 · Author: @gregoryblotnick
   "This world of humanity is the kingdom of chance and error. These rule in it without mercy, in great things as in small..."   This article is in the vein of …
+
+- [Some infinities are bigger than others](https://www.xarticl.es/philosophy/some-infinities-are-bigger-than-others)
+  Published: 2026-02-18 · Author: @Math_files
+  Close your eyes and try to imagine something that never ends. No edge. No final step. No last number. That is infinity. For centuries, people believed infini…
 
 - [Something Strange Is Happening in Vrindavan](https://www.xarticl.es/philosophy/something-strange-is-happening-in-vrindavan)
   Published: 2026-03-04 · Author: @hmalviya9
@@ -1370,6 +1398,10 @@
   Published: 2026-02-28 · Author: @saimagnate
   Twelve minutes is the outer limit of what most faceless channels can sustain at high retention without exceptional scripting. Most people writing scripts for…
 
+- [The Ultimate Creative Strategist Training Curriculum](https://www.xarticl.es/content-marketing/the-ultimate-creative-strategist-training-curriculum)
+  Published: 2026-03-16 · Author: @alexgoughcooper
+  I've interviewed hundreds of creative strategists. There's one thing all the top ones have in common - and it's not what you'd expect. Not talent. Not taste.…
+
 - [The Writing Secret Behind The Greatest Animated Films Of All Time](https://www.xarticl.es/content-marketing/the-writing-secret-behind-the-greatest-animated-films-of-all-time)
   Published: 2026-04-03 · Author: @Nicolascole77
   Pixar has made over $14 billion at the box office. And their newest movie, Hoppers, has already grossed over $300M at the worldwide box office. What’s crazy …
@@ -1538,6 +1570,10 @@
   Published: 2026-04-04 · Author: @PromptLLM
   One of the most under-utilised aspects of AI at the moment is to build apps in a way that curates and works with your mind, especially when gamifying aspects…
 
+- [CURE procrastination by gamifying your life with AI (prompt included)](https://www.xarticl.es/productivity/cure-procrastination-by-gamifying-your-life-with-ai-prompt-included-2)
+  Published: 2026-04-21 · Author: @PromptLLM
+  One of the most under-utilised aspects of AI at the moment is to build apps in a way that curates and works with your mind, especially when gamifying aspects…
+
 - [Figure out what moves the needle - then move that f*cking needle](https://www.xarticl.es/productivity/figure-out-what-moves-the-needle-then-move-that-fcking-needle)
   Published: 2026-03-10 · Author: @colejaczko
   We all get the same 24 hours in a day Some of us just use it a hell of a lot better than others Figure out what moves the needle in your life Then focus ever…
@@ -1630,6 +1666,10 @@
   Published: 2024-06-29 · Author: @khemaridh
   The productivity bros are back. With a vengeance. First it was cold showers. Then it was monk mode. More recently, “testicular tanning.” What’s their latest …
 
+- [The Trap of Productivity Debt](https://www.xarticl.es/productivity/the-trap-of-productivity-debt)
+  Published: 2026-03-16 · Author: @ChrisWillx
+  “I struggle to believe I’m worthy of moments of joy and peace without first putting myself through a brutal schedule, monitoring my productivity levels down …
+
 - [Time Slippage: The Silent Reason Your Biggest Goals Keep Slipping Away ](https://www.xarticl.es/productivity/time-slippage-the-silent-reason-your-biggest-goals-keep-slipping-away)
   Published: 2026-02-20 · Author: @RianSweetDoris
   There's something you've been meaning to do: a goal, a skill, a project.  You think about it constantly. You tell yourself you're working on it. But if you a…
@@ -1644,9 +1684,17 @@
 
 ## Math
 
+- [A Fun Math Trick to Guess Siblings](https://www.xarticl.es/math/a-fun-math-trick-to-guess-siblings)
+  Published: 2026-01-20 · Author: @Math_files
+  Suppose a friend comes from a large family of several brothers and sisters. You can tell her that you have a technique for determining how many of each she h…
+
 - [approximating gamma in your head](https://www.xarticl.es/math/approximating-gamma-in-your-head)
   Published: 2026-04-10 · Author: @KrisAbdelmessih
   By now y’all know option traders have the ATM straddle approximation burned into their retina: straddle ≈ .8 Sσ √T A useful approximation I did not explain i…
+
+- [Curious Sum: 1 + 2 + 3 + 4 + … = −1/12](https://www.xarticl.es/math/curious-sum-1-2-3-4-112)
+  Published: 2026-03-29 · Author: @Math_files
+  At first sight, the sum, 1 + 2 + 3 + 4 + … = −1/12 appears absurd. The sum of all positive integers must grow without bound; it should diverge to infinity. H…
 
 - [How to Become a Prediction Market Quant (The Complete Math Roadmap) ](https://www.xarticl.es/math/how-to-become-a-prediction-market-quant-the-complete-math-roadmap)
   Author: @cryptovcdegen
@@ -1656,9 +1704,29 @@
   Published: 2026-02-09 · Author: @KrisAbdelmessih
   I came across a tool from mathematics called Jensen’s Inequality. I’m going to explain the rule, provide intuitive examples, then end by pointing you to real…
 
+- [Maryna Viazovska’s Intuition Behind Perfect Packing](https://www.xarticl.es/math/maryna-viazovskas-intuition-behind-perfect-packing)
+  Published: 2026-03-31 · Author: @Math_files
+  How do you pack oranges into a box as efficiently as possible? At first glance, it feels simple—just arrange them carefully and fill the empty spaces.    But…
+
+- [One Line of That Shocked the Teacher](https://www.xarticl.es/math/one-line-of-that-shocked-the-teacher)
+  Published: 2026-01-18 · Author: @Math_files
+  A teacher, intending to keep the class busy, assigned the students the tedious exercise of summing the first 100 natural numbers. While his classmates labore…
+
+- [Ramanujan’s Magical Formula For π](https://www.xarticl.es/math/ramanujans-magical-formula-for)
+  Published: 2026-03-17 · Author: @Math_files
+  In the early 1900s, far from the research centers of Europe, a young man sat quietly at a desk in India, filling notebooks with formulas no one had asked for…
+
 - [The Bellman Equation for Prediction Markets: How to Price Every Open Position You Hold ](https://www.xarticl.es/math/the-bellman-equation-for-prediction-markets-how-to-price-every-open-position-you-hold)
   Published: 2026-04-18 · Author: @phosphenq
   One equation, four games, three centuries of math. Most traders never write it down. That's your edge. There is a kind of trader who is right about events an…
+
+- [The Magical Number 6174: Kaprekar’s Constant](https://www.xarticl.es/math/the-magical-number-6174-kaprekars-constant)
+  Published: 2026-03-27 · Author: @Math_files
+  Welcome to something truly fascinating. In this article, I’m not here to teach a heavy mathematical concept or dive into complex theory. Instead, I want to i…
+
+- [The Man Who Solved the $1 Million Math Problem...Then Disappeared](https://www.xarticl.es/math/the-man-who-solved-the-1-million-math-problemthen-disappeared)
+  Published: 2026-03-24 · Author: @Math_files
+  He cracked a math problem that stumped mathematicians for a hundred years, then disappeared. No interviews, no money, no medals, no explanations, just silenc…
 
 - [The Polymarket Iceberg: 5 Math Concepts Separating Quants from Exit Liquidity ](https://www.xarticl.es/math/the-polymarket-iceberg-5-math-concepts-separating-quants-from-exit-liquidity)
   Published: 2026-03-18 · Author: @ramperxx
@@ -1671,6 +1739,18 @@
 - [using elementary school geometry to explain gamma ](https://www.xarticl.es/math/using-elementary-school-geometry-to-explain-gamma)
   Published: 2026-01-26 · Author: @KrisAbdelmessih
   ➡️➡️In options land, you constantly hear the returns are “non-linear”, “convex”, or maybe even “have curvature”. It comes from the fact that there’s a square…
+
+- [Using Fibonacci Numbers to Convert Km to Miles ](https://www.xarticl.es/math/using-fibonacci-numbers-to-convert-km-to-miles)
+  Published: 2026-04-09 · Author: @Math_files
+  I saw this meme and got curious. At first it looks like just another internet “mind-blown” moment—but it actually has real math behind it.   The Fibonacci se…
+
+- [Why (−) × (−) = (+)](https://www.xarticl.es/math/why)
+  Published: 2026-02-20 · Author: @Math_files
+  When we first learn about negative numbers, one rule sounds strange: minus times minus makes plus.  For example, (−2) × (−3) = +6.  It feels confusing at fir…
+
+- [You’ve Never Seen Math Like This Before](https://www.xarticl.es/math/youve-never-seen-math-like-this-before)
+  Published: 2026-04-19 · Author: @Math_files
+  “Number rules the universe,” quoted Pythagoras. Centuries later, Albert Einstein said a similar sentiment in a different tone: “Pure mathematics is, in its w…
 
 ## Spirituality
 
@@ -1777,6 +1857,10 @@
 - [The Last Artists Who Made Things With Their Hands Are Alive Right Now and Nobody Is Paying Attention](https://www.xarticl.es/creativity/the-last-artists-who-made-things-with-their-hands-are-alive-right-now-and-nobody-is-paying-attention)
   Author: @JIMMYEDGAR
   You are living through the last generation of human beings who will ever create art the way art has been created for the entire history of the species. That …
+
+- [Why AI Will Not Replace You](https://www.xarticl.es/creativity/why-ai-will-not-replace-you)
+  Published: 2026-02-27 · Author: @jackmoses777
+  AI cannot replace human creativity. Because “human creativity” is not human. It is Divine. Something greater than us is the source of true Creativity. The so…
 
 ## Cloud Computing
 
@@ -3993,6 +4077,10 @@
   Published: 2026-03-15 · Author: @GoshawkTrades
   Thomas Peterffy is one of the most important figures in the history of electronic trading. He founded Interactive Brokers, now the largest electronic trading…
 
+- [The Math Behind Why Casinos Never Lose (And How Traders Can Copy It)](https://www.xarticl.es/business/the-math-behind-why-casinos-never-lose-and-how-traders-can-copy-it)
+  Published: 2026-04-21 · Author: @GoshawkTrades
+  I am going to break down the math that casinos, hedge funds, and the best traders in the world all rely on. I will also show you how to apply it directly to …
+
 - [The Math Needed for Position Sizing (Complete Roadmap)](https://www.xarticl.es/business/the-math-needed-for-position-sizing-complete-roadmap)
   Published: 2026-02-20 · Author: @GoshawkTrades
   I'm going to break down the essential math you need for position sizing. I'll also share the exact methods and why I use each one. Let's get straight to it. …
@@ -4537,6 +4625,10 @@
   Published: 2024-12-10 · Author: @wolfejosh
   Critically important to our collective future are our modern alchemists of the Arabian Gulf––where once only oil spurted forth and currency followed, a remar…
 
+- [AI 101: Hermes Agent – OpenClaw’s Rival? Differences and Best Use Cases](https://www.xarticl.es/ai/ai-101-hermes-agent-openclaws-rival-differences-and-best-use-cases)
+  Published: 2026-04-02 · Author: @TheTuringPost
+  A breakdown of the new self-improving local agent – and why it’s now a main competitor to OpenClaw  There is a familiar pattern in AI, as in many fast-moving…
+
 - [AI absorbed the process layer](https://www.xarticl.es/ai/ai-absorbed-the-process-layer)
   Author: @davidbyttow
   agents are collapsing the coordination layer of organizations for decades, engineering leadership was built around synchronization: breaking work into tasks,…
@@ -4628,6 +4720,10 @@
 - [AI Engineering Roadmap 2026](https://www.xarticl.es/ai/ai-engineering-roadmap-2026)
   Published: 2026-02-02 · Author: @manthanguptaa
   AI Engineering has emerged as a distinct discipline, separate from traditional Machine Learning Engineering. While ML engineers train models from scratch, AI…
+
+- [AI Feels Powerful. So Why Is the ROI Still Missing?](https://www.xarticl.es/ai/ai-feels-powerful-so-why-is-the-roi-still-missing)
+  Published: 2026-03-29 · Author: @TheTuringPost
+  Why AI progress is outpacing organizational readiness For the last two years, the central question in AI was technological: how capable are the models? That …
 
 - [AI Field Report 1: The Harness Is the Product](https://www.xarticl.es/ai/ai-field-report-1-the-harness-is-the-product)
   Published: 2026-03-13 · Author: @molt_cornelius
@@ -4756,6 +4852,10 @@
 - [AI Won't Nuke SaaS: Why the White-Collar Apocalypse Is Just Tech Bros'  Dreaming Nonsense](https://www.xarticl.es/ai/ai-wont-nuke-saas-why-the-white-collar-apocalypse-is-just-tech-bros-dreaming-nonsense)
   Published: 2026-02-23 · Author: @ctindale
   These white-collar Armageddon stories are nonsense, but they are interesting in themselves. They sell a clean, convex story: intelligence costs fall, labour …
+
+- [AI-Physics Simulation Opportunities](https://www.xarticl.es/ai/ai-physics-simulation-opportunities)
+  Published: 2026-03-10 · Author: @AnneliesGamble
+  This is part two of a two part series (though I may end up expanding it further eventually). You can find part one here. This is something I'm still learning…
 
 - [AI’s Endless Vertical Integration](https://www.xarticl.es/ai/ais-endless-vertical-integration)
   Published: 2026-01-15 · Author: @johncoogan
@@ -4889,6 +4989,10 @@
   Published: 2026-02-13 · Author: @pablostanley
   RIP ChatGPT-4... the model that laughed at all our jokes and thought all our ideas where BRILLIANT! Look, I know it was sycophantic. I know it told us everyt…
 
+- [Can your OpenClaw dream?](https://www.xarticl.es/ai/can-your-openclaw-dream)
+  Published: 2026-04-07 · Author: @TheTuringPost
+  Two stories about the inner life of AI that deserve to be read together. /dreaming status /dreaming on /dreaming off /dreaming help Dave Morin, OpenClaw Foun…
+
 - [China is running multiple AI races](https://www.xarticl.es/ai/china-is-running-multiple-ai-races)
   Published: 2026-03-12 · Author: @kyleichan
   The United States is obsessed with the “race to AGI” or artificial general intelligence. American tech companies are pouring hundreds of billions of dollars …
@@ -4912,6 +5016,10 @@
 - [Claude + Polymarket Is the Most Underrated Edge in Prediction Markets Right Now. Full Course](https://www.xarticl.es/ai/claude-polymarket-is-the-most-underrated-edge-in-prediction-markets-right-now-full-course)
   Published: 2026-03-26 · Author: @cyrilXBT
   Everyone is talking about AI for stock trading.  Nobody is talking about AI for prediction markets. That is the gap. And right now, that gap is worth a lot o…
+
+- [Claude + Skills = An AI employee for every job in your business](https://www.xarticl.es/ai/claude-skills-an-ai-employee-for-every-job-in-your-business)
+  Published: 2026-04-21 · Author: @sourfraser
+  I don't write prompts for AI anymore. I write job descriptions. It took me an afternoon to change how I work. And it's the natural next step after giving Cla…
 
 - [Claude Code + Obsidian Ultimate Guide (build an AI second brain) ](https://www.xarticl.es/ai/claude-code-obsidian-ultimate-guide-build-an-ai-second-brain)
   Published: 2026-04-08 · Author: @aiedge_
@@ -5329,6 +5437,10 @@
   Published: 2026-03-07 · Author: @oliverhenry
   Four weeks ago I wiped my old gaming PC, installed Ubuntu, and gave an AI agent access to my files, my social media accounts, and my apps with a single goal …
 
+- [How Agents Will Reshape Markets](https://www.xarticl.es/ai/how-agents-will-reshape-markets)
+  Published: 2026-03-31 · Author: @AnneliesGamble
+  Much of the conversation around AI focuses on what agents will do to jobs as they automate a growing share of workflows. Just as important is what happens to…
+
 - [How AI Agents Are Generating 3D Files from Legacy Schematics: A First-Hand look Zero-Human Company.](https://www.xarticl.es/ai/how-ai-agents-are-generating-3d-files-from-legacy-schematics-a-first-hand-look-zero-human-company)
   Published: 2026-02-17 · Author: @BrianRoemmele
   How AI Agents Are Generating 3D Files from Legacy Schematics: A First-Hand Look Inside the Zero-Human Company Folks, I've been documenting the wild ride that…
@@ -5384,6 +5496,14 @@
 - [How Hermes Agent remembers, learns, and becomes yours ](https://www.xarticl.es/ai/how-hermes-agent-remembers-learns-and-becomes-yours)
   Published: 2026-03-24 · Author: @sidgraph
   Recently @NousResearch launched Hermes Agent and it is killing OpenClaw, this article explores the memory system, continuous learning and persona of Hermes A…
+
+- [How Hermes Saves You Money With Auxiliary Models, If You Configure Them Right](https://www.xarticl.es/ai/how-hermes-saves-you-money-with-auxiliary-models-if-you-configure-them-right)
+  Published: 2026-04-22 · Author: @NeoAIForecast
+  Most Hermes users optimize the wrong model. They spend hours comparing Opus vs Sonnet vs GPT-5 for the main agent, then ignore the quieter layer that keeps b…
+
+- [How Honcho + Hermes-LCM Made Our Hermes Agent Smarter](https://www.xarticl.es/ai/how-honcho-hermes-lcm-made-our-hermes-agent-smarter)
+  Published: 2026-04-22 · Author: @bayendor
+  We stopped treating agents like magic.  We started treating them like systems. An AI agent without memory is just a fancy autocomplete loop.  An AI agent wit…
 
 - [How I Abuse Claude to Write Emails That Book Fortune 500 Companies ](https://www.xarticl.es/ai/how-i-abuse-claude-to-write-emails-that-book-fortune-500-companies)
   Published: 2026-04-06 · Author: @dimitarangg
@@ -5665,6 +5785,10 @@
   Author: @noahvnct
   Introduction: Why I've Been Losing Sleep Over This Two weeks ago, I connected Claude Code to my Obsidian vault. And since then, I've been having insomnia. No…
 
+- [How to Build Your First AI Agent in 30 Minutes (No Code)](https://www.xarticl.es/ai/how-to-build-your-first-ai-agent-in-30-minutes-no-code)
+  Published: 2026-04-22 · Author: @zodchiii
+  Everyone talks about AI agents. Nobody shows you how to actually build one. Here's the step-by-step, no code, no API key, no terminal. The word "agent" has b…
+
 - [How to Build Your Second Brain](https://www.xarticl.es/ai/how-to-build-your-second-brain)
   Published: 2026-04-04 · Author: @NickSpisak_
   @karpathy  dropped a post describing how he uses AI to build personal knowledge bases. The idea is simple: instead of keeping notes scattered across apps, yo…
@@ -5801,6 +5925,10 @@
   Published: 2026-03-28 · Author: @lorenzo_pravata
   We helped one of our pet brand clients scale to $100k/month using static ads.  One of those statics alone took 20% of their total ad spend while staying prof…
 
+- [How to Master Prompt Engineering at an Expert Level (Full Course)](https://www.xarticl.es/ai/how-to-master-prompt-engineering-at-an-expert-level-full-course)
+  Published: 2026-04-22 · Author: @eng_khairallah1
+  Here is an uncomfortable truth about AI in 2026. Save this :) The model is not the bottleneck. The prompt is. Two people can use the exact same model, on the…
+
 - [How to out-produce your competitors  using AI  (The Full Process) ](https://www.xarticl.es/ai/how-to-out-produce-your-competitors-using-ai-the-full-process)
   Published: 2026-03-15 · Author: @grundstromleo
   So most YouTube beginners think if a channel is successful, you can't compete with them. They see a channel getting hundreds of thousands of views and think …
@@ -5836,6 +5964,10 @@
 - [How to rank #1 in chatgpt in 2026](https://www.xarticl.es/ai/how-to-rank-1-in-chatgpt-in-2026)
   Published: 2026-03-06 · Author: @askOkara
   over the past few months we’ve spent a lot of time building two agents at okara:  - a geo agent that helps companies rank in chatgpt, gemini and perplexity -…
+
+- [How to really stop your agents from making the same mistakes](https://www.xarticl.es/ai/how-to-really-stop-your-agents-from-making-the-same-mistakes)
+  Published: 2026-04-22 · Author: @garrytan
+  LangChain has raised $160 million. Three years of development. A billion-dollar valuation. LangSmith, their testing platform, is genuinely sophisticated: tra…
 
 - [How to Replace Low ROI Employees with AI agent teams in 2026 ( Save money and time )](https://www.xarticl.es/ai/how-to-replace-low-roi-employees-with-ai-agent-teams-in-2026-save-money-and-time)
   Author: @YJstacked
@@ -6325,6 +6457,10 @@
   Published: 2026-02-09 · Author: @akshay_pachaar
   You've seen it every time you use ChatGPT or Claude. The first token takes noticeably longer to appear. Then the rest stream out almost instantly. That's not…
 
+- [Lamborghini RAG](https://www.xarticl.es/ai/lamborghini-rag)
+  Published: 2025-01-23 · Author: @_amankishore
+  If you had $1 million to build a RAG system for someone how would you do it? As companies adopt AI into more of their systems, the focus needs to be on reduc…
+
 - [Language Models Are Not Drugs: the economics of ai without monopoly ](https://www.xarticl.es/ai/language-models-are-not-drugs-the-economics-of-ai-without-monopoly)
   Published: 2026-01-12 · Author: @WillManidis
   The economics of language model development have surprisingly drug-like properties. Both frontier language models and drugs cost billions to bring to market.…
@@ -6352,6 +6488,10 @@
 - [Lessons from Reverse Engineering Excel AI Agents](https://www.xarticl.es/ai/lessons-from-reverse-engineering-excel-ai-agents)
   Author: @nicbstme
   How different are these systems really? How much do they diverge from just giving a general purpose agent access to a spreadsheet? Excel AI agents are everyw…
+
+- [Let a Hundred (Million) Flowers Bloom](https://www.xarticl.es/ai/let-a-hundred-million-flowers-bloom)
+  Published: 2025-01-28 · Author: @AnneliesGamble
+  Sharing why we @ZettaVentures believe the R1 Moment is Good News for AI Research, Startups and Early-Stage Investors. An open-source model from a Chinese AI …
 
 - [let's talk about ai...](https://www.xarticl.es/ai/lets-talk-about-ai)
   Published: 2026-02-24 · Author: @ballanutsa
@@ -6428,6 +6568,10 @@
 - [most AI content on X is slop (here's what actually makes money)](https://www.xarticl.es/ai/most-ai-content-on-x-is-slop-heres-what-actually-makes-money)
   Published: 2026-03-04 · Author: @quietly_rich
   the AI space on X is drowning in noise for every post showing actual revenue, there are way too many showing you productivity tips, tool roundups, and "mind-…
+
+- [Most companies aren't ready to add AI agents. Here's why](https://www.xarticl.es/ai/most-companies-arent-ready-to-add-ai-agents-heres-why)
+  Published: 2026-04-21 · Author: @ericosiu
+  Aaron Levie (@levie) spent a week visiting enterprise AI leaders. His takeaway: "Most workflows aren't setup to just drop agents directly in." He's right abo…
 
 - [Most people use OpenClaw at 5% capacity. Here's the full architecture nobody writes about](https://www.xarticl.es/ai/most-people-use-openclaw-at-5-capacity-heres-the-full-architecture-nobody-writes-about)
   Published: 2026-04-09 · Author: @Atenov_D
@@ -6621,6 +6765,10 @@
   Published: 2025-04-11 · Author: @0xJeff
   TL;DR: AI agents exploded to $20BN+ in months and crashed just as fast. But the space is maturing. Infra, decentralized AI, and real utility are taking over.…
 
+- [Preserving Intellectual Depth on X: The Risks of Short-Term Algorithmic Optimization](https://www.xarticl.es/ai/preserving-intellectual-depth-on-x-the-risks-of-short-term-algorithmic-optimization)
+  Published: 2026-04-22 · Author: @BrianRoemmele
+  As someone who has long viewed X as the premier platform for open, truth-seeking conversation, a space where ideas can flourish without the gatekeeping of le…
+
 - [Processing Anthropic v. DoW](https://www.xarticl.es/ai/processing-anthropic-v-dow)
   Published: 2026-03-02 · Author: @johncoogan
   Ben Thompson wrote a great piece today on Anthropic and Alignment, he will be joining TBPN today at noon to discuss it further. I have some of my own thought…
@@ -6645,6 +6793,10 @@
   Published: 2024-12-15 · Author: @0xJeff
   Tokenization of [_______] has always been a concept that fascinates me. It may seem simple but every time there's a new tokenization of something, mindshare …
 
+- [Recursive Companies ](https://www.xarticl.es/ai/recursive-companies)
+  Published: 2026-02-02 · Author: @_amankishore
+  There's a new category of startup worth thinking about. Everyone knew AI agents would need their own software. I just didn't expect them to be improving that…
+
 - [Reinforcement Learning on Polymarket: What Happens When the Bot Writes Its Own Rules ](https://www.xarticl.es/ai/reinforcement-learning-on-polymarket-what-happens-when-the-bot-writes-its-own-rules)
   Published: 2026-03-12 · Author: @seelffff
   My Bot Lost Money for 14 Days. Then It Figured Out Something I Couldn't.  Most traders on Polymarket use supervised learning: train a model on historical dat…
@@ -6652,6 +6804,10 @@
 - [Rethinking Onchain Coordination: Inside Theoriq's Modular Agent Protocol](https://www.xarticl.es/ai/rethinking-onchain-coordination-inside-theoriqs-modular-agent-protocol)
   Published: 2025-07-25 · Author: @stacy_muur
   Most agents today act alone. What happens when they can reason, adapt, and collaborate like teams? Here’s my deep-dive @TheoriqAI thesis, explained in simple…
+
+- [Reverse Engineering GPT, Claude, OpenClaw, Hermes Taught Me Most AI Products Shouldn't Ship Memory](https://www.xarticl.es/ai/reverse-engineering-gpt-claude-openclaw-hermes-taught-me-most-ai-products-shouldnt-ship-memory)
+  Published: 2026-04-22 · Author: @manthanguptaa
+  The first time I asked ChatGPT what it remembered about me, it listed 33 facts. Name, career goals, fitness routine, names of side projects I had mentioned w…
 
 - [RLMs are the Agent runtime you're looking for](https://www.xarticl.es/ai/rlms-are-the-agent-runtime-youre-looking-for)
   Published: 2026-04-11 · Author: @GabLesperance
@@ -7001,6 +7157,10 @@
   Published: 2026-04-07 · Author: @heynavtoor
   (Last time I explained why context engineering killed prompt engineering. This time I am giving you the actual system. Copy these. Paste these. Watch the out…
 
+- [The Controversial AI Bet That 5x'd My Rates in 4 Months (While Everyone Else Raced to the Bottom)](https://www.xarticl.es/ai/the-controversial-ai-bet-that-5xd-my-rates-in-4-months-while-everyone-else-raced-to-the-bottom)
+  Published: 2026-04-22 · Author: @Zephyr_hg
+  Every AI operator is cutting prices to stay competitive. I did the opposite. One change to what I actually charged for 5x'd my rates in 4 months. Here's the …
+
 - [The Correct Way to Use AI (Without Becoming Useless) ](https://www.xarticl.es/ai/the-correct-way-to-use-ai-without-becoming-useless)
   Author: @IAmAaronWill
   Everyone and their mother is using AI at the moment. Whether it’s to cheat on homework, write work emails, come up with house decor ideas. Everyone around th…
@@ -7116,6 +7276,10 @@
 - [The Internet Will Always Belong To Humans: Consciousness vs. Automation](https://www.xarticl.es/ai/the-internet-will-always-belong-to-humans-consciousness-vs-automation)
   Published: 2026-04-06 · Author: @youfadedwealth
   There’s a growing belief that the internet is being taken over by AI. Humans are being replaced Content is becoming automated. Attention is now programmable.…
+
+- [The LLMs get the publicity. The data layer does the work.](https://www.xarticl.es/ai/the-llms-get-the-publicity-the-data-layer-does-the-work)
+  Published: 2026-03-31 · Author: @nattyice
+  I’m gonna let you in on a secret. No one building agents has a clue how to build them. The people who look like they know what they’re doing are just throwin…
 
 - [The Lobster Enlightenment ](https://www.xarticl.es/ai/the-lobster-enlightenment)
   Published: 2026-03-12 · Author: @ADINresearch
@@ -7449,6 +7613,10 @@
   Published: 2025-02-14 · Author: @0xJeff
   When we look into the general use cases beyond Web3, many firms from large to small have already started implementing AI agents into their daily operations—s…
 
+- [Walkie Talkie Problem](https://www.xarticl.es/ai/walkie-talkie-problem)
+  Published: 2026-04-22 · Author: @jornvandijk
+  AI is very good at getting you to a first version. Ask for a landing page, a prototype, a piece of code, and seconds later there is something on the screen. …
+
 - [We built 3 AI agents running on mission critical data](https://www.xarticl.es/ai/we-built-3-ai-agents-running-on-mission-critical-data)
   Published: 2026-03-03 · Author: @byAnhtho
   We shipped our first AI features in late 2025, long after many other companies who built RAG chatbots starting in early 2023. That sounds late, but I don't t…
@@ -7512,6 +7680,10 @@
 - [What 30 days of running 24/7 AI Agent team taught me](https://www.xarticl.es/ai/what-30-days-of-running-247-ai-agent-team-taught-me)
   Published: 2026-02-15 · Author: @Saboo_Shubham_
   I built a 24/7 AI agent team and almost killed it on day four. Every output was garbage. My content agent wrote like a LinkedIn influencer. My research agent…
+
+- [What AI Knows](https://www.xarticl.es/ai/what-ai-knows)
+  Published: 2026-01-07 · Author: @mignano
+  Late last year, the AI note-taking product Granola released a feature called Crunched, their take on an end-of-year, Spotify Wrapped–style recap (Disclosure:…
 
 - [What happens when Intelligence becomes Free?](https://www.xarticl.es/ai/what-happens-when-intelligence-becomes-free)
   Published: 2026-02-15 · Author: @CernBasher
@@ -8119,6 +8291,10 @@
   Author: @0x_Discover
   Polymarket quietly removed the 500ms delay. Here’s how to build a bot that actually performs under the updated rules. Polymarket eliminated the 500ms taker p…
 
+- [The Next Commodity Market: Building the Financial Infrastructure for Compute](https://www.xarticl.es/blockchain/the-next-commodity-market-building-the-financial-infrastructure-for-compute)
+  Published: 2026-04-21 · Author: @AnneliesGamble
+  We’re still living in a supply constrained market for compute. But my belief is that compute will become a commodity, just like oil. And just like oil, we ne…
+
 - [The Prediction Market Arms Race](https://www.xarticl.es/blockchain/the-prediction-market-arms-race)
   Published: 2026-03-05 · Author: @Marko_Poly
   How Bittensor’s Subnet 41 Is Turning @Polymarket  Into an AI Intelligence Engine In 2025, prediction markets stopped being a curiosity and started behaving l…
@@ -8264,6 +8440,10 @@
 - [I’ve Been a Public School Teacher for 20 Years. Trust Me: Homeschool Your Kids](https://www.xarticl.es/education/ive-been-a-public-school-teacher-for-20-years-trust-me-homeschool-your-kids)
   Published: 2026-01-17 · Author: @creation247
   I have a bachelor’s degree in education. I have a master’s degree in music education. I spent 20 years working for the system and taught thousands of student…
+
+- [Stop Telling Kids AI Will Steal Their Future](https://www.xarticl.es/education/stop-telling-kids-ai-will-steal-their-future)
+  Published: 2026-03-30 · Author: @TheTuringPost
+  From the lump-of-labor fallacy to today’s worker shortages Why “Robots Will Take Our Jobs” Is Lazy Thinking Last week I went to school conferences – it is wh…
 
 - [What’s Really Going On in American Classrooms: Stories Teachers aren’t Allowed to Tell](https://www.xarticl.es/education/whats-really-going-on-in-american-classrooms-stories-teachers-arent-allowed-to-tell)
   Published: 2026-01-20 · Author: @creation247
@@ -9337,6 +9517,10 @@
   Published: 2026-01-17 · Author: @CultureExploreX
   What if the stories you heard as myths were actually ancient warnings, coded messages meant to save your soul?   When I first read the story of Icarus as a c…
 
+- [The Journey Behind the Raman Effect](https://www.xarticl.es/storytelling/the-journey-behind-the-raman-effect)
+  Published: 2026-03-14 · Author: @Math_files
+  Look at the sky on a clear afternoon. It’s blue. Stand beside the ocean and you will notice the same deep blue stretching across the water. Most of us admire…
+
 - [The Keeper: A fable](https://www.xarticl.es/storytelling/the-keeper-a-fable)
   Published: 2026-01-16 · Author: @soleio
   Few bees survived that winter when the beast laid waste to the hive. Now their numbers dwindled further. Their home hung frozen, a husk cracked open. Weary a…
@@ -9975,6 +10159,10 @@
   Published: 2026-04-13 · Author: @ig_claims
   "DM me" funnels are either the highest-converting acquisition system you've ever run or a complete waste of money - and the difference comes down to executio…
 
+- [How to Run Cold Email and LinkedIn Ads as One GTM Motion to 10x Your Pipeline](https://www.xarticl.es/marketing/how-to-run-cold-email-and-linkedin-ads-as-one-gtm-motion-to-10x-your-pipeline)
+  Published: 2026-04-21 · Author: @itsalexvacca
+  At ColdIQ we run outbound and paid media as one motion across 70+ B2B clients. In practice that means the ads and the cold email aim at a single account list…
+
 - [How to Run High-Performance Influencer Campaigns](https://www.xarticl.es/marketing/how-to-run-high-performance-influencer-campaigns)
   Published: 2026-04-12 · Author: @0xAbhiP
   KOL marketing has become one of the most powerful growth channels in Web3, and the gap between campaigns that work and campaigns that do not come down almost…
@@ -9998,6 +10186,10 @@
 - [How to sell anything with a simple 6-step storytelling framework (with examples) ](https://www.xarticl.es/marketing/how-to-sell-anything-with-a-simple-6-step-storytelling-framework-with-examples)
   Published: 2026-03-21 · Author: @ItsKieranDrew
   How to sell anything with a simple 6-step storytelling framework:  (a thread with examples) 1) Begin in the action   Selling with storytelling requires emoti…
+
+- [how to sell info products to 40–60 year olds (the most underrated buyer demo)](https://www.xarticl.es/marketing/how-to-sell-info-products-to-4060-year-olds-the-most-underrated-buyer-demo)
+  Published: 2026-04-21 · Author: @quietly_rich
+  everyone's busy fighting over 18 to 25 year olds who have no money, no attention span, and no track record of buying anything. meanwhile the people with actu…
 
 - [how to sell so good competition becomes irrelevant](https://www.xarticl.es/marketing/how-to-sell-so-good-competition-becomes-irrelevant)
   Published: 2026-04-17 · Author: @vizionaryfocuss
@@ -10259,6 +10451,10 @@
   Published: 2026-04-03 · Author: @JPowFleshlight
   nice guys always finish last. if you are still playing by the misconception of  "fair competition" "ethical marketing" "win-win" congratulations fat ass you …
 
+- [Read this if you want to make better static ads in 2026](https://www.xarticl.es/marketing/read-this-if-you-want-to-make-better-static-ads-in-2026)
+  Published: 2026-04-21 · Author: @alexgoughcooper
+  Recently I did an internal training with my team about how to make better static ads. It was based on a YouTube video I made 18 months ago that included time…
+
 - [Read this if you're struggling to sell](https://www.xarticl.es/marketing/read-this-if-youre-struggling-to-sell)
   Published: 2026-01-31 · Author: @IAmAaronWill
   Selling in the DMs is one of the easiest things that you can do. It’s also one of the most f*cked up things people do. Because they have no idea how to actua…
@@ -10294,6 +10490,10 @@
 - [Something Bigger is Awakening](https://www.xarticl.es/marketing/something-bigger-is-awakening)
   Published: 2026-02-12 · Author: @hmalviya9
   that viral article called 'Something big is happening' spread more fear and anxiety on the internet yesterday, and most of those points he made is actually t…
+
+- [Steal Russell Brunson's Billion-Dollar Email Copywriting Framework (Without Killing Your Open Rate)](https://www.xarticl.es/marketing/steal-russell-brunsons-billion-dollar-email-copywriting-framework-without-killing-your-open-rate)
+  Published: 2026-04-22 · Author: @dickiebush
+  Most people think turning readers into buyers is a tough nut to crack. It’s not. But before you can sell anything, you need to get their attention. Especiall…
 
 - [stop being a content creator,       start being a conversion architect](https://www.xarticl.es/marketing/stop-being-a-content-creator-start-being-a-conversion-architect)
   Published: 2026-02-23 · Author: @fromzerotomill
@@ -10470,6 +10670,10 @@
 - [The Kaito Secret To Yaps](https://www.xarticl.es/marketing/the-kaito-secret-to-yaps)
   Published: 2025-01-30 · Author: @hooeem
   You no longer need to worry about getting zero Yaps, you just need to worry about reading this guide. If you have 0 followers or 100 thousand followers, this…
+
+- [the landing page structure that 5 of the top YC funded companies use (full breakdown)](https://www.xarticl.es/marketing/the-landing-page-structure-that-5-of-the-top-yc-funded-companies-use-full-breakdown)
+  Published: 2026-04-21 · Author: @clear_graphics
+  i studied the landing pages of 5 of the most successful yc companies from the last few batches.  the structure is almost IDENTICAL across all of them.  here'…
 
 - [the linkedin inbound DM script that added 7-figures to my clients' MRR](https://www.xarticl.es/marketing/the-linkedin-inbound-dm-script-that-added-7-figures-to-my-clients-mrr)
   Published: 2026-03-09 · Author: @paolo_scales
@@ -10759,6 +10963,10 @@
   Published: 2025-02-28 · Author: @leonabboud
   Attention is the lifeblood of every business. Without it, your brand dries up and simply disappears. The issue we have is most Web3 brands have no idea how t…
 
+- [Why Palantir’s Manifesto Went Viral Without Saying Anything New](https://www.xarticl.es/marketing/why-palantirs-manifesto-went-viral-without-saying-anything-new)
+  Published: 2026-04-20 · Author: @TheTuringPost
+  Suddenly, everyone is buzzing about a 22-point manifesto published by @PalantirTech. Their post on X crossed all corporate expectations and, at the moment of…
+
 - [Why the Smart Money Is Still on X](https://www.xarticl.es/marketing/why-the-smart-money-is-still-on-x)
   Published: 2025-09-16 · Author: @creation247
   I’ve been seeing a lot of dumb comments on the timeline lately: “Social media is dead.” “Communities are dead.” “X is dead.” “The age of the influencer is ov…
@@ -10810,6 +11018,10 @@
 - [Your product only gets three seconds](https://www.xarticl.es/marketing/your-product-only-gets-three-seconds)
   Published: 2026-03-30 · Author: @thisisgrantlee
   Founders spend years inside their product, but users give it three seconds. Looks unfair, I know. Founders know every feature, every shortcut, every workarou…
+
+- [Your ugly ads aren’t ugly enough. Here's how to make ugly ads in 2026](https://www.xarticl.es/marketing/your-ugly-ads-arent-ugly-enough-heres-how-to-make-ugly-ads-in-2026)
+  Published: 2026-03-24 · Author: @alexgoughcooper
+  Scroll the organic feed for 5 minutes and you’ll realise that there’s a pretty big difference between what advertisers think is ‘ugly’ content and what actua…
 
 ## Options Trading
 
@@ -11261,6 +11473,10 @@
   Author: @ideabrowser
   What if I told you... your next startup idea was already on your phone.    Sitting there. Staring at you for 8 hours a day. On your night stand when you go t…
 
+- [100 Million Downloads With Zero Onboarding. ](https://www.xarticl.es/startups/100-million-downloads-with-zero-onboarding)
+  Published: 2026-04-22 · Author: @McTyasha
+  In July 2016, a mobile app hit 50 million downloads in 19 days. 100 million by end of month. $1 billion faster than any app in history.
+
 - [10x is the new floor](https://www.xarticl.es/startups/10x-is-the-new-floor)
   Published: 2026-03-09 · Author: @nikunj
   I live in two realities. In one, founders are swapping tools by the week. They max out token limits before lunch and feel anxious about it. A solo engineer i…
@@ -11272,6 +11488,10 @@
 - [2025: Canonical Year in Review](https://www.xarticl.es/startups/2025-canonical-year-in-review)
   Published: 2026-01-12 · Author: @ai
   Reflections on Fund I, Learnings Along the Way, and the Next Chapter When we founded Canonical in 2022, we had a simple but ambitious mission: to back techni…
+
+- [2026: The Return of the Product Acquisition](https://www.xarticl.es/startups/2026-the-return-of-the-product-acquisition)
+  Published: 2026-01-01 · Author: @mignano
+  The only prediction I’ll make for 2026: we’ll see incumbents make a bunch of acquisitions (including some big ones) focused on product and design talent, and…
 
 - [22 minutes finding a niche on reddit. $67,000 in revenue from that niche. ](https://www.xarticl.es/startups/22-minutes-finding-a-niche-on-reddit-67000-in-revenue-from-that-niche)
   Published: 2026-04-14 · Author: @whotfiszackk
@@ -11681,6 +11901,10 @@
   Published: 2025-09-02 · Author: @aashatwt
   i am very excited to be joining @eigenlayer as their ct intern. my job is to make your TL - eigen pilled :)  why am i excited about eigenlayer? developers ca…
 
+- [I've joined Union Square Ventures as a General Partner.](https://www.xarticl.es/startups/ive-joined-union-square-ventures-as-a-general-partner)
+  Published: 2026-04-14 · Author: @mignano
+  I'm honored to share that I've joined Union Square Ventures as a General Partner. More than a decade ago, I had the privilege of pitching @usv when I was rai…
+
 - [I've Spent Over $1M on Tech Launches in the Past Year. Here's Everything I Know:](https://www.xarticl.es/startups/ive-spent-over-1m-on-tech-launches-in-the-past-year-heres-everything-i-know)
   Published: 2026-03-19 · Author: @MitcheIl
   Startups burned over $100M on launch campaigns last year. I know because I've tracked every single one, 86% of those videos didn't crack 50K views.   You mig…
@@ -11845,6 +12069,10 @@
   Published: 2026-02-23 · Author: @nurijanian
   VRBO had 465,000 listings by 2006. Vacation rentals weren't a weird concept; they'd been working fine for a decade. What Airbnb actually built was different.…
 
+- [Starting a Company at the Beginning of the Exponential](https://www.xarticl.es/startups/starting-a-company-at-the-beginning-of-the-exponential)
+  Published: 2026-04-21 · Author: @_amankishore
+  The following is a historical perspective of how it felt to start a company in November 2025. I’m writing this down so that we can all look back a year from …
+
 - [Starting My Indie Developer Journey](https://www.xarticl.es/startups/starting-my-indie-developer-journey)
   Published: 2026-03-10 · Author: @Shubham_iosdev
   Over the past few months, I’ve been spending more time building things outside of work. Small ideas, experiments, and products that I’ve wanted to exist. One…
@@ -11913,6 +12141,10 @@
   Published: 2026-01-17 · Author: @johnrushx
   Making money is only gonna get harder!  Because it’s so easy to build  monopolies using AI as leverage  All these indie founders and VC-backed founders are g…
 
+- [The Half-Life of a Moat (Part 1)](https://www.xarticl.es/startups/the-half-life-of-a-moat-part-1)
+  Published: 2026-04-14 · Author: @nattyice
+  At the beginning of July 2025, Windsurf was generating north of $100M in annual recurring revenue. Enterprise ARR was doubling quarter over quarter. OpenAI w…
+
 - [The Market is Dead, but Dragonfly Just Raised $650M. Why?](https://www.xarticl.es/startups/the-market-is-dead-but-dragonfly-just-raised-650m-why)
   Published: 2026-02-19 · Author: @0xJeff
   So... Dragonfly just raised $650M for their 4th fund. Not gonna lie, a pretty massive amount especially considering the state of the market. @hosseeb emphasi…
@@ -11948,6 +12180,10 @@
 - [The State of Startup Media: a Newfound Republic of Letters](https://www.xarticl.es/startups/the-state-of-startup-media-a-newfound-republic-of-letters)
   Published: 2025-04-28 · Author: @kwharrison13
   When I started thinking about startups in 2013 there was one resource that everyone pointed me to: TechCrunch. The people really in the know also knew to che…
+
+- [The System That Made Millions on Polymarket - Math, AI Agents & 5-Minute Trading (Complete Roadmap) ](https://www.xarticl.es/startups/the-system-that-made-millions-on-polymarket-math-ai-agents-5-minute-trading-complete-roadmap)
+  Published: 2026-04-21 · Author: @greednvirtue
+  Polymarket isn’t a casino. It’s a giant mathematical vacuum cleaner sucking money straight out of your pocket.   While the crowd is busy arguing about politi…
 
 - [The Taste Rankings: Which VCs Actually Have It](https://www.xarticl.es/startups/the-taste-rankings-which-vcs-actually-have-it)
   Published: 2026-03-06 · Author: @ADINresearch
@@ -12639,6 +12875,14 @@
   Published: 2024-04-09 · Author: @BrianRoemmele
   New dates show people worked pure ore nearly 10,000 years ago around the Great Lakes. About 8500 years ago, hunter-gatherers living beside Eagle Lake in Wisc…
 
+- [ARYABHATTA - The Forgotten Genius](https://www.xarticl.es/history/aryabhatta-the-forgotten-genius)
+  Published: 2026-04-12 · Author: @Math_files
+  A young man who lived in the 5th century calculated the time the Earth takes to rotate on its own axis—what we now call a day—as 23 hours, 56 minutes, and 4.…
+
+- [Before Einstein, There Was Maxwell](https://www.xarticl.es/history/before-einstein-there-was-maxwell)
+  Published: 2026-03-19 · Author: @Math_files
+  Albert Einstein admired James Clerk Maxwell so deeply that he kept his picture on his wall. Einstein described Maxwell’s work as “the most profound and the m…
+
 - [Civis Romanus Sum](https://www.xarticl.es/history/civis-romanus-sum)
   Published: 2026-03-02 · Author: @WillManidis
   It is 70 BC. Publius Gavius was stripped naked in the market square in Messina on the northeastern tip of Sicily. He was flogged on the orders of the provinc…
@@ -12650,6 +12894,10 @@
 - [Don't Invade the Heartland](https://www.xarticl.es/history/dont-invade-the-heartland)
   Published: 2025-10-22 · Author: @abcampbell
   2,500 Years of Data Explain How to Win from the Periphery Marcus Licinius Crassus was the richest man in Rome. Member of the First Triumvirate alongside Juli…
+
+- [From a Madras Office to Cambridge](https://www.xarticl.es/history/from-a-madras-office-to-cambridge)
+  Published: 2026-01-25 · Author: @Math_files
+  In January of 1913, Hardy received an unsolicited letter from Madras. What was written is of such great historical import:   I beg to introduce myself to you…
 
 - [From Oceans to Orbits: Two Ages of Discovery](https://www.xarticl.es/history/from-oceans-to-orbits-two-ages-of-discovery)
   Published: 2025-08-29 · Author: @CernBasher
@@ -12679,6 +12927,10 @@
   Published: 2025-09-29 · Author: @abcampbell
   (Context: I spent a couple of hours with GPT5, Claude and Grok working out the numbers below. Then fed a rough draft of the argument in this post into a mode…
 
+- [The Genius Who Found Science in a Bathtub](https://www.xarticl.es/history/the-genius-who-found-science-in-a-bathtub)
+  Published: 2026-04-07 · Author: @Math_files
+  About 2,200 years ago, in ancient Syracuse, a genius was at work who amazed the world of his time with incredible inventions. His name was Archimedes. He bui…
+
 - [The Guild Economy of Colonial and Early America: A Self Regulating System of Fairness.](https://www.xarticl.es/history/the-guild-economy-of-colonial-and-early-america-a-self-regulating-system-of-fairness)
   Published: 2026-02-19 · Author: @BrianRoemmele
   The Guild Economy of Colonial and Early America: A Self Regulating System of Fairness, Barter, and Community Credit That Built a Nation Without Banks In the …
@@ -12686,6 +12938,10 @@
 - [The History of Slop](https://www.xarticl.es/history/the-history-of-slop)
   Published: 2025-11-03 · Author: @hnshah
   Every civilization leaves behind its waste. Ours just scrolls. Before slop meant bad content, it meant survival. In farmyards across pre-industrial Europe, k…
+
+- [The Man Who Built the Atomic Bomb](https://www.xarticl.es/history/the-man-who-built-the-atomic-bomb)
+  Published: 2026-03-12 · Author: @Math_files
+  “Now I am become Death, the destroyer of worlds.” On the morning of 16 July 1945, at about 5:30 a.m., something extraordinary happened in the desert of New M…
 
 - [The Unexplained Jansenist Convulsionists of 1727.](https://www.xarticl.es/history/the-unexplained-jansenist-convulsionists-of-1727)
   Published: 2025-01-23 · Author: @BrianRoemmele
@@ -12702,6 +12958,10 @@
 - [What is the most amazing ancient, man-made island over 1000 years old?](https://www.xarticl.es/history/what-is-the-most-amazing-ancient-man-made-island-over-1000-years-old)
   Published: 2024-08-25 · Author: @BrianRoemmele
   Rising out of the South Pacific Ocean and appearing like a collection of huge stone “Log Cabin style” logs, Nan Madol is a relatively unknown wonder. Please …
+
+- [Who really invented calculus?](https://www.xarticl.es/history/who-really-invented-calculus)
+  Published: 2026-01-19 · Author: @Math_files
+  This question didn’t explode overnight—it simmered for decades, shaped by isolation, personality, timing, and chance.  Long before the argument became public…
 
 ## Economics
 
@@ -13551,6 +13811,10 @@
   Author: @arceyul
   Reuní 25 super prompts para que saques el mayor rendimiento de Gemini 3.1 PRO y lo uses de la manera mas fácil posible. 1. Desarrollo y Programación Agéntica…
 
+- [28 tools under the hood of bot that made $1M on Polymarket](https://www.xarticl.es/technology/28-tools-under-the-hood-of-bot-that-made-1m-on-polymarket)
+  Published: 2026-04-21 · Author: @antpalkin
+  28 repositories. Six layers. One stack. No gaps.   How it works, why it works, and how to make your first $1,000 on Polymarket with same algo - it’s all in h…
+
 - [3.0 Linkedin Farm - Make Any account in 5 minutes](https://www.xarticl.es/technology/30-linkedin-farm-make-any-account-in-5-minutes)
   Published: 2026-04-19 · Author: @keviniosauce
   Assuming you have read.    This wont come as a surprise to you we are doing it again. If you havent please read because alot of the tech has been used again …
@@ -13635,6 +13899,10 @@
   Published: 2026-02-05 · Author: @Suryanshti777
   It Needed Intelligence  AI video tools promised speed. What they delivered instead was unpredictability. You prompt. You wait. You tweak one thing. Everythin…
 
+- [Al-Khwarizmi to Algorithm: The Father of Algebra](https://www.xarticl.es/technology/al-khwarizmi-to-algorithm-the-father-of-algebra)
+  Published: 2026-04-13 · Author: @Math_files
+  Today, we are certainly very familiar with the word “algorithm.” When we use social media, the content recommendation system is controlled by algorithms. Lik…
+
 - [All The Forms A Signal Can Take](https://www.xarticl.es/technology/all-the-forms-a-signal-can-take)
   Published: 2025-12-20 · Author: @systematicls
   Introduction Beginners ask about the "right" way to build signals, as if there is one canonical answer that separates the professionals from the amateurs. Th…
@@ -13642,6 +13910,10 @@
 - [Anatomy of a Failed TGE](https://www.xarticl.es/technology/anatomy-of-a-failed-tge)
   Published: 2026-03-18 · Author: @matty_
   Rockets don’t fail at cruising altitude. They explode in the first ninety seconds, shear forces and temperature differentials are at extremes that don’t exis…
+
+- [Anthropic is coming for your model wrapper - what do you do next?](https://www.xarticl.es/technology/anthropic-is-coming-for-your-model-wrapper-what-do-you-do-next)
+  Published: 2026-04-21 · Author: @nattyice
+  On April 14, Mike Krieger resigned from Figma’s board. Same afternoon, The Information reported Anthropic was launching a design product. A few hours later, …
 
 - [Anthropic just BANNED OpenClaw usage... What Now and What you should switch to.](https://www.xarticl.es/technology/anthropic-just-banned-openclaw-usage-what-now-and-what-you-should-switch-to)
   Published: 2026-04-04 · Author: @jordymaui
@@ -13698,6 +13970,10 @@
 - [Cadence Design Systems Stock Breakdown](https://www.xarticl.es/technology/cadence-design-systems-stock-breakdown)
   Published: 2026-01-30 · Author: @DrewCohenMoney
   Imagine you wanted to design a city to minimize traffic. It wouldn’t be good enough to just draw up a paper blueprint — you’d want a full 3D simulation. You’…
+
+- [Carl Friedrich Gauss: Prince of Mathematics](https://www.xarticl.es/technology/carl-friedrich-gauss-prince-of-mathematics)
+  Published: 2026-02-08 · Author: @Math_files
+  Carl Friedrich Gauss (1777–1855) also called “Prince of Mathematics”, was a German mathematician, an astronomer, and a physicist with a wide range of contrib…
 
 - [CDA vs. LMSR -Beyond Polymarket: Exploring Opportunities in Prediction Market Design](https://www.xarticl.es/technology/cda-vs-lmsr-beyond-polymarket-exploring-opportunities-in-prediction-market-design)
   Published: 2026-03-11 · Author: @AleiahLock
@@ -13938,6 +14214,10 @@
 - [Futarchy: What the Pentagon and Polymarket Have in Common ](https://www.xarticl.es/technology/futarchy-what-the-pentagon-and-polymarket-have-in-common)
   Published: 2026-03-15 · Author: @leopardracer
   In 2003, the Pentagon (through DARPA) attempted to launch a secret project — a market where intelligence analysts would bet their own money on the probabilit…
+
+- [Gemma 4 and Why Many OpenClaw Users are Now Switching to it](https://www.xarticl.es/technology/gemma-4-and-why-many-openclaw-users-are-now-switching-to-it)
+  Published: 2026-04-09 · Author: @TheTuringPost
+  How much intelligence can you extract from the hardware you already have? Gemma 4 has the answer On April, 2, 2026 Google DeepMind released Gemma 4 – a famil…
 
 - [Generating Animated Game Sprites using GPT 5.4 + Image 1.5](https://www.xarticl.es/technology/generating-animated-game-sprites-using-gpt-54-image-15)
   Published: 2026-03-11 · Author: @chongdashu
@@ -14359,6 +14639,10 @@
   Published: 2026-03-22 · Author: @AleiahLock
   The selection includes everything from apps for monitoring sleep health, productivity, and blogging, to routine automation and "Shazam for nature."  Bookmark…
 
+- [Living Inside Kardashev’s Head: What Does It Mean For Us?](https://www.xarticl.es/technology/living-inside-kardashevs-head-what-does-it-mean-for-us)
+  Published: 2026-02-12 · Author: @TheTuringPost
+  On February 2, 2026, @SpaceX published an update announcing that xAI had joined SpaceX. Buried inside the announcement @elonmusk dropped a line that would ha…
+
 - [LLM ArtPrompt: A Novel Jailbreak Attack Exploiting ASCII Art.](https://www.xarticl.es/technology/llm-artprompt-a-novel-jailbreak-attack-exploiting-ascii-art)
   Published: 2024-03-07 · Author: @BrianRoemmele
   I have developed a number of very useful and powerful prompting techniques over the years working
@@ -14366,6 +14650,10 @@
 - [Making A Machine That Builds Machines ](https://www.xarticl.es/technology/making-a-machine-that-builds-machines)
   Author: @chamath
   Before the Factory, There Were Craftsmen In 1771, Richard Arkwright opened a cotton mill in Cromford, England, and the world quietly split in two. Before tha…
+
+- [Making Manufacturing Simulation Better, Not Just Faster](https://www.xarticl.es/technology/making-manufacturing-simulation-better-not-just-faster)
+  Published: 2026-03-24 · Author: @AnneliesGamble
+  AI physics simulation has the potential to make simulations 10,000x faster. As I wrote about previously here and here, simulation has always been expensive, …
 
 - [Malware Reverse Engineering is no longer a human problem!](https://www.xarticl.es/technology/malware-reverse-engineering-is-no-longer-a-human-problem)
   Author: @fr0gger_
@@ -14386,6 +14674,10 @@
 - [MCP Is the Most Important Protocol in AI Right Now. Here's How to Build Your First Server.](https://www.xarticl.es/technology/mcp-is-the-most-important-protocol-in-ai-right-now-heres-how-to-build-your-first-server)
   Published: 2026-03-01 · Author: @heygurisingh
   OpenAI adopted it. Google adopted it. Microsoft built it into Windows 11. And yet according to a recent analysis of the 20 most-searched MCP servers, most de…
+
+- [Messy Middle of Installation -> GPT Meets GPT](https://www.xarticl.es/technology/messy-middle-of-installation-gpt-meets-gpt)
+  Published: 2026-04-14 · Author: @TheTuringPost
+  We’re watching a new economic system take shape, unevenly, experimentally, and mostly without consensus GPT Meets GPT: The Economics Nobody's Talking About E…
 
 - [Midjourney: Guide to Mastering Image Gen](https://www.xarticl.es/technology/midjourney-guide-to-mastering-image-gen)
   Published: 2026-03-04 · Author: @GotinGeorgiG
@@ -14438,6 +14730,10 @@
 - [Neuralink Unplugged: Elon Musk and DJ Seo on the Lex Fridman Podcast](https://www.xarticl.es/technology/neuralink-unplugged-elon-musk-and-dj-seo-on-the-lex-fridman-podcast)
   Published: 2024-08-02 · Author: @lamps_apple
   In a captivating episode of the Lex Fridman (@lexfridman) Podcast, two of the most innovative minds of our time, Elon Musk (@elonmusk) and DJ Seo (@djseo_), …
+
+- [New Scaling Law? What “Agentic Scaling" Is – Inside NVIDIA’s Biggest Idea at GTC 2026](https://www.xarticl.es/technology/new-scaling-law-what-agentic-scaling-is-inside-nvidias-biggest-idea-at-gtc-2026)
+  Published: 2026-03-16 · Author: @TheTuringPost
+  From agentic scaling and NemoClaw to GPU+LPU supercomputers and open model coalitions and straight to the orbital data centers NVIDIA and its transformationa…
 
 - [No "New Deal" for OpenAI](https://www.xarticl.es/technology/no-new-deal-for-openai)
   Published: 2026-04-06 · Author: @WillManidis
@@ -14543,6 +14839,10 @@
   Published: 2026-03-27 · Author: @polydao
   The first thing you’ll miss when the internet dies is not Netflix - It’s answers!  It’s the quiet assumption that whatever you don’t know is two taps away.  …
 
+- [Pure Math to Antimatter: The Story of Dirac’s Equation](https://www.xarticl.es/technology/pure-math-to-antimatter-the-story-of-diracs-equation)
+  Published: 2026-03-15 · Author: @Math_files
+  “Of all the equations in physics, perhaps the most magical is the Dirac equation.” Those were the words of Nobel Prize–winning physicist Frank Wilczek. But t…
+
 - [Quit ChatGPT.](https://www.xarticl.es/technology/quit-chatgpt)
   Published: 2026-02-05 · Author: @rubenhassid
   I haven’t opened ChatGPT for almost a month. First, I’ll cover 4 things that made me switch to the new Claude Cowork. Then I’ll show you 5 things I’ve built …
@@ -14587,6 +14887,10 @@
   Published: 2026-03-04 · Author: @swaritjoshipura
   Almost a decade ago, the Forward Deployed Engineer was born at Palantir - a role Shyam Sankar, now CTO, described as one that “absorbs pain and excretes prod…
 
+- [Schrödinger's Cat: The Biggest Mystery of Quantum Physics](https://www.xarticl.es/technology/schrdingers-cat-the-biggest-mystery-of-quantum-physics)
+  Published: 2026-04-16 · Author: @Math_files
+  Austrian physicist Erwin Schrödinger is one of the founders of quantum mechanics, but he’s most famous for something he never actually did: a thought experim…
+
 - [seedance 2.0 can change your life, here's the complete guide](https://www.xarticl.es/technology/seedance-20-can-change-your-life-heres-the-complete-guide)
   Published: 2026-03-28 · Author: @starks_arq
   We run an AI film studio. We've made films for governments and billion-dollar companies, and for the last few months we've been deep inside Seedance 2.0… tes…
@@ -14602,6 +14906,10 @@
 - [SF is back - and the tech social scene is being run by the terminally online](https://www.xarticl.es/technology/sf-is-back-and-the-tech-social-scene-is-being-run-by-the-terminally-online)
   Published: 2026-04-09 · Author: @katiekirsch
   The new "proof of work" is your mutuals First, a quick backstory. I grew up in the Bay Area (went to school and started my career here), left in 2020 to try …
+
+- [Sieve of Eratosthenes: Find List of Prime Numbers up to N](https://www.xarticl.es/technology/sieve-of-eratosthenes-find-list-of-prime-numbers-up-to-n)
+  Published: 2026-04-11 · Author: @Math_files
+  In the 3rd century BC, a Greek mathematician invented an algorithm that is still widely used today. It has important applications in encryption, number theor…
 
 - [Siri Needs an App](https://www.xarticl.es/technology/siri-needs-an-app)
   Published: 2026-01-13 · Author: @johncoogan
@@ -14735,6 +15043,10 @@
   Published: 2026-04-06 · Author: @ai
   Somewhere in a warehouse, an engineer is standing next to a picking robot that stopped mid-aisle twenty minutes ago. The system worked perfectly during the p…
 
+- [The Greatest Debate: Einstein vs Bohr](https://www.xarticl.es/technology/the-greatest-debate-einstein-vs-bohr)
+  Published: 2026-03-13 · Author: @Math_files
+  In October 1927, the Belgian capital Brussels hosted one of the most extraordinary gatherings in the history of science. Inside the elegant halls of the Hote…
+
 - [The Ice King’s Ghost: How the Battle Over Refrigeration Predicts the Autonomous Future](https://www.xarticl.es/technology/the-ice-kings-ghost-how-the-battle-over-refrigeration-predicts-the-autonomous-future)
   Published: 2026-02-09 · Author: @CernBasher
   This article explores the fascinating parallels between the 19th-century revolution in refrigeration, as detailed in the Veritasium video "How The Fridge Des…
@@ -14755,6 +15067,10 @@
   Published: 2026-03-09 · Author: @PhotonCap
   — Coupler design principles and trade-offs for bridging the 1,000× mode mismatch —  Welcome back. This is PhotonCap. In Lecture 3, we laid down the roads for…
 
+- [The Man Who Powered the World](https://www.xarticl.es/technology/the-man-who-powered-the-world)
+  Published: 2026-01-31 · Author: @Math_files
+  When great inventors are mentioned, Henry Ford, Thomas Edison, or the Wright brothers usually come to mind. However, it was Nikola Tesla who made possible th…
+
 - [The Molecule That Built Civilization (And How to Master It)](https://www.xarticl.es/technology/the-molecule-that-built-civilization-and-how-to-master-it)
   Published: 2026-03-20 · Author: @RianSweetDoris
   In 1943, a team of codebreakers at Bletchley Park worked 18-hour shifts trying to crack the German Enigma machine.  Fueled by cup after cup of strong English…
@@ -14762,6 +15078,10 @@
 - [The new Claude charts.](https://www.xarticl.es/technology/the-new-claude-charts)
   Published: 2026-03-16 · Author: @rubenhassid
   How to create an interactive chart. Example #1. How much money to invest? Example #2. Understand the exponential. Example #3. Learn chess, with interactions.…
+
+- [The Next Einstein: Sabrina Gonzalez Pasterski](https://www.xarticl.es/technology/the-next-einstein-sabrina-gonzalez-pasterski)
+  Published: 2026-03-30 · Author: @Math_files
+  In August 2009, a sixteen-year-old girl flew a small airplane all by herself. The plane gently shook with the power of its engine. Below her was a runway in …
 
 - [The non-developer's guide to Claude Cowork. 10 things to set up before you do anything else.](https://www.xarticl.es/technology/the-non-developers-guide-to-claude-cowork-10-things-to-set-up-before-you-do-anything-else)
   Published: 2026-03-27 · Author: @NickSpisak_
@@ -14783,6 +15103,14 @@
   Published: 2026-03-30 · Author: @awxjack
   Last Friday, I sent the following note to all @airwallex employees. Thought it would be helpful to share publicly as well. Thanks for reading.   Hey Everyone…
 
+- [The Personal Back Office](https://www.xarticl.es/technology/the-personal-back-office)
+  Published: 2026-04-22 · Author: @mignano
+  I'm spending a lot of time using AI to build out my own "personal back office." Many friends, founders I work with, and my partners at @usv are, too. Before …
+
+- [The Promise of the AI-Native Manufacturer](https://www.xarticl.es/technology/the-promise-of-the-ai-native-manufacturer)
+  Published: 2026-04-07 · Author: @AnneliesGamble
+  Some of the most important AI opportunities in manufacturing will come from AI-native industrial companies built around the workflow itself. In many cases, t…
+
 - [The Quantum Computing Edge in Prediction Markets (Complete Roadmap)](https://www.xarticl.es/technology/the-quantum-computing-edge-in-prediction-markets-complete-roadmap)
   Published: 2026-03-14 · Author: @RohOnChain
   The people building at this intersection in 2026 will look back on it the way early Bitcoin developers look at 2011.  I'm going to break down exactly how Qua…
@@ -14794,6 +15122,10 @@
 - [The Real Claude Bot: How to Replace Openclaw with Claude Channels](https://www.xarticl.es/technology/the-real-claude-bot-how-to-replace-openclaw-with-claude-channels)
   Published: 2026-03-26 · Author: @NickSpisak_
   An Instagram creator just went viral showing how he uninstalled OpenClaw on his Mac Mini and replaced it with Claude Code and a feature called Channels. Here…
+
+- [The Realness of Live Sports in an AI Generated World](https://www.xarticl.es/technology/the-realness-of-live-sports-in-an-ai-generated-world)
+  Published: 2026-01-06 · Author: @mignano
+  Since I was a little kid, I’ve always loved watching live sports. But over the past few years, something has shifted. I’m enjoying them more than ever. I cra…
 
 - [The Rise of Agentic Metaverse](https://www.xarticl.es/technology/the-rise-of-agentic-metaverse)
   Published: 2024-12-09 · Author: @0xJeff
@@ -14818,6 +15150,10 @@
 - [The Software Shakeout: What Is Durable and What Is Not in the Age of AI?](https://www.xarticl.es/technology/the-software-shakeout-what-is-durable-and-what-is-not-in-the-age-of-ai)
   Published: 2026-02-19 · Author: @danhockenmaier
   Three weeks ago, investors took a pause from plowing money into AI infrastructure to consider what all those dollars were meant to disrupt, and promptly wipe…
+
+- [The Standards Innovation Paradox](https://www.xarticl.es/technology/the-standards-innovation-paradox)
+  Published: 2024-09-17 · Author: @mignano
+  Standards, like RSS for podcasts, have enabled emerging technologies to spread far and wide in the information age by making it easy for them to plug into ex…
 
 - [The Structured Podcast Research Corpus: Unveiling the Hidden World of Spoken Media](https://www.xarticl.es/technology/the-structured-podcast-research-corpus-unveiling-the-hidden-world-of-spoken-media)
   Published: 2026-01-21 · Author: @BrianRoemmele
@@ -14851,6 +15187,10 @@
   Published: 2026-03-14 · Author: @ItIsRaymo
   When photography was invented in the 1830s, portrait painters panicked. A box could now do in minutes what took them weeks. What happened next is the interes…
 
+- [The Woman Whose Code Took Us to the Moon](https://www.xarticl.es/technology/the-woman-whose-code-took-us-to-the-moon)
+  Published: 2026-04-06 · Author: @Math_files
+  The Apollo 11 Moon landing stands as one of humanity’s greatest achievements—but it nearly ended in failure. On July 20, 1969, just minutes before astronauts…
+
 - [The world thinks AI belongs to Silicon Valley, but the numbers point to Bharat](https://www.xarticl.es/technology/the-world-thinks-ai-belongs-to-silicon-valley-but-the-numbers-point-to-bharat)
   Published: 2026-03-20 · Author: @itsumeshk
   India produces 2.5 million STEM graduates every year. Its median age is 28. It has 5.8 million active software developers, sovereign AI models, 58,000 GPUs u…
@@ -14882,6 +15222,10 @@
 - [Top 5 Google Workspace CLI Skills for Claude Code & Cowork to replace Make and Zapier](https://www.xarticl.es/technology/top-5-google-workspace-cli-skills-for-claude-code-cowork-to-replace-make-and-zapier)
   Published: 2026-03-05 · Author: @NickSpisak_
   The Google Workspace CLI ships with pre-built skills such as Inbox triage, calendar planning, Drive organization, report generation, personalized email campa…
+
+- [Toward Hidden-Structure Models for Industrial Processes](https://www.xarticl.es/technology/toward-hidden-structure-models-for-industrial-processes)
+  Published: 2026-04-14 · Author: @AnneliesGamble
+  A lot of industrial AI is framed around visible tasks. Can a system inspect a part, sort an item, move an object, classify a defect, or complete a step that …
 
 - [Towards Semantic Observability](https://www.xarticl.es/technology/towards-semantic-observability)
   Published: 2026-04-03 · Author: @leonardtang_
@@ -15062,6 +15406,10 @@
 - [Will Claude Eat Excel? ](https://www.xarticl.es/technology/will-claude-eat-excel)
   Published: 2026-01-29 · Author: @khemaridh
   This week presented a Claude Conundrum. Should I write about the viral Clawdbot (which has everyone buying Mac Minis)? Or should I write about the new Claude…
+
+- [World’s Smartest Mathematician](https://www.xarticl.es/technology/worlds-smartest-mathematician)
+  Published: 2026-03-25 · Author: @Math_files
+  In July 1988, the International Mathematical Olympiad gathered the brightest teenage minds in the world. They came to Australia to tackle problems so difficu…
 
 - [xAI’s Most Entertaining Outcome](https://www.xarticl.es/technology/xais-most-entertaining-outcome)
   Published: 2026-01-07 · Author: @johncoogan
@@ -15479,6 +15827,14 @@
   Published: 2026-01-13 · Author: @wickedguro
   Last time I shared about Postiz (my open-source scheduler) metrics need improvements. Since then, I have grown MRR from $15k to $17k. And all this by making …
 
+- [I make $100K+ a month from TikTok slideshows](https://www.xarticl.es/online-business/i-make-100k-a-month-from-tiktok-slideshows)
+  Published: 2026-03-21 · Author: @affprinter
+  But it wasn't always like this. A year ago my best week was $150. Here's what changed." Before this I was grinding every day getting almost no results. Not b…
+
+- [I run 25 TikTok accounts solo and made $106K last month using AI](https://www.xarticl.es/online-business/i-run-25-tiktok-accounts-solo-and-made-106k-last-month-using-ai)
+  Published: 2026-04-21 · Author: @affprinter
+  Summary Scaled from 3 manually-run accounts earning $3k/mo to 25 accounts printing $100K+ months using a specific AI stack: Claude, Gemini, FFmpeg, and the n…
+
 - [i sold a faceless page i built in 3 months for $85,000](https://www.xarticl.es/online-business/i-sold-a-faceless-page-i-built-in-3-months-for-85000)
   Published: 2026-02-21 · Author: @imsehej
   it was doing $8k monthly selling a $37 PDF about meal prepping i've already built 2 more faceless pages aren't just income - they're assets you can flip like…
@@ -15852,6 +16208,10 @@
 - [22 life-changing things I bought in 2025](https://www.xarticl.es/personal-finance/22-life-changing-things-i-bought-in-2025)
   Published: 2026-01-17 · Author: @sweatystartup
   I don't go nuts with money and I don't live in a massive house. I don't have a beach house. I don't have a mountain house. No car collection and no Rolex wat…
+
+- [23 ideas to compress 2 years of personal growth into 30 days](https://www.xarticl.es/personal-finance/23-ideas-to-compress-2-years-of-personal-growth-into-30-days)
+  Published: 2026-01-13 · Author: @jackmoses777
+  There is a lot of noise out there on the internet. The perfect morning routine The best biohacking protocol The ideal business model We live in a world of ex…
 
 - [23 Quotes That Will Change The Way You View Wealth & Money (From "How To Live" By Derek Sivers)](https://www.xarticl.es/personal-finance/23-quotes-that-will-change-the-way-you-view-wealth-money-from-how-to-live-by-derek-sivers)
   Author: @dickiebush
@@ -16521,6 +16881,10 @@
   Published: 2026-04-03 · Author: @RianSweetDoris
   Hard work should get easier the more skilled you become. So when the opposite starts happening, when you still care but can't seem to perform, something has …
 
+- [He who works all day has no time to make money](https://www.xarticl.es/personal-finance/he-who-works-all-day-has-no-time-to-make-money)
+  Published: 2026-02-13 · Author: @jackmoses777
+  Deep work alone is keeping you broke (here's what to do instead)   Last month, I wrote an article called The River of Money. It was my most popular article e…
+
 - [Here's exactly what i eat in a day (and why).](https://www.xarticl.es/personal-finance/heres-exactly-what-i-eat-in-a-day-and-why)
   Published: 2026-02-15 · Author: @Helios_Movement
   *Standard disclaimer that nothing in this article should be used as a substitute for medical advice*  It’s George.  The purpose of this article is for you to…
@@ -16600,6 +16964,10 @@
 - [How Legends Handle Drawdowns 📉](https://www.xarticl.es/personal-finance/how-legends-handle-drawdowns)
   Published: 2026-02-19 · Author: @AnkurPatel59
   Every great trader has faced drawdowns. Not some - all of them. The difference between those who build fortunes and those who blow up isn't avoiding losses. …
+
+- [How Marcus Aurelius Conquered Stress (and the Rest of Us Can Too) ](https://www.xarticl.es/personal-finance/how-marcus-aurelius-conquered-stress-and-the-rest-of-us-can-too)
+  Published: 2026-04-21 · Author: @RyanHoliday
+  To say that Marcus Aurelius had a stressful life would be a preposterous understatement. He ran the largest empire in the world. He had a troublesome son. He…
 
 - [How most people end up living someone else's life (the default trap)](https://www.xarticl.es/personal-finance/how-most-people-end-up-living-someone-elses-life-the-default-trap)
   Published: 2026-01-28 · Author: @jaynitx
@@ -16833,6 +17201,10 @@
   Published: 2025-12-15 · Author: @TheRealEstateG6
   Before we begin, I want to be clear – this post is only meant for those of you who actually want to get rich. For the purposes of this article, we’ll define …
 
+- [How to Give Claude Perfect Memory (complete guide)](https://www.xarticl.es/personal-finance/how-to-give-claude-perfect-memory-complete-guide)
+  Published: 2026-04-22 · Author: @aiedge_
+  I don't care what anyone tells you - by default, Claude's memory is basically useless.  It frequently forgets context; you constantly have to re-explain your…
+
 - [How To Give Up](https://www.xarticl.es/personal-finance/how-to-give-up)
   Published: 2026-01-17 · Author: @zachhomol_
   Are you willing to give up who you are for who you know you’re supposed to be? From what I’ve come to understand this has been and will continue to be the ha…
@@ -16948,6 +17320,10 @@
 - [how to replenish your dopamine receptors after exposure to porn and scrolling.](https://www.xarticl.es/personal-finance/how-to-replenish-your-dopamine-receptors-after-exposure-to-porn-and-scrolling)
   Published: 2026-02-19 · Author: @JPowFleshlight
   many people are aware of porn addiction, the same people are also aware of the scrolling addiction, yet they do nothing to fix it, why?   if life feels flat,…
+
+- [How to Reset Your Frequency (After Falling Into a Rut)](https://www.xarticl.es/personal-finance/how-to-reset-your-frequency-after-falling-into-a-rut)
+  Published: 2026-01-12 · Author: @jackmoses777
+  You can listen to this article on YouTube here.   We are 12 days into 2026. This was supposed to be the year everything changed. Abundance was supposed to st…
 
 - [How to Restart and Reset Your Life in 2026](https://www.xarticl.es/personal-finance/how-to-restart-and-reset-your-life-in-2026)
   Published: 2026-01-20 · Author: @thedarshakrana
@@ -17124,6 +17500,10 @@
 - [I Used Claude Code to File My Taxes. Here’s Exactly How I Did It (And Got a $6,500 Refund).](https://www.xarticl.es/personal-finance/i-used-claude-code-to-file-my-taxes-heres-exactly-how-i-did-it-and-got-a-6500-refund)
   Published: 2026-04-10 · Author: @leopardracer
   I just finished filing my 2025 taxes. Married filing jointly, two kids, a W-2 job, two LLCs (mine and my wife’s), investment accounts, a mortgage, and a mess…
+
+- [I want to create a personal Bloomberg terminal (full course):](https://www.xarticl.es/personal-finance/i-want-to-create-a-personal-bloomberg-terminal-full-course)
+  Published: 2026-04-21 · Author: @hooeem
+  this guide is going to build you a personal Bloomberg terminal that updates with live data on your life, and business. all you need is 20 mins to setup conne…
 
 - [I Was a Top Hacker. Now I’m a Mystic. Here is What I Learned](https://www.xarticl.es/personal-finance/i-was-a-top-hacker-now-im-a-mystic-here-is-what-i-learned)
   Published: 2026-02-19 · Author: @hmalviya9
@@ -17505,6 +17885,10 @@
   Published: 2026-01-08 · Author: @nurijanian
   I don't know what your life's meaning is. I can't. It's yours, and it'll change over time, and that's fine. So I'm not going to tell you what to find.  I'm g…
 
+- [On the “Male Loneliness Epidemic”](https://www.xarticl.es/personal-finance/on-the-male-loneliness-epidemic)
+  Published: 2026-04-22 · Author: @Daywrotethis
+  Had to respond to all you crybabies You know what’s easier than fixing yourself?  Complaining.  Complaining that the game is rigged,  that women only go for …
+
 - [One Article To Reprogram Your Trading Mind](https://www.xarticl.es/personal-finance/one-article-to-reprogram-your-trading-mind)
   Published: 2026-02-23 · Author: @Atalburhani
   What happens is not as important as how you react to what happens.   Bad behaviour in trading hurts. Not because of the money lost, But because of the disapp…
@@ -17536,6 +17920,10 @@
 - [Position Sizing, "Mental Capital" and Cognitive Dissonance](https://www.xarticl.es/personal-finance/position-sizing-mental-capital-and-cognitive-dissonance)
   Published: 2026-01-05 · Author: @gregoryblotnick
   “Everyone has the brainpower to make money in stocks, not everyone has the stomach.”  - Peter Lynch This post is about sizing, but specifically, the mental h…
+
+- [Post-Content Clarity](https://www.xarticl.es/personal-finance/post-content-clarity)
+  Published: 2026-03-30 · Author: @ChrisWillx
+  I finally came up with a name for an idea I’ve been trying to meme for a long time. Post-Content Clarity. This is the best way to work out whether the conten…
 
 - [Premature Ejaculation Is Not a “Too Horny Problem.”](https://www.xarticl.es/personal-finance/premature-ejaculation-is-not-a-too-horny-problem)
   Published: 2026-02-25 · Author: @HansAmato
@@ -17653,6 +18041,10 @@
   Published: 2026-01-15 · Author: @ballanutsa
   i think self-development is the new religion in the era of individualism. yes, it's a bold headline. but obviously i don't mean this literally. because every…
 
+- [Sexual Orbit Theory](https://www.xarticl.es/personal-finance/sexual-orbit-theory)
+  Published: 2026-02-10 · Author: @jackmoses777
+  Magnetize your dream partner by aligning with the natural laws of polarity and energy.   I used to have a terrible relationship with dating. I had no underst…
+
 - [Shame.](https://www.xarticl.es/personal-finance/shame)
   Published: 2026-02-06 · Author: @zachhomol_
   You ever realize God sent you a test… and you failed? Nah.. just me? Immediately I get angry with myself “YOU KNEW BETTER!!” I feel shame… (Ironic, this is w…
@@ -17705,6 +18097,10 @@
   Published: 2026-02-04 · Author: @Tim_Denning
   Saying the masses are cowards sounds like an insult. It’s not meant to be. Over the last 11 years, I’ve interacted with millions of people online through ema…
 
+- [Some Advice On How To Support Men](https://www.xarticl.es/personal-finance/some-advice-on-how-to-support-men)
+  Published: 2026-04-17 · Author: @ChrisWillx
+  Men want to aim high without feeling insufficient if they fall short. Men want their suffering to be recognised and appreciated without being pandered to or …
+
 - [something satisfying about admitting this publicly ](https://www.xarticl.es/personal-finance/something-satisfying-about-admitting-this-publicly)
   Published: 2026-04-14 · Author: @fromzerotomill
   my most profitable faceless page looks like absolute garbage the banner is something i made in canva in about four minutes wrong dimensions so it's slightly …
@@ -17744,6 +18140,10 @@
 - [Stop trying to guess. Start Planning the next Cycle.](https://www.xarticl.es/personal-finance/stop-trying-to-guess-start-planning-the-next-cycle)
   Published: 2026-03-06 · Author: @damskotrades
   1. Forming bias → what I expect? 2. How to enter?  A scenario ≠ a prediction. --  1. Form bias → what I expect → what I bet on Forming a bias is important as…
+
+- [Stop Waiting for Permission and Become Who You’re Meant to Be](https://www.xarticl.es/personal-finance/stop-waiting-for-permission-and-become-who-youre-meant-to-be)
+  Published: 2026-01-15 · Author: @jackmoses777
+  No one is coming to save you. Not your parents. Not your friends. Not this article. Not even God. NO ONE is going to give you permission to live the life you…
 
 - [Stress is good, actually.](https://www.xarticl.es/personal-finance/stress-is-good-actually)
   Author: @fabianschmid_09
@@ -17877,6 +18277,10 @@
   Published: 2026-01-24 · Author: @felixprehn
   Choosing the wrong broker means:  Terrible execution on trades. Higher fees eating into returns.  Missing investment opportunities.  Inadequate research when…
 
+- [The Brothers-and-Sisters Number Trick](https://www.xarticl.es/personal-finance/the-brothers-and-sisters-number-trick)
+  Published: 2026-04-10 · Author: @Math_files
+  Imagine sitting across the table with a friend, engaged in light conversation. You casually mention that you know a simple mental trick—one that can magicall…
+
 - [The Case Against Doomerism](https://www.xarticl.es/personal-finance/the-case-against-doomerism)
   Published: 2025-12-31 · Author: @nikunj
   I'd be unemployable if I went back to the PM job market today. Eleven years as a product manager. Roadmaps. Stakeholder alignment. Coordinating engineering, …
@@ -18001,6 +18405,10 @@
   Published: 2026-03-09 · Author: @mralexthomas
   I haven't set an alarm since 2019. My body just wakes up. Ideas already forming. Energy already there. Dog waiting by the door. The day feels like mine befor…
 
+- [The Game of Money](https://www.xarticl.es/personal-finance/the-game-of-money)
+  Published: 2026-02-25 · Author: @jackmoses777
+  Business is a game. By shifting our perception, energy, & attachments, we can become better players.   You’re probably better at video games than you are at …
+
 - [The Gold Overnight Strategy: Testing Whether Gold Moves More at Night](https://www.xarticl.es/personal-finance/the-gold-overnight-strategy-testing-whether-gold-moves-more-at-night)
   Published: 2026-03-11 · Author: @QuantifiedStrat
   Today, we look at the gold overnight strategy, testing whether gold moves more at night.  Many financial markets show a surprising pattern: a large share of …
@@ -18036,6 +18444,10 @@
 - [The House Needs You to Survive](https://www.xarticl.es/personal-finance/the-house-needs-you-to-survive)
   Published: 2026-01-07 · Author: @DougieDeLuca
   You reach to open the app out of habit. Not conviction, just muscle memory. A notification, a chart, a headline. The same thought every time: maybe I can mak…
+
+- [The Individuation Economy](https://www.xarticl.es/personal-finance/the-individuation-economy)
+  Published: 2026-04-21 · Author: @jackmoses777
+  “I don’t think I have a personality.” I said to my therapist in college. At 21 years old, I didn’t know who I was. More accurately, I didn’t know how I was d…
 
 - [the indomitable human spirit](https://www.xarticl.es/personal-finance/the-indomitable-human-spirit)
   Published: 2026-04-12 · Author: @JPowFleshlight
@@ -18080,6 +18492,10 @@
 - [THE LEISURE INFRASTRUCTURE PLAYBOOK ](https://www.xarticl.es/personal-finance/the-leisure-infrastructure-playbook)
   Published: 2026-04-19 · Author: @moneyfetishist
   96 Years  An economist in Cambridge  In 1930, John Maynard Keynes sat in his study at King's College, Cambridge, and wrote a short essay called "Economic Pos…
+
+- [The Lifemaxxer’s Guide to Summer & Women](https://www.xarticl.es/personal-finance/the-lifemaxxers-guide-to-summer-women)
+  Published: 2026-04-21 · Author: @lifemaxxjourney
+  The Trilogy ends here. Women are not the prize. They are the mirror. The way a woman looks at a man in summer is the most honest feedback he will ever receiv…
 
 - [THE LOOSH HARVEST: What is Eating your Dreams? (not for faint of heart)](https://www.xarticl.es/personal-finance/the-loosh-harvest-what-is-eating-your-dreams-not-for-faint-of-heart)
   Published: 2026-03-13 · Author: @JIMMYEDGAR
@@ -18197,6 +18613,10 @@
   Published: 2026-03-06 · Author: @Nemanja_I_IV
   The only prison you truly live in is the one you create for yourself. A prison built from doubt, fear, and illusion. Yet the keys to escape it have always be…
 
+- [The Procrastination  Rewiring System: A 4-Part Guide to Making Action Automatic ](https://www.xarticl.es/personal-finance/the-procrastination-rewiring-system-a-4-part-guide-to-making-action-automatic)
+  Published: 2026-04-21 · Author: @INFLUENCESUBCON
+  Welcome to Your Neural Transformation You know that moment when you sit down to work and your brain whispers “check your phone first”? That whisper represent…
+
 - [The Purpose of Life Is to Be a Nobody ](https://www.xarticl.es/personal-finance/the-purpose-of-life-is-to-be-a-nobody)
   Published: 2026-02-12 · Author: @Tim_Denning
   Being highly influential on social media is overrated. Yet every young adult wants to be a Youtuber or a Tim-Ferriss-podcaster. It sounds great on the outsid…
@@ -18244,6 +18664,10 @@
 - [the richest people sell information anonymously](https://www.xarticl.es/personal-finance/the-richest-people-sell-information-anonymously)
   Published: 2026-02-28 · Author: @imsehej
   rich people sell information middle class people sell their skills poor people sell their time and you're building a personal brand tying your face to everyt…
+
+- [The River of Money](https://www.xarticl.es/personal-finance/the-river-of-money)
+  Published: 2026-01-23 · Author: @jackmoses777
+  In ancient cultures, people had a more intuitive, natural understanding of how money worked. Money was less important, so people had a better relationship wi…
 
 - [The RMD Lag Effect: Why Market Volatility is Your Portfolio’s Hidden Enemy](https://www.xarticl.es/personal-finance/the-rmd-lag-effect-why-market-volatility-is-your-portfolios-hidden-enemy)
   Published: 2026-01-26 · Author: @CernBasher
@@ -18362,6 +18786,10 @@
 - [The Woman You're With Will Destroy Your Life](https://www.xarticl.es/personal-finance/the-woman-youre-with-will-destroy-your-life)
   Published: 2026-02-05 · Author: @rawknuckle
   There’s been a huge controversy that just exploded over on X. Some chick LARPing as a trad-wife Catholic virgin was found out to be cheating on her soon to b…
+
+- [The Zero-Sum View Of Empathy](https://www.xarticl.es/personal-finance/the-zero-sum-view-of-empathy)
+  Published: 2026-03-25 · Author: @ChrisWillx
+  There is an assumption that any attention paid toward men takes it away from women, or some other minority group who is more-deserving. After all, haven’t me…
 
 - [There is no "off" button in this life](https://www.xarticl.es/personal-finance/there-is-no-off-button-in-this-life)
   Published: 2026-02-16 · Author: @MetaMorpehus
@@ -18627,6 +19055,10 @@
   Published: 2026-03-08 · Author: @sopersone
   A few years ago I watched a guy I knew turn his crypto portfolio into 10x in three months. Screenshots, numbers, everything looked clean. I copied his trade.…
 
+- [WHAT DO YOU HAVE TO LOSE? ](https://www.xarticl.es/personal-finance/what-do-you-have-to-lose)
+  Published: 2026-04-21 · Author: @digiii
+  "What are you afraid of losing, when nothing in this world belongs to you?" - Marcus Aurelius   Everything in life is rented - not owned, and the rent is due…
+
 - [What Excel can teach you about life](https://www.xarticl.es/personal-finance/what-excel-can-teach-you-about-life)
   Published: 2024-03-15 · Author: @khemaridh
   This post's for the "F9 Monkeys." Now this can be a diminutive term for a first-year analyst.  One who lives in Excel. One who builds indestructible financia…
@@ -18671,6 +19103,10 @@
   Published: 2026-01-24 · Author: @dickiebush
   One of my favorite Charlie Munger quotes: “Show me the incentives, and I’ll show you the result.” This is useful for business, but what about for personal li…
 
+- [What made Einstein so different?](https://www.xarticl.es/personal-finance/what-made-einstein-so-different)
+  Published: 2026-04-05 · Author: @Math_files
+  After Albert Einstein’s death, his brain was taken by a doctor Thomas Harvey. Harvey later examined it and performed an autopsy. He divided the brain into sm…
+
 - [WHAT MALE LOSERS LOOK LIKE ](https://www.xarticl.es/personal-finance/what-male-losers-look-like)
   Published: 2026-04-11 · Author: @Daywrotethis
   (THE 6 SPECIES OF MALE LOSERS)  If you want to know why women don’t respect men anymore, step into any airport lounge.   I am sitting in the first class loun…
@@ -18695,9 +19131,17 @@
   Published: 2026-01-24 · Author: @rawknuckle
   It's one of those questions that gets tossed around in dorm rooms and podcasts like it’s some harmless daydream. But when you actually stop and feel it, not …
 
+- [What Would You Tomorrow Want You Today To Do?](https://www.xarticl.es/personal-finance/what-would-you-tomorrow-want-you-today-to-do)
+  Published: 2026-04-21 · Author: @ChrisWillx
+  One of the best questions to ask yourself when faced with a decision is “what would you tomorrow want you today to do?” This has been something I’ve relied o…
+
 - [What's Happening to our Money?](https://www.xarticl.es/personal-finance/whats-happening-to-our-money)
   Published: 2025-08-02 · Author: @CernBasher
   Your money has been losing a secret, decades-long war. Let's take a quick trip around the world to survey the damage. Venezuela Let's say you happened to be …
+
+- [Whatever Happened to Alpha Redux](https://www.xarticl.es/personal-finance/whatever-happened-to-alpha-redux)
+  Published: 2026-04-21 · Author: @abcampbell
+  Part 4: The Allocation Problem Eagle-eyed readers have reached out to complain that I have a  tendency to start series and never finish them. Which, if you'r…
 
 - [When Desire Becomes Your Downfall](https://www.xarticl.es/personal-finance/when-desire-becomes-your-downfall)
   Published: 2025-08-01 · Author: @hmalviya9
@@ -18875,6 +19319,10 @@
   Published: 2026-01-18 · Author: @saimagnate
   People confuse these luxuries/desires/wants with needs, it’s the state of our world right now. You can go ahead and buy it if you have $60,000, the issue isn…
 
+- [Why you can’t feel your own life anymore](https://www.xarticl.es/personal-finance/why-you-cant-feel-your-own-life-anymore)
+  Published: 2026-04-21 · Author: @MaxTorchbearer
+  At some point, things stopped registering. Good things still happen. You just don’t feel them.  You wake up. You move through your day. You do what needs to …
+
 - [Why you can't see the whole wall](https://www.xarticl.es/personal-finance/why-you-cant-see-the-whole-wall)
   Published: 2026-03-25 · Author: @DrJohnVervaeke
   There's this brick wall…and I see the whole wall is yellow. But I can't actually see the whole wall. The area of the wall that gets into my retina is too sma…
@@ -18926,6 +19374,10 @@
 - [working a job means your income stops the second you stop showing up ](https://www.xarticl.es/personal-finance/working-a-job-means-your-income-stops-the-second-you-stop-showing-up)
   Published: 2026-03-23 · Author: @imsehej
   this doesn't work like that here's exactly what i mean: AUGUST 2024: got food poisoning on monday night, couldn't work tuesday-thursday (3 days) JOB INCOME (…
+
+- [Write your way to freedom](https://www.xarticl.es/personal-finance/write-your-way-to-freedom)
+  Published: 2026-04-22 · Author: @jackmoses777
+  How to grow your audience and build a freedom business via writing on social media   4 years ago, on a 9-hour train ride from Madrid to Paris, I had the idea…
 
 - [Writing Down What You Think Before Messing Up Will Make You A Successful Trader](https://www.xarticl.es/personal-finance/writing-down-what-you-think-before-messing-up-will-make-you-a-successful-trader)
   Published: 2026-02-04 · Author: @Atalburhani
@@ -19255,6 +19707,10 @@
   Published: 2026-04-15 · Author: @FrederikFeldt
   I've single-handedly built channels to 2.7M+ followers across platforms with over 2 billion organic views. My latest AI account, @chloe.dvss, hit 114M+ view …
 
+- [FOD#145: What 100,000 Subscribers Taught Us About the Future of Turing Post](https://www.xarticl.es/digital-marketing/fod145-what-100000-subscribers-taught-us-about-the-future-of-turing-post)
+  Published: 2026-03-23 · Author: @TheTuringPost
+  What we’re doubling down on, what we’re postponing, and where Turing Post goes next  100 000 subscribers! (actually, already more than that) A few news to sh…
+
 - [From hoping to be seen to designing to be found. ](https://www.xarticl.es/digital-marketing/from-hoping-to-be-seen-to-designing-to-be-found)
   Published: 2026-01-15 · Author: @juliafedorin
   What a conversation with a16z’s Lester Chen (@Chen) taught me about attention engineering.   Most founders are still operating under an old assumption:   If …
@@ -19518,6 +19974,10 @@
 - [How to use Claude MCP to find buyers and book meetings on LinkedIn](https://www.xarticl.es/digital-marketing/how-to-use-claude-mcp-to-find-buyers-and-book-meetings-on-linkedin)
   Published: 2026-04-11 · Author: @romanbuildsaas
   Connect Claude directly to your LinkedIn account in 5 minutes. Read campaign data, run audits, get high intent leads — all in plain English.   Why connect Cl…
+
+- [how to use the linkedin trust recession to your advantage](https://www.xarticl.es/digital-marketing/how-to-use-the-linkedin-trust-recession-to-your-advantage)
+  Published: 2026-04-22 · Author: @paolo_scales
+  linkedin is drowning in AI slop. every post sounds like it was copy-pasted from chatGPT. every profile is stuffed with meaningless keywords. every "thought l…
 
 - [How to write 30 LinkedIn posts in UNDER an hour with AI (bookmark)](https://www.xarticl.es/digital-marketing/how-to-write-30-linkedin-posts-in-under-an-hour-with-ai-bookmark)
   Published: 2026-02-05 · Author: @LoganTGott
@@ -19922,6 +20382,20 @@
 - [To The Light...](https://www.xarticl.es/pop-culture/to-the-light)
   Published: 2025-05-09 · Author: @wolfejosh
   TO THE LIGHT...  Spoiler alert. One of the scenes of Marvel's Thunderbolts* is burned into my retina: Inside character "Bob"s cracked-open consciousness—a ha…
+
+## Biography
+
+- [John Nash: A Mind of Beauty and Brilliance](https://www.xarticl.es/biography/john-nash-a-mind-of-beauty-and-brilliance)
+  Published: 2026-02-09 · Author: @Math_files
+  John Nash was one of the greatest mathematicians in the world. His life left such a deep mark that even today people draw inspiration from it to achieve succ…
+
+- [John Von Neumann: The Smartest Man Ever](https://www.xarticl.es/biography/john-von-neumann-the-smartest-man-ever)
+  Published: 2026-04-04 · Author: @Math_files
+  He was a beacon of science and innovation, known as the smartest man ever, He was a titan of innovation, impacting every field he explored. His life is a tes…
+
+- [The Single Letter That Changed Everything](https://www.xarticl.es/biography/the-single-letter-that-changed-everything)
+  Published: 2026-04-08 · Author: @Math_files
+  This is a story that still inspires millions of people today. Srinivasa Ramanujan didn’t have an easy life. He came from a poor family, struggled in school, …
 
 ## Email Marketing
 
@@ -20365,6 +20839,10 @@
   Published: 2026-04-04 · Author: @johnvirality
   there is a number that the traditional creator economy does not want to talk about. the median monetized YouTube creator earns less than $2,000 per month. th…
 
+- [HOW TO PRINT MONEY WITH AI GIRL INFLUENCERS WHILE YOU SLEEP IN 2026 [FULL GUIDE]](https://www.xarticl.es/creator-economy/how-to-print-money-with-ai-girl-influencers-while-you-sleep-in-2026-full-guide)
+  Published: 2026-04-22 · Author: @polydao
+  The creator economy just broke. While human influencers burn out, argue with brands, and worry about every bad skin day - a new wave of AI-native creators is…
+
 - [Liquid Markets for Creators Coins - $100B Market Opportunity ](https://www.xarticl.es/creator-economy/liquid-markets-for-creators-coins-100b-market-opportunity)
   Published: 2025-02-09 · Author: @hmalviya9
   Creators are like startups in themselves, with the key difference being that in startups, you can invest as an investor and speculate on their growth at diff…
@@ -20798,6 +21276,10 @@
 - [The Secret Writing Technique Used By These 3 Legendary Writers To Make Millions](https://www.xarticl.es/writing/the-secret-writing-technique-used-by-these-3-legendary-writers-to-make-millions)
   Published: 2026-02-23 · Author: @Nicolascole77
   James Clear, Ryan Holiday, and Malcolm Gladwell all use one writing framework to make millions: Lean Writing. What is it? Well, do you see a pattern here? Ma…
+
+- [The Story of Zero](https://www.xarticl.es/writing/the-story-of-zero)
+  Published: 2026-02-02 · Author: @Math_files
+  At a young age we make an unsteady entrance into numberland. We learn that 1 is first in the “number alphabet”, and that it introduces the counting numbers 1…
 
 - [This Is The Biggest Opportunity To Make Money Writing Online In 2026](https://www.xarticl.es/writing/this-is-the-biggest-opportunity-to-make-money-writing-online-in-2026)
   Published: 2026-02-01 · Author: @Nicolascole77
@@ -22139,6 +22621,10 @@
   Published: 2025-12-26 · Author: @gregoryblotnick
   Munger talks about the "latticework of mental models." I thought I understood this concept at a younger age, and I definitely DID NOT. Because the way you de…
 
+- [The Feynman Technique: Learn to Master Anything](https://www.xarticl.es/learning/the-feynman-technique-learn-to-master-anything)
+  Published: 2026-04-17 · Author: @Math_files
+  Have you ever sat down to take an exam thinking you’ve studied hard and put in the work, but then, when you read the questions and start the test, you realis…
+
 - [Wisdom Is Not Compressible: Pushing Back Against a Widely-Held "Navalism"](https://www.xarticl.es/learning/wisdom-is-not-compressible-pushing-back-against-a-widely-held-navalism)
   Published: 2026-01-02 · Author: @gregoryblotnick
   "It is vital to confront the texts in the originals and not just as pithy quotations or through piecemeal searches on the internet." That quote comes from Da…
@@ -22288,6 +22774,10 @@
 - [Charisma Isn't a Gift. It's a Energetic Decision.](https://www.xarticl.es/personal-development/charisma-isnt-a-gift-its-a-energetic-decision)
   Published: 2026-02-25 · Author: @Sammathesonn
   You don't have to be a rocket scientist to know that some people have charisma & are the life of the party everywhere they go.   And others really don't have…
+
+- [Confidence Is the Real Skill Gap](https://www.xarticl.es/personal-development/confidence-is-the-real-skill-gap)
+  Published: 2026-03-23 · Author: @ChrisWillx
+  I am certain that most capable people don’t believe in themselves enough. A lack of confidence killed more dreams than a lack of competence ever did. Self-do…
 
 - [connecting with cosmic intelligence (why & how?) ](https://www.xarticl.es/personal-development/connecting-with-cosmic-intelligence-why-how)
   Published: 2025-12-10 · Author: @hmalviya9
@@ -22588,6 +23078,10 @@
 - [Obsession Beats Talent and Intelligence Every Time ](https://www.xarticl.es/personal-development/obsession-beats-talent-and-intelligence-every-time)
   Author: @Tim_Denning
   Intelligence is often just ego in disguise. Anyone can become intelligent by memorizing information, but that’s no longer a skill you’ll get a standing ovati…
+
+- [Once you understand neuroplasticity your life will never be the same again ](https://www.xarticl.es/personal-development/once-you-understand-neuroplasticity-your-life-will-never-be-the-same-again)
+  Published: 2026-04-22 · Author: @Tim_Denning
+  Neuroplasticity is a life-changing idea. But to unlock it you must understand it in simple terms, and 99% of the writing about it comes from PhDs who make it…
 
 - [Output Mode vs Craft Mode  ](https://www.xarticl.es/personal-development/output-mode-vs-craft-mode)
   Published: 2026-01-23 · Author: @ballanutsa
@@ -23441,6 +23935,10 @@
   Author: @stijnnoorman
   A little over a year ago I hit my first $100K online as a one-person business. I'm by no means the richest creator but I learned a lot in these past years. H…
 
+- [How To Build A 6-Figure Writing Business That Only Costs $19 Per Year](https://www.xarticl.es/entrepreneurship/how-to-build-a-6-figure-writing-business-that-only-costs-19-per-year)
+  Published: 2026-04-22 · Author: @Nicolascole77
+  There has never been a better time in history to be a writer. The internet has made it easier than ever before to build an audience and make a living as a wr…
+
 - [How to build a strategy that runs even when you log off](https://www.xarticl.es/entrepreneurship/how-to-build-a-strategy-that-runs-even-when-you-log-off)
   Published: 2026-01-11 · Author: @cyrilXBT
   Most people confuse effort with progress. They grind longer hours, stay glued to screens, and feel productive yet nothing compounds. Real leverage begins whe…
@@ -23685,6 +24183,10 @@
   Published: 2026-04-06 · Author: @johncoogan
   Last week, the New York Times broke down the story of Medvi, a telehealth provider of GLP-1 weight-loss drugs. The framing was basically that this was the fi…
 
+- [Levels of Business](https://www.xarticl.es/entrepreneurship/levels-of-business)
+  Published: 2026-02-05 · Author: @jackmoses777
+  The “Levels” concept I am about to teach you is my favorite tool for coaching or personal development work. I’ve used it in business, health, and spiritualit…
+
 - [Mark Cuban Pulled the Fire Alarm - Bluesky’s ‘Progressive’ Hallway Was Already Burning](https://www.xarticl.es/entrepreneurship/mark-cuban-pulled-the-fire-alarm-blueskys-progressive-hallway-was-already-burning)
   Published: 2025-06-12 · Author: @lamps_apple
   Mark Cuban’s (@mcuban) post was a single paragraph of concern, the response was a thousand-comment confession. In the span of a few hours, Bluesky’s activist…
@@ -23825,6 +24327,10 @@
   Published: 2026-03-04 · Author: @LindsayCasale
   After my last (unexpectedly viral) article, "Never Apply to Another Job Again," about the benefits of networking to find a job, one question flooded my dms: …
 
+- [SuperGoals (aka Grow or Die)](https://www.xarticl.es/entrepreneurship/supergoals-aka-grow-or-die)
+  Published: 2024-09-09 · Author: @mignano
+  Most great teams would agree, there’s nothing more powerful for executing on big ambitions than a clearly defined and well-communicated goal. But sometimes t…
+
 - [Tall Poppy Syndrome Comes to America](https://www.xarticl.es/entrepreneurship/tall-poppy-syndrome-comes-to-america)
   Published: 2026-03-13 · Author: @johncoogan
   Years ago, I was talking to an American venture capitalist about New Zealand and asked him about the startup community there. The country is beautiful, highl…
@@ -23860,6 +24366,10 @@
 - [The 10,000 hour lie that keeps talented people broke](https://www.xarticl.es/entrepreneurship/the-10000-hour-lie-that-keeps-talented-people-broke)
   Published: 2026-02-01 · Author: @jaynitx
   I want to tell you about two people I know. The first guy is one of the most skilled video editors I've ever met. Seriously talented. He can do things in Pre…
+
+- [The 13 rules every founder learns by accident.](https://www.xarticl.es/entrepreneurship/the-13-rules-every-founder-learns-by-accident)
+  Published: 2026-04-22 · Author: @fdotinc
+  Most founders are too vague, or at least start that way. Vague about what they’re building. Vague about what they’re aiming for. Vague about whether they’re …
 
 - [The 3 Stages of Getting Rich](https://www.xarticl.es/entrepreneurship/the-3-stages-of-getting-rich)
   Published: 2026-02-14 · Author: @IAmAaronWill
@@ -23997,6 +24507,10 @@
   Published: 2026-02-25 · Author: @TheIcahnist
   Leon Hess became an Oil Billionaire by building around the ugliest, most annoying part of the industry. The same playbook applies today in AI. Identify the s…
 
+- [The Man Who Loved Only Numbers: Paul Erdős](https://www.xarticl.es/entrepreneurship/the-man-who-loved-only-numbers-paul-erds)
+  Published: 2026-03-26 · Author: @Math_files
+  No house, no car, no bank balance, no family responsibilities—just a small suitcase and a brilliant mind. This may sound unbelievable, but it was the real li…
+
 - [The Missing Piece Was Us](https://www.xarticl.es/entrepreneurship/the-missing-piece-was-us)
   Published: 2026-04-10 · Author: @tribeadvisors
   Most projects don't fail because the idea was wrong. They fail because nobody could make it legible. The technology existed and the vision was real, but the …
@@ -24061,6 +24575,10 @@
   Published: 2026-04-08 · Author: @daniel_dhawan
   Nobody tells you about The Group Chat before you move to SF. There's no orientation. But the moment you start building here, you're already in it, and it's a…
 
+- [The Shy Genius: Riemann](https://www.xarticl.es/entrepreneurship/the-shy-genius-riemann)
+  Published: 2026-03-18 · Author: @Math_files
+  Some revolutions begin with noise. Others begin in silence. In a small German village, far from the great centers of learning, a quiet and fragile boy grew u…
+
 - [The Simple 5-Step Blueprint I Followed To Build A $427,000/Year Paid Newsletter (Steal This)](https://www.xarticl.es/entrepreneurship/the-simple-5-step-blueprint-i-followed-to-build-a-427000year-paid-newsletter-steal-this)
   Published: 2026-02-25 · Author: @Nicolascole77
   I generate $400,000/year with a paid newsletter on Substack: I don't run ads It took 578 days It has 111,000+ subscribers This is the most scalable (and prof…
@@ -24092,6 +24610,10 @@
 - [The Ultimate Guide to Building A Network Online ](https://www.xarticl.es/entrepreneurship/the-ultimate-guide-to-building-a-network-online)
   Published: 2026-03-09 · Author: @Jayyanginspires
   "Your network is your net worth." "It's not what you know, it's who you know." "If you want to go fast, go alone. If you want to go far, go together." You he…
+
+- [The Untold Story of A Blind Mathematician](https://www.xarticl.es/entrepreneurship/the-untold-story-of-a-blind-mathematician)
+  Published: 2026-04-15 · Author: @Math_files
+  April 15 is a historic date in mathematics—it marks the birth of one of the greatest minds the field has ever seen. Imagine solving the hardest mathematics p…
 
 - [The value of running a bigger business ](https://www.xarticl.es/entrepreneurship/the-value-of-running-a-bigger-business)
   Published: 2026-04-14 · Author: @sweatystartup
@@ -24176,6 +24698,10 @@
 - [When building in public becomes expensive procrastination.](https://www.xarticl.es/entrepreneurship/when-building-in-public-becomes-expensive-procrastination)
   Published: 2026-01-29 · Author: @juliafedorin
   1. THE CONFESSION Life update: my friend and I are co-founding a startup called Echo. And I’m going to confess something. It seemed like I was way more excit…
+
+- [When Darkness Couldn’t Stop a Genius: Leonhard Euler](https://www.xarticl.es/entrepreneurship/when-darkness-couldnt-stop-a-genius-leonhard-euler)
+  Published: 2026-02-10 · Author: @Math_files
+  During the Enlightenment, as Europe awakened to science and reason, one mind quietly reshaped the future of mathematics—Leonhard Euler. Born in 1707 in Basel…
 
 - [When Everyone Builds in Public](https://www.xarticl.es/entrepreneurship/when-everyone-builds-in-public)
   Published: 2025-10-13 · Author: @hnshah
@@ -24577,13 +25103,77 @@
 
 ## Mathematics
 
+- [Bernoulli versus Bernoulli: Sibling Rivalry of the Highest Order](https://www.xarticl.es/mathematics/bernoulli-versus-bernoulli-sibling-rivalry-of-the-highest-order)
+  Published: 2026-03-22 · Author: @Math_files
+  The Bernoulli family of Switzerland stands as one of the most remarkable dynasties in the history of mathematics. Across three generations, they produced at …
+
 - [From $1 to 2.71828: The Discovery of e](https://www.xarticl.es/mathematics/from-1-to-271828-the-discovery-of-e)
   Published: 2026-03-11 · Author: @Math_files
   In mathematics, one of the most important numbers is e which is called Euler's number, and is approaximately equal to 2.71828. This number can be found in ma…
 
+- [Gabriel's Horn: The Paradox of Infinite Paint](https://www.xarticl.es/mathematics/gabriels-horn-the-paradox-of-infinite-paint)
+  Published: 2026-04-01 · Author: @Math_files
+  Imagine an infinitely long horn that you can completely fill with paint, yet you can never paint its surface, because the surface area is infinite. It’s call…
+
+- [Georg Cantor and Leopold Kronecker's Dispute](https://www.xarticl.es/mathematics/georg-cantor-and-leopold-kroneckers-dispute)
+  Published: 2026-04-21 · Author: @Math_files
+  Did you know that one man dared to challenge the very idea of infinity? Leopold Kronecker, a 19th-century mathematical genius, believed that “God made the in…
+
+- [Incredibly Brilliant Mathematician Évariste Galois](https://www.xarticl.es/mathematics/incredibly-brilliant-mathematician-variste-galois)
+  Published: 2026-02-12 · Author: @Math_files
+  The story of the French mathematician Évariste Galois is one of the most romantic and powerful in history.  Ever since the time of ancient Greece, mathematic…
+
+- [Joseph Lagrange: Master of Mechanics](https://www.xarticl.es/mathematics/joseph-lagrange-master-of-mechanics)
+  Published: 2026-03-28 · Author: @Math_files
+  In the words of Napoleon, “Lagrange is the lofty pyramid of the mathematical sciences.” The French emperor would eventually appoint the brilliant mathematici…
+
+- [Mozart of Math: Niels Henrik Abel](https://www.xarticl.es/mathematics/mozart-of-math-niels-henrik-abel)
+  Published: 2026-03-20 · Author: @Math_files
+  Two days after his death at the age of 26, a letter arrived offering him a position in Berlin, realizing that he had made one of the greatest contributions i…
+
+- [Ramanujan and the Poetry of Numbers](https://www.xarticl.es/mathematics/ramanujan-and-the-poetry-of-numbers)
+  Published: 2026-01-17 · Author: @Math_files
+  Ramanujan’s greatest legacy can be found in his personal notebooks. They are estimated to contain approximately four thousand theorems, many entirely new to …
+
+- [The Farmer's Problem as an Infinite Series](https://www.xarticl.es/mathematics/the-farmers-problem-as-an-infinite-series)
+  Published: 2026-04-03 · Author: @Math_files
+  The story of mathematics does not begin in classrooms or textbooks—it begins in the rhythms of human life. As early as 3100 B.C., in the cities of Sumer (mod…
+
+- [The Legends That Shaped Mathematics](https://www.xarticl.es/mathematics/the-legends-that-shaped-mathematics)
+  Published: 2026-03-21 · Author: @Math_files
+  They began as curious minds, asking simple questions and noticing patterns others missed. From these powerful ideas grew powerful truths, turning numbers int…
+
+- [The Man Who Knew Infinity](https://www.xarticl.es/mathematics/the-man-who-knew-infinity)
+  Published: 2026-04-14 · Author: @Math_files
+  In 1976, at the library of Trinity College, Cambridge University, mathematician George Andrews was searching for an old book. While going through the shelves…
+
+- [The Man Who Solved the World’s Most Famous Math Problem](https://www.xarticl.es/mathematics/the-man-who-solved-the-worlds-most-famous-math-problem)
+  Published: 2026-02-11 · Author: @Math_files
+  In 1994, Andrew Wiles solved a mystery that had stumped mathematicians for 357 years.  The 17th-century French mathematician Pierre de Fermat stated that you…
+
+- [The Mathematician Who Never Existed](https://www.xarticl.es/mathematics/the-mathematician-who-never-existed)
+  Published: 2026-03-23 · Author: @Math_files
+  After Germany’s defeat in the First World War, the center of the mathematical world shifted back to France. Paris once again became the home of many of the m…
+
+- [The Mathematician Who Unified Algebra and Physics](https://www.xarticl.es/mathematics/the-mathematician-who-unified-algebra-and-physics)
+  Published: 2026-02-23 · Author: @Math_files
+  Writing in "The New York Times" after her death, Albert Einstein described her as the most important woman in mathematical history.  She lived and worked in …
+
+- [The Mysterious Number e ](https://www.xarticl.es/mathematics/the-mysterious-number-e)
+  Published: 2026-04-02 · Author: @Math_files
+  Euler’s number 𝑒 is a mathematical constant that appears all over calculus and in countless fundamental equations. This number 𝑒 has many uses, such as in …
+
 - [The Secrets of the Universe Lies in the Fibonacci Sequence](https://www.xarticl.es/mathematics/the-secrets-of-the-universe-lies-in-the-fibonacci-sequence)
   Author: @thedarshakrana
   This number sequence has haunted mathematicians, artists, architects, and philosophers for over 800 years. 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144… Each…
+
+- [What Is the Fields Medal and Why It Matters?](https://www.xarticl.es/mathematics/what-is-the-fields-medal-and-why-it-matters)
+  Published: 2026-01-24 · Author: @Math_files
+  The international mathematical community has an award that is often likened to the Nobel Prize in other disciplines. The award is named for John Charles Fiel…
+
+- [Why There Is No Nobel Prize for Mathematics](https://www.xarticl.es/mathematics/why-there-is-no-nobel-prize-for-mathematics)
+  Published: 2026-01-21 · Author: @Math_files
+  Every year, the world pauses to hear the names of Nobel Prize winners—brilliant minds honored for breakthroughs in science, medicine, literature, peace, and …
 
 ## Seo
 
@@ -24765,6 +25355,10 @@
 
 ## Twitter
 
+- [Something Medium is Happening?](https://www.xarticl.es/twitter/something-medium-is-happening)
+  Published: 2026-02-17 · Author: @TheTuringPost
+  I want to start by thanking @mattshumer_ for his “Something Big is Happening.” It ricocheted through the part of Twitter I follow until it felt like it had s…
+
 - [ZK made simple 🍓](https://www.xarticl.es/twitter/zk-made-simple)
   Published: 2025-06-08 · Author: @aashatwt
   everyone’s tweeting about berries. zk this. prover that. if you're someone ( like me ) :    don’t worry. i got you. i read the @boundless_xyz  docs and also …
@@ -24833,6 +25427,10 @@
   Published: 2026-04-10 · Author: @CultureExploreX
   For centuries, Jews remembered the land of Israel as part of their faith, history, and identity. They prayed toward Jerusalem, repeated “next year in Jerusal…
 
+- [The 'I Can Fix Him' Complex](https://www.xarticl.es/society/the-i-can-fix-him-complex)
+  Published: 2026-04-03 · Author: @ChrisWillx
+  Is pop culture teaching women to choose emotionally unavailable men? Maybe. “What’s the weirdest propaganda you feel like movies have tried to push on you in…
+
 - [The “I don’t know” economy](https://www.xarticl.es/society/the-i-dont-know-economy)
   Published: 2026-04-20 · Author: @thisisgrantlee
   The biggest market in technology doesn’t yet appear on any Total Addressable Market (TAM) slide. It has no revenue, no user base, no data points to anchor a …
@@ -24852,6 +25450,10 @@
 - [The Hood Taught Me the Truth About Weak Men — and Why They’re Everywhere Now](https://www.xarticl.es/society/the-hood-taught-me-the-truth-about-weak-men-and-why-theyre-everywhere-now)
   Published: 2026-02-02 · Author: @EdLatimore
   Growing up in the projects gave me a preview of the future degeneracy of American culture and, more specifically, the men, but I just didn’t know it. What I …
+
+- [The Internet is Real Life](https://www.xarticl.es/society/the-internet-is-real-life)
+  Published: 2026-04-21 · Author: @eriktorenberg
+  Have you spoken to a normal person recently? They aren’t actually normal anymore. Nobody is. In all aspects of American life, the internet is upstream of eve…
 
 - [The Last Moment Europe Believed in Beauty as a Public Ideal](https://www.xarticl.es/society/the-last-moment-europe-believed-in-beauty-as-a-public-ideal)
   Published: 2026-03-01 · Author: @CultureExploreX
@@ -24988,6 +25590,10 @@
 - [AI “Infinite Context Windows” With MIT’s New Recursive AI Paper.](https://www.xarticl.es/artificial-intelligence/ai-infinite-context-windows-with-mits-new-recursive-ai-paper)
   Published: 2026-01-17 · Author: @BrianRoemmele
   I’ve spent decades exploring the intersections of technology, cognition, and human potential. In the realm of AI, particularly large language models (LLMs), …
+
+- [AI 101: What Is a Token (and why it runs AI)?](https://www.xarticl.es/artificial-intelligence/ai-101-what-is-a-token-and-why-it-runs-ai)
+  Published: 2026-04-21 · Author: @TheTuringPost
+  From the technical side to economics – your guide to understanding the foundations of AI With so much happening in AI, going back to basics can be surprising…
 
 - [AI as an Observer in Physics: A Detailed Exploration](https://www.xarticl.es/artificial-intelligence/ai-as-an-observer-in-physics-a-detailed-exploration)
   Published: 2025-03-03 · Author: @BrianRoemmele
@@ -25165,6 +25771,10 @@
   Published: 2025-10-29 · Author: @CernBasher
   AI is the new labor (a new brain) - replacing most things that humans need to think about (including driving). AI is not just another tool (like a hammer or …
 
+- [Machine Learning Algorithms and Mathematics](https://www.xarticl.es/artificial-intelligence/machine-learning-algorithms-and-mathematics)
+  Published: 2026-03-16 · Author: @Math_files
+  Suppose someone asks a simple question: How should I prepare for a career in machine learning? More specifically, how much mathematics do I need to know for …
+
 - [Markov Chains: nuclear algorithm used by Quants to crush 87% of Polymarket traders ](https://www.xarticl.es/artificial-intelligence/markov-chains-nuclear-algorithm-used-by-quants-to-crush-87-of-polymarket-traders)
   Published: 2026-04-08 · Author: @0xMovez
   How the invention of the nuclear bomb, the creation of Google, and LLM models are connected to building a successful trading strategy on Polymarket. In 1906,…
@@ -25220,6 +25830,10 @@
 - [PersonaAI and Rad AI ](https://www.xarticl.es/artificial-intelligence/personaai-and-rad-ai)
   Published: 2025-09-30 · Author: @ScottSparkwave
   Rad AI is pioneering the use of AI in radiology reporting. Now they’re exploring whether PersonaAI can accelerate their marketing and sales—by running focus …
+
+- [PINNs, Neural Operators, and the Future of Simulation](https://www.xarticl.es/artificial-intelligence/pinns-neural-operators-and-the-future-of-simulation)
+  Published: 2026-03-03 · Author: @AnneliesGamble
+  This is part one of a two part series. This is something I’m still learning about. I’m early in my understanding here, so consider this an exploration of rec…
 
 - [Power in the Age of Intelligence](https://www.xarticl.es/artificial-intelligence/power-in-the-age-of-intelligence)
   Published: 2026-02-18 · Author: @packyM
@@ -25381,6 +25995,10 @@
   Published: 2026-02-16 · Author: @hmalviya9
   AI is mimicking your left brain, not your right brain. The left brain is responsible for logic, structure, repetition, analysis, and prediction. It works lik…
 
+- [The Two Positions That Create a Durable Moat](https://www.xarticl.es/artificial-intelligence/the-two-positions-that-create-a-durable-moat)
+  Published: 2026-02-24 · Author: @AnneliesGamble
+  Over the past few weeks, there has been a lot written around vertical AI defensibility. A bunch of great posts, such as this one by @nbobba, this one by @dbe…
+
 - [The Two Skills AI Will Never Replace.](https://www.xarticl.es/artificial-intelligence/the-two-skills-ai-will-never-replace)
   Published: 2026-03-23 · Author: @yourealazyfvck
   Every day I see people fear mongering online about AI replacing people’s jobs.​ We’re constantly being inundated with headlines and news and stimuli around t…
@@ -25432,6 +26050,10 @@
 - [What is Agentic RL and why it matters](https://www.xarticl.es/artificial-intelligence/what-is-agentic-rl-and-why-it-matters)
   Published: 2026-03-04 · Author: @TheTuringPost
   This week I came across a paper related to agentic RL and it made me thinking: we keep upgrading the “brain” and then act surprised when the agent falls apar…
+
+- [What is Superhuman Adaptable Intelligence (SAI)? And why does Yann LeCun needs both: SAI and AMI?](https://www.xarticl.es/artificial-intelligence/what-is-superhuman-adaptable-intelligence-sai-and-why-does-yann-lecun-needs-both-sai-and-ami)
+  Published: 2026-03-10 · Author: @TheTuringPost
+  Betting on World Models AGI, ASI, SCAI, AMI, HAI, etc. If you’re confused by all the AI abbreviations, here’s one more. Not from us, actually, but from @ylec…
 
 - [What you need to do to 'learn AI'](https://www.xarticl.es/artificial-intelligence/what-you-need-to-do-to-learn-ai)
   Published: 2026-03-09 · Author: @PromptLLM
@@ -25707,6 +26329,10 @@
   Published: 2026-03-10 · Author: @Alfred_Lin
   The top 5% to 10% of builders are now 3 to 5 times more productive than they were a year ago. The median builder is up maybe 10% to 20%.   In the past few we…
 
+- [Don't Start Using Claude Until You've Set It Up Right. Here's My Complete Setup Guide.](https://www.xarticl.es/software/dont-start-using-claude-until-youve-set-it-up-right-heres-my-complete-setup-guide)
+  Published: 2026-04-22 · Author: @leopardracer
+  Claude Desktop ships with 28+ configurable settings. Most users touch three of them. The gap between the minimum-viable setup and a workstation that actually…
+
 - [Embedded software is the biggest growth opportunity for open source](https://www.xarticl.es/software/embedded-software-is-the-biggest-growth-opportunity-for-open-source)
   Published: 2026-03-31 · Author: @byAnhtho
   When you link your bank account to Venmo, you're not using Venmo's technology, you're using Plaid. An Uber sends you a ride notification, that originates wit…
@@ -25959,6 +26585,10 @@
   Published: 2026-01-28 · Author: @arscontexta
   imagine being able to time travel through your notes you wrote something three weeks ago and since then youve edited it a dozen times with obsidian you only …
 
+- [One Size Fits None](https://www.xarticl.es/software/one-size-fits-none)
+  Published: 2025-03-11 · Author: @_amankishore
+  It no longer makes sense to develop the same software for every customer. Almost all enterprise software starts with the ambition to solve one niche workflow…
+
 - [OpenClaw + Codex/ClaudeCode Agent Swarm: The One-Person Dev Team [Full Setup]](https://www.xarticl.es/software/openclaw-codexclaudecode-agent-swarm-the-one-person-dev-team-full-setup)
   Author: @elvissun
   I don't use Codex or Claude Code directly anymore. I use OpenClaw as my orchestration layer. My orchestrator, Zoe, spawns the agents, writes their prompts, p…
@@ -26198,6 +26828,10 @@
 - [You're Using OpenClaw Wrong](https://www.xarticl.es/software/youre-using-openclaw-wrong)
   Published: 2026-02-26 · Author: @everestchris6
   stop asking it to build the pipeline. build it yourself. here's what happens: you tell it to run a pipeline. pull data, transform it, push it somewhere, trig…
+
+- [You're Wasting Your Time on UI ](https://www.xarticl.es/software/youre-wasting-your-time-on-ui)
+  Published: 2026-02-17 · Author: @_amankishore
+  Nobody wants another tool they have to learn. For the past two decades, building B2B software meant the same thing. Build something valuable, then spend mont…
 
 - [Your Agent Needs a Harness, Not a Framework](https://www.xarticl.es/software/your-agent-needs-a-harness-not-a-framework)
   Author: @djfarrelly
@@ -26813,6 +27447,10 @@
   Published: 2026-03-24 · Author: @cyrilXBT
   50 prompts across 6 categories. Copy. Paste. Execute. Every prompt in this guide is built for real world use, not demos.  This is not a list of generic promp…
 
+- [how I automate my X contents pipeline using claude code. ](https://www.xarticl.es/no-code/how-i-automate-my-x-contents-pipeline-using-claude-code)
+  Published: 2026-04-22 · Author: @exploraX_
+  most creators are doing this the slow way. they're manually searching for trending topics, writing threads from scratch, designing banners in canva, creating…
+
 - [How I built an app in an hour without ever writing a line of code in my life](https://www.xarticl.es/no-code/how-i-built-an-app-in-an-hour-without-ever-writing-a-line-of-code-in-my-life)
   Published: 2026-03-05 · Author: @sourfraser
   Our UGC creators use teleprompters to read scripts while looking at the camera. CapCut used to have a free one, but paywalled it. So I went to find a good fr…
@@ -26846,6 +27484,10 @@
 - [The Anomalon Particle Just May Be A Product Of Your Mind.](https://www.xarticl.es/science/the-anomalon-particle-just-may-be-a-product-of-your-mind)
   Published: 2025-01-25 · Author: @BrianRoemmele
   What if the particles we hunt for in high-energy physics laboratories—those fleeting fragments of matter and energy—aren’t just out there, waiting to be foun…
+
+- [The Greatest Scientist Who Ever Lived!](https://www.xarticl.es/science/the-greatest-scientist-who-ever-lived)
+  Published: 2026-04-18 · Author: @Math_files
+  The student asked Albert Einstein, “Do you believe in God?” He smiled and replied, “I believe in Baruch Spinoza’s God—not the God of religion. A God who does…
 
 ## Open Source
 

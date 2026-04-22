@@ -33,10 +33,15 @@ export interface Article {
     title: string;
     preview_text: string;
     original_img_url?: string;
+    profile_image_url_https?: string;
     id_str: string;
     screen_name: string;
     created_at: string;
     slug?: string;
+
+    tldr?: string;
+    whyThisMatters?: string;
+    whoShouldRead?: string;
 }
 
 export interface Category {

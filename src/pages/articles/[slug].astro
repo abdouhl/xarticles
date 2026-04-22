@@ -211,7 +211,15 @@ const whoShouldRead: string | undefined = tool.whoShouldRead;
                   <p class="core-label">
                     <span class="core-emoji">👥</span> Who should read this
                   </p>
-                  <p class="core-body">{whoShouldRead}</p>
+                  <ul class="core-list">
+                    {whoShouldRead
+                      .split("\n")
+                      .map((line: string) => line.replace(/^-\s*/, "").trim())
+                      .filter((line: string) => line.length > 0)
+                      .map((item: string) => (
+                        <li>{item}</li>
+                      ))}
+                  </ul>
                 </div>
               )}
 
@@ -568,6 +576,27 @@ const whoShouldRead: string | undefined = tool.whoShouldRead;
       font-size: var(--desktop-body-sm);
       line-height: 1.7;
       color: #d0d0d0;
+    }
+    .core-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .core-list li {
+      font-size: var(--desktop-body-sm);
+      line-height: 1.6;
+      color: #d0d0d0;
+      padding-left: 14px;
+      position: relative;
+    }
+    .core-list li::before {
+      content: "–";
+      position: absolute;
+      left: 0;
+      color: rgba(255,255,255,0.25);
     }
 
     /* CTA */

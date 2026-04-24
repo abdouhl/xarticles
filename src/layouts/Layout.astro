@@ -75,7 +75,7 @@ const {
                 "A curated directory of the best long-form articles on X."}
         />
         <link rel="sitemap" href="/sitemap-index.xml" />
-        {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
+        <link rel="canonical" href={canonicalUrl || `https://xarticl.es${Astro.url.pathname}`} />
         {ogTitle && <meta property="og:title" content={ogTitle} />}
         {ogType && <meta property="og:type" content={ogType} />}
         {

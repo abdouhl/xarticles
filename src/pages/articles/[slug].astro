@@ -47,7 +47,7 @@ const formatDate = (dateStr: string) => {
 };
 
 const formattedDate = formatDate(tool.created_at);
-const canonicalUrl = `https://xarticl.es/articles/${tool.slug}`;
+const canonicalUrl = `https://xarticl.es/articles/${tool.slug}/`;
 const faviconUrl = `/favicons/${slug}.png`;
 const fallbackPath = category === "all" ? "/" : `/${category}`;
 const tweetUrl = `https://x.com/${tool.screen_name}/status/${tool.id_str}`;

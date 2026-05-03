@@ -48,7 +48,7 @@ for (const file of files) {
   lines.push("");
 
   for (const article of articles) {
-    const url = `https://www.xarticl.es/${category}/${article.slug}`;
+    const url = `https://xarticl.es/${category}/${article.slug}`;
 
     lines.push(`- [${article.title}](${url})`);
 

@@ -22,8 +22,14 @@ lerna-debug.log*
 # macOS-specific files
 .DS_Store
 
-# vscode
-.vscode
+# editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# claude code
+.claude/
 
 # ignore data directories
 src/data/articles/

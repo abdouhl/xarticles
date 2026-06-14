@@ -47,6 +47,18 @@ const {
     showSearch = false,
     searchPlaceholder = "Search by name, category, or author...",
 } = Astro.props;
+
+const defaultDescription = "A curated directory of the best long-form articles on X.";
+const effectiveCanonical = canonicalUrl || `https://xarticl.es${Astro.url.pathname}`;
+const effectiveOgTitle = ogTitle || pageTitle || site;
+const effectiveOgDescription = ogDescription || pageDescription || defaultDescription;
+const effectiveOgUrl = ogUrl || effectiveCanonical;
+const effectiveOgType = ogType || "website";
+const effectiveOgSiteName = ogSiteName || "Xarticl.es";
+const effectiveTwitterCard = twitterCard || (ogImage ? "summary_large_image" : "summary");
+const effectiveTwitterTitle = twitterTitle || effectiveOgTitle;
+const effectiveTwitterDescription = twitterDescription || effectiveOgDescription;
+const effectiveTwitterImage = twitterImage || ogImage;
 ---
 
 <!doctype html>
@@ -75,25 +87,20 @@ const {
                 "A curated directory of the best long-form articles on X."}
         />
         <link rel="sitemap" href="/sitemap-index.xml" />
-        <link rel="canonical" href={canonicalUrl || `https://xarticl.es${Astro.url.pathname}`} />
-        {ogTitle && <meta property="og:title" content={ogTitle} />}
-        {ogType && <meta property="og:type" content={ogType} />}
-        {
-            ogDescription && (
-                <meta property="og:description" content={ogDescription} />
-            )
-        }
+        <link rel="canonical" href={effectiveCanonical} />
+        <meta property="og:title" content={effectiveOgTitle} />
+        <meta property="og:type" content={effectiveOgType} />
+        <meta property="og:description" content={effectiveOgDescription} />
+        <meta property="og:url" content={effectiveOgUrl} />
+        <meta property="og:site_name" content={effectiveOgSiteName} />
         {ogImage && <meta property="og:image" content={ogImage} />}
-        {ogUrl && <meta property="og:url" content={ogUrl} />}
-        {ogSiteName && <meta property="og:site_name" content={ogSiteName} />}
-        {twitterCard && <meta name="twitter:card" content={twitterCard} />}
-        {twitterTitle && <meta name="twitter:title" content={twitterTitle} />}
-        {
-            twitterDescription && (
-                <meta name="twitter:description" content={twitterDescription} />
-            )
-        }
-        {twitterImage && <meta name="twitter:image" content={twitterImage} />}
+        {ogImage && <meta property="og:image:width" content="1200" />}
+        {ogImage && <meta property="og:image:height" content="630" />}
+        {effectiveOgType === "article" && ogImage && <meta property="article:author" content={ogTitle} />}
+        <meta name="twitter:card" content={effectiveTwitterCard} />
+        <meta name="twitter:title" content={effectiveTwitterTitle} />
+        <meta name="twitter:description" content={effectiveTwitterDescription} />
+        {effectiveTwitterImage && <meta name="twitter:image" content={effectiveTwitterImage} />}
 
         <!-- Google tag (gtag.js) -->
         <script

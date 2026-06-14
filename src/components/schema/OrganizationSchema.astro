@@ -3,12 +3,15 @@ const schema = {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: "Xarticl.es",
-    url: "https://www.xarticl.es",
-    logo: "https://www.xarticl.es/xarticl.es.svg",
+    url: "https://xarticl.es",
+    logo: {
+        "@type": "ImageObject",
+        url: "https://xarticl.es/xarticles.svg",
+    },
     description: "A curated directory of the best long-form articles on X",
     founder: {
         "@type": "Person",
-        name: "Aberahman Hellal",
+        name: "Abderahmane Hellal",
         url: "https://elhellal.com/",
     },
     sameAs: ["https://github.com/abdouhl/xarticles"],

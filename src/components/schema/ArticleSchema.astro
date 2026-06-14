@@ -1,0 +1,45 @@
+---
+interface Props {
+    headline: string;
+    description?: string;
+    url: string;
+    datePublished?: string;
+    image?: string;
+    authorName?: string;
+}
+
+const { headline, description, url, datePublished, image, authorName } = Astro.props;
+
+const schema: Record<string, any> = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline,
+    url,
+    mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": url,
+    },
+    publisher: {
+        "@type": "Organization",
+        name: "Xarticl.es",
+        url: "https://xarticl.es",
+        logo: {
+            "@type": "ImageObject",
+            url: "https://xarticl.es/xarticles.svg",
+        },
+    },
+};
+
+if (description) schema.description = description;
+if (datePublished) schema.datePublished = datePublished;
+if (image) schema.image = image;
+if (authorName) {
+    schema.author = {
+        "@type": "Person",
+        name: `@${authorName}`,
+        url: `https://x.com/${authorName}`,
+    };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

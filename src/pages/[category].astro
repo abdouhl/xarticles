@@ -27,11 +27,14 @@ const breadcrumbs = [
 ---
 
 <Layout
-  site={`Xarticl.es - ${category}`}
+  site={`Xarticl.es - ${categoryTitle}`}
   title="Xarticl.es"
   tagline="A curated directory of the best long-form articles on X."
-  pageTitle={`Best ${category.charAt(0).toUpperCase() + category.slice(1)} Articles on X – Curated Articles | Xarticl.es`}
-  pageDescription={`Explore the best ${category.charAt(0).toUpperCase() + category.slice(1)} articles from X (Twitter). This page curates high-quality articles about ${category}.`}
+  pageTitle={`Best ${categoryTitle} Articles on X – Curated Reads`}
+  pageDescription={`Explore ${categoryTools.length}+ curated ${categoryTitle} articles from top creators on X. High-quality long-form content about ${categoryTitle} in one place.`}
+  canonicalUrl={`https://xarticl.es/${category}/`}
+  ogType="website"
+  ogUrl={`https://xarticl.es/${category}/`}
   showSearch={true}
   searchPlaceholder={`Search in ${categoryTitle}...`}
 >

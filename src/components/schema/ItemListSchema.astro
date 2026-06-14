@@ -20,11 +20,13 @@ const itemListElements = items.slice(0, 100).map((tool, index) => ({
     "@type": "ListItem",
     position: index + 1,
     item: {
-        "@type": "SoftwareApplication",
+        "@type": "Article",
+        "@id": `https://xarticl.es/articles/${tool.slug}`,
         name: tool.title,
-        url: `https://www.xarticl.es/articles/${tool.slug}`,
+        url: `https://xarticl.es/articles/${tool.slug}`,
         description: tool.preview_text,
-        applicationCategory: "MultimediaApplication",
+        ...(tool.screen_name ? { author: { "@type": "Person", name: `@${tool.screen_name}`, url: `https://x.com/${tool.screen_name}` } } : {}),
+        ...(tool.created_at ? { datePublished: tool.created_at } : {}),
     },
 }));
 
